@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1463",
+    "productName": "Revista Espresso - Os 10 Melhores Cafés Nacionais -  Edição 27",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---os-10-melhores-cafes-nacionais----edicao-27-3000",
+    "productReference": "3000",
+    "productReferenceCode": "3000",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "A Espresso #27 conta com vários temas que merecem destaque, como a degustação dos 10 melhores cafés do Brasil e a entrevista com o músico Nando Reis, que falou sobre produção musical e sua preferência pelos cafés curtos italianos. A seção Aftertaste tem outra novidade para esta edição. A estreia do jornalista e escritor pernambucano Xico Sá, contando sua experiência em desvendar o futuro na borra de café. Receitas deliciosas, dicas de preparo, indicações de cafeterias em Buenos Aires e novidades do setor recheiam as demais páginas.",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---os-10-melhores-cafes-nacionais----edicao-27-3000/p",
+    "description": "A Espresso #27 conta com vários temas que merecem destaque, como a degustação dos 10 melhores cafés do Brasil e a entrevista com o músico Nando Reis, que falou sobre produção musical e sua preferência pelos cafés curtos italianos. A seção Aftertaste tem outra novidade para esta edição. A estreia do jornalista e escritor pernambucano Xico Sá, contando sua experiência em desvendar o futuro na borra de café. Receitas deliciosas, dicas de preparo, indicações de cafeterias em Buenos Aires e novidades do setor recheiam as demais páginas.",
+    "items": [
+      {
+        "itemId": "1462",
+        "name": "Revista Espresso - Os 10 Melhores Cafés Nacionais -  Edição 27",
+        "nameComplete": "Revista Espresso - Os 10 Melhores Cafés Nacionais -  Edição 27",
+        "complementName": "",
+        "ean": "3000000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3000"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159088",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159088-#width#-#height#/3000_Revista-Espresso_Os-10-Melhores-Cafes-Nacionais_Edicao-27.jpg?v=637583217853630000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_27\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159088/3000_Revista-Espresso_Os-10-Melhores-Cafes-Nacionais_Edicao-27.jpg?v=637583217853630000",
+            "imageText": "rev_espresso_27",
+            "imageLastModified": "2021-06-03T12:56:25.3630000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1462&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjBiZGUxZDE3LTIyZjMtNDQzMC04NmMyLTVkMTJlMjY0M2JhYSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDYyIiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI2MSwiaWF0IjoxNzY1MTQ4NDYxLCJqdGkiOiI0MWYwMDQ5Yy03ZjYwLTQzMjYtYWVhZS0xOGI5ODNiMGQ2MDEiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.SAJkQwn96I7wNr6wuPtJMBHz9LCK2VMjI4Ac03y9Ki6FY0NDkpArJSSWLm3HoIZ41Fz-Z7sSGqt5L1DJToMRAA",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Os 10 Melhores Cafés Nacionais -  Edição 27 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

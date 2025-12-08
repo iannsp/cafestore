@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1488",
+    "productName": "Revista Espresso - Iogurte Com Café  - Edição 52",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---iogurte-com-cafe----edicao-52-3025",
+    "productReference": "3025",
+    "productReferenceCode": "3025",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "A Espresso #52 traz as tendências para o universo do café para os próximos meses. Dados de pesquisa lançada recentemente sobre Tendências do Mercado de Café da Euromonitor International, encomendada pela Associação Brasileira da Indústria do Café (Abic), mostram essa mudança quando indicam que o café não possui substituto, mas que o consumidor tem procurado por qualidade, principalmente jovens de 16 a 25 anos, das grandes metrópoles, que estão atentos às inovações. Porém, além do tradicional coado (consumido por 61% dos brasileiros em casa), há também a praticidade das cápsulas, que são hoje parte importante do consumo dentro de casa e aparecem em crescimento nas pesquisas. Segundo o mesmo levantamento, até 2019 espera-se que este mercado cresça mais de 80% em valor gerado, com consumo de 12 mil toneladas de café em cápsula pelos brasileiros. Outro dado da pesquisa mostra que o número de novas cafeterias crescerá acima das taxas médias do mercado food service.",
+    "releaseDate": "2021-05-19T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---iogurte-com-cafe----edicao-52-3025/p",
+    "description": "A Espresso #52 traz as tendências para o universo do café para os próximos meses. Dados de pesquisa lançada recentemente sobre Tendências do Mercado de Café da Euromonitor International, encomendada pela Associação Brasileira da Indústria do Café (Abic), mostram essa mudança quando indicam que o café não possui substituto, mas que o consumidor tem procurado por qualidade, principalmente jovens de 16 a 25 anos, das grandes metrópoles, que estão atentos às inovações. Porém, além do tradicional coado (consumido por 61% dos brasileiros em casa), há também a praticidade das cápsulas, que são hoje parte importante do consumo dentro de casa e aparecem em crescimento nas pesquisas. Segundo o mesmo levantamento, até 2019 espera-se que este mercado cresça mais de 80% em valor gerado, com consumo de 12 mil toneladas de café em cápsula pelos brasileiros. Outro dado da pesquisa mostra que o número de novas cafeterias crescerá acima das taxas médias do mercado food service.",
+    "items": [
+      {
+        "itemId": "1487",
+        "name": "Revista Espresso - Iogurte Com Café  - Edição 52",
+        "nameComplete": "Revista Espresso - Iogurte Com Café  - Edição 52",
+        "complementName": "",
+        "ean": "3025000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3025"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159113",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159113-#width#-#height#/3025_Revista-Espresso_Iogurte-com-Cafe_Edicao-52.jpg?v=637583247032600000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_52\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159113/3025_Revista-Espresso_Iogurte-com-Cafe_Edicao-52.jpg?v=637583247032600000",
+            "imageText": "rev_espresso_52",
+            "imageLastModified": "2021-06-03T13:45:03.2600000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1487&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6Ijk1ZDM2YWEyLTZmZjEtNGM1Yi1iYzc5LTIzMjc5YmI3OWU4NCIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDg3IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI4MSwiaWF0IjoxNzY1MTQ4NDgxLCJqdGkiOiJmZmQwNGM5ZS1jYmU1LTRkMzQtYjdjOS1kNWMwM2YwNGIxZjQiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.gsJyZBo1wBvTs4vRt1i8SOhgjkeYx0Z8dw8m0ByhxLTdKfc2Iv_O4vy2tOrZ-_66msap_-CA4U2Yn1zonF0F_Q",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T03:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Revista Espresso - Iogurte Com Café  - Edição 52 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

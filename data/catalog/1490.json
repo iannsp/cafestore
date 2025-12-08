@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1490",
+    "productName": "Revista Espresso - 10 Passos para Abrir uma Cafeteria  - Edição 54",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---10-passos-para-abrir-uma-cafeteria----edicao-54-3027",
+    "productReference": "3027",
+    "productReferenceCode": "3027",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "Nesta edição trazemos várias páginas sobre a Semana Internacional do Café: resultados, números e depoimentos. O evento apresentou ao mundo o caminho que o café brasileiro vem trilhando. Inspirou também o nosso tema de capa desta edição, que aborda os passos importantes para abrir uma cafeteria. Etapas que são essenciais para administrar de forma saudável um novo negócio, que nasce num momento de grande ebulição do setor, mas que deve pisar em bases sólidas para seguir em frente. É assim que também vislumbramos nossos projetos. Vida longa às nossas conexões e ao empreendedorismo brasileiro.",
+    "releaseDate": "2021-05-19T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---10-passos-para-abrir-uma-cafeteria----edicao-54-3027/p",
+    "description": "Nesta edição trazemos várias páginas sobre a Semana Internacional do Café: resultados, números e depoimentos. O evento apresentou ao mundo o caminho que o café brasileiro vem trilhando. Inspirou também o nosso tema de capa desta edição, que aborda os passos importantes para abrir uma cafeteria. Etapas que são essenciais para administrar de forma saudável um novo negócio, que nasce num momento de grande ebulição do setor, mas que deve pisar em bases sólidas para seguir em frente. É assim que também vislumbramos nossos projetos. Vida longa às nossas conexões e ao empreendedorismo brasileiro.",
+    "items": [
+      {
+        "itemId": "1489",
+        "name": "Revista Espresso - 10 Passos para Abrir uma Cafeteria  - Edição 54",
+        "nameComplete": "Revista Espresso - 10 Passos para Abrir uma Cafeteria  - Edição 54",
+        "complementName": "",
+        "ean": "3027000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3027"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159115",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159115-#width#-#height#/3027_Revista-Espresso_10-Passos-para-Abrir-uma-Cafeteria_Edicao-54.jpg?v=637583248470230000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_54\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159115/3027_Revista-Espresso_10-Passos-para-Abrir-uma-Cafeteria_Edicao-54.jpg?v=637583248470230000",
+            "imageText": "rev_espresso_54",
+            "imageLastModified": "2021-06-03T13:47:27.0230000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1489&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjgwMzU5MzU3LTc5ZDEtNDdmMS04ZjM1LTc1OWNlN2Q2MzNmYSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDg5IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI4MywiaWF0IjoxNzY1MTQ4NDgzLCJqdGkiOiJjNmQ3OGViZi05MDAwLTQyZTktYjBkYS1kZGIzMWVmNGNlMWQiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.NeqWJNTnDoiDbhLBh1lbNWYBx_4QmVzHr9kP7jzmWLNIpoMZ_tsQXah6Fvfl4ns2QfvHfyoUU_cK26sI9SRfXw",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - 10 Passos para Abrir uma Cafeteria  - Edição 54 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

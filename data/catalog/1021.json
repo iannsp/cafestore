@@ -1,0 +1,136 @@
+[
+  {
+    "productId": "1021",
+    "productName": "Leiteira FPRO Artística Inox Preta 360ml",
+    "brand": "FPRO",
+    "brandId": 2000016,
+    "brandImageUrl": null,
+    "linkText": "leiteira-artistica-fpro-artistica-preta-360ml-2548",
+    "productReference": "2548",
+    "productReferenceCode": "2548",
+    "categoryId": "22",
+    "productTitle": "",
+    "metaTagDescription": "Ideal para Latte Art",
+    "releaseDate": "2019-10-04T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Acessórios/Leiteiras/",
+      "/Acessórios/"
+    ],
+    "categoriesIds": [
+      "/3/22/",
+      "/3/"
+    ],
+    "link": "https://www.cafestore.com.br/leiteira-artistica-fpro-artistica-preta-360ml-2548/p",
+    "Marca": [
+      "FPRO"
+    ],
+    "Características": [
+      "Micro texturizada"
+    ],
+    "Material / composição": [
+      "Aço inoxidável."
+    ],
+    "Cor": [
+      "Preto"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca",
+      "Características",
+      "Material / composição",
+      "Cor"
+    ],
+    "allSpecifications": [
+      "Marca",
+      "Características",
+      "Material / composição",
+      "Cor"
+    ],
+    "allSpecificationsGroups": [
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "Ideal para Latte Art",
+    "items": [
+      {
+        "itemId": "1022",
+        "name": "Leiteira Artística FPRO Artística Preta 360ml",
+        "nameComplete": "Leiteira FPRO Artística Inox Preta 360ml Leiteira Artística FPRO Artística Preta 360ml",
+        "complementName": "",
+        "ean": "7898938133432",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2548"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "157132",
+            "imageLabel": "",
+            "imageTag": "<img src=\"~/arquivos/ids/157132-#width#-#height#/Leiteira-fpro-Inox-preta-360ml.jpg?v=637061514846930000\" width=\"#width#\" height=\"#height#\" alt=\"Leiteira-fpro-Inox-preta-360ml\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/157132/Leiteira-fpro-Inox-preta-360ml.jpg?v=637061514846930000",
+            "imageText": "Leiteira-fpro-Inox-preta-360ml",
+            "imageLastModified": "2019-10-08T17:11:24.6930000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1022&qty=1&seller=1&sc=1&price=7490&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 74.9,
+              "ListPrice": 74.9,
+              "PriceWithoutDiscount": 74.9,
+              "FullSellingPrice": 74.9,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImI1ZWFlM2FhLWI1MTgtNDhjMi1hODk1LTY2ZjNhZjNjY2FmNyIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo3NDkwLCJzZWxsZXIiOiIxIiwiaWQiOiIxMDIyIiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE0OTkxOCwiaWF0IjoxNzY1MTQ4MTE4LCJqdGkiOiJlN2U0NWU0OC00MjkxLTRlMDctYjI4Yy03MWU1NmQ4NmVhZGIiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.D5IC8QnY7e5oI8SfgV0hdwKclbhm-qSM7xxbMTgNDO2lfCXvA86R-BpeFHkNwZYgUKRJroFsCT3GcSrB3GmbiQ",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Leiteira FPRO Artística Inox Preta 360ml Leiteira Artística FPRO Artística Preta 360ml não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

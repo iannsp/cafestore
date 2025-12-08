@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1477",
+    "productName": "Revista Espresso - Segredos do Café - Edição 41",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---segredos-do-cafe---edicao-41-3014",
+    "productReference": "3014",
+    "productReferenceCode": "3014",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "A Espresso #41 traz um pequeno dossiê sobre o que é o café especial, com um gráfico de aromas e sabores perceptíveis na bebida, além de informações e imagens interessantes tanto para o apreciador de café quanto para os experts no assunto. Outro destaque da edição é o cantor e compositor Marcelo Jeneci, que revela suas inspirações, cafeinadas ou não, na seção Perfil. Em Outra Esquina, deliciosas cafeterias ao redor do Brasil e do mundo. Em terras estrangeiras, a seção de chás conta a história da bebida na Rússia e as curiosidades sobre os hábitos da terra dos czares. Em Outra Esquina, reunimos locais para beber um bom café em Belo Horizonte. E, em Gastronomia, adoçamos o apetite dos leitores com uma matéria repleta de fotos e receitas irresistíveis das mais variadas formas de doce de leite.",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---segredos-do-cafe---edicao-41-3014/p",
+    "description": "A Espresso #41 traz um pequeno dossiê sobre o que é o café especial, com um gráfico de aromas e sabores perceptíveis na bebida, além de informações e imagens interessantes tanto para o apreciador de café quanto para os experts no assunto. Outro destaque da edição é o cantor e compositor Marcelo Jeneci, que revela suas inspirações, cafeinadas ou não, na seção Perfil. Em Outra Esquina, deliciosas cafeterias ao redor do Brasil e do mundo. Em terras estrangeiras, a seção de chás conta a história da bebida na Rússia e as curiosidades sobre os hábitos da terra dos czares. Em Outra Esquina, reunimos locais para beber um bom café em Belo Horizonte. E, em Gastronomia, adoçamos o apetite dos leitores com uma matéria repleta de fotos e receitas irresistíveis das mais variadas formas de doce de leite.",
+    "items": [
+      {
+        "itemId": "1476",
+        "name": "Revista Espresso - Segredos do Café - Edição 41",
+        "nameComplete": "Revista Espresso - Segredos do Café - Edição 41",
+        "complementName": "",
+        "ean": "3014000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3014"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159102",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159102-#width#-#height#/3014_Revista-Espresso_Segredos-do-Cafe_Edicao-41.jpg?v=637583238453430000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_41\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159102/3014_Revista-Espresso_Segredos-do-Cafe_Edicao-41.jpg?v=637583238453430000",
+            "imageText": "rev_espresso_41",
+            "imageLastModified": "2021-06-03T13:30:45.3430000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1476&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjllYjBlMGVhLWZhMjAtNDdjZS04YTk5LWI2NWJlZWQxYWY5ZCIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDc2IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI3MiwiaWF0IjoxNzY1MTQ4NDcyLCJqdGkiOiIyNmIyNDlkYy05MjdkLTRlYTQtOGVjZi00YzViNTQ3ZDNjMTEiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.KPaLusuWRxuTRNS1CB3m8eMh9dKJ6UGnWVmACSUBQNepMevfSvQpKvLDDahOzj6DEARfaBDIoLwcAOYjDvRRXg",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Segredos do Café - Edição 41 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1439",
+    "productName": "Revista Espresso - Café e Leitura na Dose Certa - Edição 04",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---cafe-e-leitura-na-dose-certa---edicao-04---outono-2004-2977",
+    "productReference": "2977",
+    "productReferenceCode": "2977",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "Nas páginas da Espresso #4 você encontra seções que abordam a importância da água e do café no preparo da sua bebida; a diferença entre tradicional, superior, gourmet e especial; uma viagem à Cuba; a produção cafeeira em São Carlos do Pinhal (SP); e a relação entre café e exercício físico. A edição também conta com indicações de cafeterias, dicas de preparo, entrevistas exclusivas, receitas diversas e novidades do setor.",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---cafe-e-leitura-na-dose-certa---edicao-04---outono-2004-2977/p",
+    "description": "Nas páginas da Espresso #4 você encontra seções que abordam a importância da água e do café no preparo da sua bebida; a diferença entre tradicional, superior, gourmet e especial; uma viagem à Cuba; a produção cafeeira em São Carlos do Pinhal (SP); e a relação entre café e exercício físico. A edição também conta com indicações de cafeterias, dicas de preparo, entrevistas exclusivas, receitas diversas e novidades do setor.",
+    "items": [
+      {
+        "itemId": "1438",
+        "name": "Revista Espresso - Café e Leitura na Dose Certa - Edição 04 - Outono 2004",
+        "nameComplete": "Revista Espresso - Café e Leitura na Dose Certa - Edição 04 - Outono 2004",
+        "complementName": "",
+        "ean": "9771806297048",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2977"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159069",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159069-#width#-#height#/2977_Revista-Espresso_Cafe-e-Leitura-na-Dose-Certa_Edicao-04_Outono-2004.jpg?v=637578123129170000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_4\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159069/2977_Revista-Espresso_Cafe-e-Leitura-na-Dose-Certa_Edicao-04_Outono-2004.jpg?v=637578123129170000",
+            "imageText": "rev_espresso_4",
+            "imageLastModified": "2021-05-28T15:25:12.9170000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1438&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjhkMGI2NGZlLWQ1YzMtNGFlNi1iYmIzLWFkNDM1NDY0MjQ4YyIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDM4IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI0MywiaWF0IjoxNzY1MTQ4NDQzLCJqdGkiOiI0MTM2NTc2OS02ZGM4LTRhZmMtYmUyMi02YzllYjEyZGMzOTMiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.DDVH76-CIzY-i9nMg5aRrMvAhpQjoB0uHq7Jcp6I4RpHnSeoFY3wHbBfLQSTPOaTowRklhRJB3IwoQeM2k2Vrg",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Café e Leitura na Dose Certa - Edição 04 - Outono 2004 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

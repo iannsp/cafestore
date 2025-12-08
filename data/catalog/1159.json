@@ -1,0 +1,112 @@
+[
+  {
+    "productId": "1159",
+    "productName": "Copo Dosador 70ML",
+    "brand": "FPRO",
+    "brandId": 2000016,
+    "brandImageUrl": null,
+    "linkText": "copo-dosador-70ml-2727",
+    "productReference": "2727",
+    "productReferenceCode": "2727",
+    "categoryId": "3",
+    "productTitle": "",
+    "metaTagDescription": "Copo dosador em vidro, com capacidade de 70 ml. \r\nIdeal para regulagem de máquinas de espresso e receitas variadas! As marcações em mililitros permitem precisão no momento do preparo e sua alça e bico auxiliam no manuseio. Item indispensável para todo profissional!",
+    "releaseDate": "2020-03-03T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "159": "PROMOÇÕES VIGENTE",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "159": "PROMOÇÕES VIGENTE",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "214": "Métodos e Acessórios com descontos",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Acessórios/",
+      "/Acessórios/Xícaras e Canecas/"
+    ],
+    "categoriesIds": [
+      "/3/",
+      "/3/24/"
+    ],
+    "link": "https://www.cafestore.com.br/copo-dosador-70ml-2727/p",
+    "description": "Copo dosador em vidro, com capacidade de 70 ml. \r\nIdeal para regulagem de máquinas de espresso e receitas variadas! As marcações em mililitros permitem precisão no momento do preparo e sua alça e bico auxiliam no manuseio. Item indispensável para todo profissional!",
+    "items": [
+      {
+        "itemId": "1160",
+        "name": "Copo Dosador FPRO 70 ml",
+        "nameComplete": "Copo Dosador 70ML Copo Dosador FPRO 70 ml",
+        "complementName": "",
+        "ean": "7898938133340",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2727"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "157443",
+            "imageLabel": "",
+            "imageTag": "<img src=\"~/arquivos/ids/157443-#width#-#height#/dosador-flavors-70.jpg?v=637215162951400000\" width=\"#width#\" height=\"#height#\" alt=\"dosador-flavors-70\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/157443/dosador-flavors-70.jpg?v=637215162951400000",
+            "imageText": "dosador-flavors-70",
+            "imageLastModified": "2020-04-03T13:11:35.1400000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1160&qty=1&seller=1&sc=1&price=6900&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 69,
+              "ListPrice": 93.5,
+              "PriceWithoutDiscount": 69,
+              "FullSellingPrice": 69,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjI3ZmIwZWQyLWQ3ZTgtNGI3Mi1hMmZlLTYyYTEwNjg4YjgxOSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo2OTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxMTYwIiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDAyNiwiaWF0IjoxNzY1MTQ4MjI2LCJqdGkiOiI5YjMyOTU1NC05Zjc1LTQxMzMtYmQyMy1jZDcxNzJmZDk5YjUiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.Vn5RZ69sd5SAYEEbzc7Cw0OtJOshP9mPoJCAxQyRPrAkULgf8x97RSRMxOiKI3w63l3xOrpr3PlIhU2XUXSDww",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Copo Dosador 70ML Copo Dosador FPRO 70 ml não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

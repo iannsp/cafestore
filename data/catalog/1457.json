@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1457",
+    "productName": "Revista Espresso - O Encontro Entre Café e Vinho -  Edição 21",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---o-encontro-entre-cafe-e-vinho----edicao-21-2994",
+    "productReference": "2994",
+    "productReferenceCode": "2994",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "O encontro entre o café e o vinho: Por que eles são tão complexos e oferecem experiências únicas? Conheça Bodrum, na Turquia, uma cidade do passado aberta para o futuro. Primeiros passos e dicas para a sua cafeteria dar certo. A arte dos mestres cervejeiros. Cafeterias para você conhecer pelo Brasil, dicas de preparo, receitas exclusivas, entrevistas, novidades do setor e muito mais!",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---o-encontro-entre-cafe-e-vinho----edicao-21-2994/p",
+    "description": "O encontro entre o café e o vinho: Por que eles são tão complexos e oferecem experiências únicas? Conheça Bodrum, na Turquia, uma cidade do passado aberta para o futuro. Primeiros passos e dicas para a sua cafeteria dar certo. A arte dos mestres cervejeiros. Cafeterias para você conhecer pelo Brasil, dicas de preparo, receitas exclusivas, entrevistas, novidades do setor e muito mais!",
+    "items": [
+      {
+        "itemId": "1456",
+        "name": "Revista Espresso - O Encontro Entre Café e Vinho -  Edição 21",
+        "nameComplete": "Revista Espresso - O Encontro Entre Café e Vinho -  Edição 21",
+        "complementName": "",
+        "ean": "2994000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2994"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159082",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159082-#width#-#height#/2994_Revista-Espresso_O-Encontro-Entre-Cafe-e-Vinho_Edicao-21.jpg?v=637583213960600000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_21\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159082/2994_Revista-Espresso_O-Encontro-Entre-Cafe-e-Vinho_Edicao-21.jpg?v=637583213960600000",
+            "imageText": "rev_espresso_21",
+            "imageLastModified": "2021-06-03T12:49:56.0600000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1456&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjYzMjY5ODIxLTI2NDAtNGFmZi05MTZjLTI1MmNhYzA3MDkzNyIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDU2IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI1NiwiaWF0IjoxNzY1MTQ4NDU2LCJqdGkiOiJiOTRmNmU4MS0wOTFkLTQyYmItYTZlNC1iOTEzMDIzNmY4MmMiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.RzWC3j4O-V0mumg2A0wsJvrsJspd8oZvuqHOwR_B5yLj-f5usPj_3fX5Y5JkVbVX-A7DGZNRwbCrJ7vKhSdE6g",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - O Encontro Entre Café e Vinho -  Edição 21 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

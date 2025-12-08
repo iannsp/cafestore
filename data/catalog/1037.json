@@ -1,0 +1,142 @@
+[
+  {
+    "productId": "1037",
+    "productName": "Recipiente para Álcool para Acender Globinho Marrom",
+    "brand": "Hario",
+    "brandId": 2000025,
+    "brandImageUrl": null,
+    "linkText": "recipiente-para-alcool-para-acender-syphon-marrom-2560",
+    "productReference": "2560",
+    "productReferenceCode": "2560",
+    "categoryId": "35",
+    "productTitle": "",
+    "metaTagDescription": "Item original para ser utilizado na cafeteira Syphon/Globinho.\r\nMaterial resistente<b><b>",
+    "releaseDate": "2019-10-04T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Acessórios/Peças de Reposição/",
+      "/Acessórios/",
+      "/Cafeteiras/",
+      "/Cafeteiras/Método Percolação/",
+      "/Cafeteiras/Método Percolação/Cafeteira Globinho/"
+    ],
+    "categoriesIds": [
+      "/3/35/",
+      "/3/",
+      "/2/",
+      "/2/175/",
+      "/2/175/177/"
+    ],
+    "link": "https://www.cafestore.com.br/recipiente-para-alcool-para-acender-syphon-marrom-2560/p",
+    "Marca": [
+      "Hario"
+    ],
+    "Material / composição": [
+      "Vidro, aço e plástico."
+    ],
+    "Cor": [
+      "Predominantemente marrom"
+    ],
+    "Modelo": [
+      "TCA 2/3/5"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca",
+      "Material / composição",
+      "Cor",
+      "Modelo"
+    ],
+    "allSpecifications": [
+      "Marca",
+      "Material / composição",
+      "Cor",
+      "Modelo"
+    ],
+    "allSpecificationsGroups": [
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "Item original para ser utilizado na cafeteira Syphon/Globinho.\r\nMaterial resistente<b><b>",
+    "items": [
+      {
+        "itemId": "1038",
+        "name": "Recipiente para Alcool para Acender Syphon Marrom",
+        "nameComplete": "Recipiente para Álcool para Acender Globinho Marrom Recipiente para Alcool para Acender Syphon Marrom",
+        "complementName": "",
+        "ean": "4977642915022",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2560"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "157154",
+            "imageLabel": "",
+            "imageTag": "<img src=\"~/arquivos/ids/157154-#width#-#height#/Recipiente-para-alcool-para-acender-sifao-globinho.jpg?v=637061560951970000\" width=\"#width#\" height=\"#height#\" alt=\"Recipiente-para-alcool-para-acender-sifao-globinho\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/157154/Recipiente-para-alcool-para-acender-sifao-globinho.jpg?v=637061560951970000",
+            "imageText": "Recipiente-para-alcool-para-acender-sifao-globinho",
+            "imageLastModified": "2019-10-08T18:28:15.1970000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1038&qty=1&seller=1&sc=1&price=14230&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 142.3,
+              "ListPrice": 142.3,
+              "PriceWithoutDiscount": 142.3,
+              "FullSellingPrice": 142.3,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjI5MTgwY2E4LWRmNTktNDhiNi04ZmUxLTFkMTFhZGJiNGZjYiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNDIzMCwic2VsbGVyIjoiMSIsImlkIjoiMTAzOCIsImFjY291bnROYW1lIjoiY2FmZXN0b3JlIiwic2FsZXNDaGFubmVsIjoiMSJ9LCJleHAiOjE3NjUxNDk5MzAsImlhdCI6MTc2NTE0ODEzMCwianRpIjoiZWRkYzEzY2MtNjVjZi00YTI2LWJkYjItZjIzMzY1ZGEzNzFiIiwiaXNzIjoic2Vzc2lvbi9kYXRhLXNpZ25lciJ9.KmIcsdnIVbnUedLMzoH2yathMr5UhLXOndeA-yu1acchEcdlKn8TPE9HRmy3LYy2sR-Xzskocs52d-J3-BYdtg",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Recipiente para Álcool para Acender Globinho Marrom Recipiente para Alcool para Acender Syphon Marrom não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

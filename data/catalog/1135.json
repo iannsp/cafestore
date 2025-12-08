@@ -1,0 +1,259 @@
+[
+  {
+    "productId": "1135",
+    "productName": "Café Illy Clássico Solúvel 95 g",
+    "brand": "Illy",
+    "brandId": 2000007,
+    "brandImageUrl": null,
+    "linkText": "cafe-illy-soluvel-95g-2684",
+    "productReference": "2684",
+    "productReferenceCode": "2684",
+    "categoryId": "185",
+    "productTitle": "",
+    "metaTagDescription": "Sabor suave, com delicadas notas de caramelo, flor de laranjeira e jasmim, com um sabor residual adocicado.",
+    "releaseDate": "2020-01-27T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "165": "Cafes especiais",
+      "181": "Assinatura",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "221": "Cafés",
+      "238": "CASHBACK 5%",
+      "240": "Feed Merchant 14.11",
+      "248": "CAFÉS"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Cafés/Por Método/Solúveis/",
+      "/Cafés/Por Método/",
+      "/Cafés/"
+    ],
+    "categoriesIds": [
+      "/1/179/185/",
+      "/1/179/",
+      "/1/"
+    ],
+    "link": "https://www.cafestore.com.br/cafe-illy-soluvel-95g-2684/p",
+    "Por método": [
+      "Solúveis"
+    ],
+    "Intensidade": [
+      "Média"
+    ],
+    "Tipo": [
+      "Certificado"
+    ],
+    "Por quantidade": [
+      "Até 250 gr"
+    ],
+    "Por Região": [
+      "Blends Importados"
+    ],
+    "Características": [
+      "Por método",
+      "Intensidade",
+      "Tipo",
+      "Por quantidade",
+      "Por Região"
+    ],
+    "Sabor": [
+      "suave"
+    ],
+    "Aroma": [
+      "suave"
+    ],
+    "Torra": [
+      "média"
+    ],
+    "Acidez": [
+      "balanceada"
+    ],
+    "Corpo": [
+      "aveludado"
+    ],
+    "Especificaçoes cafe e bebidas": [
+      "Sabor",
+      "Aroma",
+      "Torra",
+      "Acidez",
+      "Corpo",
+      "Tipo"
+    ],
+    "Marca": [
+      "Illy"
+    ],
+    "Peso líquido aproximado do produto (kg)": [
+      "95 g"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca",
+      "Peso líquido aproximado do produto (kg)"
+    ],
+    "allSpecifications": [
+      "Por método",
+      "Intensidade",
+      "Tipo",
+      "Por quantidade",
+      "Por Região",
+      "Sabor",
+      "Aroma",
+      "Torra",
+      "Acidez",
+      "Corpo",
+      "Marca",
+      "Peso líquido aproximado do produto (kg)"
+    ],
+    "allSpecificationsGroups": [
+      "Características",
+      "Especificaçoes cafe e bebidas",
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "Sabor suave, com delicadas notas de caramelo, flor de laranjeira e jasmim, com um sabor residual adocicado.",
+    "items": [
+      {
+        "itemId": "1136",
+        "name": "Café Illy Clássico Solúvel 95 g",
+        "nameComplete": "Café Illy Clássico Solúvel 95 g",
+        "complementName": "",
+        "ean": "8003753191416",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2684"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "165429",
+            "imageLabel": "vitrine",
+            "imageTag": "<img src=\"~/arquivos/ids/165429-#width#-#height#/2684-Cafe-Illy-Classico-Soluvel-95-g.jpg?v=638663290783230000\" width=\"#width#\" height=\"#height#\" alt=\"Cafe-Illy-Classico-Soluvel-95-g\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/165429/2684-Cafe-Illy-Classico-Soluvel-95-g.jpg?v=638663290783230000",
+            "imageText": "Cafe-Illy-Classico-Soluvel-95-g",
+            "imageLastModified": "2024-11-04T14:57:58.3230000Z"
+          }
+        ],
+        "attachments": [
+          {
+            "id": 3,
+            "name": "vtex.subscription.assinatura",
+            "required": false,
+            "domainValues": "[{\"FieldName\":\"vtex.subscription.key.frequency\",\"MaxCaracters\":\"\",\"DomainValues\":\"1 month, 2 month, 3 month\"}]"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1136&qty=1&seller=1&sc=1&price=5800&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [
+                {
+                  "Name": "Café Illy Clássico Solúvel 95 g",
+                  "NameComplete": "Café Illy Clássico Solúvel 95 g",
+                  "MainImage": "https://cafestore.vteximg.com.br/arquivos/ids/165429/2684-Cafe-Illy-Classico-Soluvel-95-g.jpg",
+                  "BrandName": "Illy",
+                  "CategoryId": 185,
+                  "ProductId": 1135,
+                  "id": "1136",
+                  "seller": "1",
+                  "assemblyOptions": [
+                    {
+                      "id": "vtex.subscription.assinatura",
+                      "name": "vtex.subscription.assinatura",
+                      "required": false,
+                      "inputValues": {
+                        "vtex.subscription.key.frequency": {
+                          "maximumNumberOfCharacters": 8,
+                          "domain": [
+                            "1 month",
+                            " 2 month",
+                            " 3 month"
+                          ]
+                        }
+                      },
+                      "composition": null
+                    }
+                  ]
+                }
+              ],
+              "Price": 58,
+              "ListPrice": 58,
+              "PriceWithoutDiscount": 58,
+              "FullSellingPrice": 58,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjI1YzMzNWE2LTE4MGEtNDQyYy05ZDAzLWExNjEwNGY2YmQwZCIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo1ODAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxMTM2IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDAwNywiaWF0IjoxNzY1MTQ4MjA3LCJqdGkiOiI2YzY0OTkwYy00ODg0LTQyYTEtODEwOS1hZjQ2NDljN2I2ZTEiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.QYZiO47je2K4l5myXtZF3yw0QrOji9Wba1LW3ahUn61suLdTkKgiwJxXxJZtMU-Pf0qWvw8pD1_37PUCR2B08A",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T03:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Café Illy Clássico Solúvel 95 g não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ],
+    "itemMetadata": {
+      "items": [
+        {
+          "Name": "Café Illy Clássico Solúvel 95 g",
+          "NameComplete": "Café Illy Clássico Solúvel 95 g",
+          "MainImage": "https://cafestore.vteximg.com.br/arquivos/ids/165429/2684-Cafe-Illy-Classico-Soluvel-95-g.jpg",
+          "BrandName": "Illy",
+          "CategoryId": 185,
+          "ProductId": 1135,
+          "id": "1136",
+          "seller": "1",
+          "assemblyOptions": [
+            {
+              "id": "vtex.subscription.assinatura",
+              "name": "vtex.subscription.assinatura",
+              "required": false,
+              "inputValues": {
+                "vtex.subscription.key.frequency": {
+                  "maximumNumberOfCharacters": 8,
+                  "domain": [
+                    "1 month",
+                    " 2 month",
+                    " 3 month"
+                  ]
+                }
+              },
+              "composition": null
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

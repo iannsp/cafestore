@@ -1,0 +1,109 @@
+[
+  {
+    "productId": "1111",
+    "productName": "Tamper FPRO com Limitador Preto 57mm",
+    "brand": "FPRO",
+    "brandId": 2000016,
+    "brandImageUrl": null,
+    "linkText": "tamper-fpro-com-limitador-preto-57---2634",
+    "productReference": "2634",
+    "productReferenceCode": "2634",
+    "categoryId": "38",
+    "productTitle": "",
+    "metaTagDescription": "Tamper FPRO com Limitador",
+    "releaseDate": "2019-12-09T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Acessórios/Tampers/",
+      "/Acessórios/"
+    ],
+    "categoriesIds": [
+      "/3/38/",
+      "/3/"
+    ],
+    "link": "https://www.cafestore.com.br/tamper-fpro-com-limitador-preto-57---2634/p",
+    "description": "Tamper FPRO com Limitador",
+    "items": [
+      {
+        "itemId": "1111",
+        "name": "Tamper FPRO Com Limitador Preto 57''",
+        "nameComplete": "Tamper FPRO com Limitador Preto 57mm Tamper FPRO Com Limitador Preto 57''",
+        "complementName": "",
+        "ean": "7898938133623",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2634"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "157330",
+            "imageLabel": "",
+            "imageTag": "<img src=\"~/arquivos/ids/157330-#width#-#height#/tamper-com-limitador-fpro-53.jpg?v=637121060866530000\" width=\"#width#\" height=\"#height#\" alt=\"tamper-com-limitador-fpro-53\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/157330/tamper-com-limitador-fpro-53.jpg?v=637121060866530000",
+            "imageText": "tamper-com-limitador-fpro-53",
+            "imageLastModified": "2019-12-16T15:14:46.6530000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1111&qty=1&seller=1&sc=1&price=29100&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 291,
+              "ListPrice": 291,
+              "PriceWithoutDiscount": 291,
+              "FullSellingPrice": 291,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImU3YjEwZTlhLTA4MjMtNGU0YS04NTc3LTgzMTYwNzdjZWM2MiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoyOTEwMCwic2VsbGVyIjoiMSIsImlkIjoiMTExMSIsImFjY291bnROYW1lIjoiY2FmZXN0b3JlIiwic2FsZXNDaGFubmVsIjoiMSJ9LCJleHAiOjE3NjUxNDk5ODksImlhdCI6MTc2NTE0ODE4OSwianRpIjoiNDY0MmVmMmQtOTc0NC00NWNiLTgwNTUtMzliYjdmZDMzYjZlIiwiaXNzIjoic2Vzc2lvbi9kYXRhLXNpZ25lciJ9.HxZIx0eQoAUekDap_1SdonX988BXusZC4Axwt_rScWRN9Sg2qLHG0sUpgYQbuyVLTlhb_5ecvqdTxeEa5L5RDQ",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T03:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Tamper FPRO com Limitador Preto 57mm Tamper FPRO Com Limitador Preto 57'' não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

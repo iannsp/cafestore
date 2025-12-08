@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1498",
+    "productName": "Revista Espresso - Sorvetes Desfrute o Verão  - Edição 62",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---sorvetes-desfrute-o-verao----edicao-62-3035",
+    "productReference": "3035",
+    "productReferenceCode": "3035",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "A edição #62 da Revista Espresso foi dedicada ao calor e conta com receitas de sorvetes com frutas nativas brasileiras, acompanhados de uma calda de café. A Semana Internacional aconteceu no mês de novembro, em 2018, nesta edição a uma matéria exclusiva com tudo o que rolou durante o maior evento de café do Brasil, incluindo os Campeonatos de Barismo. Como o café era torrado antigamente é uma das matérias desta edição. A seção de Você Barista traz uma explicação sobre o porquê a famosa chaleira bico de ganso faz diferença na hora de preparar o café. Em Pernambuco também tem café, é o que mostra a matéria sobre a fazenda Yaguara Ecológico, localizada em Taquaratinga do Norte (PE). Polvo glaceado com café compõe Receitas. Entrevista com Trish Rothgeb, criadora do termo terceira onda e com a atriz Maria Flor! Dicas de cafés, produtos, cafeterias, você encontra nas páginas da Espresso.",
+    "releaseDate": "2021-05-19T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---sorvetes-desfrute-o-verao----edicao-62-3035/p",
+    "description": "A edição #62 da Revista Espresso foi dedicada ao calor e conta com receitas de sorvetes com frutas nativas brasileiras, acompanhados de uma calda de café. A Semana Internacional aconteceu no mês de novembro, em 2018, nesta edição a uma matéria exclusiva com tudo o que rolou durante o maior evento de café do Brasil, incluindo os Campeonatos de Barismo. Como o café era torrado antigamente é uma das matérias desta edição. A seção de Você Barista traz uma explicação sobre o porquê a famosa chaleira bico de ganso faz diferença na hora de preparar o café. Em Pernambuco também tem café, é o que mostra a matéria sobre a fazenda Yaguara Ecológico, localizada em Taquaratinga do Norte (PE). Polvo glaceado com café compõe Receitas. Entrevista com Trish Rothgeb, criadora do termo terceira onda e com a atriz Maria Flor! Dicas de cafés, produtos, cafeterias, você encontra nas páginas da Espresso.",
+    "items": [
+      {
+        "itemId": "1497",
+        "name": "Revista Espresso - Sorvetes Desfrute o Verão  - Edição 62",
+        "nameComplete": "Revista Espresso - Sorvetes Desfrute o Verão  - Edição 62",
+        "complementName": "",
+        "ean": "3035000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3035"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159123",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159123-#width#-#height#/3035_Revista-Espresso_Sorvetes-Desfrute-o-Verao_Edicao-62.jpg?v=637584080691800000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_62\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159123/3035_Revista-Espresso_Sorvetes-Desfrute-o-Verao_Edicao-62.jpg?v=637584080691800000",
+            "imageText": "rev_espresso_62",
+            "imageLastModified": "2021-06-04T12:54:29.1800000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1497&qty=1&seller=1&sc=1&price=2000&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 20,
+              "ListPrice": 20,
+              "PriceWithoutDiscount": 20,
+              "FullSellingPrice": 20,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjcyNWFmMWNlLTA0NzYtNDEwYS1iZGQ3LWNiZjk5YTFmZTdhNCIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoyMDAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDk3IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI4OSwiaWF0IjoxNzY1MTQ4NDg5LCJqdGkiOiI4ODEwYjEzYS0zMTM5LTQ4NGQtOTVmMy0xNDA0NTFlYzdhZmMiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.4xutFznmdkQJK-X-eR3BbxjEVpXIkmhgr81PCKjHdQ9QeDjOErZRJ6r-84JF_k9f6bqF64CG91giOaeb4FkkBg",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Sorvetes Desfrute o Verão  - Edição 62 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

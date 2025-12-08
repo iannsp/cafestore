@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1469",
+    "productName": "Revista Espresso - Elas Tomam Café - Edição 33",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---elas-tomam-cafe---edicao-33-3006",
+    "productReference": "3006",
+    "productReferenceCode": "3006",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "A matéria de capa da Espresso #33 traz uma reportagem sobre o aumento do consumo de café entre os jovens. Evidenciado pela recente pesquisa Tendências de Consumo de Café, este aumento foi confirmado em uma entrevista com cinco jovens: um chef de cozinha, uma cantora, uma fotógrafa, um rapper e uma produtora. Também para produzir esta edição, a equipe da Espresso foi a Bogotá, na Colômbia, sede do World Barista Championship 2011, onde conferiu a vitória de Alejandro Mendez, de El Salvador. Também direto da Colômbia, a revista traz um passeio pelo centro-oeste do país e pelas fazendas cafeeiras em Quindío e Risaralda. Dicas de preparo, cafeterias e notícias do setor recheiam as demais páginas, junto com entrevistas com os humoristas Danilo Gentili e Marcelo Mansfield.",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---elas-tomam-cafe---edicao-33-3006/p",
+    "description": "A matéria de capa da Espresso #33 traz uma reportagem sobre o aumento do consumo de café entre os jovens. Evidenciado pela recente pesquisa Tendências de Consumo de Café, este aumento foi confirmado em uma entrevista com cinco jovens: um chef de cozinha, uma cantora, uma fotógrafa, um rapper e uma produtora. Também para produzir esta edição, a equipe da Espresso foi a Bogotá, na Colômbia, sede do World Barista Championship 2011, onde conferiu a vitória de Alejandro Mendez, de El Salvador. Também direto da Colômbia, a revista traz um passeio pelo centro-oeste do país e pelas fazendas cafeeiras em Quindío e Risaralda. Dicas de preparo, cafeterias e notícias do setor recheiam as demais páginas, junto com entrevistas com os humoristas Danilo Gentili e Marcelo Mansfield.",
+    "items": [
+      {
+        "itemId": "1468",
+        "name": "Revista Espresso - Elas Tomam Café - Edição 33",
+        "nameComplete": "Revista Espresso - Elas Tomam Café - Edição 33",
+        "complementName": "",
+        "ean": "3006000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3006"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159094",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159094-#width#-#height#/3006_Revista-Espresso_Eles-Tomam-Cafe_Edicao-33.jpg?v=637583221351230000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_33\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159094/3006_Revista-Espresso_Eles-Tomam-Cafe_Edicao-33.jpg?v=637583221351230000",
+            "imageText": "rev_espresso_33",
+            "imageLastModified": "2021-06-03T13:02:15.1230000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1468&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImExYjgyNjBhLTQyZTMtNGRmZi04MzE4LTQyMGI5N2ZhOTg2ZiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDY4IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI2NiwiaWF0IjoxNzY1MTQ4NDY2LCJqdGkiOiI4MTdmMTA2Ni1lNTNmLTRhMGItYmIwMS0xZDU4ZTNkODdmY2YiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.IONtSRTGYKkv_fesBOndEQARPvsoaMO0qmRSoMr9pbaToebJwmIIP7ubIDwGerKqvhLlk75kcZ7x2YXrM7ZDbg",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Elas Tomam Café - Edição 33 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

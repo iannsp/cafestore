@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1438",
+    "productName": "Revista Espresso - Café e Leitura na Dose Certa - Edição 03",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---cafe-e-leitura-na-dose-certa---edicao-03-2976",
+    "productReference": "2976",
+    "productReferenceCode": "2976",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "Nas páginas da Espresso #3 você encontra seções que abordam a antiga São Paulo; as características do café, como o aroma, corpo, amargor e doçura; o café no cinema; a relação entre os isotônicos e o café; os campeonatos cafeinados; e a produção do grão em Itapira (SP). A edição também conta com indicações de cafeterias, dicas de preparo, entrevistas exclusivas, receitas diversas e novidades do setor.",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---cafe-e-leitura-na-dose-certa---edicao-03-2976/p",
+    "description": "Nas páginas da Espresso #3 você encontra seções que abordam a antiga São Paulo; as características do café, como o aroma, corpo, amargor e doçura; o café no cinema; a relação entre os isotônicos e o café; os campeonatos cafeinados; e a produção do grão em Itapira (SP). A edição também conta com indicações de cafeterias, dicas de preparo, entrevistas exclusivas, receitas diversas e novidades do setor.",
+    "items": [
+      {
+        "itemId": "1437",
+        "name": "Revista Espresso - Café e Leitura na Dose Certa - Edição 03",
+        "nameComplete": "Revista Espresso - Café e Leitura na Dose Certa - Edição 03",
+        "complementName": "",
+        "ean": "2976000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2976"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159068",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159068-#width#-#height#/2976_Revista-Espresso_Cafe-e-Leitura-na-Dose-Certa_Edicao-03_verao-2003.jpg?v=637578122851000000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_3\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159068/2976_Revista-Espresso_Cafe-e-Leitura-na-Dose-Certa_Edicao-03_verao-2003.jpg?v=637578122851000000",
+            "imageText": "rev_espresso_3",
+            "imageLastModified": "2021-05-28T15:24:45.1000000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1437&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjFlMzM2NmVmLTA5NzMtNDA3ZC1iMTgzLTU3MmVkZTMwNTYxZSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDM3IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI0MiwiaWF0IjoxNzY1MTQ4NDQyLCJqdGkiOiIxZjJkOWU1Mi02NGFlLTRkMGQtODhlZi0yZGViYTBhMmNjZTAiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.M5OFwaEpdnhv3v36GbzofJW9veW0Y7Jjkj1kPVEVVthha8Fn383W8_FyJKWwBs5LCfFD4EOt8wtwoHx1HWA9IQ",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Café e Leitura na Dose Certa - Edição 03 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

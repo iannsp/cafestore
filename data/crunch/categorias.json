@@ -1,0 +1,262 @@
+{
+  "categories_tree": [
+    {
+      "name": "Acessórios",
+      "children": [
+        {
+          "name": "Balanças"
+        },
+        {
+          "name": "Bules e jarras"
+        },
+        {
+          "name": "Chaleiras"
+        },
+        {
+          "name": "Cremeiras"
+        },
+        {
+          "name": "Filtro de Papel"
+        },
+        {
+          "name": "Filtros de água"
+        },
+        {
+          "name": "Garrafas Térmicas"
+        },
+        {
+          "name": "Itens para Limpeza"
+        },
+        {
+          "name": "Leiteiras"
+        },
+        {
+          "name": "Moedores"
+        },
+        {
+          "name": "Peças de Reposição"
+        },
+        {
+          "name": "Tampers"
+        },
+        {
+          "name": "Xícaras e Canecas"
+        }
+      ]
+    },
+    {
+      "name": "Café Store Pro"
+    },
+    {
+      "name": "Cafés",
+      "children": [
+        {
+          "name": "Intensidade",
+          "children": [
+            {
+              "name": "Café Intenso"
+            },
+            {
+              "name": "Café Médio"
+            },
+            {
+              "name": "Café Suave"
+            }
+          ]
+        },
+        {
+          "name": "Por Método",
+          "children": [
+            {
+              "name": "Café em Grãos",
+              "children": [
+                {
+                  "name": "Café em grãos médio"
+                }
+              ]
+            },
+            {
+              "name": "Café Moído",
+              "children": [
+                {
+                  "name": "Café moído médio"
+                }
+              ]
+            },
+            {
+              "name": "Cápsula de Café"
+            },
+            {
+              "name": "Drip Coffee",
+              "children": [
+                {
+                  "name": "Drip coffee médio"
+                }
+              ]
+            },
+            {
+              "name": "Sachê de Café"
+            },
+            {
+              "name": "Solúveis"
+            }
+          ]
+        },
+        {
+          "name": "Tipo",
+          "children": [
+            {
+              "name": "Café Aromatizado"
+            },
+            {
+              "name": "Café Certificado"
+            },
+            {
+              "name": "Café Descafeinado"
+            },
+            {
+              "name": "Café Orgânico"
+            },
+            {
+              "name": "Café Premiado"
+            },
+            {
+              "name": "Microlote"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cafeteiras",
+      "children": [
+        {
+          "name": "Cafeteira Expresso",
+          "children": [
+            {
+              "name": "Cafeteira Cápsula"
+            },
+            {
+              "name": "Cafeteira Manual"
+            },
+            {
+              "name": "Máquinas para Grãos"
+            },
+            {
+              "name": "Máquinas Profissionais"
+            }
+          ]
+        },
+        {
+          "name": "Método Filtrado",
+          "children": [
+            {
+              "name": "Aeropress"
+            },
+            {
+              "name": "Chemex"
+            },
+            {
+              "name": "Coador Clever"
+            },
+            {
+              "name": "Coador Hario V60"
+            },
+            {
+              "name": "Coador Kalita"
+            },
+            {
+              "name": "Coador KOAR"
+            },
+            {
+              "name": "Pour Over Inox"
+            },
+            {
+              "name": "Prensa Francesa"
+            },
+            {
+              "name": "Pressca"
+            }
+          ]
+        },
+        {
+          "name": "Método Percolação",
+          "children": [
+            {
+              "name": "Cafeteira Globinho"
+            },
+            {
+              "name": "Cafeteira Italiana"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Viver Bem",
+      "children": [
+        {
+          "name": "Café e Design",
+          "children": [
+            {
+              "name": "Koar"
+            }
+          ]
+        },
+        {
+          "name": "Café e Leitura",
+          "children": [
+            {
+              "name": "Livros"
+            },
+            {
+              "name": "Revista Espresso"
+            }
+          ]
+        },
+        {
+          "name": "Café e Saúde"
+        }
+      ]
+    },
+    {
+      "name": "Xaropes e Bebidas",
+      "children": [
+        {
+          "name": "Bebidas",
+          "children": [
+            {
+              "name": "Caldas"
+            },
+            {
+              "name": "Cappuccinos"
+            },
+            {
+              "name": "Chantilly"
+            },
+            {
+              "name": "Chás"
+            },
+            {
+              "name": "Chocolates"
+            }
+          ]
+        },
+        {
+          "name": "Xaropes",
+          "children": [
+            {
+              "name": "1883 Routin"
+            },
+            {
+              "name": "Bombas Dosadoras"
+            },
+            {
+              "name": "DaVinci"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

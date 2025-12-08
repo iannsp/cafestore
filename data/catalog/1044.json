@@ -1,0 +1,152 @@
+[
+  {
+    "productId": "1044",
+    "productName": "Pavio para Acendedor de Cafeteira Globinho Hario Sifão 5 unidades",
+    "brand": "Hario",
+    "brandId": 2000025,
+    "brandImageUrl": null,
+    "linkText": "pavio-para-acendedor-de-shypon-pct-com-5-pecas-2566",
+    "productReference": "2566",
+    "productReferenceCode": "2566",
+    "categoryId": "35",
+    "productTitle": "",
+    "metaTagDescription": "Conjunto de pavios de algodão para acendedor de sifão de café Hario, feitos em seda contendo 5 unidades de pavio. Acompanha 5 unidades de Pavio.\r\n\r\nCompatível com modelos de Syphon Hario TCA-2, TCA-3 e TCA-5.",
+    "releaseDate": "2019-10-04T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Acessórios/Peças de Reposição/",
+      "/Acessórios/",
+      "/Cafeteiras/",
+      "/Cafeteiras/Método Percolação/",
+      "/Cafeteiras/Método Percolação/Cafeteira Globinho/"
+    ],
+    "categoriesIds": [
+      "/3/35/",
+      "/3/",
+      "/2/",
+      "/2/175/",
+      "/2/175/177/"
+    ],
+    "link": "https://www.cafestore.com.br/pavio-para-acendedor-de-shypon-pct-com-5-pecas-2566/p",
+    "Marca": [
+      "Hario"
+    ],
+    "Conteúdo da embalagem": [
+      "5 unidades"
+    ],
+    "Dimensões aproximadas do produto (cm)- AxLxP": [
+      "12 x 1 x 8"
+    ],
+    "Peso líquido aproximado do produto (kg)": [
+      "10,8"
+    ],
+    "Dimensões aproximadas da embalagem (cm) – AxLxP": [
+      "12 x 1 x 8"
+    ],
+    "Peso aproximado da embalagem do produto (kg)": [
+      "10,8"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca",
+      "Conteúdo da embalagem",
+      "Dimensões aproximadas do produto (cm)- AxLxP",
+      "Peso líquido aproximado do produto (kg)",
+      "Dimensões aproximadas da embalagem (cm) – AxLxP",
+      "Peso aproximado da embalagem do produto (kg)"
+    ],
+    "allSpecifications": [
+      "Marca",
+      "Conteúdo da embalagem",
+      "Dimensões aproximadas do produto (cm)- AxLxP",
+      "Peso líquido aproximado do produto (kg)",
+      "Dimensões aproximadas da embalagem (cm) – AxLxP",
+      "Peso aproximado da embalagem do produto (kg)"
+    ],
+    "allSpecificationsGroups": [
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "Conjunto de pavios de algodão para acendedor de sifão de café Hario, feitos em seda contendo 5 unidades de pavio. Acompanha 5 unidades de Pavio.\r\n\r\nCompatível com modelos de Syphon Hario TCA-2, TCA-3 e TCA-5.",
+    "items": [
+      {
+        "itemId": "1045",
+        "name": "Pavio Para Acendedor de Shypon Pct com 5 peças",
+        "nameComplete": "Pavio para Acendedor de Cafeteira Globinho Hario Sifão 5 unidades Pavio Para Acendedor de Shypon Pct com 5 peças",
+        "complementName": "",
+        "ean": "4977642915077",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2566"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "157107",
+            "imageLabel": "",
+            "imageTag": "<img src=\"~/arquivos/ids/157107-#width#-#height#/Pavio-para-acendedor-sifao-5pecas.jpg?v=637060775273270000\" width=\"#width#\" height=\"#height#\" alt=\"Pavio-para-acendedor-sifao-5pecas\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/157107/Pavio-para-acendedor-sifao-5pecas.jpg?v=637060775273270000",
+            "imageText": "Pavio-para-acendedor-sifao-5pecas",
+            "imageLastModified": "2019-10-07T20:38:47.3270000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1045&qty=1&seller=1&sc=1&price=3900&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 39,
+              "ListPrice": 39,
+              "PriceWithoutDiscount": 39,
+              "FullSellingPrice": 39,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjM5ZTk2NTU1LTYzYTYtNGRhNC1hMzZiLWNmYjNiMTRkNzFmNiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjozOTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxMDQ1IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE0OTkzNiwiaWF0IjoxNzY1MTQ4MTM2LCJqdGkiOiJkNGUwMzA1YS1kYTJhLTRiMGEtYmQyYS1iZWI5MjVlY2YyYzAiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.UpfvQMC7VKte6g6iMMj4CpuljOV0w_eJf41Yn97oRL7_KMDB28JpvAk_o6umOdcDEm1XJ5ILufahpCCXjlY9QA",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Pavio para Acendedor de Cafeteira Globinho Hario Sifão 5 unidades Pavio Para Acendedor de Shypon Pct com 5 peças não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

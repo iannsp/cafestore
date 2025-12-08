@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1451",
+    "productName": "Revista Espresso - A Nova Trindade Brasileira -  Edição 15",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---a-nova-trindade-brasileira----edicao-15-2988",
+    "productReference": "2988",
+    "productReferenceCode": "2988",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "A matéria de capa da Espresso #15 traz uma conversa sobre café, vinho e cozinha nacionais. Além disso, a edição indica cafeterias nacionais e internacionais, e aborda a produção cafeeira de estados como Paraná, Rondônia e Rio de Janeiro. Traz uma entrevista Américo Sato, do Café do Ponto. Fala sobre chocolates especiais, novidades do setor e dicas de preparo.",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---a-nova-trindade-brasileira----edicao-15-2988/p",
+    "description": "A matéria de capa da Espresso #15 traz uma conversa sobre café, vinho e cozinha nacionais. Além disso, a edição indica cafeterias nacionais e internacionais, e aborda a produção cafeeira de estados como Paraná, Rondônia e Rio de Janeiro. Traz uma entrevista Américo Sato, do Café do Ponto. Fala sobre chocolates especiais, novidades do setor e dicas de preparo.",
+    "items": [
+      {
+        "itemId": "1450",
+        "name": "Revista Espresso - A Nova Trindade Brasileira -  Edição 15",
+        "nameComplete": "Revista Espresso - A Nova Trindade Brasileira -  Edição 15",
+        "complementName": "",
+        "ean": "2988000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2988"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159053",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159053-#width#-#height#/2988_Revista-Espresso_A-Nova-Trindade-Brasileira_Edicao-15.jpg?v=637578101131500000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_15\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159053/2988_Revista-Espresso_A-Nova-Trindade-Brasileira_Edicao-15.jpg?v=637578101131500000",
+            "imageText": "rev_espresso_15",
+            "imageLastModified": "2021-05-28T14:48:33.1500000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1450&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6Ijc4NTBhMmRhLTRlODYtNDMyOS1hYzkyLWNhMzdmZTcyNTAwYSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDUwIiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI1MSwiaWF0IjoxNzY1MTQ4NDUxLCJqdGkiOiIyY2NmMWQ1Zi04MTY3LTQ5YzYtODJkYy0wNjM2OTNhMmQzNTIiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0._oeQ2Zlxivt2nU8pY8F4PbcpQ_AyVkF5i1ue0K7E2qLvIU6YoH0fDC13XwNgXyIEJhi4Q1Gwk6rTEz_YtqYevA",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - A Nova Trindade Brasileira -  Edição 15 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "productId": "1157",
+    "productName": "Balança Digital FPRO com cronômetro",
+    "brand": "FPRO",
+    "brandId": 2000016,
+    "brandImageUrl": null,
+    "linkText": "balanca-digital-com-cronometro-fpro-2728",
+    "productReference": "2728",
+    "productReferenceCode": "2728",
+    "categoryId": "17",
+    "productTitle": "",
+    "metaTagDescription": "Balança para Drip Station Possui cronômetro para marcar o tempo de filtragem e balança com unidade decimal.\r\n\r\n\r\nPossui cronômetro para marcar o tempo de filtragem e balança com unidade decimal.",
+    "releaseDate": "2020-03-03T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "174": "dia dos pais",
+      "202": "Dia das mães",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "218": "Dia do Consumidor",
+      "238": "CASHBACK 5%",
+      "240": "Feed Merchant 14.11"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Acessórios/Balanças/",
+      "/Acessórios/"
+    ],
+    "categoriesIds": [
+      "/3/17/",
+      "/3/"
+    ],
+    "link": "https://www.cafestore.com.br/balanca-digital-com-cronometro-fpro-2728/p",
+    "Marca": [
+      "Fpro"
+    ],
+    "Voltagem / Alimentação": [
+      "DC 3V ou 2 pilhas AAA"
+    ],
+    "Cor": [
+      "Preta"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca",
+      "Voltagem / Alimentação",
+      "Cor"
+    ],
+    "allSpecifications": [
+      "Marca",
+      "Voltagem / Alimentação",
+      "Cor"
+    ],
+    "allSpecificationsGroups": [
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "Balança para Drip Station Possui cronômetro para marcar o tempo de filtragem e balança com unidade decimal.\r\n\r\n\r\nPossui cronômetro para marcar o tempo de filtragem e balança com unidade decimal.",
+    "items": [
+      {
+        "itemId": "1158",
+        "name": "Balança Digital com cronômetro FPRO",
+        "nameComplete": "Balança Digital FPRO com cronômetro Balança Digital com cronômetro FPRO",
+        "complementName": "",
+        "ean": "7898381333571",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2728"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "157404",
+            "imageLabel": "",
+            "imageTag": "<img src=\"~/arquivos/ids/157404-#width#-#height#/balanca-3-v2.jpg?v=637191157241130000\" width=\"#width#\" height=\"#height#\" alt=\"balanca-3-v2\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/157404/balanca-3-v2.jpg?v=637191157241130000",
+            "imageText": "balanca-3-v2",
+            "imageLastModified": "2020-03-06T18:22:04.1130000Z"
+          },
+          {
+            "imageId": "157817",
+            "imageLabel": "PNG",
+            "imageTag": "<img src=\"~/arquivos/ids/157817-#width#-#height#/balanca-fpro-PNG.png?v=637269676635870000\" width=\"#width#\" height=\"#height#\" alt=\"png\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/157817/balanca-fpro-PNG.png?v=637269676635870000",
+            "imageText": "png",
+            "imageLastModified": "2020-06-05T15:27:43.5870000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1158&qty=1&seller=1&sc=1&price=41000&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 410,
+              "ListPrice": 410,
+              "PriceWithoutDiscount": 410,
+              "FullSellingPrice": 410,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjVkMjgzN2IxLTc5YWQtNGJkOC05YTE4LTUwODMzZDdmOTM0YyIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo0MTAwMCwic2VsbGVyIjoiMSIsImlkIjoiMTE1OCIsImFjY291bnROYW1lIjoiY2FmZXN0b3JlIiwic2FsZXNDaGFubmVsIjoiMSJ9LCJleHAiOjE3NjUxNTAwMjUsImlhdCI6MTc2NTE0ODIyNSwianRpIjoiMWJhZWZkOTQtYTRiYS00M2RmLTliMjgtOGNiZWU3MDc0ZmM1IiwiaXNzIjoic2Vzc2lvbi9kYXRhLXNpZ25lciJ9.fK7-owjEB5EfLNMAaXI6mu1t_omCl2PcSp-ACd2h3yFaTxqVrZQ_nvMwXK4rE9ps-8LDBZ77OZW2pwT_-Yhtyg",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T03:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Balança Digital FPRO com cronômetro Balança Digital com cronômetro FPRO não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

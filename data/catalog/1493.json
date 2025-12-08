@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1493",
+    "productName": "Revista Espresso - Conectados pelo Café - Edição 57",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---conectados-pelo-cafe---edicao-57-3030",
+    "productReference": "3030",
+    "productReferenceCode": "3030",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "Conectados pelo café. Esta é a matéria principal da nova edição da Espresso! Nela, demos espaço para os mais jovens empreendedores do setor cafeeiro que, desde as plantações até as cafeterias, estão cada vez mais ativos neste universo cafeinado. Também apontamos as diferenças entre aeropress e french press, realizamos uma cobertura do 16º Campeonato Brasileiro de Barista, falamos sobre a neurociência aplicada ao café, apresentamos receitas nutritivas feitas com tubérculos e fizemos uma entrevista única com o muralista paulistano Eduardo Kobra. Além destas matérias especiais desta edição, a Espresso 57 também conta com cafeterias, fazendas, novidades, dicas e muito carinho de nós por vocês, leitores.",
+    "releaseDate": "2021-05-19T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---conectados-pelo-cafe---edicao-57-3030/p",
+    "description": "Conectados pelo café. Esta é a matéria principal da nova edição da Espresso! Nela, demos espaço para os mais jovens empreendedores do setor cafeeiro que, desde as plantações até as cafeterias, estão cada vez mais ativos neste universo cafeinado. Também apontamos as diferenças entre aeropress e french press, realizamos uma cobertura do 16º Campeonato Brasileiro de Barista, falamos sobre a neurociência aplicada ao café, apresentamos receitas nutritivas feitas com tubérculos e fizemos uma entrevista única com o muralista paulistano Eduardo Kobra. Além destas matérias especiais desta edição, a Espresso 57 também conta com cafeterias, fazendas, novidades, dicas e muito carinho de nós por vocês, leitores.",
+    "items": [
+      {
+        "itemId": "1492",
+        "name": "Revista Espresso - Conectados pelo Café - Edição 57",
+        "nameComplete": "Revista Espresso - Conectados pelo Café - Edição 57",
+        "complementName": "",
+        "ean": "3030000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3030"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159118",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159118-#width#-#height#/3030_Revista-Espresso_Conectados-pelo-Cafe_Edicao-57.jpg?v=637584072406800000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_57\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159118/3030_Revista-Espresso_Conectados-pelo-Cafe_Edicao-57.jpg?v=637584072406800000",
+            "imageText": "rev_espresso_57",
+            "imageLastModified": "2021-06-04T12:40:40.6800000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1492&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjYxMzM2YjlhLTA3NWEtNDc0Yy04NWY4LTlmMjdjZmY5OTM2MyIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDkyIiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI4NSwiaWF0IjoxNzY1MTQ4NDg1LCJqdGkiOiJkOTliOWQ3OC1kMjZmLTQzZDQtYTUwZC00Mjc1MGFiZDA1YjEiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.gV2_KFDOgs7QPwSNM16xhMhlySPY9sDwUolewVS2tLVatDF43Sd4_FHGmmFqOj13jSoz_m5ABWDOBBa1q_ZGrA",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Conectados pelo Café - Edição 57 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

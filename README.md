@@ -16,14 +16,17 @@ As certezas são:
 
 Blog:  
 
-1- [Entender os recursos disponíveis](blog/1-EntenderRecursosDisponiveis.md)
+1. [Entender os recursos disponíveis](blog/1-EntenderRecursosDisponiveis.md)
 
-2- [Extraindo Dados](blog/2-extraindodados.md)
+2. [Extraindo Dados](blog/2-extraindodados.md)
   
-3- Definindo a Experiencia(Use Cases)
- 
-4- API
+3. [Definindo a Experiencia(Use Cases)](blog/3-DefinindoaExperiencia_UseCases.md)
 
-5- User Interfaces
-  5.1 Web
-  5.2 WhatsApp
+4. API
+
+5. User Interfaces  
+  5.1. [Naive Catalog](/blog/NaiveCatalog.md)  
+  5.2. Web  
+  5.3. WhatsApp  
+
+

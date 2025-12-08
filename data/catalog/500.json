@@ -1,0 +1,168 @@
+[
+  {
+    "productId": "500",
+    "productName": "Cabeçote single Everpure  QL3B",
+    "brand": "Pentair",
+    "brandId": 2000043,
+    "brandImageUrl": null,
+    "linkText": "cabecote-single-everpure-ql3b_2420",
+    "productReference": "2420",
+    "productReferenceCode": "2420",
+    "categoryId": "5",
+    "productTitle": "",
+    "metaTagDescription": "<b>Cabeçote single Everpure QL3B</b><BR><BR> \r\n<BR>Cabeçote individual de qualidade comercial exclusivamente para cartuchos de filtro Everpure</b><BR><BR>\r\n<b>Descrição </b><BR><BR>\r\n <BR>• Inclui válvula de fechamento de água embutida<BR>• Inclui suporte de montagem e parafusos<BR>• Todas as peças molhadas passaram por testes de extração NSF<BR>• Não irá corroer<BR>• A construção sólida e duradoura é ideal para aplicações de serviços alimentícios e varejistas.",
+    "releaseDate": "2019-01-22T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "164": "BUNN",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Café Store Pro/",
+      "/Acessórios/",
+      "/Acessórios/Filtros de água/"
+    ],
+    "categoriesIds": [
+      "/5/",
+      "/3/",
+      "/3/19/"
+    ],
+    "link": "https://www.cafestore.com.br/cabecote-single-everpure-ql3b_2420/p",
+    "Equipamentos": [
+      "Torre de Água",
+      "Filtros de Água"
+    ],
+    "Características": [
+      "Equipamentos"
+    ],
+    "Material / composição": [
+      "Plástico resistente / Metal"
+    ],
+    "Conteúdo da embalagem": [
+      "1 Cabeçote QL3B"
+    ],
+    "Cor": [
+      "Preto"
+    ],
+    "Dimensões aproximadas do produto (cm)- AxLxP": [
+      "8 x 12"
+    ],
+    "Peso líquido aproximado do produto (kg)": [
+      "300g"
+    ],
+    "Dimensões aproximadas da embalagem (cm) – AxLxP": [
+      "12 x 23 x 29"
+    ],
+    "Peso aproximado da embalagem do produto (kg)": [
+      "350g"
+    ],
+    "Modelo": [
+      "EV925924"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Características",
+      "Material / composição",
+      "Conteúdo da embalagem",
+      "Cor",
+      "Dimensões aproximadas do produto (cm)- AxLxP",
+      "Peso líquido aproximado do produto (kg)",
+      "Dimensões aproximadas da embalagem (cm) – AxLxP",
+      "Peso aproximado da embalagem do produto (kg)",
+      "Modelo"
+    ],
+    "allSpecifications": [
+      "Equipamentos",
+      "Material / composição",
+      "Conteúdo da embalagem",
+      "Cor",
+      "Dimensões aproximadas do produto (cm)- AxLxP",
+      "Peso líquido aproximado do produto (kg)",
+      "Dimensões aproximadas da embalagem (cm) – AxLxP",
+      "Peso aproximado da embalagem do produto (kg)",
+      "Modelo"
+    ],
+    "allSpecificationsGroups": [
+      "Características",
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "<b>Cabeçote single Everpure QL3B</b><BR><BR> \r\n<BR>Cabeçote individual de qualidade comercial exclusivamente para cartuchos de filtro Everpure</b><BR><BR>\r\n<b>Descrição </b><BR><BR>\r\n <BR>• Inclui válvula de fechamento de água embutida<BR>• Inclui suporte de montagem e parafusos<BR>• Todas as peças molhadas passaram por testes de extração NSF<BR>• Não irá corroer<BR>• A construção sólida e duradoura é ideal para aplicações de serviços alimentícios e varejistas.",
+    "items": [
+      {
+        "itemId": "500",
+        "name": "Cabeçote single QL3B",
+        "nameComplete": "Cabeçote single Everpure  QL3B Cabeçote single QL3B",
+        "complementName": "",
+        "ean": "2420000000004",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2420"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "155579",
+            "imageLabel": "Frente",
+            "imageTag": "<img src=\"~/arquivos/ids/155579-#width#-#height#/cabecote-single-ql3b.jpg?v=636837634851500000\" width=\"#width#\" height=\"#height#\" alt=\"cabecote-single-ql3b\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/155579/cabecote-single-ql3b.jpg?v=636837634851500000",
+            "imageText": "cabecote-single-ql3b",
+            "imageLastModified": "2019-01-22T14:18:05.1500000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=500&qty=1&seller=1&sc=1&price=66700&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 667,
+              "ListPrice": 667,
+              "PriceWithoutDiscount": 667,
+              "FullSellingPrice": 667,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjQ4YmU4ZTEzLTI1ODQtNDY5Mi1hNmE0LTA1MDQzNjliZmEyYSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo2NjcwMCwic2VsbGVyIjoiMSIsImlkIjoiNTAwIiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE0OTUyMCwiaWF0IjoxNzY1MTQ3NzIwLCJqdGkiOiI0MDdjMjY2Yi0yMjJlLTRhY2UtOTAyNy1lYzZkMDk4ZTg2OGEiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.waEXTBFrtiHiODaT33PNuEsKATQS-KoDck0dWweHwnIVmqbZRFXGIMN3g9yamrMnBBSlRtuAElYdjgmQ1Jux9Q",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T03:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Cabeçote single Everpure  QL3B Cabeçote single QL3B não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1492",
+    "productName": "Revista Espresso - Queijos e Cafés  - Edição 56",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---queijos-e-cafes----edicao-56-3029",
+    "productReference": "3029",
+    "productReferenceCode": "3029",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "É uma edição mais que especial: são os 14 anos da Espresso! Pensando em trazer algo bacana para os nossos leitores, fizemos páginas sobre os Campeonatos Brasileiros de Barismo, Campeonato Brasileiro de Aeropress e tendências e equipamentos da Global Coffee Expo, um perfil completo com a atriz Rosamaria Murtinho, que está completando 60 anos de carreira, e muito conteúdo e informação sobre a relação entre os queijos de todo o Brasil e o café. Além disso, detalhes sobre cafeterias de várias regiões, dicas sobre produtos novos que estão no mercado, amaros e especiarias, colunas variadas, perfil com baristas, diversas receitas e um espacinho especial para aquele lugar de onde vem tudo isso: a fazenda.",
+    "releaseDate": "2021-05-19T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---queijos-e-cafes----edicao-56-3029/p",
+    "description": "É uma edição mais que especial: são os 14 anos da Espresso! Pensando em trazer algo bacana para os nossos leitores, fizemos páginas sobre os Campeonatos Brasileiros de Barismo, Campeonato Brasileiro de Aeropress e tendências e equipamentos da Global Coffee Expo, um perfil completo com a atriz Rosamaria Murtinho, que está completando 60 anos de carreira, e muito conteúdo e informação sobre a relação entre os queijos de todo o Brasil e o café. Além disso, detalhes sobre cafeterias de várias regiões, dicas sobre produtos novos que estão no mercado, amaros e especiarias, colunas variadas, perfil com baristas, diversas receitas e um espacinho especial para aquele lugar de onde vem tudo isso: a fazenda.",
+    "items": [
+      {
+        "itemId": "1491",
+        "name": "Revista Espresso - Queijos e Cafés  - Edição 56",
+        "nameComplete": "Revista Espresso - Queijos e Cafés  - Edição 56",
+        "complementName": "",
+        "ean": "3029000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3029"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159117",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159117-#width#-#height#/3029_Revista-Espresso_Queijos-e-Cafes_Edicao-56.jpg?v=637584071648830000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_56\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159117/3029_Revista-Espresso_Queijos-e-Cafes_Edicao-56.jpg?v=637584071648830000",
+            "imageText": "rev_espresso_56",
+            "imageLastModified": "2021-06-04T12:39:24.8830000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1491&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjZlZGY4YmE4LTI2YzgtNGIwNy04NzE3LTYxMTlmZTc2ZmIwMCIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDkxIiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI4NCwiaWF0IjoxNzY1MTQ4NDg0LCJqdGkiOiI4NTA4MWQ5Yy04ZWFmLTQzMjQtYWUyYy1kYTgzZmMwNmJkODQiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.KVjWBce5pNs_BgdQPQSYhhG6xTkg3vCkfz-gGfrWCGnq4iQGNbYYMmmNmO7wEdrRlXedwsfdULuf7rqD8rHorA",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Queijos e Cafés  - Edição 56 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

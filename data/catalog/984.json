@@ -1,0 +1,169 @@
+[
+  {
+    "productId": "984",
+    "productName": "Xarope Routin 1883 Croissant 1 L",
+    "brand": "1883 Routin",
+    "brandId": 2000028,
+    "brandImageUrl": null,
+    "linkText": "xarope-routin-1883-croissant-1-l-2501",
+    "productReference": "2501",
+    "productReferenceCode": "2501",
+    "categoryId": "206",
+    "productTitle": "",
+    "metaTagDescription": "Embalagem: Vidro ou Pet.",
+    "releaseDate": "2019-07-22T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "162": "INVERNO",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Xaropes e Bebidas/Xaropes/1883 Routin/",
+      "/Xaropes e Bebidas/Xaropes/",
+      "/Xaropes e Bebidas/"
+    ],
+    "categoriesIds": [
+      "/4/7/206/",
+      "/4/7/",
+      "/4/"
+    ],
+    "link": "https://www.cafestore.com.br/xarope-routin-1883-croissant-1-l-2501/p",
+    "Por volume (em ml)": [
+      "1 LITRO"
+    ],
+    "Características": [
+      "Por volume (em ml)"
+    ],
+    "Sabor": [
+      "Croissant francês"
+    ],
+    "Especificaçoes cafe e bebidas": [
+      "Sabor"
+    ],
+    "Marca": [
+      "Routin 1883"
+    ],
+    "Material / composição": [
+      "Garrafa de plástico PET ou vidro"
+    ],
+    "Capacidade / Volume": [
+      "1l"
+    ],
+    "Cor": [
+      "Dourada"
+    ],
+    "Dimensões aproximadas do produto (cm)- AxLxP": [
+      "30 x 7 x 7 cm (aprox)"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca",
+      "Características",
+      "Material / composição",
+      "Capacidade / Volume",
+      "Cor",
+      "Dimensões aproximadas do produto (cm)- AxLxP"
+    ],
+    "allSpecifications": [
+      "Por volume (em ml)",
+      "Sabor",
+      "Marca",
+      "Material / composição",
+      "Capacidade / Volume",
+      "Cor",
+      "Dimensões aproximadas do produto (cm)- AxLxP"
+    ],
+    "allSpecificationsGroups": [
+      "Características",
+      "Especificaçoes cafe e bebidas",
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "As notas grelhadas e amanteigadas características dos croissants são completadas neste xarope 1883 por notas mais sutis de baunilha que oferecem ao paladar um sabor completo e indulgente.<br><br>\r\nProduzidos no sul da França, para criar, inventar e inspirar profissionais em todo o mundo, a 1883 é reconhecida como referência na produção de xaropes de alta qualidade, com mais de 130 anos de experiência no mercado e presente em mais de 80 países. Com mais de 40 sabores em seu portfolio, preserva toda a naturalidade das frutas, especiarias, ervas e flores.<br><br>\r\n\r\n<b>Ingredientes: </B><BR>Açúcar de cana, água, aromatizante idêntico ao natural, colorido com corante artificial.<BR><BR>\r\n\r\n<b>Características:</b><BR>\r\n- Embalagem: garrafa em plástico PET ou vidro (pode variar pelo lote do fornecedor)<br>\r\n- Não alcoólico e não contém gluten<br>\r\n- Não precisa de refrigeração<br>\r\n- Feito com as melhores matérias-primas<br>\r\n- Sabores marcantes<br>\r\n- Não contém conservantes<BR>\r\n- Feito com extratos naturais<Br>\r\n- Altamente concentrado<Br>\r\n- Produzido com água pura dos Alpes Franceses<BR><BR>\r\n\r\n<b>Dicas de uso e consumo:</b><BR>\r\n- Smoothies, Sodas, Coquetéis, Sucos, Chás, Limonadas, Refrigerantes, Frozens e muito mais",
+    "items": [
+      {
+        "itemId": "986",
+        "name": "Xarope Routin 1883 Croissant 1 L",
+        "nameComplete": "Xarope Routin 1883 Croissant 1 L",
+        "complementName": "",
+        "ean": "0612511055662",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2501"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "157658",
+            "imageLabel": "estilo",
+            "imageTag": "<img src=\"~/arquivos/ids/157658-#width#-#height#/1883_croissant2--1-.jpg?v=637261976215500000\" width=\"#width#\" height=\"#height#\" alt=\"croissant2\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/157658/1883_croissant2--1-.jpg?v=637261976215500000",
+            "imageText": "croissant2",
+            "imageLastModified": "2020-05-27T17:33:41.5500000Z"
+          },
+          {
+            "imageId": "156783",
+            "imageLabel": "",
+            "imageTag": "<img src=\"~/arquivos/ids/156783-#width#-#height#/croissant.jpg?v=638834525533600000\" width=\"#width#\" height=\"#height#\" alt=\"croissant\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/156783/croissant.jpg?v=638834525533600000",
+            "imageText": "croissant",
+            "imageLastModified": "2025-05-21T19:29:13.3600000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=986&qty=1&seller=1&sc=1&price=8300&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 83,
+              "ListPrice": 83,
+              "PriceWithoutDiscount": 83,
+              "FullSellingPrice": 83,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjkwZDk3MWVhLTIxYjItNDg3ZC05OGYyLWRjYmNkMzY5ZGQwMSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo4MzAwLCJzZWxsZXIiOiIxIiwiaWQiOiI5ODYiLCJhY2NvdW50TmFtZSI6ImNhZmVzdG9yZSIsInNhbGVzQ2hhbm5lbCI6IjEifSwiZXhwIjoxNzY1MTQ5ODg5LCJpYXQiOjE3NjUxNDgwODksImp0aSI6IjAxNTljZTQ1LWE3YjYtNGIyNC05Njc3LTk4ODFjYzYyNzFhNiIsImlzcyI6InNlc3Npb24vZGF0YS1zaWduZXIifQ.-BUSXSQeSecaRqvoOa9LWC9woWknI3mmxbRljWxa3vQF73AV1p0w9lfahZqkXhNSv_5o8yFtco0LvXDF9Nv31Q",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T03:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Xarope Routin 1883 Croissant 1 L não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,295 @@
+[
+  {
+    "productId": "492",
+    "productName": "Café Baronesa Gourmet em grãos 1 kg",
+    "brand": "Café Baronesa",
+    "brandId": 2000009,
+    "brandImageUrl": null,
+    "linkText": "cafe-baronesa-em-graos-1-kg_335",
+    "productReference": "335",
+    "productReferenceCode": "335",
+    "categoryId": "40",
+    "productTitle": "Café Baronesa Gourmet em grãos 1 kg",
+    "metaTagDescription": "Café de lavouras de montanha de alta qualidade, com doçura marcante, corpo agradável, acidez média e aromas achocolatados, típicos do Campo das Vertentes.",
+    "releaseDate": "2019-01-29T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "165": "Cafes especiais",
+      "181": "Assinatura",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "221": "Cafés",
+      "238": "CASHBACK 5%",
+      "248": "CAFÉS"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Cafés/Por Método/Café em Grãos/",
+      "/Cafés/Por Método/",
+      "/Cafés/",
+      "/Cafés/Intensidade/",
+      "/Cafés/Intensidade/Café Médio/",
+      "/Cafés/Tipo/",
+      "/Cafés/Tipo/Café Certificado/"
+    ],
+    "categoriesIds": [
+      "/1/179/40/",
+      "/1/179/",
+      "/1/",
+      "/1/180/",
+      "/1/180/136/",
+      "/1/181/",
+      "/1/181/139/"
+    ],
+    "link": "https://www.cafestore.com.br/cafe-baronesa-em-graos-1-kg_335/p",
+    "Por método": [
+      "Grãos"
+    ],
+    "Intensidade": [
+      "Média"
+    ],
+    "Tipo": [
+      "Certificado"
+    ],
+    "Por quantidade": [
+      "A partir de 1 Kg"
+    ],
+    "Por Região": [
+      "Sul de Minas"
+    ],
+    "Características": [
+      "Por método",
+      "Intensidade",
+      "Tipo",
+      "Por quantidade",
+      "Por Região"
+    ],
+    "Encontre seu café preferido": [
+      "Cafés em Grãos para moer a toda hora"
+    ],
+    "Busca Avancada": [
+      "Encontre seu café preferido"
+    ],
+    "Sabor": [
+      "notas achocolatadas"
+    ],
+    "Aroma": [
+      "achocolatado"
+    ],
+    "Torra": [
+      "média"
+    ],
+    "Acidez": [
+      "média"
+    ],
+    "Corpo": [
+      "agradável"
+    ],
+    "Variedade": [
+      "Mundo Novo"
+    ],
+    "Origem": [
+      "Bom Sucesso – MG"
+    ],
+    "Fazenda": [
+      "Fazenda Mundo Novo"
+    ],
+    "Certificação e premiação": [
+      "Certifica Minas"
+    ],
+    "Especificaçoes cafe e bebidas": [
+      "Intensidade",
+      "Sabor",
+      "Aroma",
+      "Torra",
+      "Acidez",
+      "Corpo",
+      "Tipo",
+      "Variedade",
+      "Origem",
+      "Fazenda",
+      "Certificação e premiação"
+    ],
+    "Marca": [
+      "Baronesa"
+    ],
+    "Peso aproximado da embalagem do produto (kg)": [
+      "1kg"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca",
+      "Peso aproximado da embalagem do produto (kg)"
+    ],
+    "allSpecifications": [
+      "Por método",
+      "Intensidade",
+      "Tipo",
+      "Por quantidade",
+      "Por Região",
+      "Encontre seu café preferido",
+      "Sabor",
+      "Aroma",
+      "Torra",
+      "Acidez",
+      "Corpo",
+      "Variedade",
+      "Origem",
+      "Fazenda",
+      "Certificação e premiação",
+      "Marca",
+      "Peso aproximado da embalagem do produto (kg)"
+    ],
+    "allSpecificationsGroups": [
+      "Características",
+      "Busca Avancada",
+      "Especificaçoes cafe e bebidas",
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "<span style=\"font-size:16px\">Produzido com café natural de lavouras de montanha de altíssima qualidade, este café resulta em uma bebida que exala o melhor em sabor e aroma, com características típicas da região do Campo das Vertentes. Possui uma doçura marcante, corpo agradável, acidez média e aromas que remetem a notas achocolatadas.</span>",
+    "items": [
+      {
+        "itemId": "492",
+        "name": "Café Baronesa Gourmet em grãos 1 kg",
+        "nameComplete": "Café Baronesa Gourmet em grãos 1 kg",
+        "complementName": "",
+        "ean": "7898962758205",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "335"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "163866",
+            "imageLabel": "CafeBaronesaemgraos1kg",
+            "imageTag": "<img src=\"~/arquivos/ids/163866-#width#-#height#/335-Cafe_Baronesa_em_graos_1_kg.jpg?v=638373160077700000\" width=\"#width#\" height=\"#height#\" alt=\"Frente\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/163866/335-Cafe_Baronesa_em_graos_1_kg.jpg?v=638373160077700000",
+            "imageText": "Frente",
+            "imageLastModified": "2023-12-04T19:46:47.7700000Z"
+          }
+        ],
+        "attachments": [
+          {
+            "id": 3,
+            "name": "vtex.subscription.assinatura",
+            "required": false,
+            "domainValues": "[{\"FieldName\":\"vtex.subscription.key.frequency\",\"MaxCaracters\":\"\",\"DomainValues\":\"1 month, 2 month, 3 month\"}]"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=492&qty=1&seller=1&sc=1&price=15800&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [
+                {
+                  "Name": "Café Baronesa Gourmet em grãos 1 kg",
+                  "NameComplete": "Café Baronesa Gourmet em grãos 1 kg",
+                  "MainImage": "https://cafestore.vteximg.com.br/arquivos/ids/163866/335-Cafe_Baronesa_em_graos_1_kg.jpg",
+                  "BrandName": "Café Baronesa",
+                  "CategoryId": 40,
+                  "ProductId": 492,
+                  "id": "492",
+                  "seller": "1",
+                  "assemblyOptions": [
+                    {
+                      "id": "vtex.subscription.assinatura",
+                      "name": "vtex.subscription.assinatura",
+                      "required": false,
+                      "inputValues": {
+                        "vtex.subscription.key.frequency": {
+                          "maximumNumberOfCharacters": 8,
+                          "domain": [
+                            "1 month",
+                            " 2 month",
+                            " 3 month"
+                          ]
+                        }
+                      },
+                      "composition": null
+                    }
+                  ]
+                }
+              ],
+              "Price": 158,
+              "ListPrice": 158,
+              "PriceWithoutDiscount": 158,
+              "FullSellingPrice": 158,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjlhNTIyMjAzLTMyOWMtNDQ5YS04MDYwLTE1MTY0OGI1MTFjNSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTgwMCwic2VsbGVyIjoiMSIsImlkIjoiNDkyIiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE0OTUxMywiaWF0IjoxNzY1MTQ3NzEzLCJqdGkiOiJiOGY4ZDdlMi05NjgwLTQ4YzQtYWMwYi02ZjBlNGQ2NmFhMDYiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.iWPZBOIRKAvMLIzHGc3tSLn_jWC__bOeCAJ4DFhI2fHSJAzkbZwH65aVCpzmlpiT1qkbCuU_hNN8Th7qPTQGGA",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T03:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Café Baronesa Gourmet em grãos 1 kg não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ],
+    "itemMetadata": {
+      "items": [
+        {
+          "Name": "Café Baronesa Gourmet em grãos 1 kg",
+          "NameComplete": "Café Baronesa Gourmet em grãos 1 kg",
+          "MainImage": "https://cafestore.vteximg.com.br/arquivos/ids/163866/335-Cafe_Baronesa_em_graos_1_kg.jpg",
+          "BrandName": "Café Baronesa",
+          "CategoryId": 40,
+          "ProductId": 492,
+          "id": "492",
+          "seller": "1",
+          "assemblyOptions": [
+            {
+              "id": "vtex.subscription.assinatura",
+              "name": "vtex.subscription.assinatura",
+              "required": false,
+              "inputValues": {
+                "vtex.subscription.key.frequency": {
+                  "maximumNumberOfCharacters": 8,
+                  "domain": [
+                    "1 month",
+                    " 2 month",
+                    " 3 month"
+                  ]
+                }
+              },
+              "composition": null
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

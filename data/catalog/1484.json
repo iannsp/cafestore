@@ -1,0 +1,109 @@
+[
+  {
+    "productId": "1484",
+    "productName": "Revista Espresso - Especial Itália - Edição 48",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---especial-italia---edicao-48-3021",
+    "productReference": "3021",
+    "productReferenceCode": "3021",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "A Espresso #48 traz uma homenagem para a Itália, país que inventou o espresso e se tornou referência mundial na cultura do café. A cantora Tulipa Ruiz acredita que o café combina com encontros. Se ela quiser conversar com alguém, a bebida vai ser sempre seu ponto de partida. Tulipa é destaque na seção Perfil desta edição. Em Gastronomia separamos receitas deliciosas, com ovos de diferentes formas, para todos os gostos. Para aquecer no inverno, Você Barista traz receitas práticas e gostosas de chocolate quente. Receitas conta com a sugestão de um creme de chocolate com laranja e de um drinque para a festa ou para o jantar chamado coffee spritz. A seção Harmonização conta com uma combinação de cafés e embutidos. Colunas específicas para o mercado de café e outras novidades completam essa linda edição.",
+    "releaseDate": "2021-05-19T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%",
+      "240": "Feed Merchant 14.11"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---especial-italia---edicao-48-3021/p",
+    "description": "A Espresso #48 traz uma homenagem para a Itália, país que inventou o espresso e se tornou referência mundial na cultura do café. A cantora Tulipa Ruiz acredita que o café combina com encontros. Se ela quiser conversar com alguém, a bebida vai ser sempre seu ponto de partida. Tulipa é destaque na seção Perfil desta edição. Em Gastronomia separamos receitas deliciosas, com ovos de diferentes formas, para todos os gostos. Para aquecer no inverno, Você Barista traz receitas práticas e gostosas de chocolate quente. Receitas conta com a sugestão de um creme de chocolate com laranja e de um drinque para a festa ou para o jantar chamado coffee spritz. A seção Harmonização conta com uma combinação de cafés e embutidos. Colunas específicas para o mercado de café e outras novidades completam essa linda edição.",
+    "items": [
+      {
+        "itemId": "1483",
+        "name": "Revista Espresso - Especial Itália - Edição 48",
+        "nameComplete": "Revista Espresso - Especial Itália - Edição 48",
+        "complementName": "",
+        "ean": "3021000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3021"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159109",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159109-#width#-#height#/3021_Revista-Espresso_Especial-Italia_Edicao-48.jpg?v=637583243800900000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_48\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159109/3021_Revista-Espresso_Especial-Italia_Edicao-48.jpg?v=637583243800900000",
+            "imageText": "rev_espresso_48",
+            "imageLastModified": "2021-06-03T13:39:40.0900000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1483&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImQyNTUyY2RiLWJkNjMtNDVkYi05NjFiLWI1ODUyNDkxYTk1NSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDgzIiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI3OCwiaWF0IjoxNzY1MTQ4NDc4LCJqdGkiOiJhODc4MWFlZC0yYzM0LTRiY2YtOGVmOC1kMjE1Y2ExNjhhNWEiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.-WukHZy-y4Ek1ulO3fj4z3HtcIiV3BV4ZyY5vy2wJhzbQh6Q8y_ovHjWwPr2h0t-8BhtXPlv74iCXNp5ETToHw",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Especial Itália - Edição 48 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

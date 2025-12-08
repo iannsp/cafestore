@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1482",
+    "productName": "Revista Espresso - Picolés de Café - Edição 46",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---picoles-de-cafe---edicao-46-3019",
+    "productReference": "3019",
+    "productReferenceCode": "3019",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "A Espresso #46 apresenta receitas diversificadas de picolés de café para se deliciar no verão. O ator Caco Ciocler, frequentador assíduo de padarias, onde prefere consumir o café coado, é destaque em Perfil. Você Barista traz algumas dicas de como aprimorar o paladar e viajar ainda mais pelos sabores e aromas do café. Uma bola cremosa de queijo recheada, a burrata se torna cada vez mais desejada no Brasil, seu sabor delicado combina com entradas e saladas para o verão é destaque em Gastronomia. Caipirinha de Café e Rolinho de Vegetais são práticos de fazer e estão em Receitas. Panamá é o cenário de Fazendas que apresenta um café com sabor de limão, aroma de flores, que não tinha valor nenhum e é hoje um dos cafés mais cobiçados. Infusões de equilíbrio para os chás, café, brownie e uísque harmonizam com equilíbrio e trazem surpresas ao paladar.",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---picoles-de-cafe---edicao-46-3019/p",
+    "description": "A Espresso #46 apresenta receitas diversificadas de picolés de café para se deliciar no verão. O ator Caco Ciocler, frequentador assíduo de padarias, onde prefere consumir o café coado, é destaque em Perfil. Você Barista traz algumas dicas de como aprimorar o paladar e viajar ainda mais pelos sabores e aromas do café. Uma bola cremosa de queijo recheada, a burrata se torna cada vez mais desejada no Brasil, seu sabor delicado combina com entradas e saladas para o verão é destaque em Gastronomia. Caipirinha de Café e Rolinho de Vegetais são práticos de fazer e estão em Receitas. Panamá é o cenário de Fazendas que apresenta um café com sabor de limão, aroma de flores, que não tinha valor nenhum e é hoje um dos cafés mais cobiçados. Infusões de equilíbrio para os chás, café, brownie e uísque harmonizam com equilíbrio e trazem surpresas ao paladar.",
+    "items": [
+      {
+        "itemId": "1481",
+        "name": "Revista Espresso - Picolés de Café - Edição 46",
+        "nameComplete": "Revista Espresso - Picolés de Café - Edição 46",
+        "complementName": "",
+        "ean": "3019000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3019"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159107",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159107-#width#-#height#/3019_Revista-Espresso_Picoles-de-Cafe_Edicao-46.jpg?v=637583242389970000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_46\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159107/3019_Revista-Espresso_Picoles-de-Cafe_Edicao-46.jpg?v=637583242389970000",
+            "imageText": "rev_espresso_46",
+            "imageLastModified": "2021-06-03T13:37:18.9970000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1481&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImJjNTAwMTI4LWQ5MzQtNDliOS1iM2I4LTQ0NWFiNGI1YmFhNiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDgxIiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI3NiwiaWF0IjoxNzY1MTQ4NDc2LCJqdGkiOiJiYmEwOTFjYy0xZmUwLTQ3MjQtOGM5NS01ZWM0MGY1NWFkMzIiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.wcGe23NKiRfjawXAbpn1hi_9TJieVsHE2XUCMjxK7KC6jApmY_v4UN0DteFvaQfzYdJ_CgncTCznLaHCLc_dcQ",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Picolés de Café - Edição 46 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

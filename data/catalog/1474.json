@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1474",
+    "productName": "Revista Espresso - Bolo, Bolo, Bolo - Edição 38",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---bolo-bolo-bolo---edicao-38-3011",
+    "productReference": "3011",
+    "productReferenceCode": "3011",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "A deliciosa Espresso #38 conta com receitas de bolos incríveis. Sempre com o olhar nas reais necessidades do leitor, traz uma matéria com dicas bem práticas de como armazenar adequadamente o café em casa. Também conta com uma reportagem sobre as mais aromáticas ervas para utilizar na cozinha, com sugestões de combinação e as características de cada uma. Além disso, há harmonizações com café, degustações de café com panetones, chás chineses, visitas a fazendas e entrevistas com gente bacana do mercado.",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---bolo-bolo-bolo---edicao-38-3011/p",
+    "description": "A deliciosa Espresso #38 conta com receitas de bolos incríveis. Sempre com o olhar nas reais necessidades do leitor, traz uma matéria com dicas bem práticas de como armazenar adequadamente o café em casa. Também conta com uma reportagem sobre as mais aromáticas ervas para utilizar na cozinha, com sugestões de combinação e as características de cada uma. Além disso, há harmonizações com café, degustações de café com panetones, chás chineses, visitas a fazendas e entrevistas com gente bacana do mercado.",
+    "items": [
+      {
+        "itemId": "1473",
+        "name": "Revista Espresso - Bolo, Bolo, Bolo - Edição 38",
+        "nameComplete": "Revista Espresso - Bolo, Bolo, Bolo - Edição 38",
+        "complementName": "",
+        "ean": "3011000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3011"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159099",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159099-#width#-#height#/3011_Revista-Espresso_Bolo-Bolo-Bolo-Delicia-em-Camadas_Edicao-38.jpg?v=637583228835770000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_38\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159099/3011_Revista-Espresso_Bolo-Bolo-Bolo-Delicia-em-Camadas_Edicao-38.jpg?v=637583228835770000",
+            "imageText": "rev_espresso_38",
+            "imageLastModified": "2021-06-03T13:14:43.5770000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1473&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjUwYWNhOGZjLTY2MzQtNGRiYi04ZTlkLTZhZTQyZDA3ZTdmOSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDczIiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI3MCwiaWF0IjoxNzY1MTQ4NDcwLCJqdGkiOiJhMjkxMTBjNi00NzgyLTQxN2UtOTBmZS02NjYyZmU5ZWJmNTQiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.w8n52AVAMF2MhME2S11i8HeIl7vMBcrZs6W9YVJSj1bm9AwJbUCw2Bt6ts5hXfXfGs7OpTORq9AXoNz1xoaTeA",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Bolo, Bolo, Bolo - Edição 38 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

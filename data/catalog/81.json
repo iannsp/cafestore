@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "81",
+    "productName": "Livro Aroma do Café em Inglês",
+    "brand": "Ateliê do Café",
+    "brandId": 2000021,
+    "brandImageUrl": null,
+    "linkText": "livro-aroma-do-cafe-em-ingles_948",
+    "productReference": "948",
+    "productReferenceCode": "948",
+    "categoryId": "200",
+    "productTitle": "",
+    "metaTagDescription": "<BR>O livro Aroma do Café - Guia Prático para Apreciadores de Café (DPaschoal) oferece uma opção de leitura agradável e que também contribua para ampliar o conhecimento sobre café.<BR><BR><b>Sinopse:</b> O café, que motivou traições, gerou riquezas e conquistou todo o mundo, pelo simples prazer que acrescenta à vida, ajuda a recontar a história do Brasil e da economia mundial. Da plantação à xícara, passa por uma série de processos que resulta em exuberante aroma e delicioso sabor. Este livro é um guia prático, no qual o apreciador de café poderá saborear a história, a tecnologia e as diversas formas de prepará-lo.<BR><BR><b>Autor:</b> Luis Norberto Pascoal<BR><b>Editora:</b> DPaschoal<BR><b>Edição:</b> 2ª<BR><b>Páginas:</b> 160<BR><b>Língua:</b> Inglês<BR><b>Formato:</b> Encadernado com sobrecapa<BR><b>Tamanho:</b> 19,00 x 24,00 cm",
+    "releaseDate": "2019-01-30T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Livros/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/200/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/livro-aroma-do-cafe-em-ingles_948/p",
+    "description": "<BR>O livro Aroma do Café - Guia Prático para Apreciadores de Café (DPaschoal) oferece uma opção de leitura agradável e que também contribua para ampliar o conhecimento sobre café.<BR><BR><b>Sinopse:</b> O café, que motivou traições, gerou riquezas e conquistou todo o mundo, pelo simples prazer que acrescenta à vida, ajuda a recontar a história do Brasil e da economia mundial. Da plantação à xícara, passa por uma série de processos que resulta em exuberante aroma e delicioso sabor. Este livro é um guia prático, no qual o apreciador de café poderá saborear a história, a tecnologia e as diversas formas de prepará-lo.<BR><BR><b>Autor:</b> Luis Norberto Pascoal<BR><b>Editora:</b> DPaschoal<BR><b>Edição:</b> 2ª<BR><b>Páginas:</b> 160<BR><b>Língua:</b> Inglês<BR><b>Formato:</b> Encadernado com sobrecapa<BR><b>Tamanho:</b> 19,00 x 24,00 cm",
+    "items": [
+      {
+        "itemId": "81",
+        "name": "Aroma do Café - Guia Prático para Apreciadores de Café (Inglês)",
+        "nameComplete": "Livro Aroma do Café em Inglês Aroma do Café - Guia Prático para Apreciadores de Café (Inglês)",
+        "complementName": "",
+        "ean": "9788587507402",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "948"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "156124",
+            "imageLabel": "frente",
+            "imageTag": "<img src=\"~/arquivos/ids/156124-#width#-#height#/livro-aroma-do-cafe-em-ingles.jpg?v=636844509589230000\" width=\"#width#\" height=\"#height#\" alt=\"livro-aroma-do-cafe-em-ingles\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/156124/livro-aroma-do-cafe-em-ingles.jpg?v=636844509589230000",
+            "imageText": "livro-aroma-do-cafe-em-ingles",
+            "imageLastModified": "2019-01-30T13:15:58.9230000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=81&qty=1&seller=1&sc=1&price=7900&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 79,
+              "ListPrice": 79,
+              "PriceWithoutDiscount": 79,
+              "FullSellingPrice": 79,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjcyNWFmMWNlLTA0NzYtNDEwYS1iZGQ3LWNiZjk5YTFmZTdhNCIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo3OTAwLCJzZWxsZXIiOiIxIiwiaWQiOiI4MSIsImFjY291bnROYW1lIjoiY2FmZXN0b3JlIiwic2FsZXNDaGFubmVsIjoiMSJ9LCJleHAiOjE3NjUxNDkxODUsImlhdCI6MTc2NTE0NzM4NSwianRpIjoiYjVlNmI0OTgtZTRkYS00YzlhLWIzYWQtNDBhOWMyYWQ2NzA1IiwiaXNzIjoic2Vzc2lvbi9kYXRhLXNpZ25lciJ9.DtiTG2OX1o8pD2cfIW78iTFn-zYBozz4LzL2LttBHedfRpAu4QCYnAny_9j8i1bmVeFNlUpChsgVTMEi-o-PSQ",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Livro Aroma do Café em Inglês Aroma do Café - Guia Prático para Apreciadores de Café (Inglês) não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

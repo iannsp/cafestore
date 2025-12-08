@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1461",
+    "productName": "Revista Espresso - Quem Prepara Seu Café -  Edição 25",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---quem-prepara-seu-cafe----edicao-25-2998",
+    "productReference": "2998",
+    "productReferenceCode": "2998",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "A Espresso #25 traz o debate: Quem prepara o seu café? Perceba a diferença entre uma xícara extraída por um profissional barista! Café com sal, um novo parceiro que ajuda a realçar o sabor da bebida. Cozinha de amigos, faça e experimente em casa! Um bate-papo exclusivo com o múltiplo ator paulistano Marcos Caruso sobre comédia, romance e drama. Dicas de preparo, novidades do setor cafeeiro, receitas, entrevistas e indicações de cafeterias.",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---quem-prepara-seu-cafe----edicao-25-2998/p",
+    "description": "A Espresso #25 traz o debate: Quem prepara o seu café? Perceba a diferença entre uma xícara extraída por um profissional barista! Café com sal, um novo parceiro que ajuda a realçar o sabor da bebida. Cozinha de amigos, faça e experimente em casa! Um bate-papo exclusivo com o múltiplo ator paulistano Marcos Caruso sobre comédia, romance e drama. Dicas de preparo, novidades do setor cafeeiro, receitas, entrevistas e indicações de cafeterias.",
+    "items": [
+      {
+        "itemId": "1460",
+        "name": "Revista Espresso - Quem Prepara Seu Café -  Edição 25",
+        "nameComplete": "Revista Espresso - Quem Prepara Seu Café -  Edição 25",
+        "complementName": "",
+        "ean": "2998000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2998"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159086",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159086-#width#-#height#/2998_Revista-Espresso_Quem-Prepara-Seu-Cafe_Edicao-25.jpg?v=637583216562000000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_25\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159086/2998_Revista-Espresso_Quem-Prepara-Seu-Cafe_Edicao-25.jpg?v=637583216562000000",
+            "imageText": "rev_espresso_25",
+            "imageLastModified": "2021-06-03T12:54:16.2000000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1460&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjM4OTc0ZjYyLTA1MGYtNGNiNy1hMzM0LWRmODY3MDdkYTk3MiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDYwIiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI1OSwiaWF0IjoxNzY1MTQ4NDU5LCJqdGkiOiJjMTVlZjE5MS01ODdmLTQ5ZDctYTQ3Mi0yNDcwNTJmY2VhYmEiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.j-s9_Lmc4TOFu8cFfBt2vpNtK7aQAmneysq1eX35gGjcjb-6ityfXEE0uvLuU8stWQrfmw54A6f4fgV6B_E3gA",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Quem Prepara Seu Café -  Edição 25 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

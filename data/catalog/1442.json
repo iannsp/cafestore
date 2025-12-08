@@ -1,0 +1,109 @@
+[
+  {
+    "productId": "1442",
+    "productName": "Revista Espresso - Cafés do Brasil - Alex Atala - Dinamarca - Planador - Wi-fi - Edição 06",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---cafe---criatividade---amyr-klink---lencois-maranhenses---slow-food---edicao--2979",
+    "productReference": "2979",
+    "productReferenceCode": "2979",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "Nas páginas da Espresso #6 você encontra seções que abordam as ferrovias e o desenvolvimento do Brasil, como os consumidores de outros países bebem café, a diversidade da cafeicultura brasileira, uma viagem à Dinamarca, o cultivo de café em Itu (SP), os cafés hotspot e a melhora dos baristas. A edição também conta com indicações de cafeterias, dicas de preparo, entrevistas exclusivas, receitas diversas e novidades do setor.",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%",
+      "240": "Feed Merchant 14.11"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---cafe---criatividade---amyr-klink---lencois-maranhenses---slow-food---edicao--2979/p",
+    "description": "Nas páginas da Espresso #6 você encontra seções que abordam as ferrovias e o desenvolvimento do Brasil, como os consumidores de outros países bebem café, a diversidade da cafeicultura brasileira, uma viagem à Dinamarca, o cultivo de café em Itu (SP), os cafés hotspot e a melhora dos baristas. A edição também conta com indicações de cafeterias, dicas de preparo, entrevistas exclusivas, receitas diversas e novidades do setor.",
+    "items": [
+      {
+        "itemId": "1441",
+        "name": "Revista Espresso - Cafés do Brasil - Alex Atala - Dinamarca - Planador - Wi-fi - Edição 06",
+        "nameComplete": "Revista Espresso - Cafés do Brasil - Alex Atala - Dinamarca - Planador - Wi-fi - Edição 06",
+        "complementName": "",
+        "ean": "9771806297123",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2979"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159063",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159063-#width#-#height#/2978_Revista-Espresso_Cafe-Criatividade-Amyr-Klink-Lencois-Maranhenses-Slow-Food_Edicao-05.jpg?v=637578104677870000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_6\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159063/2978_Revista-Espresso_Cafe-Criatividade-Amyr-Klink-Lencois-Maranhenses-Slow-Food_Edicao-05.jpg?v=637578104677870000",
+            "imageText": "rev_espresso_6",
+            "imageLastModified": "2021-05-28T14:54:27.7870000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1441&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjRkNzE0NGM0LWFiYjQtNDk0MS1iODkwLThkZGJhZWMzOTQ3OCIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDQxIiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI0NSwiaWF0IjoxNzY1MTQ4NDQ1LCJqdGkiOiI2ZWE1N2MxOS1iYzhjLTQ5OGQtODkwMy04NWM3Nzc5YjQ2YjIiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.46R1kbrXCvhxOJnKXn6e7bV4LcfpBQqg7-WciuG6IbZWJKuInIZA7CFvxK3ictiuqtZvxFS4mfeqNNCZpvyaHA",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Cafés do Brasil - Alex Atala - Dinamarca - Planador - Wi-fi - Edição 06 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

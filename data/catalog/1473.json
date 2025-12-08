@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1473",
+    "productName": "Revista Espresso - Café de Origem - Edição 37",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---cafe-de-origem---edicao-37-3010",
+    "productReference": "3010",
+    "productReferenceCode": "3010",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "A Espresso #37 apresenta uma capa voltada para o campo, explicando sobre os cafés com Indicações Geográficas. Em uma matéria cheia de detalhes e dicas, conversamos com associações e produtores que já conquistaram suas IGs e os que ainda estão buscando a certificação. Para diversificar nosso cardápio, a Espresso pôs literalmente o pé na estrada. Repórteres visitaram fazendas para acompanhar a colheita que movimentou todas as regiões cafeeiras do País, outros visitaram cafeterias do outro canto do mundo – como Bali, na Indonésia – e a Diretora de Redação da Espresso acompanhou o Campeonato Mundial de Barista, em Viena (Áustria). Nas demais páginas também é possível encontrar uma entrevista com o cineasta Fernando Meirelles e com o degustador Joaquim Sertório Neto, o primeiro especialista do Brasil a conquistar as certificações de Q-Grader e R-Grader.",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---cafe-de-origem---edicao-37-3010/p",
+    "description": "A Espresso #37 apresenta uma capa voltada para o campo, explicando sobre os cafés com Indicações Geográficas. Em uma matéria cheia de detalhes e dicas, conversamos com associações e produtores que já conquistaram suas IGs e os que ainda estão buscando a certificação. Para diversificar nosso cardápio, a Espresso pôs literalmente o pé na estrada. Repórteres visitaram fazendas para acompanhar a colheita que movimentou todas as regiões cafeeiras do País, outros visitaram cafeterias do outro canto do mundo – como Bali, na Indonésia – e a Diretora de Redação da Espresso acompanhou o Campeonato Mundial de Barista, em Viena (Áustria). Nas demais páginas também é possível encontrar uma entrevista com o cineasta Fernando Meirelles e com o degustador Joaquim Sertório Neto, o primeiro especialista do Brasil a conquistar as certificações de Q-Grader e R-Grader.",
+    "items": [
+      {
+        "itemId": "1472",
+        "name": "Revista Espresso - Café de Origem - Edição 37",
+        "nameComplete": "Revista Espresso - Café de Origem - Edição 37",
+        "complementName": "",
+        "ean": "3010000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3010"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159098",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159098-#width#-#height#/3010_Revista-Espresso_Cafe-de-Origem_Edicao-37.jpg?v=637583228315470000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_37\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159098/3010_Revista-Espresso_Cafe-de-Origem_Edicao-37.jpg?v=637583228315470000",
+            "imageText": "rev_espresso_37",
+            "imageLastModified": "2021-06-03T13:13:51.5470000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1472&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImEwM2ZlNTViLWRiZWEtNGUzMC1hYzcxLWEzNGFmYjg5NWZmOSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDcyIiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI3MCwiaWF0IjoxNzY1MTQ4NDcwLCJqdGkiOiIyNGI3ZTUxOC0wZTcyLTQ5Y2UtODBjOC1jYmY5OTljYjFhNDIiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.i82ZP2g3fHG-KvCTcKOX1dD3XmnTtxO_iW44xHQvwn9gMPIldPximbYhR11YhjMwK5aEGwYDIEUrcbA3SLt1jA",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Café de Origem - Edição 37 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

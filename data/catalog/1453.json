@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1453",
+    "productName": "Revista Espresso - Como Escolher Seu Novo Café -  Edição 17",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---como-escolher-seu-novo-cafe----edicao-17-2990",
+    "productReference": "2990",
+    "productReferenceCode": "2990",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "Como escolher o seu novo café? Este é o assunto abordado na matéria de capa da Espresso #17, que aborda assuntos como variedade, origem, moagem, preparo, selos e características. Além disso, você encontra uma entrevista exclusiva com Dan Stulbach, indicações de cafeterias, coluna sobre a ascenção do espresso, novidades do setor e dicas de preparo.",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---como-escolher-seu-novo-cafe----edicao-17-2990/p",
+    "description": "Como escolher o seu novo café? Este é o assunto abordado na matéria de capa da Espresso #17, que aborda assuntos como variedade, origem, moagem, preparo, selos e características. Além disso, você encontra uma entrevista exclusiva com Dan Stulbach, indicações de cafeterias, coluna sobre a ascenção do espresso, novidades do setor e dicas de preparo.",
+    "items": [
+      {
+        "itemId": "1452",
+        "name": "Revista Espresso - Como Escolher Seu Novo Café -  Edição 17",
+        "nameComplete": "Revista Espresso - Como Escolher Seu Novo Café -  Edição 17",
+        "complementName": "",
+        "ean": "2990000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2990"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159075",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159075-#width#-#height#/2990_Revista-Espresso_Como-Escolher-Seu-Novo-Cafe_Edicao-17.jpg?v=637582588549800000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_17\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159075/2990_Revista-Espresso_Como-Escolher-Seu-Novo-Cafe_Edicao-17.jpg?v=637582588549800000",
+            "imageText": "rev_espresso_17",
+            "imageLastModified": "2021-06-02T19:27:34.9800000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1452&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImI2MmJlY2VjLWJlODUtNDM0ZC04YTZiLWVjYTI2N2NmOTY4MyIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDUyIiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI1MywiaWF0IjoxNzY1MTQ4NDUzLCJqdGkiOiI1NjQ4YTdkYi0zNzBkLTQxY2YtOWQxOC02ZTkzNGM2MzdlN2EiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.YnsWvaaNFyWYpEfG7DgMNWzk86y71N1agXescn9_HmeGylHLMoDr4Ow6AIJ8ljwWL7IdpThmWIQO0JrKOJGHyA",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Como Escolher Seu Novo Café -  Edição 17 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1487",
+    "productName": "Revista Espresso - 31 Apostas Para o Café - Edição 51",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---31-apostas-para-o-cafe---edicao-51-3024",
+    "productReference": "3024",
+    "productReferenceCode": "3024",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "A Espresso 51 traz as tendências para o universo do café para os próximos meses. O músico André Abujamra fala na seção Perfil sobre o seu novo trabalho O Homem Bruxa, sua carreira e afirma: toma café sem obrigação e sem açúcar! Regina Machado, barista e mestre de torra, conta como chegou ao universo do café, na seção Fala Barista. Na seção Gastronomia, saiba como montar uma boa marmita para o trabalho. E, em Receita, aprenda a preparar um Tiramisù com o chef Rodolfo de Santis, do restaurante Nino Cucina e um drinque com gim e café coado, do barman Fernando Lisboa. Para a seção Pelo Mundo, fizemos uma viagem para desvendar as cafeterias de Brasília e, em Mundo Café, nos aventuramos pelas fábricas de cápsula. Já Fazendas traz a região de Ouro Fino (MG), com a Fazenda Santa Izabel, que está investindo em tecnologia e em pesquisa para desenvolver a cafeicultura. Conheça a evolução da tecnologia em equipamentos de extração e novos conceitos para o chá na seção Chás. Colunas específicas para o mercado de café e outras novidades completam a edição.",
+    "releaseDate": "2021-05-19T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---31-apostas-para-o-cafe---edicao-51-3024/p",
+    "description": "A Espresso 51 traz as tendências para o universo do café para os próximos meses. O músico André Abujamra fala na seção Perfil sobre o seu novo trabalho O Homem Bruxa, sua carreira e afirma: toma café sem obrigação e sem açúcar! Regina Machado, barista e mestre de torra, conta como chegou ao universo do café, na seção Fala Barista. Na seção Gastronomia, saiba como montar uma boa marmita para o trabalho. E, em Receita, aprenda a preparar um Tiramisù com o chef Rodolfo de Santis, do restaurante Nino Cucina e um drinque com gim e café coado, do barman Fernando Lisboa. Para a seção Pelo Mundo, fizemos uma viagem para desvendar as cafeterias de Brasília e, em Mundo Café, nos aventuramos pelas fábricas de cápsula. Já Fazendas traz a região de Ouro Fino (MG), com a Fazenda Santa Izabel, que está investindo em tecnologia e em pesquisa para desenvolver a cafeicultura. Conheça a evolução da tecnologia em equipamentos de extração e novos conceitos para o chá na seção Chás. Colunas específicas para o mercado de café e outras novidades completam a edição.",
+    "items": [
+      {
+        "itemId": "1486",
+        "name": "Revista Espresso - 31 Apostas Para o Café - Edição 51",
+        "nameComplete": "Revista Espresso - 31 Apostas Para o Café - Edição 51",
+        "complementName": "",
+        "ean": "3024000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3024"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159112",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159112-#width#-#height#/3024_Revista-Espresso_31-Apostas-para-o-Cafe_Edicao-51.jpg?v=637583246201000000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_51\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159112/3024_Revista-Espresso_31-Apostas-para-o-Cafe_Edicao-51.jpg?v=637583246201000000",
+            "imageText": "rev_espresso_51",
+            "imageLastModified": "2021-06-03T13:43:40.1000000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1486&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImMyMzZmYzkzLWZhOWYtNDIxMC04YWU2LWJmMTFmNjkwOThiYyIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDg2IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI4MCwiaWF0IjoxNzY1MTQ4NDgwLCJqdGkiOiI1MjYyZGRlNy05MGU4LTRhNDUtOGM1MC1kOWVjNGEzNDAyOTMiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.ecc3GBqg9tNcZQzw8OA_-qa4B7mUON_1fpWzfAPapo2Hetygwv7XC1WEuri-j-9UcXrJn76P8w0xDNvdbBSKOg",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - 31 Apostas Para o Café - Edição 51 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

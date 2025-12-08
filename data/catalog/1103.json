@@ -1,0 +1,137 @@
+[
+  {
+    "productId": "1103",
+    "productName": "Filtro Hario V60 Natural 100 unidades Tamanho 01",
+    "brand": "Hario",
+    "brandId": 2000025,
+    "brandImageUrl": null,
+    "linkText": "filtro-natural-para-hario-v60-01-100un-com-caixa-2620",
+    "productReference": "2620",
+    "productReferenceCode": "2620",
+    "categoryId": "16",
+    "productTitle": "",
+    "metaTagDescription": "O filtro de papel em formato de cone, permite a filtragem por igual e não deixa que o fluxo de água encontre qualquer tipo de obstáculo, resultando em uma bebida limpa e saborosa (sem resíduos), além de ressaltar algumas características do grão de café, como acidez e doçura.",
+    "releaseDate": "2019-12-09T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "202": "Dia das mães",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Acessórios/Filtro de Papel/",
+      "/Acessórios/"
+    ],
+    "categoriesIds": [
+      "/3/16/",
+      "/3/"
+    ],
+    "link": "https://www.cafestore.com.br/filtro-natural-para-hario-v60-01-100un-com-caixa-2620/p",
+    "Características": [
+      "Caixa"
+    ],
+    "Capacidade / Volume": [
+      "Tamanho 01"
+    ],
+    "Conteúdo da embalagem": [
+      "100 unidades"
+    ],
+    "Cor": [
+      "Natural"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Características",
+      "Capacidade / Volume",
+      "Conteúdo da embalagem",
+      "Cor"
+    ],
+    "allSpecifications": [
+      "Características",
+      "Capacidade / Volume",
+      "Conteúdo da embalagem",
+      "Cor"
+    ],
+    "allSpecificationsGroups": [
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "O filtro de papel em formato de cone, permite a filtragem por igual e não deixa que o fluxo de água encontre qualquer tipo de obstáculo, resultando em uma bebida limpa e saborosa (sem resíduos), além de ressaltar algumas características do grão de café, como acidez e doçura.",
+    "items": [
+      {
+        "itemId": "1104",
+        "name": "Filtro Natural Para Hario V60-01-100UN Com Caixa",
+        "nameComplete": "Filtro Hario V60 Natural 100 unidades Tamanho 01 Filtro Natural Para Hario V60-01-100UN Com Caixa",
+        "complementName": "",
+        "ean": "4977642723801",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2620"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "157342",
+            "imageLabel": "",
+            "imageTag": "<img src=\"~/arquivos/ids/157342-#width#-#height#/filtro-papel-hario-natural-01-caixa.jpg?v=637121926957330000\" width=\"#width#\" height=\"#height#\" alt=\"filtro-papel-hario-natural-01-caixa\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/157342/filtro-papel-hario-natural-01-caixa.jpg?v=637121926957330000",
+            "imageText": "filtro-papel-hario-natural-01-caixa",
+            "imageLastModified": "2019-12-17T15:18:15.7330000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1104&qty=1&seller=1&sc=1&price=6900&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 69,
+              "ListPrice": 69,
+              "PriceWithoutDiscount": 69,
+              "FullSellingPrice": 69,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjgxNmQ2NTkzLWE3ODEtNDBiYS1hNTI5LTkzMmZhMzU0OTg3NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo2OTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxMTA0IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE0OTk4MiwiaWF0IjoxNzY1MTQ4MTgyLCJqdGkiOiI1ZjE4YmY3ZC1kYWIzLTRhMjMtYTM4Zi02MjNmZWQyZGEwMjEiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.SrKgdWyi_DW8-32rmYW0kSR1NqH13CBQZln8teVdiWD6SYKFTo55x_qeJ1cVg4ZdlLvnWjGf50_2musI9McHqg",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Filtro Hario V60 Natural 100 unidades Tamanho 01 Filtro Natural Para Hario V60-01-100UN Com Caixa não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

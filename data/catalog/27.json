@@ -1,0 +1,141 @@
+[
+  {
+    "productId": "27",
+    "productName": "Xarope Monin Baunilha 700 ml",
+    "brand": "Monin",
+    "brandId": 2000008,
+    "brandImageUrl": null,
+    "linkText": "xarope-monin-baunilha-700-ml_234",
+    "productReference": "234",
+    "productReferenceCode": "234",
+    "categoryId": "7",
+    "productTitle": "",
+    "metaTagDescription": "<BR><BR>Ingredientes:<BR><BR>Açúcar de beterraba, Água, Extrato Natural de Baunilha, Aromatizante Natural de Baunilha. Não Contém Glúten.<BR><BR>Aroma levemente doce com sabor 100% natural de baunilha. <BR><BR>Características:<BR><BR>- Altamente concentrado.<BR>- Não é alcoólico. <BR>-Sem conservantes<BR>- Prazo de validade longo<BR><BR><BR>Dicas de uso e consumo:<BR><BR>- Experimente combinar com Monin Macadâmia, Avelã ou Coco para uma experiência suave e amendoada. - Excelente para complementar e reduzir a acidez de quase todos os sabores de frutas vermelhas.<BR>- Ideal para utilização com leite e derivados (leite, cremes, iogurte, etc.).",
+    "releaseDate": "2019-01-30T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "162": "INVERNO",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Xaropes e Bebidas/Xaropes/",
+      "/Xaropes e Bebidas/"
+    ],
+    "categoriesIds": [
+      "/4/7/",
+      "/4/"
+    ],
+    "link": "https://www.cafestore.com.br/xarope-monin-baunilha-700-ml_234/p",
+    "Por volume (em ml)": [
+      "700ML"
+    ],
+    "Características": [
+      "Por volume (em ml)"
+    ],
+    "Marca": [
+      "Monin"
+    ],
+    "Material / composição": [
+      "Garrafa de Vidro"
+    ],
+    "Capacidade / Volume": [
+      "700ml"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca",
+      "Características",
+      "Material / composição",
+      "Capacidade / Volume"
+    ],
+    "allSpecifications": [
+      "Por volume (em ml)",
+      "Marca",
+      "Material / composição",
+      "Capacidade / Volume"
+    ],
+    "allSpecificationsGroups": [
+      "Características",
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "<BR><BR>Ingredientes:<BR><BR>Açúcar de beterraba, Água, Extrato Natural de Baunilha, Aromatizante Natural de Baunilha. Não Contém Glúten.<BR><BR>Aroma levemente doce com sabor 100% natural de baunilha. <BR><BR>Características:<BR><BR>- Altamente concentrado.<BR>- Não é alcoólico. <BR>-Sem conservantes<BR>- Prazo de validade longo<BR><BR><BR>Dicas de uso e consumo:<BR><BR>- Experimente combinar com Monin Macadâmia, Avelã ou Coco para uma experiência suave e amendoada. - Excelente para complementar e reduzir a acidez de quase todos os sabores de frutas vermelhas.<BR>- Ideal para utilização com leite e derivados (leite, cremes, iogurte, etc.).",
+    "items": [
+      {
+        "itemId": "27",
+        "name": "Xarope Monin de Baunilha 700ml",
+        "nameComplete": "Xarope Monin Baunilha 700 ml Xarope Monin de Baunilha 700ml",
+        "complementName": "",
+        "ean": "3052910041267",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "234"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "156378",
+            "imageLabel": "Frente",
+            "imageTag": "<img src=\"~/arquivos/ids/156378-#width#-#height#/Xarope-Monin-Baunilha-700-ml_234.jpg?v=636887966574900000\" width=\"#width#\" height=\"#height#\" alt=\"Xarope-Monin-Baunilha-700-ml_234\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/156378/Xarope-Monin-Baunilha-700-ml_234.jpg?v=636887966574900000",
+            "imageText": "Xarope-Monin-Baunilha-700-ml_234",
+            "imageLastModified": "2019-03-21T20:24:17.4900000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=27&qty=1&seller=1&sc=1&price=7190&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 71.9,
+              "ListPrice": 71.9,
+              "PriceWithoutDiscount": 71.9,
+              "FullSellingPrice": 71.9,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjBlODNmYjk3LTQ3NGItNDM4My05ODc2LWI1ODhhMjA1NzM5MSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo3MTkwLCJzZWxsZXIiOiIxIiwiaWQiOiIyNyIsImFjY291bnROYW1lIjoiY2FmZXN0b3JlIiwic2FsZXNDaGFubmVsIjoiMSJ9LCJleHAiOjE3NjUxNDkxNDIsImlhdCI6MTc2NTE0NzM0MiwianRpIjoiOGEzOWQ0Y2UtM2FiYS00MzYxLWFmY2UtMTZjMzY0ZTBkYTY5IiwiaXNzIjoic2Vzc2lvbi9kYXRhLXNpZ25lciJ9.g5oto5Ouiyi9fh3HL6cMxjjIvCki3oEL9VV1jKgL2oq7GD-9iuwb9KNcJzlaDBapNVwkQ7MyEwv48Nc68JvMzQ",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Xarope Monin Baunilha 700 ml Xarope Monin de Baunilha 700ml não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

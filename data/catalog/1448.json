@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1448",
+    "productName": "Revista Espresso - O Charme do Café em Casa -  Edição 12",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---o-charme-do-cafe-casa----edicao-12-2985",
+    "productReference": "2985",
+    "productReferenceCode": "2985",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "O tema principal da Espresso #12 é o charme do café em casa, ambientes especialmente criados para curtir momentos saborosos. Nas demais seções você encontra uma entrevista com Nathan Herszkowicz, informações sobre a produção de cafés em São Paulo, o relato de uma viagem à Alemanha, dicas de harmonização de café com charutos, diferentes receitas, indicações de cafeterias, novidades do setor e mais!",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---o-charme-do-cafe-casa----edicao-12-2985/p",
+    "description": "O tema principal da Espresso #12 é o charme do café em casa, ambientes especialmente criados para curtir momentos saborosos. Nas demais seções você encontra uma entrevista com Nathan Herszkowicz, informações sobre a produção de cafés em São Paulo, o relato de uma viagem à Alemanha, dicas de harmonização de café com charutos, diferentes receitas, indicações de cafeterias, novidades do setor e mais!",
+    "items": [
+      {
+        "itemId": "1447",
+        "name": "Revista Espresso - O Charme do Café Casa -  Edição 12",
+        "nameComplete": "Revista Espresso - O Charme do Café em Casa -  Edição 12 Revista Espresso - O Charme do Café Casa -  Edição 12",
+        "complementName": "",
+        "ean": "2985000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2985"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159056",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159056-#width#-#height#/2985_Revista-Espresso_O-Charme-do-Cafe-em-Casa_Edicao-12.jpg?v=637578102264700000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_12\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159056/2985_Revista-Espresso_O-Charme-do-Cafe-em-Casa_Edicao-12.jpg?v=637578102264700000",
+            "imageText": "rev_espresso_12",
+            "imageLastModified": "2021-05-28T14:50:26.4700000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1447&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjQ5YTE3NTE3LTJmOGEtNDY5Zi05MGM0LTExNTRlODdjNTk1NSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDQ3IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI0OSwiaWF0IjoxNzY1MTQ4NDQ5LCJqdGkiOiJkYzM4YjRmZC1iNmI5LTQzZWYtYjQwNS1hMWE0NzQwYTA5MzYiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.qY2xhfRnpXeFHYMpZeGyb8d6uEKWLdMkbCATXBN0TplWblLixTJrrdzYT3vf3NfWghbB--UVIr4p3JHKd2y1VQ",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - O Charme do Café em Casa -  Edição 12 Revista Espresso - O Charme do Café Casa -  Edição 12 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

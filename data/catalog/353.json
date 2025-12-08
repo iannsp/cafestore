@@ -1,0 +1,124 @@
+[
+  {
+    "productId": "353",
+    "productName": "Suporte para tamper Inox",
+    "brand": "Nitrojet",
+    "brandId": 2000054,
+    "brandImageUrl": null,
+    "linkText": "suporte-para-tamper-inox_1967",
+    "productReference": "1967",
+    "productReferenceCode": "1967",
+    "categoryId": "5",
+    "productTitle": "",
+    "metaTagDescription": "Suporte para tamper em aço Inox.<BR><BR>Usar o suporte como apoio ao tamper no momento da compactação do café.<BR>Garante uma boa compactação<BR>Evita ranhuras no balcão<BR>Dimensões:<BR><BR>Altura: 7cm<BR>Profundidade: 18cm<BR>Largura: 9cm",
+    "releaseDate": "2019-01-30T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "164": "BUNN",
+      "207": "fb",
+      "238": "CASHBACK 5%",
+      "240": "Feed Merchant 14.11"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Café Store Pro/",
+      "/Acessórios/",
+      "/Acessórios/Tampers/"
+    ],
+    "categoriesIds": [
+      "/5/",
+      "/3/",
+      "/3/38/"
+    ],
+    "link": "https://www.cafestore.com.br/suporte-para-tamper-inox_1967/p",
+    "Acessórios Profissionais": [
+      "Tamper"
+    ],
+    "Características": [
+      "Acessórios Profissionais"
+    ],
+    "allSpecifications": [
+      "Acessórios Profissionais"
+    ],
+    "allSpecificationsGroups": [
+      "Características"
+    ],
+    "description": "Suporte para tamper em aço Inox.<BR><BR>Usar o suporte como apoio ao tamper no momento da compactação do café.<BR>Garante uma boa compactação<BR>Evita ranhuras no balcão<BR>Dimensões:<BR><BR>Altura: 7cm<BR>Profundidade: 18cm<BR>Largura: 9cm",
+    "items": [
+      {
+        "itemId": "353",
+        "name": "Suporte para tamper em aço Inox",
+        "nameComplete": "Suporte para tamper Inox Suporte para tamper em aço Inox",
+        "complementName": "",
+        "ean": "7898666380023",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "1967"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "156026",
+            "imageLabel": "frente",
+            "imageTag": "<img src=\"~/arquivos/ids/156026-#width#-#height#/suporte-para-tamper-inox.jpg?v=636844508204470000\" width=\"#width#\" height=\"#height#\" alt=\"suporte-para-tamper-inox\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/156026/suporte-para-tamper-inox.jpg?v=636844508204470000",
+            "imageText": "suporte-para-tamper-inox",
+            "imageLastModified": "2019-01-30T13:13:40.4470000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=353&qty=1&seller=1&sc=1&price=9980&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 99.8,
+              "ListPrice": 99.8,
+              "PriceWithoutDiscount": 99.8,
+              "FullSellingPrice": 99.8,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6Ijc5NjcwNWU3LTY2NmMtNDNjYy04NGMxLWE3MGMxYjdlZjY5YiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo5OTgwLCJzZWxsZXIiOiIxIiwiaWQiOiIzNTMiLCJhY2NvdW50TmFtZSI6ImNhZmVzdG9yZSIsInNhbGVzQ2hhbm5lbCI6IjEifSwiZXhwIjoxNzY1MTQ5NDA2LCJpYXQiOjE3NjUxNDc2MDYsImp0aSI6ImFjMjBmOGVjLWVlMDEtNGFjMS1hYmJhLTMzNWIyYzgwNWYwNyIsImlzcyI6InNlc3Npb24vZGF0YS1zaWduZXIifQ.hzICtD5KU5XEE1GWXfnkbD3ADOelI-oKqbVp9u-PzhzTD-87gMgT3_1KniGzYUUyv9F2l2LjhSrf-BsVjQqchQ",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Suporte para tamper Inox Suporte para tamper em aço Inox não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

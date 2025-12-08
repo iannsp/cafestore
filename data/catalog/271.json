@@ -1,0 +1,135 @@
+[
+  {
+    "productId": "271",
+    "productName": "Máquina para Café Coado Bunn CWA APS 19L/hr",
+    "brand": "Bunn",
+    "brandId": 2000031,
+    "brandImageUrl": null,
+    "linkText": "maquina-para-cafe-coado-bunn-cwa-aps-19-l-hr_1650",
+    "productReference": "1650",
+    "productReferenceCode": "1650",
+    "categoryId": "5",
+    "productTitle": "",
+    "metaTagDescription": "<b> Cafeteira Manual com sistema Pour Over</b><BR><BR>• Volume de produção – 19L/hora",
+    "releaseDate": "2019-01-22T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "161": "Dia Nacional do Cafe 2020",
+      "164": "BUNN",
+      "207": "fb",
+      "232": "Bunn",
+      "240": "Feed Merchant 14.11"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Café Store Pro/",
+      "/Cafeteiras/",
+      "/Cafeteiras/Cafeteira Expresso/",
+      "/Cafeteiras/Cafeteira Expresso/Máquinas Profissionais/"
+    ],
+    "categoriesIds": [
+      "/5/",
+      "/2/",
+      "/2/144/",
+      "/2/144/199/"
+    ],
+    "link": "https://www.cafestore.com.br/maquina-para-cafe-coado-bunn-cwa-aps-19-l-hr_1650/p",
+    "Equipamentos": [
+      "Cafeteiras BUNN",
+      "Máquinas Profissionais"
+    ],
+    "Características": [
+      "Equipamentos"
+    ],
+    "Garantia do fornecedor": [
+      "12 meses (A garantia deste produto está vinculada à  instalação por técnico especializado e credenciado pela BUNN)."
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Garantia do fornecedor"
+    ],
+    "allSpecifications": [
+      "Equipamentos",
+      "Garantia do fornecedor"
+    ],
+    "allSpecificationsGroups": [
+      "Características",
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "<b>Descrição </b><BR><BR>\r\n<BR>• Volume de produção – 19L/hora\r\n<BR>• Construída totalmente em aço inoxidável\r\n<BR>•  Produz o café diretamente em Airpots e térmicas de até 2.5L ( vendidos separadamente )\r\n<BR>• Sistema Pourover de funcionamento manual, não requer conexão hidráulica - Totalmente portátil\r\n<BR>• Testado e aprovado pelo Inmetro\r\n<BR>• Imagem meramente ilustrativa\r\n<BR>• Voltagem: 220V\r\n<BR><BR>\r\nATENÇÃO: ESTE PRODUTO PRECISA SER ENVIADO NO MODO RÁPIDO.",
+    "items": [
+      {
+        "itemId": "271",
+        "name": "Máquina de Café coado BUNN - CWA/APS - 19 litros/hora",
+        "nameComplete": "Máquina para Café Coado Bunn CWA APS 19L/hr Máquina de Café coado BUNN - CWA/APS - 19 litros/hora",
+        "complementName": "",
+        "ean": "0072504107349",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "1650"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "155741",
+            "imageLabel": "Frente",
+            "imageTag": "<img src=\"~/arquivos/ids/155741-#width#-#height#/maquina-para-cafe-coado-bunn-cwa-aps-19-l-hr.jpg?v=636837637731700000\" width=\"#width#\" height=\"#height#\" alt=\"maquina-para-cafe-coado-bunn-cwa-aps-19-l-hr\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/155741/maquina-para-cafe-coado-bunn-cwa-aps-19-l-hr.jpg?v=636837637731700000",
+            "imageText": "maquina-para-cafe-coado-bunn-cwa-aps-19-l-hr",
+            "imageLastModified": "2019-01-22T14:22:53.1700000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=271&qty=1&seller=1&sc=1&price=903100&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 9031,
+              "ListPrice": 9031,
+              "PriceWithoutDiscount": 9031,
+              "FullSellingPrice": 9031,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjIxMzEwMmY2LWViYzEtNGJjZi05MzY2LTg3NjcwNDY0MmIzOCIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo5MDMxMDAsInNlbGxlciI6IjEiLCJpZCI6IjI3MSIsImFjY291bnROYW1lIjoiY2FmZXN0b3JlIiwic2FsZXNDaGFubmVsIjoiMSJ9LCJleHAiOjE3NjUxNDkzMzgsImlhdCI6MTc2NTE0NzUzOCwianRpIjoiOTIxY2RkNTMtZGRmMC00ZWFmLWFmMzQtNDcyNGNiZGZjOWU1IiwiaXNzIjoic2Vzc2lvbi9kYXRhLXNpZ25lciJ9.oIQiA-pqTO2seKuxEcAnG3btLeul9kSCoAyS321CmZh_cXqZi2Ll8VJRe8nAs3VWvkwXG-Mo1Sgnq_Nglf1Z3Q",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Máquina para Café Coado Bunn CWA APS 19L/hr Máquina de Café coado BUNN - CWA/APS - 19 litros/hora não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

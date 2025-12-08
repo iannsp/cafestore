@@ -1,0 +1,292 @@
+[
+  {
+    "productId": "431",
+    "productName": "Café do Centro Barista Prime em grãos 1 kg",
+    "brand": "Barista",
+    "brandId": 2000072,
+    "brandImageUrl": null,
+    "linkText": "cafe-barista-prime-em-graos-1kg_2180",
+    "productReference": "2180",
+    "productReferenceCode": "2180",
+    "categoryId": "40",
+    "productTitle": "Café do Centro Barista Prime em grãos 1 kg",
+    "metaTagDescription": "Café do Centro Barista Prime é um café com aroma doce e sabor de chocolate.",
+    "releaseDate": "2019-01-29T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "165": "Cafes especiais",
+      "181": "Assinatura",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "221": "Cafés",
+      "238": "CASHBACK 5%",
+      "240": "Feed Merchant 14.11",
+      "248": "CAFÉS"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Cafés/Por Método/Café em Grãos/",
+      "/Cafés/Por Método/",
+      "/Cafés/",
+      "/Cafés/Intensidade/",
+      "/Cafés/Intensidade/Café Médio/",
+      "/Cafés/Tipo/",
+      "/Cafés/Tipo/Café Certificado/"
+    ],
+    "categoriesIds": [
+      "/1/179/40/",
+      "/1/179/",
+      "/1/",
+      "/1/180/",
+      "/1/180/136/",
+      "/1/181/",
+      "/1/181/139/"
+    ],
+    "link": "https://www.cafestore.com.br/cafe-barista-prime-em-graos-1kg_2180/p",
+    "Por método": [
+      "Grãos"
+    ],
+    "Intensidade": [
+      "Média"
+    ],
+    "Tipo": [
+      "Certificado"
+    ],
+    "Por quantidade": [
+      "A partir de 1 Kg"
+    ],
+    "Características": [
+      "Por método",
+      "Intensidade",
+      "Tipo",
+      "Por quantidade"
+    ],
+    "Encontre seu café preferido": [
+      "Cafés em Grãos para moer a toda hora"
+    ],
+    "Busca Avancada": [
+      "Encontre seu café preferido"
+    ],
+    "Sabor": [
+      "notas de chocolate"
+    ],
+    "Aroma": [
+      "doce"
+    ],
+    "Torra": [
+      "média"
+    ],
+    "Acidez": [
+      "baixa"
+    ],
+    "Corpo": [
+      "médio"
+    ],
+    "Certificação e premiação": [
+      "Certificado ABIC de Pureza e Qualidade Superior"
+    ],
+    "Especificaçoes cafe e bebidas": [
+      "Intensidade",
+      "Sabor",
+      "Aroma",
+      "Torra",
+      "Acidez",
+      "Corpo",
+      "Tipo",
+      "Certificação e premiação"
+    ],
+    "Marca": [
+      "Café do Centro"
+    ],
+    "Peso líquido aproximado do produto (kg)": [
+      "1kg"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca",
+      "Peso líquido aproximado do produto (kg)"
+    ],
+    "allSpecifications": [
+      "Por método",
+      "Intensidade",
+      "Tipo",
+      "Por quantidade",
+      "Encontre seu café preferido",
+      "Sabor",
+      "Aroma",
+      "Torra",
+      "Acidez",
+      "Corpo",
+      "Certificação e premiação",
+      "Marca",
+      "Peso líquido aproximado do produto (kg)"
+    ],
+    "allSpecificationsGroups": [
+      "Características",
+      "Busca Avancada",
+      "Especificaçoes cafe e bebidas",
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "<span style=\"font-size:16px\">Café do Centro Barista Prime é um café com aroma doce e sabor de chocolate. Esse blend especial é fruto da nossa incansável busca por selecionar os melhores grãos de arábica das melhores regiões produtoras de café do Brasil, seguidos de um rigoroso processo de torra.</span>",
+    "items": [
+      {
+        "itemId": "431",
+        "name": "Café do Centro Barista Prime em grãos 1 kg",
+        "nameComplete": "Café do Centro Barista Prime em grãos 1 kg",
+        "complementName": "",
+        "ean": "7898251100036",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2180"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "166233",
+            "imageLabel": "cafebaristaprimeemgraos1kg",
+            "imageTag": "<img src=\"~/arquivos/ids/166233-#width#-#height#/2180-Cafe_Barista_Prime_em_graos_1kg_2.jpg?v=638763565544170000\" width=\"#width#\" height=\"#height#\" alt=\"cafe-barista-prime-em-graos-1kg\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/166233/2180-Cafe_Barista_Prime_em_graos_1kg_2.jpg?v=638763565544170000",
+            "imageText": "cafe-barista-prime-em-graos-1kg",
+            "imageLastModified": "2025-02-28T16:22:34.4170000Z"
+          },
+          {
+            "imageId": "166234",
+            "imageLabel": "Frente",
+            "imageTag": "<img src=\"~/arquivos/ids/166234-#width#-#height#/2180-Cafe_Barista_Prime_em_graos_1kg_3.jpg?v=638763565544470000\" width=\"#width#\" height=\"#height#\" alt=\"cafe-barista-prime-em-graos-1kg\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/166234/2180-Cafe_Barista_Prime_em_graos_1kg_3.jpg?v=638763565544470000",
+            "imageText": "cafe-barista-prime-em-graos-1kg",
+            "imageLastModified": "2025-02-28T16:22:34.4470000Z"
+          },
+          {
+            "imageId": "166235",
+            "imageLabel": "cafebaristaprimeemgraos1kg",
+            "imageTag": "<img src=\"~/arquivos/ids/166235-#width#-#height#/2180-Cafe_Barista_Prime_em_graos_1kg.jpg?v=638763565544630000\" width=\"#width#\" height=\"#height#\" alt=\"cafe-barista-prime-em-graos-1kg\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/166235/2180-Cafe_Barista_Prime_em_graos_1kg.jpg?v=638763565544630000",
+            "imageText": "cafe-barista-prime-em-graos-1kg",
+            "imageLastModified": "2025-02-28T16:22:34.4630000Z"
+          }
+        ],
+        "attachments": [
+          {
+            "id": 3,
+            "name": "vtex.subscription.assinatura",
+            "required": false,
+            "domainValues": "[{\"FieldName\":\"vtex.subscription.key.frequency\",\"MaxCaracters\":\"\",\"DomainValues\":\"1 month, 2 month, 3 month\"}]"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=431&qty=1&seller=1&sc=1&price=10800&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [
+                {
+                  "Name": "Café do Centro Barista Prime em grãos 1 kg",
+                  "NameComplete": "Café do Centro Barista Prime em grãos 1 kg",
+                  "MainImage": "https://cafestore.vteximg.com.br/arquivos/ids/166233/2180-Cafe_Barista_Prime_em_graos_1kg_2.jpg",
+                  "BrandName": "Barista",
+                  "CategoryId": 40,
+                  "ProductId": 431,
+                  "id": "431",
+                  "seller": "1",
+                  "assemblyOptions": [
+                    {
+                      "id": "vtex.subscription.assinatura",
+                      "name": "vtex.subscription.assinatura",
+                      "required": false,
+                      "inputValues": {
+                        "vtex.subscription.key.frequency": {
+                          "maximumNumberOfCharacters": 8,
+                          "domain": [
+                            "1 month",
+                            " 2 month",
+                            " 3 month"
+                          ]
+                        }
+                      },
+                      "composition": null
+                    }
+                  ]
+                }
+              ],
+              "Price": 108,
+              "ListPrice": 116,
+              "PriceWithoutDiscount": 108,
+              "FullSellingPrice": 108,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjE1NTRmOTViLTBlNjYtNDM0NS04MTVjLTc5NWYzMjE3ZGFkMiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxMDgwMCwic2VsbGVyIjoiMSIsImlkIjoiNDMxIiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE0OTQ2NywiaWF0IjoxNzY1MTQ3NjY3LCJqdGkiOiJhZGNlZDFkOC1jZDM4LTQxMjItODMzYS01YTk4ZmQ0ZTliMGQiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.-IZbujPyMvj7di-noFC8xjZPN1_DSBA09_XV7CvRAccWc1em3oW4N8OUHUtgYe-GCD81MK6VwWrRPyiO0Bo1gQ",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T03:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Café do Centro Barista Prime em grãos 1 kg não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ],
+    "itemMetadata": {
+      "items": [
+        {
+          "Name": "Café do Centro Barista Prime em grãos 1 kg",
+          "NameComplete": "Café do Centro Barista Prime em grãos 1 kg",
+          "MainImage": "https://cafestore.vteximg.com.br/arquivos/ids/166233/2180-Cafe_Barista_Prime_em_graos_1kg_2.jpg",
+          "BrandName": "Barista",
+          "CategoryId": 40,
+          "ProductId": 431,
+          "id": "431",
+          "seller": "1",
+          "assemblyOptions": [
+            {
+              "id": "vtex.subscription.assinatura",
+              "name": "vtex.subscription.assinatura",
+              "required": false,
+              "inputValues": {
+                "vtex.subscription.key.frequency": {
+                  "maximumNumberOfCharacters": 8,
+                  "domain": [
+                    "1 month",
+                    " 2 month",
+                    " 3 month"
+                  ]
+                }
+              },
+              "composition": null
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

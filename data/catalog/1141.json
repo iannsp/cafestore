@@ -1,0 +1,131 @@
+[
+  {
+    "productId": "1141",
+    "productName": "Escova para Limpeza FPRO",
+    "brand": "FPRO",
+    "brandId": 2000016,
+    "brandImageUrl": null,
+    "linkText": "escova-para-limpeza-de-grupo-fpro-2702",
+    "productReference": "2702",
+    "productReferenceCode": "2702",
+    "categoryId": "34",
+    "productTitle": "",
+    "metaTagDescription": "<br>Escova para limpeza profissional de máquinas de café espresso. <br><br>\r\nDesenvolvida com material resistente e de fácil higienização.",
+    "releaseDate": "2020-02-04T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Acessórios/Itens para Limpeza/",
+      "/Acessórios/"
+    ],
+    "categoriesIds": [
+      "/3/34/",
+      "/3/"
+    ],
+    "link": "https://www.cafestore.com.br/escova-para-limpeza-de-grupo-fpro-2702/p",
+    "Marca": [
+      "Flavor´s"
+    ],
+    "Conteúdo da embalagem": [
+      "1 escova"
+    ],
+    "Cor": [
+      "Preta"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca",
+      "Conteúdo da embalagem",
+      "Cor"
+    ],
+    "allSpecifications": [
+      "Marca",
+      "Conteúdo da embalagem",
+      "Cor"
+    ],
+    "allSpecificationsGroups": [
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "<br>Escova para limpeza profissional de máquinas de café espresso. <br><br>\r\nDesenvolvida com material resistente e de fácil higienização.",
+    "items": [
+      {
+        "itemId": "1142",
+        "name": "Escova para Limpeza de Grupo FPRO",
+        "nameComplete": "Escova para Limpeza FPRO Escova para Limpeza de Grupo FPRO",
+        "complementName": "",
+        "ean": "7898938133548",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2702"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "157365",
+            "imageLabel": "",
+            "imageTag": "<img src=\"~/arquivos/ids/157365-#width#-#height#/escova-limpeza-fpro-preta.jpg?v=637165933667030000\" width=\"#width#\" height=\"#height#\" alt=\"escova-limpeza-fpro-preta\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/157365/escova-limpeza-fpro-preta.jpg?v=637165933667030000",
+            "imageText": "escova-limpeza-fpro-preta",
+            "imageLastModified": "2020-02-06T13:42:46.7030000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1142&qty=1&seller=1&sc=1&price=3600&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 36,
+              "ListPrice": 36,
+              "PriceWithoutDiscount": 36,
+              "FullSellingPrice": 36,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjgxOWI1ZTQ0LTcyZWItNDM1MC1iMDJjLTU4YzViZjhiYTk3YSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjozNjAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxMTQyIiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDAxMiwiaWF0IjoxNzY1MTQ4MjEyLCJqdGkiOiI5NTcyYjIzMy05ZDc2LTQ1ZDUtOTU2Mi02YmNmNDU5M2I2ZmIiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.84zcZSca-vjSnm0pzOm9t5lAjlfdsLcRvRa1xgr3fq4Ymy1IQ_Ypu0pHMFYRgV25qi9MEKtyYC2hytfoedAr-w",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Escova para Limpeza FPRO Escova para Limpeza de Grupo FPRO não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

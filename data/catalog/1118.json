@@ -1,0 +1,109 @@
+[
+  {
+    "productId": "1118",
+    "productName": "Nivelador 53mm FPRO Preto",
+    "brand": "FPRO",
+    "brandId": 2000016,
+    "brandImageUrl": null,
+    "linkText": "nivelador-53mm-fpro-preto-2657",
+    "productReference": "2657",
+    "productReferenceCode": "2657",
+    "categoryId": "38",
+    "productTitle": "",
+    "metaTagDescription": "Nivelador 53mm FPRO preto",
+    "releaseDate": "2019-12-09T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Acessórios/Tampers/",
+      "/Acessórios/"
+    ],
+    "categoriesIds": [
+      "/3/38/",
+      "/3/"
+    ],
+    "link": "https://www.cafestore.com.br/nivelador-53mm-fpro-preto-2657/p",
+    "description": "Nivelador 53mm FPRO preto",
+    "items": [
+      {
+        "itemId": "1119",
+        "name": "Nivelador 53mm FPRO Preto",
+        "nameComplete": "Nivelador 53mm FPRO Preto",
+        "complementName": "",
+        "ean": "7898938133555",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2657"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "157335",
+            "imageLabel": "",
+            "imageTag": "<img src=\"~/arquivos/ids/157335-#width#-#height#/nivelador-tamper-fpro-53.jpg?v=637121077543600000\" width=\"#width#\" height=\"#height#\" alt=\"nivelador-tamper-fpro-53\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/157335/nivelador-tamper-fpro-53.jpg?v=637121077543600000",
+            "imageText": "nivelador-tamper-fpro-53",
+            "imageLastModified": "2019-12-16T15:42:34.3600000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1119&qty=1&seller=1&sc=1&price=30880&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 308.8,
+              "ListPrice": 308.8,
+              "PriceWithoutDiscount": 308.8,
+              "FullSellingPrice": 308.8,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6Ijk1ZDM2YWEyLTZmZjEtNGM1Yi1iYzc5LTIzMjc5YmI3OWU4NCIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjozMDg4MCwic2VsbGVyIjoiMSIsImlkIjoiMTExOSIsImFjY291bnROYW1lIjoiY2FmZXN0b3JlIiwic2FsZXNDaGFubmVsIjoiMSJ9LCJleHAiOjE3NjUxNDk5OTQsImlhdCI6MTc2NTE0ODE5NCwianRpIjoiOGNlNDRjNDAtMWNmZS00MzU3LWIzYTUtZDM5YzgwOGQ4NWEzIiwiaXNzIjoic2Vzc2lvbi9kYXRhLXNpZ25lciJ9.8q7jl5yz1nku2bxiqk4yGR2PpYC4oZyU4EG2gYbyeFNntImkJOUUbxtnxY6CocrxG1eIVeJB7DTsFEw94FxKJw",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Nivelador 53mm FPRO Preto não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

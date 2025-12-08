@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1443",
+    "productName": "Revista Espresso - Café - Portinari - Fair Trade - Fernando de Noronha - Esgrima - Edição 07",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---cafe---portinari---fair-trade---fernando-de-noronha---esgrima---edicao-07-2980",
+    "productReference": "2980",
+    "productReferenceCode": "2980",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "Nas páginas da Espresso #7 é possível encontrar seções que abordam o fair trade, a política café com leite, as máquinas de espresso e o mapeamento do DNA do grão no Projeto Genoma Café. Além disso, há matérias sobre o esporte esgrima, entrevista com o alpinista Waldemar Niclevicz, as obras de Candido Portinari, indicações de cafeterias, dicas de preparo, entrevistas exclusivas, receitas diversas e novidades do setor.",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---cafe---portinari---fair-trade---fernando-de-noronha---esgrima---edicao-07-2980/p",
+    "description": "Nas páginas da Espresso #7 é possível encontrar seções que abordam o fair trade, a política café com leite, as máquinas de espresso e o mapeamento do DNA do grão no Projeto Genoma Café. Além disso, há matérias sobre o esporte esgrima, entrevista com o alpinista Waldemar Niclevicz, as obras de Candido Portinari, indicações de cafeterias, dicas de preparo, entrevistas exclusivas, receitas diversas e novidades do setor.",
+    "items": [
+      {
+        "itemId": "1442",
+        "name": "Revista Espresso - Café - Portinari - Fair Trade - Fernando de Noronha - Esgrima - Edição 07",
+        "nameComplete": "Revista Espresso - Café - Portinari - Fair Trade - Fernando de Noronha - Esgrima - Edição 07",
+        "complementName": "",
+        "ean": "9771806297031",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2980"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159062",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159062-#width#-#height#/2980_Revista-Espresso_Cafe-Portinari-Fair-Trade-Fernando-de-Noronha-Esgria_Edicao-07.jpg?v=637578104203100000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_7\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159062/2980_Revista-Espresso_Cafe-Portinari-Fair-Trade-Fernando-de-Noronha-Esgria_Edicao-07.jpg?v=637578104203100000",
+            "imageText": "rev_espresso_7",
+            "imageLastModified": "2021-05-28T14:53:40.3100000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1442&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjM5ZTljOTBjLTUxZGItNDAzMi04NDFhLTdlYzg2MmJlYjA2NCIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDQyIiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI0NSwiaWF0IjoxNzY1MTQ4NDQ1LCJqdGkiOiI0ZDE3Yjg0Ni03OTI1LTQwZTctOGNkMC1lYmQxNTY1ZWUzNmMiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.g13_OI5GzlaHC6ezSoo0A5nTPQ8YZ9ePoB4rG4Uu9THBi64Rjh8m_2iS-ztkfy4nHrCtaSfvDbYGdu7okeVa4A",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Café - Portinari - Fair Trade - Fernando de Noronha - Esgrima - Edição 07 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

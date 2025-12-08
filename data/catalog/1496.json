@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1496",
+    "productName": "Revista Espresso - Especial 15 anos Café 2.0  - Edição 60",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---especial-15-anos-cafe-2-0----edicao-60-3033",
+    "productReference": "3033",
+    "productReferenceCode": "3033",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "São 15 anos da Revista Espresso! 15 anos de muito trabalho, dedicação e cuidado para trazer todas as novidades e curiosidades do café! Esta edição mais que especial conta toda a trajetória da nossa queridinha, que há 15 anos fazia parte do sonho de um jovem recém-formado. Além disso, traz quatro colunas assinadas por pessoas de diferentes partes do mercado cafeeiro, que a cada dia contribuem para a evolução do café. Para completar, assuntos como 15 cafeterias especiais; tendência do mercado internacional; empreendedorismo e como cada profissional colaborou para o desenvolvimento do café de qualidade no Brasil. Para fechar com chave de ouro, uma entrevista especial com a atriz Maitê Proença e várias receitinhas veganas deliciosas e práticas de fazer. Aproveite essa edição, conheça um pouco mais da nossa história e se delicie no mundo do café!",
+    "releaseDate": "2021-05-19T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---especial-15-anos-cafe-2-0----edicao-60-3033/p",
+    "description": "São 15 anos da Revista Espresso! 15 anos de muito trabalho, dedicação e cuidado para trazer todas as novidades e curiosidades do café! Esta edição mais que especial conta toda a trajetória da nossa queridinha, que há 15 anos fazia parte do sonho de um jovem recém-formado. Além disso, traz quatro colunas assinadas por pessoas de diferentes partes do mercado cafeeiro, que a cada dia contribuem para a evolução do café. Para completar, assuntos como 15 cafeterias especiais; tendência do mercado internacional; empreendedorismo e como cada profissional colaborou para o desenvolvimento do café de qualidade no Brasil. Para fechar com chave de ouro, uma entrevista especial com a atriz Maitê Proença e várias receitinhas veganas deliciosas e práticas de fazer. Aproveite essa edição, conheça um pouco mais da nossa história e se delicie no mundo do café!",
+    "items": [
+      {
+        "itemId": "1495",
+        "name": "Revista Espresso - Especial 15 anos Café 2.0  - Edição 60",
+        "nameComplete": "Revista Espresso - Especial 15 anos Café 2.0  - Edição 60",
+        "complementName": "",
+        "ean": "3033000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3033"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159121",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159121-#width#-#height#/3033_Revista-Espresso_Especial-15-anos-Cafe-2-0_Edicao-60.jpg?v=637584076163930000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_60\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159121/3033_Revista-Espresso_Especial-15-anos-Cafe-2-0_Edicao-60.jpg?v=637584076163930000",
+            "imageText": "rev_espresso_60",
+            "imageLastModified": "2021-06-04T12:46:56.3930000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1495&qty=1&seller=1&sc=1&price=2000&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 20,
+              "ListPrice": 20,
+              "PriceWithoutDiscount": 20,
+              "FullSellingPrice": 20,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImMyNDcxOTA0LTFkZGQtNDRmZi1iNmQwLThkM2ViZTcyYzk0NSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoyMDAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDk1IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI4OCwiaWF0IjoxNzY1MTQ4NDg4LCJqdGkiOiI1YzdjMzRlZS02YjM1LTQyMWYtOTUwYi01NjU3ZmNiOTliMDYiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.GS_QGTTxuxWqV67N7ypm-_BI1KVBqIgvHEPb_-_H4jRYWbY3bTFMKWU-vrNug68o-2M9NW08LtIRDobtpFztwg",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Especial 15 anos Café 2.0  - Edição 60 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

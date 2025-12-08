@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1470",
+    "productName": "Revista Espresso - Delícias com Café - Edição 34",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---delicias-com-cafe---edicao-34-3007",
+    "productReference": "3007",
+    "productReferenceCode": "3007",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "Na edição #34 da Espresso é possível acompanhar degustações, receitas, novos métodos de preparo de café e um passeio por cafeterias e fazendas produtoras. Na matéria de capa, quatro receitas de slices, pequenas delícias em pedaços para serem degustadas com café. Na seção Receitas, delícias refrescantes para o verão: Coffee Time, Affogato e Torta Verão. Já na seção Fala Barista!, um bate papo com o barista Lucas Salomão. Na seção Cafeicultura, saiba qual a importância da florada do café. Outro destaque da edição é o chá oolong, rara variedade de chá produzida no norte da Tailândia.",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---delicias-com-cafe---edicao-34-3007/p",
+    "description": "Na edição #34 da Espresso é possível acompanhar degustações, receitas, novos métodos de preparo de café e um passeio por cafeterias e fazendas produtoras. Na matéria de capa, quatro receitas de slices, pequenas delícias em pedaços para serem degustadas com café. Na seção Receitas, delícias refrescantes para o verão: Coffee Time, Affogato e Torta Verão. Já na seção Fala Barista!, um bate papo com o barista Lucas Salomão. Na seção Cafeicultura, saiba qual a importância da florada do café. Outro destaque da edição é o chá oolong, rara variedade de chá produzida no norte da Tailândia.",
+    "items": [
+      {
+        "itemId": "1469",
+        "name": "Revista Espresso - Delícias com Café - Edição 34",
+        "nameComplete": "Revista Espresso - Delícias com Café - Edição 34",
+        "complementName": "",
+        "ean": "3007000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3007"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159095",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159095-#width#-#height#/3007_Revista-Espresso_Delicias-com-Cafe_Edicao-34.jpg?v=637583221997370000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_34\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159095/3007_Revista-Espresso_Delicias-com-Cafe_Edicao-34.jpg?v=637583221997370000",
+            "imageText": "rev_espresso_34",
+            "imageLastModified": "2021-06-03T13:03:19.7370000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1469&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImM0NmFlNjExLTA3ZDctNGNiYS05MDdhLTI5YjU5ODdmYmFlMiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDY5IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI2NywiaWF0IjoxNzY1MTQ4NDY3LCJqdGkiOiI0MDk4YjI1Yy1hMDVmLTQ1YmMtYWFkZS0yMjI4MmNjYmYyMGYiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.NMc9K20t2TpAWCh_qos0VFx_7qO4MZ06OBZHhT90Ouc8CabBMDigROG2o7xi7HNjiJvTQZYJKChlY5B-JFQ0lw",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Delícias com Café - Edição 34 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

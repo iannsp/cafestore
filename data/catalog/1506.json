@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1506",
+    "productName": "Revista Espresso - Café a Toda Hora - Edição 71",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---cafe-a-toda-hora---edicao-71-3044",
+    "productReference": "3044",
+    "productReferenceCode": "3044",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "A Espresso #71 destaca a importância do café no nosso dia a dia durante o isolamento social. Quando o simples preparo de uma xícara se transforma em um momento sagrado, de reflexão e inspiração! Uma pausa na rotina para apreciar a nossa bebida favorita. É nesta edição que batemos um papo interessante com a cantora Negra Li, visitamos uma fazenda de café em Cristalina (GO) e fizemos uma degustação inteira apenas com leites, analisando como eles se comportam com o café. Você também confere dicas de preparo, receitas deliciosas, indicações de cafeterias, novidades do setor e muitas outras coisas bacanas!",
+    "releaseDate": "2021-05-19T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---cafe-a-toda-hora---edicao-71-3044/p",
+    "description": "A Espresso #71 destaca a importância do café no nosso dia a dia durante o isolamento social. Quando o simples preparo de uma xícara se transforma em um momento sagrado, de reflexão e inspiração! Uma pausa na rotina para apreciar a nossa bebida favorita. É nesta edição que batemos um papo interessante com a cantora Negra Li, visitamos uma fazenda de café em Cristalina (GO) e fizemos uma degustação inteira apenas com leites, analisando como eles se comportam com o café. Você também confere dicas de preparo, receitas deliciosas, indicações de cafeterias, novidades do setor e muitas outras coisas bacanas!",
+    "items": [
+      {
+        "itemId": "1505",
+        "name": "Revista Espresso - Café a Toda Hora - Edição 71",
+        "nameComplete": "Revista Espresso - Café a Toda Hora - Edição 71",
+        "complementName": "",
+        "ean": "3044000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3044"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159132",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159132-#width#-#height#/3044_Revista-Espresso_Cafe-a-Toda-Hora_Edicao-71.jpg?v=637584092260470000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_71\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159132/3044_Revista-Espresso_Cafe-a-Toda-Hora_Edicao-71.jpg?v=637584092260470000",
+            "imageText": "rev_espresso_71",
+            "imageLastModified": "2021-06-04T13:13:46.0470000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1505&qty=1&seller=1&sc=1&price=2000&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 20,
+              "ListPrice": 20,
+              "PriceWithoutDiscount": 20,
+              "FullSellingPrice": 20,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjExMWEwNGE5LWVlZTAtNGZmZS04YjRiLTFhODQ2OTBjYWI4MSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoyMDAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNTA1IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI5NSwiaWF0IjoxNzY1MTQ4NDk1LCJqdGkiOiI4MmVhN2JlYy1hZjc5LTQ5OGYtYWQ3Ny0wMjEzM2RhOTEzYTEiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.KwyHr3Qk8hKukjrUd_rwoy1MHIwcQNScZg892HO23HsFDR98URZQ1IbqnfpID7qLRz1bYYuhDgCYQqJVTIjI5A",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Café a Toda Hora - Edição 71 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

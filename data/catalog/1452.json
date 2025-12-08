@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1452",
+    "productName": "Revista Espresso - Degustação de Cafés -  Edição 16",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---degustacao-de-cafes----edicao-16-2989",
+    "productReference": "2989",
+    "productReferenceCode": "2989",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "A Espresso #16 traz em sua matéria de capa a arte de apreciar um espresso: crema, aroma, corpo e sabor. As demais páginas abordam produtos orgânicos, apetrechos dos baristas, uma coluna sobre certificações, uma viagem para a Índia, café em pratos salgados, indicações de cafeterias nacionais e internacionais, um doppio com o jornalista Marcelo Tas, dicas de preparo, novidades do setor e diversas receitas.",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---degustacao-de-cafes----edicao-16-2989/p",
+    "description": "A Espresso #16 traz em sua matéria de capa a arte de apreciar um espresso: crema, aroma, corpo e sabor. As demais páginas abordam produtos orgânicos, apetrechos dos baristas, uma coluna sobre certificações, uma viagem para a Índia, café em pratos salgados, indicações de cafeterias nacionais e internacionais, um doppio com o jornalista Marcelo Tas, dicas de preparo, novidades do setor e diversas receitas.",
+    "items": [
+      {
+        "itemId": "1451",
+        "name": "Revista Espresso - Degustação de Cafés -  Edição 16",
+        "nameComplete": "Revista Espresso - Degustação de Cafés -  Edição 16",
+        "complementName": "",
+        "ean": "2989000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2989"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159074",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159074-#width#-#height#/2989_Revista-Espresso_Degustacao-de-Cafes_Edicao-16.jpg?v=637582587529000000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_16\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159074/2989_Revista-Espresso_Degustacao-de-Cafes_Edicao-16.jpg?v=637582587529000000",
+            "imageText": "rev_espresso_16",
+            "imageLastModified": "2021-06-02T19:25:52.9000000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1451&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjMxNjBhYzgzLWQxOWEtNDgwMy1hMGUwLTE5ODk4ZmE2OGJmYSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDUxIiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI1MiwiaWF0IjoxNzY1MTQ4NDUyLCJqdGkiOiI1MTBjNTNhNC1hY2ZkLTQzYTAtYjM2YS1mZWVjYzA4YTljNmUiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.ojrg8vecMOkruJb6ibj5I8kGcsIOettJ7lIHEOYH0NUqXXHmW9tfonNgpLszxyJt4GfzIsYio9nZ9x_4sZyZGA",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Degustação de Cafés -  Edição 16 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

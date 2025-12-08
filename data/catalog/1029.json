@@ -1,0 +1,146 @@
+[
+  {
+    "productId": "1029",
+    "productName": "Tampa para Jarra XGS Sem Anel de Silicone",
+    "brand": "Hario",
+    "brandId": 2000025,
+    "brandImageUrl": null,
+    "linkText": "tampa-de-vidro-para-jarra-xgs-sem-anel-de-silicone-2552",
+    "productReference": "2552",
+    "productReferenceCode": "2552",
+    "categoryId": "35",
+    "productTitle": "",
+    "metaTagDescription": "Tampa em vidro para substituição em jarras Hario modelo XGS-36TB e XGS-60TB (sem anel de silicone). Peça original Hario. Feito em vidro de borosilicato. Compatível com modelos XGS-36TB e XGS-60TB. Não acompanha anel de silicone de vedação.\r\n\r\nPeça original Hario.",
+    "releaseDate": "2019-10-04T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Acessórios/Peças de Reposição/",
+      "/Acessórios/"
+    ],
+    "categoriesIds": [
+      "/3/35/",
+      "/3/"
+    ],
+    "link": "https://www.cafestore.com.br/tampa-de-vidro-para-jarra-xgs-sem-anel-de-silicone-2552/p",
+    "Marca": [
+      "Hario"
+    ],
+    "Material / composição": [
+      "Vidro"
+    ],
+    "Dimensões aproximadas do produto (cm)- AxLxP": [
+      "2,6 x 8,1 x 8,1"
+    ],
+    "Peso líquido aproximado do produto (kg)": [
+      "53"
+    ],
+    "Dimensões aproximadas da embalagem (cm) – AxLxP": [
+      "16 x 12,7 x 4"
+    ],
+    "Peso aproximado da embalagem do produto (kg)": [
+      "52"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca",
+      "Material / composição",
+      "Dimensões aproximadas do produto (cm)- AxLxP",
+      "Peso líquido aproximado do produto (kg)",
+      "Dimensões aproximadas da embalagem (cm) – AxLxP",
+      "Peso aproximado da embalagem do produto (kg)"
+    ],
+    "allSpecifications": [
+      "Marca",
+      "Material / composição",
+      "Dimensões aproximadas do produto (cm)- AxLxP",
+      "Peso líquido aproximado do produto (kg)",
+      "Dimensões aproximadas da embalagem (cm) – AxLxP",
+      "Peso aproximado da embalagem do produto (kg)"
+    ],
+    "allSpecificationsGroups": [
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "Tampa em vidro para substituição em jarras Hario modelo XGS-36TB e XGS-60TB (sem anel de silicone). Peça original Hario. Feito em vidro de borosilicato. Compatível com modelos XGS-36TB e XGS-60TB. Não acompanha anel de silicone de vedação.\r\n\r\nPeça original Hario.",
+    "items": [
+      {
+        "itemId": "1030",
+        "name": "Tampa de Vidro para Jarra XGS Sem Anel de Silicone",
+        "nameComplete": "Tampa para Jarra XGS Sem Anel de Silicone Tampa de Vidro para Jarra XGS Sem Anel de Silicone",
+        "complementName": "",
+        "ean": "4977642722316",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2552"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "157147",
+            "imageLabel": "",
+            "imageTag": "<img src=\"~/arquivos/ids/157147-#width#-#height#/Tampa-vidro-jarra-xgs.jpg?v=637061546528570000\" width=\"#width#\" height=\"#height#\" alt=\"Tampa-vidro-jarra-xgs\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/157147/Tampa-vidro-jarra-xgs.jpg?v=637061546528570000",
+            "imageText": "Tampa-vidro-jarra-xgs",
+            "imageLastModified": "2019-10-08T18:04:12.8570000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1030&qty=1&seller=1&sc=1&price=13300&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 133,
+              "ListPrice": 133,
+              "PriceWithoutDiscount": 133,
+              "FullSellingPrice": 133,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjkxY2Y2YTNhLTliYzEtNGNlNS05MTM0LTA5NTJhZWEzOWY1MyIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxMzMwMCwic2VsbGVyIjoiMSIsImlkIjoiMTAzMCIsImFjY291bnROYW1lIjoiY2FmZXN0b3JlIiwic2FsZXNDaGFubmVsIjoiMSJ9LCJleHAiOjE3NjUxNDk5MjQsImlhdCI6MTc2NTE0ODEyNCwianRpIjoiNTYxNDdmMjQtNzNjYS00N2U0LWFiN2EtN2ViMjEwNzg1NzA1IiwiaXNzIjoic2Vzc2lvbi9kYXRhLXNpZ25lciJ9.FwyajRO-H-z78YDqsiaGr3yfitaDVAhbRX8SpgmgxfSOmsImqEYa7nh5y2DgMG5zg9IPU4DSxlGHVvCzPsKPdg",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Tampa para Jarra XGS Sem Anel de Silicone Tampa de Vidro para Jarra XGS Sem Anel de Silicone não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

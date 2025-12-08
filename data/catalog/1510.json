@@ -1,0 +1,133 @@
+[
+  {
+    "productId": "1510",
+    "productName": "Revista Espresso - Café Reúne - Edição Comemorativa 18 Anos - Edição 72",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso----edicao-72-3045",
+    "productReference": "3045",
+    "productReferenceCode": "3045",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "São 18 anos de Revista Espresso! Para comemorar, a edição #72 traz várias histórias de profissionais e amantes da bebida que, assim como nós, tiveram suas vidas mudadas pelo café. Aproveite para conhecer as Montanhas do Espírito Santo, região que abriga o campeão do Coffee of The Year 2020 na categoria arábica. Descubra como acontece o processo de fermentação do café! Para solucionar suas dúvidas, separamos 12 questionamentos sobre o preparo do café e sua relação com a saúde. Em Gastronomia, ensinamos como fazer doce de leite em casa e disponibilizamos diferentes receitas de docinhos. Além disso, as demais páginas contam com indicações de cafeterias, novidades do mercado e entrevistas exclusivas!",
+    "releaseDate": "2021-05-29T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso----edicao-72-3045/p",
+    "Sobre": [
+      "Revista especializada em café"
+    ],
+    "Conteúdo": [
+      "Café, tendências, novidades do mercado, negócios"
+    ],
+    "Descrição": [
+      "Sobre",
+      "Conteúdo"
+    ],
+    "allSpecifications": [
+      "Sobre",
+      "Conteúdo"
+    ],
+    "allSpecificationsGroups": [
+      "Descrição"
+    ],
+    "description": "São 18 anos de Revista Espresso! Para comemorar, a edição #72 traz várias histórias de profissionais e amantes da bebida que, assim como nós, tiveram suas vidas mudadas pelo café. Aproveite para conhecer as Montanhas do Espírito Santo, região que abriga o campeão do Coffee of The Year 2020 na categoria arábica. Descubra como acontece o processo de fermentação do café! Para solucionar suas dúvidas, separamos 12 questionamentos sobre o preparo do café e sua relação com a saúde. Em Gastronomia, ensinamos como fazer doce de leite em casa e disponibilizamos diferentes receitas de docinhos. Além disso, as demais páginas contam com indicações de cafeterias, novidades do mercado e entrevistas exclusivas!",
+    "items": [
+      {
+        "itemId": "1509",
+        "name": "Revista Espresso -  Café Reúne - Edição 72",
+        "nameComplete": "Revista Espresso - Café Reúne - Edição Comemorativa 18 Anos - Edição 72 Revista Espresso -  Café Reúne - Edição 72",
+        "complementName": "",
+        "ean": "3045000000008",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3045"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159220",
+            "imageLabel": "Frente",
+            "imageTag": "<img src=\"~/arquivos/ids/159220-#width#-#height#/3045_Revista-Espresso_cafe-reune_Edicao-72.jpg?v=637601574127700000\" width=\"#width#\" height=\"#height#\" alt=\"revista-espresso_cafe-reune_Edicao-72\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159220/3045_Revista-Espresso_cafe-reune_Edicao-72.jpg?v=637601574127700000",
+            "imageText": "revista-espresso_cafe-reune_Edicao-72",
+            "imageLastModified": "2021-06-24T18:50:12.7700000Z"
+          },
+          {
+            "imageId": "159225",
+            "imageLabel": "PNG",
+            "imageTag": "<img src=\"~/arquivos/ids/159225-#width#-#height#/3045_Revista-Espresso_cafe-reune_Edicao-72.png?v=637605656345300000\" width=\"#width#\" height=\"#height#\" alt=\"3045_Revista-Espresso_cafe-reune_Edicao-72\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159225/3045_Revista-Espresso_cafe-reune_Edicao-72.png?v=637605656345300000",
+            "imageText": "3045_Revista-Espresso_cafe-reune_Edicao-72",
+            "imageLastModified": "2021-06-29T12:13:54.5300000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1509&qty=1&seller=1&sc=1&price=2000&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 20,
+              "ListPrice": 20,
+              "PriceWithoutDiscount": 20,
+              "FullSellingPrice": 20,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImQyMGJkZjg1LTczZDgtNDhkMC1hN2QzLTlkNWI5MTQ2OWNmOCIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoyMDAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNTA5IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI5OCwiaWF0IjoxNzY1MTQ4NDk4LCJqdGkiOiJlZjdmNzMyNS1jMzBkLTQyMzktYmFlZC01M2Y0MzQ1MDgyNTYiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.-y2Oo1nOpofW6GqPeUxdVkPZAOeowz9PlqdA5jN33PpMmT4prrHvtP43HyX_dbddKDR4m7Vy-XJMRiOPbjShIA",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Café Reúne - Edição Comemorativa 18 Anos - Edição 72 Revista Espresso -  Café Reúne - Edição 72 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

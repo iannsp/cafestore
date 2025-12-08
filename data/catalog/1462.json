@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1462",
+    "productName": "Revista Espresso - Histórias e Sabores de Cafés -  Edição 26",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---historias-e-sabores-de-cafes----edicao-26-2999",
+    "productReference": "2999",
+    "productReferenceCode": "2999",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "Histórias e sabores de café: lembranças e receitas da bebida que traduz o Brasil. Este é o tema principal da Espresso #26. Nas demais páginas você encontra invenções de conhecidos chefs que utilizam taperebá, umbu, bacuri e camapu para criação de novos sabores! Degustação de oito marcas de café em sachê. Entrevista com Jane Birkin, cantora e atriz inglesa que usa o talento e a beleza em defesa do mundo! Além disso, também há indicações de cafeterias, dicas de preparo e novidades do setor.",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---historias-e-sabores-de-cafes----edicao-26-2999/p",
+    "description": "Histórias e sabores de café: lembranças e receitas da bebida que traduz o Brasil. Este é o tema principal da Espresso #26. Nas demais páginas você encontra invenções de conhecidos chefs que utilizam taperebá, umbu, bacuri e camapu para criação de novos sabores! Degustação de oito marcas de café em sachê. Entrevista com Jane Birkin, cantora e atriz inglesa que usa o talento e a beleza em defesa do mundo! Além disso, também há indicações de cafeterias, dicas de preparo e novidades do setor.",
+    "items": [
+      {
+        "itemId": "1461",
+        "name": "Revista Espresso - Histórias e Sabores de Cafés -  Edição 26",
+        "nameComplete": "Revista Espresso - Histórias e Sabores de Cafés -  Edição 26",
+        "complementName": "",
+        "ean": "2999000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2999"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159087",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159087-#width#-#height#/2999_Revista-Espresso_Historias-e-Sabores-de-Cafes_Edicao-26.jpg?v=637583217241000000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_26\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159087/2999_Revista-Espresso_Historias-e-Sabores-de-Cafes_Edicao-26.jpg?v=637583217241000000",
+            "imageText": "rev_espresso_26",
+            "imageLastModified": "2021-06-03T12:55:24.1000000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1461&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImQyMzZiNDA0LTg5ZGItNDk5MC04MjY2LTU0MmEyNmVmOTE2OCIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDYxIiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI2MCwiaWF0IjoxNzY1MTQ4NDYwLCJqdGkiOiJmN2RhMTcwZS05ZDFlLTQyZTAtYmRlOS0yODI0MDk4ZDAwYzAiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.QJdJAXwgsX0KxOGSb0d2rzuP0KMjkw6MBwa2yYdBPI1SEBhwlvKyk2XrsALYw349rmuZ3bMrh7ZI0Cu_CZbqaA",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Histórias e Sabores de Cafés -  Edição 26 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

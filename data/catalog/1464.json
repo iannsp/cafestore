@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1464",
+    "productName": "Revista Espresso - Da Fazenda à Xícara -  Edição 28",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---da-fazenda-a-xicara----edicao-28-3001",
+    "productReference": "3001",
+    "productReferenceCode": "3001",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "A Espresso #28 aborda o tema microlotes de café na matéria de capa. Cada vez mais procurados devido à qualidade e sabor únicos, estes cafés seguem conquistando compradores nacionais e consumidores exigentes. A edição também fala da aposta das empresas nos cosméticos à base de café, da harmonização de água com o grão e do sombreamento no cafezal. Na seção Pelo Mundo, apresenta a cerimônia do café dos etíopes no mais antigo país produtor do grão. Além disso, a revista traz dicas de cafeterias, novidades do setor, receitas deliciosas e dicas de preparo.",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---da-fazenda-a-xicara----edicao-28-3001/p",
+    "description": "A Espresso #28 aborda o tema microlotes de café na matéria de capa. Cada vez mais procurados devido à qualidade e sabor únicos, estes cafés seguem conquistando compradores nacionais e consumidores exigentes. A edição também fala da aposta das empresas nos cosméticos à base de café, da harmonização de água com o grão e do sombreamento no cafezal. Na seção Pelo Mundo, apresenta a cerimônia do café dos etíopes no mais antigo país produtor do grão. Além disso, a revista traz dicas de cafeterias, novidades do setor, receitas deliciosas e dicas de preparo.",
+    "items": [
+      {
+        "itemId": "1463",
+        "name": "Revista Espresso - Da Fazenda à Xícara -  Edição 28",
+        "nameComplete": "Revista Espresso - Da Fazenda à Xícara -  Edição 28",
+        "complementName": "",
+        "ean": "3001000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3001"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159089",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159089-#width#-#height#/3001_Revista-Espresso_Da-Fazenda-a-Xicara_Edicao-28.jpg?v=637583218645700000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_28\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159089/3001_Revista-Espresso_Da-Fazenda-a-Xicara_Edicao-28.jpg?v=637583218645700000",
+            "imageText": "rev_espresso_28",
+            "imageLastModified": "2021-06-03T12:57:44.5700000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1463&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjJjZjU4N2Y3LWNkZWItNDQ1NC05MmIwLWNlMGM4NTQ5MWQyYSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDYzIiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI2MiwiaWF0IjoxNzY1MTQ4NDYyLCJqdGkiOiI3MGM4YTlhNC0xMmI2LTQwMWYtODIwYy1kNjUzYjg5NjQ3MGEiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.W7cFi-TJ5Tntz3Xxw0dbCMl0eOwlwhrrsZLmqci_LAaosq4UFC_dfyhHBxXI8F83_9KVrdZBiXryYLzYiRd6Kw",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Da Fazenda à Xícara -  Edição 28 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

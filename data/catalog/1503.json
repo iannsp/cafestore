@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1503",
+    "productName": "Revista Espresso - Café Moído na Hora - Edição 67",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---cafe-moido-na-hora---edicao-67-3040",
+    "productReference": "3040",
+    "productReferenceCode": "3040",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "A edição #67 traz algumas dicas para turbinar o preparo do café em casa e mostra que pequenas atitudes como moer os grãos na hora, escaldar o filtro, mexer ou não mexer e utilizar as medidas certas fazem a diferença no resultado final. Você também confere uma degustação incrível de cafés super especiais produzidos por mulheres! Visitas a fazendas na região de Barra do Choça, em Vitória da Conquista, na Bahia. Além de receita de maionese para fazer em casa e muito mais! A edição está incrível!",
+    "releaseDate": "2021-05-19T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---cafe-moido-na-hora---edicao-67-3040/p",
+    "description": "A edição #67 traz algumas dicas para turbinar o preparo do café em casa e mostra que pequenas atitudes como moer os grãos na hora, escaldar o filtro, mexer ou não mexer e utilizar as medidas certas fazem a diferença no resultado final. Você também confere uma degustação incrível de cafés super especiais produzidos por mulheres! Visitas a fazendas na região de Barra do Choça, em Vitória da Conquista, na Bahia. Além de receita de maionese para fazer em casa e muito mais! A edição está incrível!",
+    "items": [
+      {
+        "itemId": "1502",
+        "name": "Revista Espresso - Café Moído na Hora - Edição 67",
+        "nameComplete": "Revista Espresso - Café Moído na Hora - Edição 67",
+        "complementName": "",
+        "ean": "3040000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3040"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159128",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159128-#width#-#height#/3040_Revista-Espresso_Cafe-Moido-na-Hora_Edicao-67.jpg?v=637584087421130000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_67\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159128/3040_Revista-Espresso_Cafe-Moido-na-Hora_Edicao-67.jpg?v=637584087421130000",
+            "imageText": "rev_espresso_67",
+            "imageLastModified": "2021-06-04T13:05:42.1130000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1502&qty=1&seller=1&sc=1&price=2000&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 20,
+              "ListPrice": 20,
+              "PriceWithoutDiscount": 20,
+              "FullSellingPrice": 20,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjY1N2M0YTE5LTBhZGMtNGJiNC04YjUwLWJiYTNlNzNiODY1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoyMDAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNTAyIiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI5MywiaWF0IjoxNzY1MTQ4NDkzLCJqdGkiOiJlMzBhZTYwNS0zYWQwLTQ0N2ItOTRjNi1mNzA0YTI5MGViMjEiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.knWLQELZzu9x4UFuWueTCVlu6HKetLpYB1He_xpTv6Ezk9Xz3vJbqYs081Ifn9i9_EyUPYuS5ujDaNTu5Owdfw",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Café Moído na Hora - Edição 67 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

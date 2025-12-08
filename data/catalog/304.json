@@ -1,0 +1,130 @@
+[
+  {
+    "productId": "304",
+    "productName": "Xarope Monin Speculoos 700 ml",
+    "brand": "Monin",
+    "brandId": 2000008,
+    "brandImageUrl": null,
+    "linkText": "xarope-monin-speculoos-700-ml_1732",
+    "productReference": "1732",
+    "productReferenceCode": "1732",
+    "categoryId": "7",
+    "productTitle": null,
+    "metaTagDescription": null,
+    "releaseDate": "2019-01-30T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "162": "INVERNO",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Xaropes e Bebidas/Xaropes/",
+      "/Xaropes e Bebidas/"
+    ],
+    "categoriesIds": [
+      "/4/7/",
+      "/4/"
+    ],
+    "link": "https://www.cafestore.com.br/xarope-monin-speculoos-700-ml_1732/p",
+    "Por volume (em ml)": [
+      "700ML"
+    ],
+    "Características": [
+      "Por volume (em ml)"
+    ],
+    "Marca": [
+      "Monin"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca"
+    ],
+    "allSpecifications": [
+      "Por volume (em ml)",
+      "Marca"
+    ],
+    "allSpecificationsGroups": [
+      "Características",
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "<b>Origem:</b> <BR>Speculoos é um biscoito de origem belga e é tradicionalmente consumido no momento do Saint Nicolas. Agora conhecido dos Países Baixos",
+    "items": [
+      {
+        "itemId": "304",
+        "name": "Xarope Monin Speculoos 700ml",
+        "nameComplete": "Xarope Monin Speculoos 700 ml Xarope Monin Speculoos 700ml",
+        "complementName": "",
+        "ean": "3052910041236",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "1732"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "156379",
+            "imageLabel": "Frente",
+            "imageTag": "<img src=\"~/arquivos/ids/156379-#width#-#height#/Xarope-Monin-Speculoos-700-ml_1732.jpg?v=636887969107630000\" width=\"#width#\" height=\"#height#\" alt=\"Xarope-Monin-Speculoos-700-ml_1732\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/156379/Xarope-Monin-Speculoos-700-ml_1732.jpg?v=636887969107630000",
+            "imageText": "Xarope-Monin-Speculoos-700-ml_1732",
+            "imageLastModified": "2019-03-21T20:28:30.7630000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=304&qty=1&seller=1&sc=1&price=5240&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 52.4,
+              "ListPrice": 57,
+              "PriceWithoutDiscount": 52.4,
+              "FullSellingPrice": 52.4,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImUxOTkyYTJmLTU4YjYtNDkxNi1hYWQ2LTcxZDU0NmZmMThlMSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo1MjQwLCJzZWxsZXIiOiIxIiwiaWQiOiIzMDQiLCJhY2NvdW50TmFtZSI6ImNhZmVzdG9yZSIsInNhbGVzQ2hhbm5lbCI6IjEifSwiZXhwIjoxNzY1MTQ5MzY1LCJpYXQiOjE3NjUxNDc1NjUsImp0aSI6ImRiN2I5YWUxLWMwYjItNDhiZS04ZTMzLTFhMTkyYWYwNzVlMyIsImlzcyI6InNlc3Npb24vZGF0YS1zaWduZXIifQ.EqEGTN4vqtpJgIKjfpUNKkYPQTwEUJHPRjdaXUpPFG9vnj1sNMi8b0KTGkbOuPIvAg22xlZBzF3-GkuUJoLx5w",
+              "RewardValue": 0,
+              "PriceValidUntil": "2024-08-13T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Xarope Monin Speculoos 700 ml Xarope Monin Speculoos 700ml não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

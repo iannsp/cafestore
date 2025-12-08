@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1454",
+    "productName": "Revista Espresso - O Verão com Café Gelado -  Edição 18",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---o-verao-com-cafe-gelado----edicao-18-2991",
+    "productReference": "2991",
+    "productReferenceCode": "2991",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "A capa da Espresso #18 traz dicas de bebidas refrescantes para tomar durante o verão! As demais páginas exploram os cafés orgânicos, a gastronomia carioca, o dia a dia de um barista, os 50 anos de Bossa Nova, a produção cafeeira de São José do Vale do Rio Preto (RJ), indicações de cafeterias, entrevistas exclusivas, novidades do setor e dicas de preparo.",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---o-verao-com-cafe-gelado----edicao-18-2991/p",
+    "description": "A capa da Espresso #18 traz dicas de bebidas refrescantes para tomar durante o verão! As demais páginas exploram os cafés orgânicos, a gastronomia carioca, o dia a dia de um barista, os 50 anos de Bossa Nova, a produção cafeeira de São José do Vale do Rio Preto (RJ), indicações de cafeterias, entrevistas exclusivas, novidades do setor e dicas de preparo.",
+    "items": [
+      {
+        "itemId": "1453",
+        "name": "Revista Espresso - O Verão com Café Gelado -  Edição 18",
+        "nameComplete": "Revista Espresso - O Verão com Café Gelado -  Edição 18",
+        "complementName": "",
+        "ean": "0000000002991",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2991"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159076",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159076-#width#-#height#/2991_Revista-Espresso_O-Verao-com-Cafe-Gelado_Edicao-18.jpg?v=637582589366270000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_18\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159076/2991_Revista-Espresso_O-Verao-com-Cafe-Gelado_Edicao-18.jpg?v=637582589366270000",
+            "imageText": "rev_espresso_18",
+            "imageLastModified": "2021-06-02T19:28:56.6270000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1453&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjBmZGU5N2Q1LTI5OTYtNGJiYi1iY2U0LWY4NTIxNzU4ZjM0ZCIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDUzIiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI1NCwiaWF0IjoxNzY1MTQ4NDU0LCJqdGkiOiJmNTVlYjMxNy0wOTBhLTQwMTYtOGEyMy00M2EyZWIzMzA4MTAiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.YHPM8IQD0S5UDbYnx4JmUeweLsDMpSaDkl6Tc3MjF2AhpUD1ifISVbYxEGlwsjd6lLs-KjRcrFE-KV-_8cM_1g",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - O Verão com Café Gelado -  Edição 18 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

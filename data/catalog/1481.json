@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1481",
+    "productName": "Revista Espresso - Cold Brew - Edição 45",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---cold-brew---edicao-45-3018",
+    "productReference": "3018",
+    "productReferenceCode": "3018",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "Cold Brew é o tema de capa da Espresso #45, que apresenta a bebida que é tendência mundo afora e que vem ganhando espaço nas prateleiras de cafeterias do Brasil. Na seção Personagem, Silvio Leite, especialista em classificação, degustação e controle de qualidade de cafés, com mais de trinta anos de trabalho na área, compartilha sua experiência e fala sobre o que deseja para o futuro do mercado de cafés especiais no País. A inspiração italiana aparece em Receitas, com o drinque Robusto e a Piadina Cappuccino. A região do Cerrado Mineiro é o cenário de Fazendas que apresenta a produção de qualidade e investimento em tecnologia de duas propriedades. Chás Indianos, harmonizações inéditas que pegam carona na tendência dos furgões de comida, colunas específicas para o mercado de café, viagem para a Terra das Maçãs no Sul do Brasil e outras novidades também completam essa edição que está inovadora.",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---cold-brew---edicao-45-3018/p",
+    "description": "Cold Brew é o tema de capa da Espresso #45, que apresenta a bebida que é tendência mundo afora e que vem ganhando espaço nas prateleiras de cafeterias do Brasil. Na seção Personagem, Silvio Leite, especialista em classificação, degustação e controle de qualidade de cafés, com mais de trinta anos de trabalho na área, compartilha sua experiência e fala sobre o que deseja para o futuro do mercado de cafés especiais no País. A inspiração italiana aparece em Receitas, com o drinque Robusto e a Piadina Cappuccino. A região do Cerrado Mineiro é o cenário de Fazendas que apresenta a produção de qualidade e investimento em tecnologia de duas propriedades. Chás Indianos, harmonizações inéditas que pegam carona na tendência dos furgões de comida, colunas específicas para o mercado de café, viagem para a Terra das Maçãs no Sul do Brasil e outras novidades também completam essa edição que está inovadora.",
+    "items": [
+      {
+        "itemId": "1480",
+        "name": "Revista Espresso - Cold Brew - Edição 45",
+        "nameComplete": "Revista Espresso - Cold Brew - Edição 45",
+        "complementName": "",
+        "ean": "3018000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3018"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159106",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159106-#width#-#height#/3018_Revista-Espresso_Cold-Brew_Edicao-45.jpg?v=637583241649200000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_45\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159106/3018_Revista-Espresso_Cold-Brew_Edicao-45.jpg?v=637583241649200000",
+            "imageText": "rev_espresso_45",
+            "imageLastModified": "2021-06-03T13:36:04.9200000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1480&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjM5ZTk2NTU1LTYzYTYtNGRhNC1hMzZiLWNmYjNiMTRkNzFmNiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDgwIiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI3NiwiaWF0IjoxNzY1MTQ4NDc2LCJqdGkiOiJhOTU4MDY3OS0wNjU2LTRjZjQtYTMzMi1mN2ExMmZhY2I0OGYiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.B8aJVdIdiaM_GbckcU8-I-DC__JTo1ByLVDkqfyoReHrt9HdXSUjS4AlSEpoxKWVPk2pE8O2ftqXxgsYc27oNw",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Cold Brew - Edição 45 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "productId": "37",
+    "productName": "Xarope Monin Kiwi 700 ml",
+    "brand": "Monin",
+    "brandId": 2000008,
+    "brandImageUrl": null,
+    "linkText": "xarope-monin-kiwi-700-ml_248",
+    "productReference": "248",
+    "productReferenceCode": "248",
+    "categoryId": "7",
+    "productTitle": "",
+    "metaTagDescription": "<BR><BR>Ingredientes: <BR><BR>Açúcar de beterraba, Água, Acidulante Ácido Cítrico, Aroma artificial de Kiwi, Colorido artificialmente com corante de Tartrazina e corante azul Brilhante. Não contém glúten.<BR><BR>Aroma de kiwi maduro com sabor cítrico e doce de kiwis frescos.<BR><BR>Características:<BR><BR>Monin é uma bebida resultante da combinação perfeita de açúcar puro de cana com extratos naturais de frutas, nozes e flores. <BR><BR>- Altamente concentrado.<BR>- Não é alcoólico. <BR>-Sem conservantes<BR>- Prazo de validade longo<BR><BR>Dicas de uso e consumo:<BR><BR>Utilize Monin Kiwi para apreciar com praticidade o seu sabor e sua cor em suas receitas.<BR><BR>- Monin Morango, Limão Siciliano e Banana são algumas opções que complementam o sabor do kiwi.<BR>- Não é recomendada a utilização com leite e derivados.",
+    "releaseDate": "2019-01-30T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "162": "INVERNO",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Xaropes e Bebidas/Xaropes/",
+      "/Xaropes e Bebidas/"
+    ],
+    "categoriesIds": [
+      "/4/7/",
+      "/4/"
+    ],
+    "link": "https://www.cafestore.com.br/xarope-monin-kiwi-700-ml_248/p",
+    "Por volume (em ml)": [
+      "700ML"
+    ],
+    "Características": [
+      "Por volume (em ml)"
+    ],
+    "Marca": [
+      "Monin"
+    ],
+    "Material / composição": [
+      "Garrafa de Vidro"
+    ],
+    "Capacidade / Volume": [
+      "700 ml"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca",
+      "Características",
+      "Material / composição",
+      "Capacidade / Volume"
+    ],
+    "allSpecifications": [
+      "Por volume (em ml)",
+      "Marca",
+      "Material / composição",
+      "Capacidade / Volume"
+    ],
+    "allSpecificationsGroups": [
+      "Características",
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "<BR><BR>Ingredientes: <BR><BR>Açúcar de beterraba, Água, Acidulante Ácido Cítrico, Aroma artificial de Kiwi, Colorido artificialmente com corante de Tartrazina e corante azul Brilhante. Não contém glúten.<BR><BR>Aroma de kiwi maduro com sabor cítrico e doce de kiwis frescos.<BR><BR>Características:<BR><BR>Monin é uma bebida resultante da combinação perfeita de açúcar puro de cana com extratos naturais de frutas, nozes e flores. <BR><BR>- Altamente concentrado.<BR>- Não é alcoólico. <BR>-Sem conservantes<BR>- Prazo de validade longo<BR><BR>Dicas de uso e consumo:<BR><BR>Utilize Monin Kiwi para apreciar com praticidade o seu sabor e sua cor em suas receitas.<BR><BR>- Monin Morango, Limão Siciliano e Banana são algumas opções que complementam o sabor do kiwi.<BR>- Não é recomendada a utilização com leite e derivados.",
+    "items": [
+      {
+        "itemId": "37",
+        "name": "Xarope Monin de Kiwi 700ml",
+        "nameComplete": "Xarope Monin Kiwi 700 ml Xarope Monin de Kiwi 700ml",
+        "complementName": "",
+        "ean": "3052910056438",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "248"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "156077",
+            "imageLabel": "frente",
+            "imageTag": "<img src=\"~/arquivos/ids/156077-#width#-#height#/xarope-monin-kiwi-700-ml.jpg?v=636844508942700000\" width=\"#width#\" height=\"#height#\" alt=\"xarope-monin-kiwi-700-ml\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/156077/xarope-monin-kiwi-700-ml.jpg?v=636844508942700000",
+            "imageText": "xarope-monin-kiwi-700-ml",
+            "imageLastModified": "2019-01-30T13:14:54.2700000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=37&qty=1&seller=1&sc=1&price=7190&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 71.9,
+              "ListPrice": 71.9,
+              "PriceWithoutDiscount": 71.9,
+              "FullSellingPrice": 71.9,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjMxNjBhYzgzLWQxOWEtNDgwMy1hMGUwLTE5ODk4ZmE2OGJmYSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo3MTkwLCJzZWxsZXIiOiIxIiwiaWQiOiIzNyIsImFjY291bnROYW1lIjoiY2FmZXN0b3JlIiwic2FsZXNDaGFubmVsIjoiMSJ9LCJleHAiOjE3NjUxNDkxNTAsImlhdCI6MTc2NTE0NzM1MCwianRpIjoiZjUxNGIxMzMtNWQ4Zi00OWFlLWI5ODgtYTRiYmVlMGFjMDQzIiwiaXNzIjoic2Vzc2lvbi9kYXRhLXNpZ25lciJ9.BhL5yZWJWOJr00_ph75kn-z5CYIOu4o5o_543xSIxhKv3ZPY64snCMHBmA9FmQnWy2OHrbWQH1WQiE1lfLgLtQ",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Xarope Monin Kiwi 700 ml Xarope Monin de Kiwi 700ml não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

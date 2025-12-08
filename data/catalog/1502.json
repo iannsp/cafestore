@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1502",
+    "productName": "Revista Espresso - Café e Vinho - Edição 66",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---cafe-e-vinho---edicao-66-3039",
+    "productReference": "3039",
+    "productReferenceCode": "3039",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "A edição #66 da Revista Espresso traz na matéria de capa a relação Café e Vinho: como são produzidos, semelhanças e diferenças. Sabe usar a Roda de Sabores? Utilizada para categorizar e descrever cafés, é considerada um desafio para alguns. Aqui explicamos como funciona! Nas outras páginas você também encontra uma entrevista exclusiva com João Barone, baterista do grupo Paralamas do Sucesso; nossa visita ao Sítio Daniella, no interior de São Paulo; receitas diversas e muito mais!",
+    "releaseDate": "2021-05-19T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---cafe-e-vinho---edicao-66-3039/p",
+    "description": "A edição #66 da Revista Espresso traz na matéria de capa a relação Café e Vinho: como são produzidos, semelhanças e diferenças. Sabe usar a Roda de Sabores? Utilizada para categorizar e descrever cafés, é considerada um desafio para alguns. Aqui explicamos como funciona! Nas outras páginas você também encontra uma entrevista exclusiva com João Barone, baterista do grupo Paralamas do Sucesso; nossa visita ao Sítio Daniella, no interior de São Paulo; receitas diversas e muito mais!",
+    "items": [
+      {
+        "itemId": "1501",
+        "name": "Revista Espresso - Café e Vinho - Edição 66",
+        "nameComplete": "Revista Espresso - Café e Vinho - Edição 66",
+        "complementName": "",
+        "ean": "3039000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3039"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159127",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159127-#width#-#height#/3039_Revista-Espresso_Cafe-Gastronomia-e-Viver-Bem_Edicao-66.jpg?v=637584084965430000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_66\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159127/3039_Revista-Espresso_Cafe-Gastronomia-e-Viver-Bem_Edicao-66.jpg?v=637584084965430000",
+            "imageText": "rev_espresso_66",
+            "imageLastModified": "2021-06-04T13:01:36.5430000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1501&qty=1&seller=1&sc=1&price=2000&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 20,
+              "ListPrice": 20,
+              "PriceWithoutDiscount": 20,
+              "FullSellingPrice": 20,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImE5MzhlMzJmLTc4ZDEtNGJlYi05NTU0LTE1ZGFjNjNmMDcyYyIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoyMDAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNTAxIiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI5MiwiaWF0IjoxNzY1MTQ4NDkyLCJqdGkiOiIxMThjNmZmNi1iNWE0LTQ3OGEtYWU2Yy02ZDIzMDIzNDg3ZTMiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.xg22bEi064QSsMEfO9ridPm9NQZ_96PYmnRQ5mXxw7P-O1R2Y1IM4b0TmbK2470FcHiVpD63BkmUaG4uy72pFA",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Café e Vinho - Edição 66 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

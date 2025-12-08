@@ -1,0 +1,130 @@
+[
+  {
+    "productId": "60",
+    "productName": "Xarope Monin Manga 700 ml",
+    "brand": "Monin",
+    "brandId": 2000008,
+    "brandImageUrl": null,
+    "linkText": "xarope-monin-manga-700-ml_266",
+    "productReference": "266",
+    "productReferenceCode": "266",
+    "categoryId": "7",
+    "productTitle": "",
+    "metaTagDescription": "Embalagem: Garrafa de Vidro 750ml<BR><BR>Ingredientes:<BR><BR>Açúcar de beterraba, àgua, extrato concentrado de manga, suco de laranja, suco de limão siciliano, aromatizantes naturais, não contém glúten.<BR><BR>Características:<BR><BR>Monin é uma bebida resultante da combinação perfeita de açúcar puro de cana com extratos naturais de frutas, nozes e flores. <BR><BR>- Altamente concentrado.<BR>- Não é alcoólico. <BR>- Sem conservantes<BR>- Prazo de validade longo<BR><BR>Dicas de uso e consumo:<BR><BR>- Cafeteria: Descubra o prazer de saborear novas opções para o seu café<BR>- Combine com outros sabores tropicais de Monin como Coco e Banana. Também é delicioso com Limão Siciliano e outros sabores cítricos adocicados. <BR>- Pode ser utilizado com leite e derivados (leite, cremes, iogurtes, etc.).",
+    "releaseDate": "2019-01-30T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "162": "INVERNO",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Xaropes e Bebidas/Xaropes/",
+      "/Xaropes e Bebidas/"
+    ],
+    "categoriesIds": [
+      "/4/7/",
+      "/4/"
+    ],
+    "link": "https://www.cafestore.com.br/xarope-monin-manga-700-ml_266/p",
+    "Por volume (em ml)": [
+      "700ML"
+    ],
+    "Características": [
+      "Por volume (em ml)"
+    ],
+    "Marca": [
+      "Monin"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca"
+    ],
+    "allSpecifications": [
+      "Por volume (em ml)",
+      "Marca"
+    ],
+    "allSpecificationsGroups": [
+      "Características",
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "Embalagem: Garrafa de Vidro 750ml<BR><BR>Ingredientes:<BR><BR>Açúcar de beterraba, àgua, extrato concentrado de manga, suco de laranja, suco de limão siciliano, aromatizantes naturais, não contém glúten.<BR><BR>Características:<BR><BR>Monin é uma bebida resultante da combinação perfeita de açúcar puro de cana com extratos naturais de frutas, nozes e flores. <BR><BR>- Altamente concentrado.<BR>- Não é alcoólico. <BR>- Sem conservantes<BR>- Prazo de validade longo<BR><BR>Dicas de uso e consumo:<BR><BR>- Cafeteria: Descubra o prazer de saborear novas opções para o seu café<BR>- Combine com outros sabores tropicais de Monin como Coco e Banana. Também é delicioso com Limão Siciliano e outros sabores cítricos adocicados. <BR>- Pode ser utilizado com leite e derivados (leite, cremes, iogurtes, etc.).",
+    "items": [
+      {
+        "itemId": "60",
+        "name": "Xarope Monin de Manga 700ml",
+        "nameComplete": "Xarope Monin Manga 700 ml Xarope Monin de Manga 700ml",
+        "complementName": "",
+        "ean": "3052910055226",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "266"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "156082",
+            "imageLabel": "frente",
+            "imageTag": "<img src=\"~/arquivos/ids/156082-#width#-#height#/xarope-monin-manga-700-ml.jpg?v=636844509009500000\" width=\"#width#\" height=\"#height#\" alt=\"xarope-monin-manga-700-ml\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/156082/xarope-monin-manga-700-ml.jpg?v=636844509009500000",
+            "imageText": "xarope-monin-manga-700-ml",
+            "imageLastModified": "2019-01-30T13:15:00.9500000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=60&qty=1&seller=1&sc=1&price=7190&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 71.9,
+              "ListPrice": 71.9,
+              "PriceWithoutDiscount": 71.9,
+              "FullSellingPrice": 71.9,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImYwZDljYThjLTc2YTEtNGZhNC1iMWVhLTYyZGU3MDNlMzViMiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo3MTkwLCJzZWxsZXIiOiIxIiwiaWQiOiI2MCIsImFjY291bnROYW1lIjoiY2FmZXN0b3JlIiwic2FsZXNDaGFubmVsIjoiMSJ9LCJleHAiOjE3NjUxNDkxNjgsImlhdCI6MTc2NTE0NzM2OCwianRpIjoiOTMyZWFmNjctN2Y4NS00YzRhLWEwZDItZjdkMDAwNTUyZThjIiwiaXNzIjoic2Vzc2lvbi9kYXRhLXNpZ25lciJ9.beIW5MVYBxAtWwFHxkuQSWF9623emyCrnrZeCm0AQ5G_nB1492hoOd8oNyOnewWitWUg7bf_YHsfOswYV7J8YA",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Xarope Monin Manga 700 ml Xarope Monin de Manga 700ml não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

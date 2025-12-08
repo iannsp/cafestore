@@ -1,0 +1,170 @@
+[
+  {
+    "productId": "1309",
+    "productName": "Garrafa para Chantilly FPRO Branca 250ml",
+    "brand": "FPRO",
+    "brandId": 2000016,
+    "brandImageUrl": null,
+    "linkText": "garrafa-para-chantilly-fpro-branca-250ml-2849",
+    "productReference": "2849",
+    "productReferenceCode": "2849",
+    "categoryId": "13",
+    "productTitle": "",
+    "metaTagDescription": "Com a garrafa para chantilly FPRO você prepara deliciosos cremes aerados e mousses de forma prática e versátil. Ideal para incrementar sobremesas, sorvetes, milk-shakes, cappuccinos e cafés.<BR><BR>\r\n \r\n<b>Dicas de preparo:</b><BR><BR>\r\n\r\n- Verificar se a garrafa está bem montada. Para melhor resultado, resfrie a garrafa<BR>\r\n- Colocar 250ml de chantilly de sua preferência<BR>\r\n- Fechar bem a garrafa<BR>\r\n- Coloque a ampola de gás com a garrafa invertida para melhor homogenização<BR>\r\n- Agitar bem a garrafa e utilizar.",
+    "releaseDate": "2020-10-01T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "159": "PROMOÇÕES VIGENTE",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "159": "PROMOÇÕES VIGENTE",
+      "162": "INVERNO",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Xaropes e Bebidas/Bebidas/Chantilly/",
+      "/Xaropes e Bebidas/Bebidas/",
+      "/Xaropes e Bebidas/"
+    ],
+    "categoriesIds": [
+      "/4/6/13/",
+      "/4/6/",
+      "/4/"
+    ],
+    "link": "https://www.cafestore.com.br/garrafa-para-chantilly-fpro-branca-250ml-2849/p",
+    "Por volume (em ml)": [
+      "250 - 500 ML"
+    ],
+    "Características": [
+      "Por volume (em ml)"
+    ],
+    "Marca": [
+      "FPRO"
+    ],
+    "Material / composição": [
+      "Alumínio e plástico"
+    ],
+    "Capacidade / Volume": [
+      "250ml"
+    ],
+    "Conteúdo da embalagem": [
+      "1 garrafa 250 ml; 1 bico plástico tulipa; 1 bico plástico reto e 1 escova para limpeza"
+    ],
+    "Cor": [
+      "Branca"
+    ],
+    "Dimensões aproximadas do produto (cm)- AxLxP": [
+      "25 x 8cm diâmetro"
+    ],
+    "Peso líquido aproximado do produto (kg)": [
+      "500g"
+    ],
+    "Modelo": [
+      "FP0050-09-07"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca",
+      "Características",
+      "Material / composição",
+      "Capacidade / Volume",
+      "Conteúdo da embalagem",
+      "Cor",
+      "Dimensões aproximadas do produto (cm)- AxLxP",
+      "Peso líquido aproximado do produto (kg)",
+      "Modelo"
+    ],
+    "allSpecifications": [
+      "Por volume (em ml)",
+      "Marca",
+      "Material / composição",
+      "Capacidade / Volume",
+      "Conteúdo da embalagem",
+      "Cor",
+      "Dimensões aproximadas do produto (cm)- AxLxP",
+      "Peso líquido aproximado do produto (kg)",
+      "Modelo"
+    ],
+    "allSpecificationsGroups": [
+      "Características",
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "Com a garrafa para chantilly FPRO você prepara deliciosos cremes aerados e mousses de forma prática e versátil. Ideal para incrementar sobremesas, sorvetes, milk-shakes, cappuccinos e cafés.<BR><BR>\r\n \r\n<b>Dicas de preparo:</b><BR><BR>\r\n\r\n- Verificar se a garrafa está bem montada. Para melhor resultado, resfrie a garrafa<BR>\r\n- Colocar 250ml de chantilly de sua preferência<BR>\r\n- Fechar bem a garrafa<BR>\r\n- Coloque a ampola de gás com a garrafa invertida para melhor homogenização<BR>\r\n- Agitar bem a garrafa e utilizar.",
+    "items": [
+      {
+        "itemId": "1308",
+        "name": "Garrafa para Chantilly FPRO Branca 250ml",
+        "nameComplete": "Garrafa para Chantilly FPRO Branca 250ml",
+        "complementName": "",
+        "ean": "7898994906636",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2849"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "158480",
+            "imageLabel": "",
+            "imageTag": "<img src=\"~/arquivos/ids/158480-#width#-#height#/Garrafa-FPRO-branca-2849.jpg?v=637372446499530000\" width=\"#width#\" height=\"#height#\" alt=\"Garrafa-FPRO-branca-2849\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/158480/Garrafa-FPRO-branca-2849.jpg?v=637372446499530000",
+            "imageText": "Garrafa-FPRO-branca-2849",
+            "imageLastModified": "2020-10-02T14:10:49.9530000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1308&qty=1&seller=1&sc=1&price=23000&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 230,
+              "ListPrice": 289.95,
+              "PriceWithoutDiscount": 230,
+              "FullSellingPrice": 230,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImI2NDRjYmRiLTE1ZWItNGQ0Ni1hMjRmLThjNTQxNjcxNDg0NCIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoyMzAwMCwic2VsbGVyIjoiMSIsImlkIjoiMTMwOCIsImFjY291bnROYW1lIjoiY2FmZXN0b3JlIiwic2FsZXNDaGFubmVsIjoiMSJ9LCJleHAiOjE3NjUxNTAxNDMsImlhdCI6MTc2NTE0ODM0MywianRpIjoiYjQxMDhjMjItNGJiNi00NGU3LTk0ZDMtOTdlY2I2NzE0MjM2IiwiaXNzIjoic2Vzc2lvbi9kYXRhLXNpZ25lciJ9.LE4RCkwS-gckgCZeZpKHAs8n55osg5iEv3eDj4K6ztEc3ui8nEc91KdSw43kbWWSgoMHcD2Is6k5NHXr5kSTgQ",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Garrafa para Chantilly FPRO Branca 250ml não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

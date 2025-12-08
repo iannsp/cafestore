@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1459",
+    "productName": "Revista Espresso - Alquimia do Café -  Edição 23",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---alquimia-do-cafe----edicao-23-2996",
+    "productReference": "2996",
+    "productReferenceCode": "2996",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "A matéria principal da Espresso #23 aborda a alquimia do café: o blend em busca de experiências! Nas outras seções você encontra máquinas de espresso para ter em casa; a diversidade e a tradição dos chás em Taiwan; comidas para comer com as mãos; indicações de cafeterias para você tomar uma boa xícara; receitas; dicas de preparo; entrevistas exclusivas; novidades do setor; e muito mais!",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---alquimia-do-cafe----edicao-23-2996/p",
+    "description": "A matéria principal da Espresso #23 aborda a alquimia do café: o blend em busca de experiências! Nas outras seções você encontra máquinas de espresso para ter em casa; a diversidade e a tradição dos chás em Taiwan; comidas para comer com as mãos; indicações de cafeterias para você tomar uma boa xícara; receitas; dicas de preparo; entrevistas exclusivas; novidades do setor; e muito mais!",
+    "items": [
+      {
+        "itemId": "1458",
+        "name": "Revista Espresso - Alquimia do Café -  Edição 23",
+        "nameComplete": "Revista Espresso - Alquimia do Café -  Edição 23",
+        "complementName": "",
+        "ean": "2996000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2996"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159084",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159084-#width#-#height#/2996_Revista-Espresso_Alquimia-do-Cafe_Edicao-23.jpg?v=637583215346430000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_23\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159084/2996_Revista-Espresso_Alquimia-do-Cafe_Edicao-23.jpg?v=637583215346430000",
+            "imageText": "rev_espresso_23",
+            "imageLastModified": "2021-06-03T12:52:14.6430000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1458&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjA2ZjVjYjRmLWU0NTctNDg4NS1hZmM1LTM1MGQzYzdlMzI4MCIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDU4IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI1OCwiaWF0IjoxNzY1MTQ4NDU4LCJqdGkiOiIyNjU2MzZjYi0wZDU4LTRkYjEtYWY1OS1kN2VkZDY3MjBlNmIiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.CO711QgpFWCQrIYZx6-RRtpUT_Kui6TNHTORAlgOqKgy5pyVAcmO372ajdz6URDkKGMFaErsc_yI1q7BpQ--Jg",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T03:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Revista Espresso - Alquimia do Café -  Edição 23 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

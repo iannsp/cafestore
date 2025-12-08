@@ -1,0 +1,106 @@
+[
+  {
+    "productId": "340",
+    "productName": "Guia de Cafeterias do Brasil 2017",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "livro-guia-de-cafeterias-do-brasil-2017_1941",
+    "productReference": "1941",
+    "productReferenceCode": "1941",
+    "categoryId": "31",
+    "productTitle": "",
+    "metaTagDescription": "Guia para apreciadores de café chega às bancas de todo o País<BR> <BR>Serviço completo e eleição das 20 melhores cafeterias do Brasil são destaques da publicação em 2017<BR>Chega às bancas, livrarias e cafeterias do País o Guia de Cafeterias do Brasil 2017 (Café Editora). Reúne as melhores cafeterias do Brasil em 196 páginas de pura cafeína. As dicas trazem lugares que oferecem um ótimo café e também quitutes para acompanhar, com detalhes que vão da localização (as cafeterias estão divididas por Estado e cidade) e da marca do café oferecido a aspectos atualmente essenciais para a visita, como o acesso à internet via wi-fi e a proximidade de pontos turísticos ou estações de metrô ou trem. Há ainda itens mais específicos, como a presença de torra na própria cafeteria, o que confere mais frescor à bebida.<BR>Outro diferencial do Guia é o prêmio Top 20: Melhor Cafeteria do Brasil e Revelações. O primeiro indica aos leitores as 20 melhores casas que, pelo critério de tradição, atendimento, ambientação, e, principalmente, qualidade do café servido são indicadas como autênticas representantes. As Cafeterias Revelação representam novos estabelecimentos que mais se destacaram durante o ano passado. Para esses dedicados empresários e empresárias os prêmios são um incentivo para dar sequência ao belo trabalho.<BR>Para a experiência ser completa, o Guia de Cafeterias do Brasil traz ao leitor informações sobre torra, dicas importantes que vão fazer você aproveitar o melhor do seu café e um glossário com as principais palavras ligadas ao tema, para não restarem dúvidas no momento de apreciar uma excelente xícara.<BR> <BR>Boa leitura!<BR>SERVIÇO<BR> <BR>Guia de Cafeterias do Brasil 2017<BR>Café Editora<BR>196 págs.<BR>À venda em cafeterias e em bancas de jornal espalhadas por todo o País.",
+    "releaseDate": "2019-01-29T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/livro-guia-de-cafeterias-do-brasil-2017_1941/p",
+    "description": "Guia para apreciadores de café chega às bancas de todo o País<BR> <BR>Serviço completo e eleição das 20 melhores cafeterias do Brasil são destaques da publicação em 2017<BR>Chega às bancas, livrarias e cafeterias do País o Guia de Cafeterias do Brasil 2017 (Café Editora). Reúne as melhores cafeterias do Brasil em 196 páginas de pura cafeína. As dicas trazem lugares que oferecem um ótimo café e também quitutes para acompanhar, com detalhes que vão da localização (as cafeterias estão divididas por Estado e cidade) e da marca do café oferecido a aspectos atualmente essenciais para a visita, como o acesso à internet via wi-fi e a proximidade de pontos turísticos ou estações de metrô ou trem. Há ainda itens mais específicos, como a presença de torra na própria cafeteria, o que confere mais frescor à bebida.<BR>Outro diferencial do Guia é o prêmio Top 20: Melhor Cafeteria do Brasil e Revelações. O primeiro indica aos leitores as 20 melhores casas que, pelo critério de tradição, atendimento, ambientação, e, principalmente, qualidade do café servido são indicadas como autênticas representantes. As Cafeterias Revelação representam novos estabelecimentos que mais se destacaram durante o ano passado. Para esses dedicados empresários e empresárias os prêmios são um incentivo para dar sequência ao belo trabalho.<BR>Para a experiência ser completa, o Guia de Cafeterias do Brasil traz ao leitor informações sobre torra, dicas importantes que vão fazer você aproveitar o melhor do seu café e um glossário com as principais palavras ligadas ao tema, para não restarem dúvidas no momento de apreciar uma excelente xícara.<BR> <BR>Boa leitura!<BR>SERVIÇO<BR> <BR>Guia de Cafeterias do Brasil 2017<BR>Café Editora<BR>196 págs.<BR>À venda em cafeterias e em bancas de jornal espalhadas por todo o País.",
+    "items": [
+      {
+        "itemId": "340",
+        "name": "Guia de Cafeterias do Brasil 2017",
+        "nameComplete": "Guia de Cafeterias do Brasil 2017",
+        "complementName": "",
+        "ean": "9788560918102",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "1941"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "155904",
+            "imageLabel": "Frente",
+            "imageTag": "<img src=\"~/arquivos/ids/155904-#width#-#height#/livro-guia-de-cafeterias-do-brasil-2017.jpg?v=636843033797100000\" width=\"#width#\" height=\"#height#\" alt=\"livro-guia-de-cafeterias-do-brasil-2017\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/155904/livro-guia-de-cafeterias-do-brasil-2017.jpg?v=636843033797100000",
+            "imageText": "livro-guia-de-cafeterias-do-brasil-2017",
+            "imageLastModified": "2019-01-28T20:16:19.7100000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=340&qty=1&seller=1&sc=1&price=2000&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 20,
+              "ListPrice": 20,
+              "PriceWithoutDiscount": 20,
+              "FullSellingPrice": 20,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjE2MWI5OGRmLWI0M2MtNGFhYi1hNmY4LTU0ZDAzYzFiNDQ3MCIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoyMDAwLCJzZWxsZXIiOiIxIiwiaWQiOiIzNDAiLCJhY2NvdW50TmFtZSI6ImNhZmVzdG9yZSIsInNhbGVzQ2hhbm5lbCI6IjEifSwiZXhwIjoxNzY1MTQ5Mzk2LCJpYXQiOjE3NjUxNDc1OTYsImp0aSI6ImYwZGYwZjZhLWZjOGEtNDkyZS1hNGRhLTg0ODE3ZWE4YjNlMiIsImlzcyI6InNlc3Npb24vZGF0YS1zaWduZXIifQ.pQZj_P1n8UWFKD2nBaxVtvbV6mV8sVZG6xoJeVUQP058H5rTTmWu1cBIrIMuede1fXmt227A8auXFLMS3NGwDQ",
+              "RewardValue": 0,
+              "PriceValidUntil": "2026-12-07T22:46:36Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Guia de Cafeterias do Brasil 2017 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

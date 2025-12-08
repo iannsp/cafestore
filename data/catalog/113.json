@@ -1,0 +1,168 @@
+[
+  {
+    "productId": "113",
+    "productName": "Filtro Hario V60 Branco 100 unidades Tamanho 01",
+    "brand": "Hario",
+    "brandId": 2000025,
+    "brandImageUrl": null,
+    "linkText": "filtro-hario-v60-branco-100-unidades-tamanho-01_1059",
+    "productReference": "1059",
+    "productReferenceCode": "1059",
+    "categoryId": "16",
+    "productTitle": "",
+    "metaTagDescription": "O filtro de papel em formato de cone, permite a filtragem por igual e não deixa que o fluxo de água encontre qualquer tipo de obstáculo, resultando em uma bebida limpa e saborosa (sem resíduos), além de ressaltar algumas características do grão de café, como acidez e doçura.<BR><BR><b>Especificações técnicas</b><BR><BR>Filtro Branco para Coador 01<BR>Quantidade: 100 unidades por embalagem<BR>Material: Papel.. <BR>Formato: Cone<BR>Compatibilidade: Coador V60 tamanho 01 (1-2 xícaras)",
+    "releaseDate": "2019-01-22T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "159": "PROMOÇÕES VIGENTE",
+      "187": "Promoções",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "159": "PROMOÇÕES VIGENTE",
+      "187": "Promoções",
+      "198": "Aproveite e Leve também",
+      "202": "Dia das mães",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "214": "Métodos e Acessórios com descontos",
+      "218": "Dia do Consumidor",
+      "238": "CASHBACK 5%",
+      "240": "Feed Merchant 14.11"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Acessórios/Filtro de Papel/",
+      "/Acessórios/"
+    ],
+    "categoriesIds": [
+      "/3/16/",
+      "/3/"
+    ],
+    "link": "https://www.cafestore.com.br/filtro-hario-v60-branco-100-unidades-tamanho-01_1059/p",
+    "Marca": [
+      "Hario"
+    ],
+    "Características": [
+      "Filtro Branco  para coador 01 (1-2 xícaras)"
+    ],
+    "Material / composição": [
+      "Papel"
+    ],
+    "Capacidade / Volume": [
+      "Pacote com 100 unidades"
+    ],
+    "Conteúdo da embalagem": [
+      "100 filtros de papel"
+    ],
+    "Cor": [
+      "Branco"
+    ],
+    "Modelo": [
+      "Branco 01"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca",
+      "Características",
+      "Material / composição",
+      "Capacidade / Volume",
+      "Conteúdo da embalagem",
+      "Cor",
+      "Modelo"
+    ],
+    "allSpecifications": [
+      "Marca",
+      "Características",
+      "Material / composição",
+      "Capacidade / Volume",
+      "Conteúdo da embalagem",
+      "Cor",
+      "Modelo"
+    ],
+    "allSpecificationsGroups": [
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "Exclusivo para os coadores Hario V60 tamanho 01, o filtro de papel em formato de cone, permite a filtragem por igual e não deixa que o fluxo de água encontre qualquer tipo de obstáculo, resultando em uma bebida limpa e saborosa (sem resíduos), além de ressaltar algumas características do grão de café, como acidez e doçura.<BR><BR>\r\n\r\nFeito de papel celulósico de alta qualidade, na gramatura ideal, pode ser encontrado nas cores natural e branco. A diferença entre eles é que os filtros brancos passam por processo de branqueamento com oxigênio, sem o uso de alvejantes. <BR><BR>\r\n\r\n<b>Compatibilidade: </b> Coador V60 tamanho 01 (1-2 xícaras).<BR><BR>",
+    "items": [
+      {
+        "itemId": "113",
+        "name": "Filtro Branco para Coador Hario V60 Tamanho 01 - 100 unidades",
+        "nameComplete": "Filtro Hario V60 Branco 100 unidades Tamanho 01 Filtro Branco para Coador Hario V60 Tamanho 01 - 100 unidades",
+        "complementName": "",
+        "ean": "4977642723313",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "1059"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "166559",
+            "imageLabel": "",
+            "imageTag": "<img src=\"~/arquivos/ids/166559-#width#-#height#/6 -1-.jpg.jpg?v=638824178297570000\" width=\"#width#\" height=\"#height#\" alt=\"6 -1-.jpg\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/166559/6 -1-.jpg.jpg?v=638824178297570000",
+            "imageText": "6 -1-.jpg",
+            "imageLastModified": "2025-05-09T20:03:49.7570000Z"
+          },
+          {
+            "imageId": "166560",
+            "imageLabel": "detalhe",
+            "imageTag": "<img src=\"~/arquivos/ids/166560-#width#-#height#/hario-v60-filtro-branco.jpg?v=638824178297700000\" width=\"#width#\" height=\"#height#\" alt=\"filtro-hario-v60-branco-100-unidades-tamanho-01\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/166560/hario-v60-filtro-branco.jpg?v=638824178297700000",
+            "imageText": "filtro-hario-v60-branco-100-unidades-tamanho-01",
+            "imageLastModified": "2025-05-09T20:03:49.7700000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=113&qty=1&seller=1&sc=1&price=5400&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 54,
+              "ListPrice": 59,
+              "PriceWithoutDiscount": 54,
+              "FullSellingPrice": 54,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjliMmVhMjc0LWY2NWItNGZjNy04ZTk1LTQ5MjgzZWE3YzMyMSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo1NDAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxMTMiLCJhY2NvdW50TmFtZSI6ImNhZmVzdG9yZSIsInNhbGVzQ2hhbm5lbCI6IjEifSwiZXhwIjoxNzY1MTQ5MjExLCJpYXQiOjE3NjUxNDc0MTEsImp0aSI6IjY5ODBlN2JlLTMyNzMtNGFmZC1iNzMwLWMwMjQ0NTdhZTQ0ZSIsImlzcyI6InNlc3Npb24vZGF0YS1zaWduZXIifQ.1prBgM68SWrpcFItYfrMHyjQ24PO2noB_ZU291Zt74OcNnLM6hzM3GRVrdWfMK6EFqF70hMYjY2owhV5E1Wbvw",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Filtro Hario V60 Branco 100 unidades Tamanho 01 Filtro Branco para Coador Hario V60 Tamanho 01 - 100 unidades não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

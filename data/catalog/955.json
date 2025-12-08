@@ -1,0 +1,170 @@
+[
+  {
+    "productId": "955",
+    "productName": "Filtro de pano para Cafeteira Globinho Hario Sifão - 5 unidades",
+    "brand": "Hario",
+    "brandId": 2000025,
+    "brandImageUrl": null,
+    "linkText": "filtro-globinho-sifao-tca2-3-5-pano-5-unidades_2461",
+    "productReference": "2461",
+    "productReferenceCode": "2461",
+    "categoryId": "16",
+    "productTitle": "",
+    "metaTagDescription": "Filtro Globinho Sifão TCA2/3/5 Pano 5 unidades",
+    "releaseDate": "2019-10-08T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Acessórios/Filtro de Papel/",
+      "/Acessórios/",
+      "/Cafeteiras/Método Percolação/Cafeteira Globinho/",
+      "/Cafeteiras/Método Percolação/",
+      "/Cafeteiras/"
+    ],
+    "categoriesIds": [
+      "/3/16/",
+      "/3/",
+      "/2/175/177/",
+      "/2/175/",
+      "/2/"
+    ],
+    "link": "https://www.cafestore.com.br/filtro-globinho-sifao-tca2-3-5-pano-5-unidades_2461/p",
+    "Marca": [
+      "Hario"
+    ],
+    "Características": [
+      "Filtro de reposição para Cafeteria Globinho"
+    ],
+    "Material / composição": [
+      "Pano"
+    ],
+    "Conteúdo da embalagem": [
+      "5 unidades de filtro de pano"
+    ],
+    "Cor": [
+      "bege"
+    ],
+    "Peso líquido aproximado do produto (kg)": [
+      "13g"
+    ],
+    "Peso aproximado da embalagem do produto (kg)": [
+      "14g"
+    ],
+    "Modelo": [
+      "FS-103"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca",
+      "Características",
+      "Material / composição",
+      "Conteúdo da embalagem",
+      "Cor",
+      "Peso líquido aproximado do produto (kg)",
+      "Peso aproximado da embalagem do produto (kg)",
+      "Modelo"
+    ],
+    "allSpecifications": [
+      "Marca",
+      "Características",
+      "Material / composição",
+      "Conteúdo da embalagem",
+      "Cor",
+      "Peso líquido aproximado do produto (kg)",
+      "Peso aproximado da embalagem do produto (kg)",
+      "Modelo"
+    ],
+    "allSpecificationsGroups": [
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "Nunca fique sem filtros para sua Cafeteira Globinho com o filtro de pano de reposição. Este pacote generoso de filtros, com 5 unidades, permite que você prepare café rico e aveludado por na globinho por um bom tempo.<br><br>\r\n\r\nOs filtros são laváveis e reutilizáveis, devem ser bem cuidados para que durem por mais tempo. Dica: Guarde os filtros em uma pequena quantidade de água fria na geladeira para evitar que sequem.<br><br>\r\n\r\n<b> Compatível com:</b> Todos os modelos Globinho (240, 360 e 600ml)",
+    "items": [
+      {
+        "itemId": "955",
+        "name": "Filtro Globinho Sifão TCA2/3/5 Pano 5 unidades",
+        "nameComplete": "Filtro de pano para Cafeteira Globinho Hario Sifão - 5 unidades Filtro Globinho Sifão TCA2/3/5 Pano 5 unidades",
+        "complementName": "",
+        "ean": "4977642915350",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2461"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "158311",
+            "imageLabel": "frente",
+            "imageTag": "<img src=\"~/arquivos/ids/158311-#width#-#height#/hario-filtro-pano-sifao-5un-2.jpg?v=637299824524230000\" width=\"#width#\" height=\"#height#\" alt=\"filtro-de-pano-globinho-sifao-5unid\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/158311/hario-filtro-pano-sifao-5un-2.jpg?v=637299824524230000",
+            "imageText": "filtro-de-pano-globinho-sifao-5unid",
+            "imageLastModified": "2020-07-10T12:54:12.4230000Z"
+          },
+          {
+            "imageId": "158312",
+            "imageLabel": "detalhe",
+            "imageTag": "<img src=\"~/arquivos/ids/158312-#width#-#height#/hario-filtro-pano-sifao-5un-1.jpg?v=637299824754430000\" width=\"#width#\" height=\"#height#\" alt=\"filtro-de-pano-globinho-sifao-5unid\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/158312/hario-filtro-pano-sifao-5un-1.jpg?v=637299824754430000",
+            "imageText": "filtro-de-pano-globinho-sifao-5unid",
+            "imageLastModified": "2020-07-10T12:54:35.4430000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=955&qty=1&seller=1&sc=1&price=6145&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 61.45,
+              "ListPrice": 61.45,
+              "PriceWithoutDiscount": 61.45,
+              "FullSellingPrice": 61.45,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImI4NmU4ZTYxLTUyOGYtNDk5OC04Mzg3LWQ3NjczNmEwN2IzOCIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo2MTQ1LCJzZWxsZXIiOiIxIiwiaWQiOiI5NTUiLCJhY2NvdW50TmFtZSI6ImNhZmVzdG9yZSIsInNhbGVzQ2hhbm5lbCI6IjEifSwiZXhwIjoxNzY1MTQ5ODY1LCJpYXQiOjE3NjUxNDgwNjUsImp0aSI6IjI4MWZhODNjLTdiNTItNGJjNC1iNjUwLWFlZGJiYjdiNTJlZSIsImlzcyI6InNlc3Npb24vZGF0YS1zaWduZXIifQ.0rI5GP3GDjT5rlrtPoK7yoyQYquINNd-nW5wtYk4SIATaoh2OJ0m1a6q9WjJW8KgwN9-vIJHZ50wGUZrJo0kdw",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Filtro de pano para Cafeteira Globinho Hario Sifão - 5 unidades Filtro Globinho Sifão TCA2/3/5 Pano 5 unidades não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

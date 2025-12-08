@@ -1,0 +1,109 @@
+[
+  {
+    "productId": "1437",
+    "productName": "Revista Espresso - Café e Leitura na Dose Certa - Edição 01",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---cafe-e-leitura-na-dose-certa---edicao-01-2974",
+    "productReference": "2974",
+    "productReferenceCode": "2974",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "Nas páginas da Espresso #1 você encontra seções que abordam a lenda de Khaldi; a expansão do café pela Europa; o café como um produto gourmet; a profissão barista; o mercado cafeeiro no Brasil; a produção do grão em Amparo (SP); e a relação entre café e saúde. A edição também conta com indicações de cafeterias, dicas de preparo, entrevistas exclusivas, receitas diversas e novidades do setor.",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%",
+      "240": "Feed Merchant 14.11"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---cafe-e-leitura-na-dose-certa---edicao-01-2974/p",
+    "description": "Nas páginas da Espresso #1 você encontra seções que abordam a lenda de Khaldi; a expansão do café pela Europa; o café como um produto gourmet; a profissão barista; o mercado cafeeiro no Brasil; a produção do grão em Amparo (SP); e a relação entre café e saúde. A edição também conta com indicações de cafeterias, dicas de preparo, entrevistas exclusivas, receitas diversas e novidades do setor.",
+    "items": [
+      {
+        "itemId": "1436",
+        "name": "Revista Espresso - Café e Leitura na Dose Certa - Edição 01",
+        "nameComplete": "Revista Espresso - Café e Leitura na Dose Certa - Edição 01",
+        "complementName": "",
+        "ean": "2974000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2974"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159065",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159065-#width#-#height#/2974_Revista-Espresso_Cafe-e-Leitura-na-Dose-Certa_Edicao-01.jpg?v=637578106274700000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_1\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159065/2974_Revista-Espresso_Cafe-e-Leitura-na-Dose-Certa_Edicao-01.jpg?v=637578106274700000",
+            "imageText": "rev_espresso_1",
+            "imageLastModified": "2021-05-28T14:57:07.4700000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1436&qty=1&seller=1&sc=1&price=4000&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 40,
+              "ListPrice": 40,
+              "PriceWithoutDiscount": 40,
+              "FullSellingPrice": 40,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjY2NzllZDc2LWM1NDgtNDhlMy04ODY4LTBlYWIzNDEyNzM5MiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo0MDAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDM2IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI0MSwiaWF0IjoxNzY1MTQ4NDQxLCJqdGkiOiIzOTAwMWY3OC00MjYxLTQ3M2MtODVlMS0zYTM5YmQ4ZjExNDEiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.7ra_9Kbe6WquBfZ2_R7raF1PQ05r2156HAmTDdyDdlkRdiZCpe1BhrnmT84j87ywsdJwiyehgvSpITZS9vmoQw",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Café e Leitura na Dose Certa - Edição 01 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

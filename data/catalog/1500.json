@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1500",
+    "productName": "Revista Espresso - Viver de Café  - Edição 64",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---viver-de-cafe----edicao-64-3037",
+    "productReference": "3037",
+    "productReferenceCode": "3037",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "A capa da #64 é cheia de pequenos detalhes e ilustra a montagem de um novo negócio. Justamente sobre isso, a matéria principal traz depoimentos de 20 empreendedores que destacam quais são os principais desafios para ter uma cafeteria de sucesso! Ainda dentro do mundo das casas de café, você sabe quais são as diferenças entre as bebidas à base de espresso? A seção “Você Barista” pode esclarecer suas dúvidas! Em “Personagem”, Georgia Franco conta sobre sua disposição durante os últimos anos para encontrar grãos especiais no País e lá fora! Nesta edição degustamos grãos moquinha, trouxemos tendências e notícias cafeinadas, batemos papo com a lindíssima cantora Zizi Possi, visitamos a Fazenda Sertãozinho e apresentamos a vocês uma deliciosa e caseira receita de bolinho de chuva (a melhor!), direto dos fogões a lenha do interior de São Paulo!",
+    "releaseDate": "2021-05-19T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---viver-de-cafe----edicao-64-3037/p",
+    "description": "A capa da #64 é cheia de pequenos detalhes e ilustra a montagem de um novo negócio. Justamente sobre isso, a matéria principal traz depoimentos de 20 empreendedores que destacam quais são os principais desafios para ter uma cafeteria de sucesso! Ainda dentro do mundo das casas de café, você sabe quais são as diferenças entre as bebidas à base de espresso? A seção “Você Barista” pode esclarecer suas dúvidas! Em “Personagem”, Georgia Franco conta sobre sua disposição durante os últimos anos para encontrar grãos especiais no País e lá fora! Nesta edição degustamos grãos moquinha, trouxemos tendências e notícias cafeinadas, batemos papo com a lindíssima cantora Zizi Possi, visitamos a Fazenda Sertãozinho e apresentamos a vocês uma deliciosa e caseira receita de bolinho de chuva (a melhor!), direto dos fogões a lenha do interior de São Paulo!",
+    "items": [
+      {
+        "itemId": "1499",
+        "name": "Revista Espresso - Viver de Café  - Edição 64",
+        "nameComplete": "Revista Espresso - Viver de Café  - Edição 64",
+        "complementName": "",
+        "ean": "3037000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3037"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159125",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159125-#width#-#height#/3037_Revista-Espresso_Viver-de-Cafe_Edicao-64.jpg?v=637584083052100000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_64\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159125/3037_Revista-Espresso_Viver-de-Cafe_Edicao-64.jpg?v=637584083052100000",
+            "imageText": "rev_espresso_64",
+            "imageLastModified": "2021-06-04T12:58:25.2100000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1499&qty=1&seller=1&sc=1&price=2000&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 20,
+              "ListPrice": 20,
+              "PriceWithoutDiscount": 20,
+              "FullSellingPrice": 20,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImUxOTkyYTJmLTU4YjYtNDkxNi1hYWQ2LTcxZDU0NmZmMThlMSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoyMDAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDk5IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI5MSwiaWF0IjoxNzY1MTQ4NDkxLCJqdGkiOiI0ZTcxYjZkNS1iMDA0LTQwZjMtYmQzYi1kYWYyOTcyOWVmMTEiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.mfCQ9nhlTMZvJnq_Sxv0XLFf2ukaY-sLg4pkLauaqQ_hzWUrgYrBuP13tFopu-ve394KpF1bHb3caTmAyjQ8Zw",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Viver de Café  - Edição 64 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

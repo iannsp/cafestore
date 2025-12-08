@@ -1,0 +1,139 @@
+[
+  {
+    "productId": "941",
+    "productName": "Bate Borra Tramontina Coffee Box  Inox",
+    "brand": "Tramontina",
+    "brandId": 2000061,
+    "brandImageUrl": null,
+    "linkText": "gaveta-bate-borra-tramontina-aco-inox-coffee-box_2443",
+    "productReference": "2443",
+    "productReferenceCode": "2443",
+    "categoryId": "34",
+    "productTitle": "",
+    "metaTagDescription": "Design diferenciado. Acabamentos impecáveis. Funcionalidades inteligentes. É nessa combinação de qualidades que está a essência da linha Tramontina by Breville. São eletroportáteis que renovam a cozinha e fazem despertar a paixão pela comida. A perfeição inspira a fazer bonito. O Recipiente para Pó de Café da linha de Eletroportáteis Tramontina by Breville irá proporcionar mais praticidade na sua rotina diária. Possibilitando que você descarte o pó de café com facilidade.",
+    "releaseDate": "2019-02-20T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "154": "Seleção de produtos",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Acessórios/Itens para Limpeza/",
+      "/Acessórios/",
+      "/Café Store Pro/"
+    ],
+    "categoriesIds": [
+      "/3/34/",
+      "/3/",
+      "/5/"
+    ],
+    "link": "https://www.cafestore.com.br/gaveta-bate-borra-tramontina-aco-inox-coffee-box_2443/p",
+    "Marca": [
+      "Tramontina"
+    ],
+    "Material / composição": [
+      "Vasilha em aço inox fosco; Barra batedora removível; Base de borracha antiderrapante."
+    ],
+    "Capacidade / Volume": [
+      "500 ml"
+    ],
+    "Dimensões aproximadas do produto (cm)- AxLxP": [
+      "115x108mm"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca",
+      "Material / composição",
+      "Capacidade / Volume",
+      "Dimensões aproximadas do produto (cm)- AxLxP"
+    ],
+    "allSpecifications": [
+      "Marca",
+      "Material / composição",
+      "Capacidade / Volume",
+      "Dimensões aproximadas do produto (cm)- AxLxP"
+    ],
+    "allSpecificationsGroups": [
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "<br> Com um design diferenciado, acabamento impecável e funcionalidades inteligentes, o Coffee Box da  linha Tramontina by Breville irá proporcionar praticidade na sua rotina diária, possibilitando que você descarte o pó de café com muito mais charme e facilidade. <br>",
+    "items": [
+      {
+        "itemId": "941",
+        "name": "Gaveta Bate Borra Tramontina Aço Inox Coffee Box",
+        "nameComplete": "Bate Borra Tramontina Coffee Box  Inox Gaveta Bate Borra Tramontina Aço Inox Coffee Box",
+        "complementName": "",
+        "ean": "7891116099780",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2443"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "156297",
+            "imageLabel": "frente",
+            "imageTag": "<img src=\"~/arquivos/ids/156297-#width#-#height#/gaveta-bate-borra-tramontina-aco-inox-coffee-box--.jpg?v=636862910374100000\" width=\"#width#\" height=\"#height#\" alt=\"gaveta-bate-borra-tramontina-aco-inox-coffee-box--\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/156297/gaveta-bate-borra-tramontina-aco-inox-coffee-box--.jpg?v=636862910374100000",
+            "imageText": "gaveta-bate-borra-tramontina-aco-inox-coffee-box--",
+            "imageLastModified": "2019-02-20T20:23:57.4100000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=941&qty=1&seller=1&sc=1&price=20650&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 206.5,
+              "ListPrice": 206.5,
+              "PriceWithoutDiscount": 206.5,
+              "FullSellingPrice": 206.5,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjNiZjc1OTk0LWZkN2ItNDQwMC04MGEwLTI5ZjIxZDAzNjRjOSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoyMDY1MCwic2VsbGVyIjoiMSIsImlkIjoiOTQxIiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE0OTg1MywiaWF0IjoxNzY1MTQ4MDUzLCJqdGkiOiJhNDA0ZjFmYi05NWNlLTQwMDUtYWFjMi1hNGZjMTM2ZjRkN2IiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.uEb6Ijhwz4la4hU-ac_R2R_BlAX4qbXXCMIs7Hbp0zsnm85dIvaNi3-fBqCcvTkQ2x7yZSyFIMJ89BZmfHEI2g",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Bate Borra Tramontina Coffee Box  Inox Gaveta Bate Borra Tramontina Aço Inox Coffee Box não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

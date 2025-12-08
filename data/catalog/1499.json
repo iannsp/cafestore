@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1499",
+    "productName": "Revista Espresso - Café por Elas! - Edição 63",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---cafe-por-elas----edicao-63-3036",
+    "productReference": "3036",
+    "productReferenceCode": "3036",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "A edição #63 da Revista Espresso foi uma homenagem às mulheres que dedicam o tempo para trazer o melhor do café especial, desde o cultivo, colheita, torra, xícara. Foram entrevistadas algumas personagens de cada área. A edição traz um bate-papo exclusivo com os baristas campeões de Barismo, Brewers, Coffee in Good Spirits e Latte Art, que irão representar o Brasil nos Campeonatos Mundiais. Entrevista com o empresário Pedro Lima, que conta sobre o Projeto Florada e com o ator Carmo Dalla Vecchia, que explica como surgiu sua relação com o café. Receita de uma deliciosa torta de limão acompanhada de um cold brew com maracujá e plantas comestíveis permeiam as páginas. Detalhes sobre moedores; visita a Fazenda Santa Alina, em São Sebastião da Grama (SP). Dicas de cafés, produtos, cafeterias, você encontra nas páginas da Espresso.",
+    "releaseDate": "2021-05-19T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---cafe-por-elas----edicao-63-3036/p",
+    "description": "A edição #63 da Revista Espresso foi uma homenagem às mulheres que dedicam o tempo para trazer o melhor do café especial, desde o cultivo, colheita, torra, xícara. Foram entrevistadas algumas personagens de cada área. A edição traz um bate-papo exclusivo com os baristas campeões de Barismo, Brewers, Coffee in Good Spirits e Latte Art, que irão representar o Brasil nos Campeonatos Mundiais. Entrevista com o empresário Pedro Lima, que conta sobre o Projeto Florada e com o ator Carmo Dalla Vecchia, que explica como surgiu sua relação com o café. Receita de uma deliciosa torta de limão acompanhada de um cold brew com maracujá e plantas comestíveis permeiam as páginas. Detalhes sobre moedores; visita a Fazenda Santa Alina, em São Sebastião da Grama (SP). Dicas de cafés, produtos, cafeterias, você encontra nas páginas da Espresso.",
+    "items": [
+      {
+        "itemId": "1498",
+        "name": "Revista Espresso - Café por Elas! - Edição 63",
+        "nameComplete": "Revista Espresso - Café por Elas! - Edição 63",
+        "complementName": "",
+        "ean": "3036000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3036"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159124",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159124-#width#-#height#/3036_Revista-Espresso_Cafe-por-Elas_Edicao-63.jpg?v=637584081747330000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_63\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159124/3036_Revista-Espresso_Cafe-por-Elas_Edicao-63.jpg?v=637584081747330000",
+            "imageText": "rev_espresso_63",
+            "imageLastModified": "2021-06-04T12:56:14.7330000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1498&qty=1&seller=1&sc=1&price=2000&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 20,
+              "ListPrice": 20,
+              "PriceWithoutDiscount": 20,
+              "FullSellingPrice": 20,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImI1ZWFlM2FhLWI1MTgtNDhjMi1hODk1LTY2ZjNhZjNjY2FmNyIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoyMDAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDk4IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI5MCwiaWF0IjoxNzY1MTQ4NDkwLCJqdGkiOiJmMjA3MTQ4OS0zYzc4LTQ4M2YtOTE1Ni04NWY0YTRjNjdlYTciLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.f9HCr-TY1832UNbaPbKPllYcSsqHrctW6kX7hsAg7QhrSHRaYbrwcZitLeBZKQ9jDUYevtyWoz___iJeQtjk7w",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Café por Elas! - Edição 63 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

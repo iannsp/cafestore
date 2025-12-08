@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1497",
+    "productName": "Revista Espresso - Quero Café - Edição 61",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---quero-cafe---edicao-61-3034",
+    "productReference": "3034",
+    "productReferenceCode": "3034",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "A nova edição da Revista Espresso traz um panorama sobre as regrinhas dos Campeonatos de Cup Tasters, Brewers, Coffee in Good Spirits e Latte Art, realizados no Brasil durante a Semana Internacional do Café (SIC). A edição conta com uma entrevista com a primeira mulher a se tornar campeã no Mundial de Barista, a polonesa Agnieszka Rojewska, que comenta sobre a emoção durante a competição. A barista é uma das campeãs do campeonato de Latte Art. A seção Você Barista foi inspirada no Campeonato de Latte Art e ensina o passo a passo e curiosidades sobre a técnica de desenhar  com o leite no café. Já a seção Mundo Café apresenta uma explicação de especialistas sobre o café fermentado. Dadinhos de tapioca e caipirinha com café são os protagonistas de Receitas. Em Gastronomia há receitinhas mineiras servidas em lindas cerâmicas. Entrevista com a atriz Arlete Salles! Detalhes sobre a região de Araponga e entrevista com a ganhadora do Coffee of The Year 2017, Sandra Lelis. Além de dicas de produtos e cafeterias para você conhecer!",
+    "releaseDate": "2021-05-19T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---quero-cafe---edicao-61-3034/p",
+    "description": "A nova edição da Revista Espresso traz um panorama sobre as regrinhas dos Campeonatos de Cup Tasters, Brewers, Coffee in Good Spirits e Latte Art, realizados no Brasil durante a Semana Internacional do Café (SIC). A edição conta com uma entrevista com a primeira mulher a se tornar campeã no Mundial de Barista, a polonesa Agnieszka Rojewska, que comenta sobre a emoção durante a competição. A barista é uma das campeãs do campeonato de Latte Art. A seção Você Barista foi inspirada no Campeonato de Latte Art e ensina o passo a passo e curiosidades sobre a técnica de desenhar  com o leite no café. Já a seção Mundo Café apresenta uma explicação de especialistas sobre o café fermentado. Dadinhos de tapioca e caipirinha com café são os protagonistas de Receitas. Em Gastronomia há receitinhas mineiras servidas em lindas cerâmicas. Entrevista com a atriz Arlete Salles! Detalhes sobre a região de Araponga e entrevista com a ganhadora do Coffee of The Year 2017, Sandra Lelis. Além de dicas de produtos e cafeterias para você conhecer!",
+    "items": [
+      {
+        "itemId": "1496",
+        "name": "Revista Espresso - Quero Café - Edição 61",
+        "nameComplete": "Revista Espresso - Quero Café - Edição 61",
+        "complementName": "",
+        "ean": "3034000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3034"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159122",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159122-#width#-#height#/3034_Revista-Espresso_Quero-Cafe_Edicao-61.jpg?v=637584079438900000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_61\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159122/3034_Revista-Espresso_Quero-Cafe_Edicao-61.jpg?v=637584079438900000",
+            "imageText": "rev_espresso_61",
+            "imageLastModified": "2021-06-04T12:52:23.8900000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1496&qty=1&seller=1&sc=1&price=2000&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 20,
+              "ListPrice": 20,
+              "PriceWithoutDiscount": 20,
+              "FullSellingPrice": 20,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjU5ZWU2NmQ0LWVkMWMtNDQzNy1hM2NhLWJmMTQ1ZDEzNTdjYyIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoyMDAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDk2IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI4OSwiaWF0IjoxNzY1MTQ4NDg5LCJqdGkiOiJkMTVkOGEyMS1kODE4LTQ1M2ItYTkzNS0zNjc2MzZjNjBkZDEiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.S74GMiexcjxEcOT93epU0UmN3idX1W-UKom4aB849XwVm64fd2Y_aKHiz9fEMFLglJpuW1EtM9kSBWdyO4JD0g",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T03:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Revista Espresso - Quero Café - Edição 61 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

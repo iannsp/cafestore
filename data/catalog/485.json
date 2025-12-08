@@ -1,0 +1,151 @@
+[
+  {
+    "productId": "485",
+    "productName": "Filtro Clever Grande Branco - 100 unidades",
+    "brand": "Clever",
+    "brandId": 2000067,
+    "brandImageUrl": null,
+    "linkText": "filtro-clever-grande-branco-100-unidades_2408",
+    "productReference": "2408",
+    "productReferenceCode": "2408",
+    "categoryId": "16",
+    "productTitle": "",
+    "metaTagDescription": "Pacote de filtros branco para Clever Grande.<BR><BR>100 unidades<BR>Origem: Taiwan",
+    "releaseDate": "2019-01-22T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "159": "PROMOÇÕES VIGENTE",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "159": "PROMOÇÕES VIGENTE",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Acessórios/Filtro de Papel/",
+      "/Acessórios/"
+    ],
+    "categoriesIds": [
+      "/3/16/",
+      "/3/"
+    ],
+    "link": "https://www.cafestore.com.br/filtro-clever-grande-branco-100-unidades_2408/p",
+    "Marca": [
+      "Clever"
+    ],
+    "Características": [
+      "Compatível com o Coador Clever 500ml"
+    ],
+    "Material / composição": [
+      "Papel"
+    ],
+    "Capacidade / Volume": [
+      "Pacote com 100 unidades"
+    ],
+    "Conteúdo da embalagem": [
+      "100 filtros de papel"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca",
+      "Características",
+      "Material / composição",
+      "Capacidade / Volume",
+      "Conteúdo da embalagem"
+    ],
+    "allSpecifications": [
+      "Marca",
+      "Características",
+      "Material / composição",
+      "Capacidade / Volume",
+      "Conteúdo da embalagem"
+    ],
+    "allSpecificationsGroups": [
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "<br>Filtro de papel de reposição para Clever Pequeno. Este filtro faz com que o café absorva a água no tempo necessário e tenha uma filtragem perfeita, sem resíduos e permitindo explorar ao máximo os atributos de doçura de um café especial.<br><br>\r\n\r\nO pacote de <b>Filtro Branco para Coadores Clever 500ml - 100 Unidades</b> são compatíveis com os <b>Coadores Clever 500ml.</b><br><br>\r\n\r\n<b>Características Gerais:</b><br>\r\n\r\n- Material: Papel Branco <br>\r\n- Quantidade: 100 unidades<br>\r\n- Compatibilidade: Coador Clever 500ml<br>\r\n- Origem: Taiwan<br>",
+    "items": [
+      {
+        "itemId": "485",
+        "name": "Filtro Branco p/ Clever Grande - 100 unid.",
+        "nameComplete": "Filtro Clever Grande Branco - 100 unidades Filtro Branco p/ Clever Grande - 100 unid.",
+        "complementName": "",
+        "ean": "4715838460037",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2408"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "155712",
+            "imageLabel": "Frente",
+            "imageTag": "<img src=\"~/arquivos/ids/155712-#width#-#height#/filtro-clever-grande-branco-100-unidades.jpg?v=636837637233170000\" width=\"#width#\" height=\"#height#\" alt=\"filtro-clever-grande-branco-100-unidades\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/155712/filtro-clever-grande-branco-100-unidades.jpg?v=636837637233170000",
+            "imageText": "filtro-clever-grande-branco-100-unidades",
+            "imageLastModified": "2019-01-22T14:22:03.3170000Z"
+          },
+          {
+            "imageId": "157874",
+            "imageLabel": "utilizacao",
+            "imageTag": "<img src=\"~/arquivos/ids/157874-#width#-#height#/Clever-Dripper--Coffee-Maker_.jpg?v=637273186993830000\" width=\"#width#\" height=\"#height#\" alt=\"Clever-Dripper--Coffee-Maker_\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/157874/Clever-Dripper--Coffee-Maker_.jpg?v=637273186993830000",
+            "imageText": "Clever-Dripper--Coffee-Maker_",
+            "imageLastModified": "2020-06-09T16:58:19.3830000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=485&qty=1&seller=1&sc=1&price=7550&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 75.5,
+              "ListPrice": 75.5,
+              "PriceWithoutDiscount": 75.5,
+              "FullSellingPrice": 75.5,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjMzYzBlMmE3LTRjNjItNGEzZi1iZDM2LWQzMzY1Y2MyOTU1YiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo3NTUwLCJzZWxsZXIiOiIxIiwiaWQiOiI0ODUiLCJhY2NvdW50TmFtZSI6ImNhZmVzdG9yZSIsInNhbGVzQ2hhbm5lbCI6IjEifSwiZXhwIjoxNzY1MTQ5NTA4LCJpYXQiOjE3NjUxNDc3MDgsImp0aSI6IjBhM2JhYjFkLTEzNzYtNDAzYi05NWM2LTdlNDJiNGFlZTc4MCIsImlzcyI6InNlc3Npb24vZGF0YS1zaWduZXIifQ.Ehaxo9j4JuRmlMtKQyup7veVgd5qxOgyvNwA5xe65VjQ7coEbyuDd5RBWYWUJyAdK0x6xOW0B9XQiR-b3k9TCw",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Filtro Clever Grande Branco - 100 unidades Filtro Branco p/ Clever Grande - 100 unid. não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

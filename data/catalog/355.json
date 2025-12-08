@@ -1,0 +1,148 @@
+[
+  {
+    "productId": "355",
+    "productName": "Tampers Inox 57 mm",
+    "brand": "Nitrojet",
+    "brandId": 2000054,
+    "brandImageUrl": null,
+    "linkText": "tampers-inox-57-mm_1969",
+    "productReference": "1969",
+    "productReferenceCode": "1969",
+    "categoryId": "5",
+    "productTitle": "",
+    "metaTagDescription": "O compactador de café em aço inox também conhecido como tamper, é uma peça indispensável para a extração do expresso, sendo utilizado para compactar e nivelar o pó de café no filtro.\r\n<BR><BR>Tamanho: 57 mm",
+    "releaseDate": "2019-01-22T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "164": "BUNN",
+      "207": "fb",
+      "238": "CASHBACK 5%",
+      "240": "Feed Merchant 14.11"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Café Store Pro/",
+      "/Acessórios/",
+      "/Acessórios/Tampers/"
+    ],
+    "categoriesIds": [
+      "/5/",
+      "/3/",
+      "/3/38/"
+    ],
+    "link": "https://www.cafestore.com.br/tampers-inox-57-mm_1969/p",
+    "Acessórios Profissionais": [
+      "Tamper"
+    ],
+    "Características": [
+      "Acessórios Profissionais"
+    ],
+    "Marca": [
+      "Nitrojet"
+    ],
+    "Material / composição": [
+      "Aço Inoxidável"
+    ],
+    "Conteúdo da embalagem": [
+      "1 tamper"
+    ],
+    "Cor": [
+      "Prata"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca",
+      "Características",
+      "Material / composição",
+      "Conteúdo da embalagem",
+      "Cor"
+    ],
+    "allSpecifications": [
+      "Acessórios Profissionais",
+      "Marca",
+      "Material / composição",
+      "Conteúdo da embalagem",
+      "Cor"
+    ],
+    "allSpecificationsGroups": [
+      "Características",
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "O compactador de café em aço inox também conhecido como tamper, é uma peça indispensável para a extração do expresso, sendo utilizado para compactar e nivelar o pó de café no filtro.\r\n<BR><BR>Tamanho: 57 mm",
+    "items": [
+      {
+        "itemId": "355",
+        "name": "Tampers com base em aço Inox 57 mm",
+        "nameComplete": "Tampers Inox 57 mm Tampers com base em aço Inox 57 mm",
+        "complementName": "",
+        "ean": "7898957094134",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "1969"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "158677",
+            "imageLabel": "Frente",
+            "imageTag": "<img src=\"~/arquivos/ids/158677-#width#-#height#/tamper.png?v=637448794292130000\" width=\"#width#\" height=\"#height#\" alt=\"tamper-inox\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/158677/tamper.png?v=637448794292130000",
+            "imageText": "tamper-inox",
+            "imageLastModified": "2020-12-29T22:57:09.2130000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=355&qty=1&seller=1&sc=1&price=15800&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 158,
+              "ListPrice": 158,
+              "PriceWithoutDiscount": 158,
+              "FullSellingPrice": 158,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjRmZDRlOTg0LWQzMTMtNGE3Ny04OTVhLWJjMjgzMDBlZTRiNiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTgwMCwic2VsbGVyIjoiMSIsImlkIjoiMzU1IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE0OTQwOCwiaWF0IjoxNzY1MTQ3NjA4LCJqdGkiOiIyYjkyZDFhMC04YTlhLTQwOTItYTY1Zi0xMTE0ZjU2NWNhYTkiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.5RgeHZpmYblpM-7QfF6vyERQ7M8C5Dy8qMTWRI1dl091o2HIEL3P2hM00gNc8yXSo9JRmLmi61P_Mwj8ArKe3A",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T03:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Tampers Inox 57 mm Tampers com base em aço Inox 57 mm não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

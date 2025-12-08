@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1507",
+    "productName": "Revista Espresso - Você Conhece o Café que Toma ? - Edição 69",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---voce-conhece-o-cafe-que-toma-----edicao-69-3042",
+    "productReference": "3042",
+    "productReferenceCode": "3042",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "10 atitudes para sair da bolha! A matéria principal da edição #69 da Espresso aborda a importância da conquista de consumidores de fora do nicho do café especial para fortalecer o setor que vinha em ritmo de crescimento antes da pandemia. Nas outras páginas você também encontra novidades do setor, dicas de cafeterias pelo Brasil, degustações de cafés premiados, receitas deliciosas, informações sobre métodos de preparo e muitas outras coisas! Ah! Tem entrevistas exclusivas com o músico Lucas Lima e com a cantora e compositora Adriana Calcanhotto!",
+    "releaseDate": "2021-05-19T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---voce-conhece-o-cafe-que-toma-----edicao-69-3042/p",
+    "description": "10 atitudes para sair da bolha! A matéria principal da edição #69 da Espresso aborda a importância da conquista de consumidores de fora do nicho do café especial para fortalecer o setor que vinha em ritmo de crescimento antes da pandemia. Nas outras páginas você também encontra novidades do setor, dicas de cafeterias pelo Brasil, degustações de cafés premiados, receitas deliciosas, informações sobre métodos de preparo e muitas outras coisas! Ah! Tem entrevistas exclusivas com o músico Lucas Lima e com a cantora e compositora Adriana Calcanhotto!",
+    "items": [
+      {
+        "itemId": "1506",
+        "name": "Revista Espresso - Você Conhece o Café que Toma ? - Edição 69",
+        "nameComplete": "Revista Espresso - Você Conhece o Café que Toma ? - Edição 69",
+        "complementName": "",
+        "ean": "3042000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3042"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159130",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159130-#width#-#height#/3042_Revista-Espresso_Voce-Conhece-o-Cafe-que-Toma_Edicao-69.jpg?v=637584090144100000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_69\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159130/3042_Revista-Espresso_Voce-Conhece-o-Cafe-que-Toma_Edicao-69.jpg?v=637584090144100000",
+            "imageText": "rev_espresso_69",
+            "imageLastModified": "2021-06-04T13:10:14.4100000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1506&qty=1&seller=1&sc=1&price=2000&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 20,
+              "ListPrice": 20,
+              "PriceWithoutDiscount": 20,
+              "FullSellingPrice": 20,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImUxMjM4MjcyLWU5ZWYtNGVkYy04YjFhLTUwYTM0ZmEwYTg3YiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoyMDAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNTA2IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI5NiwiaWF0IjoxNzY1MTQ4NDk2LCJqdGkiOiI4NTMwYThlZS0xZDc0LTQxNjktOWQxZS1jMGVjODAwOTk4N2MiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.5BIA8hY6bOUGW9C13uhZnWb14yhhFA-ppbAD_WNitLUe9qdGK5xBr3GzFTRi0xboUrhaVWMIz_ohExgmk-vHMg",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Você Conhece o Café que Toma ? - Edição 69 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

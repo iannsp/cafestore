@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1491",
+    "productName": "Revista Espresso - É do Brasil  - Edição 55",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---e-do-brasil----edicao-55-3028",
+    "productReference": "3028",
+    "productReferenceCode": "3028",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "A Espresso #55 está a cara do nosso país! A matéria de capa aborda invenções brasileiras que ganharam destaque no universo do café, tanto nas fazendas como também nas cafeterias, trazendo informações sobre mais de dez ideias criadas pelo nosso querido povo. Além disso, degustações de cafés brasileiros e gringos, dicas e descrições sobre estabelecimentos, receitas variadas, espaço para baristas e muita gastronomia ilustram as mais de 80 páginas pensadas e feitas com muito carinho para vocês.",
+    "releaseDate": "2021-05-19T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---e-do-brasil----edicao-55-3028/p",
+    "description": "A Espresso #55 está a cara do nosso país! A matéria de capa aborda invenções brasileiras que ganharam destaque no universo do café, tanto nas fazendas como também nas cafeterias, trazendo informações sobre mais de dez ideias criadas pelo nosso querido povo. Além disso, degustações de cafés brasileiros e gringos, dicas e descrições sobre estabelecimentos, receitas variadas, espaço para baristas e muita gastronomia ilustram as mais de 80 páginas pensadas e feitas com muito carinho para vocês.",
+    "items": [
+      {
+        "itemId": "1490",
+        "name": "Revista Espresso - É do Brasil  - Edição 55",
+        "nameComplete": "Revista Espresso - É do Brasil  - Edição 55",
+        "complementName": "",
+        "ean": "3028000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3028"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159116",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159116-#width#-#height#/3028_Revista-Espresso_E-do-Brasil_Edicao-55.jpg?v=637583249111300000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_55\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159116/3028_Revista-Espresso_E-do-Brasil_Edicao-55.jpg?v=637583249111300000",
+            "imageText": "rev_espresso_55",
+            "imageLastModified": "2021-06-03T13:48:31.1300000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1490&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjUzZjhjYzk5LWNiYmQtNGQ3NS04NzM2LTM4YzgxNDExZmRiYSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDkwIiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI4NCwiaWF0IjoxNzY1MTQ4NDg0LCJqdGkiOiIzOTJkNzRiYy0zMjYyLTQ0NTQtOGExZC00NTY5YTBkMWJiMzUiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.P6SikLe1POjH5LK1VmKGj2euuGNSn4mAMYTfrpJEcT6TvbYo3zclFrA7c81rxxuwGVIa8zqzCqETjkgAP5tsKQ",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - É do Brasil  - Edição 55 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

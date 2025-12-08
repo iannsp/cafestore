@@ -1,0 +1,142 @@
+[
+  {
+    "productId": "1086",
+    "productName": "Desodorante Masculino Kapeh 125 ml",
+    "brand": "Kapeh",
+    "brandId": 2000082,
+    "brandImageUrl": null,
+    "linkText": "desodorante-masculino-kapeh-125ml-2599",
+    "productReference": "2599",
+    "productReferenceCode": "2599",
+    "categoryId": "182",
+    "productTitle": "",
+    "metaTagDescription": "O Desodorante Antitranspirante Kapeh possui jato seco e confere 24h de proteção no combate aos odores.. Sua formulação especial é feita à base de Extrato de Café e enriquecida com Vitamina E, Óleo de Abacate e outros agentes emolientes que mantém as axilas hidratadas. \r\n\r\nAgite bem antes de usar e aplique a 15 cm de distância das axilas.",
+    "releaseDate": "2019-10-23T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Saúde/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/182/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/desodorante-masculino-kapeh-125ml-2599/p",
+    "Tipo": [
+      "Perfumes com café"
+    ],
+    "Características": [
+      "Tipo"
+    ],
+    "Marca": [
+      "Kapeh"
+    ],
+    "Material / composição": [
+      "Extrato de café, vitamina E"
+    ],
+    "Dimensões aproximadas do produto (cm)- AxLxP": [
+      "15 x 4,5 x 4,5"
+    ],
+    "Peso líquido aproximado do produto (kg)": [
+      "75g-125ml"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca",
+      "Características",
+      "Material / composição",
+      "Dimensões aproximadas do produto (cm)- AxLxP",
+      "Peso líquido aproximado do produto (kg)"
+    ],
+    "allSpecifications": [
+      "Tipo",
+      "Marca",
+      "Material / composição",
+      "Dimensões aproximadas do produto (cm)- AxLxP",
+      "Peso líquido aproximado do produto (kg)"
+    ],
+    "allSpecificationsGroups": [
+      "Características",
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "O Desodorante Antitranspirante Kapeh possui jato seco e confere 24h de proteção no combate aos odores.. Sua formulação especial é feita à base de Extrato de Café e enriquecida com Vitamina E, Óleo de Abacate e outros agentes emolientes que mantém as axilas hidratadas. <b/><b/>\r\n\r\nAgite bem antes de usar e aplique a 15 cm de distância das axilas. <b/><b/>",
+    "items": [
+      {
+        "itemId": "1087",
+        "name": "Desodorante Masculino KAPEH 125ML",
+        "nameComplete": "Desodorante Masculino Kapeh 125 ml Desodorante Masculino KAPEH 125ML",
+        "complementName": "",
+        "ean": "7898940360840",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2599"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "157226",
+            "imageLabel": "",
+            "imageTag": "<img src=\"~/arquivos/ids/157226-#width#-#height#/Desodorante-Antitrans.-Masculino-Kapeh-125ml--1-.png?v=637075249747200000\" width=\"#width#\" height=\"#height#\" alt=\"Desodorante-Antitrans.-Masculino-Kapeh-125ml--1-\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/157226/Desodorante-Antitrans.-Masculino-Kapeh-125ml--1-.png?v=637075249747200000",
+            "imageText": "Desodorante-Antitrans.-Masculino-Kapeh-125ml--1-",
+            "imageLastModified": "2019-10-24T14:42:54.7200000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1087&qty=1&seller=1&sc=1&price=3300&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 33,
+              "ListPrice": 33,
+              "PriceWithoutDiscount": 33,
+              "FullSellingPrice": 33,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjNkZDM1MzgyLTRlNjctNDMwMy1iZDRhLWU1NGQ5NjkwNjNkOSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjozMzAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxMDg3IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE0OTk2OSwiaWF0IjoxNzY1MTQ4MTY5LCJqdGkiOiJjMTA4NGIxZS02ZjQwLTRmNjMtYWZhYS00ZjNkMzI1YWQyMTgiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.Uj6GOF4dOSWjzN7ec928-QKFnZZYMwq3NgLMbbCW1Zc2V6IOSoC3EpHyz7_jzWTxedeyaJUoApiAmySLERbn0w",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Desodorante Masculino Kapeh 125 ml Desodorante Masculino KAPEH 125ML não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

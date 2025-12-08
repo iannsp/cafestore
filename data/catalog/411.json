@@ -1,0 +1,157 @@
+[
+  {
+    "productId": "411",
+    "productName": "Cappuccino Café do Centro Tradicional 200 g",
+    "brand": "Café do Centro",
+    "brandId": 2000006,
+    "brandImageUrl": null,
+    "linkText": "cappuccino-cafe-do-centro-tradicional-200-g_2160",
+    "productReference": "2160",
+    "productReferenceCode": "2160",
+    "categoryId": "11",
+    "productTitle": "Cappuccino Café do Centro Tradicional 200 g",
+    "metaTagDescription": "Cappuccinos Café do Centro: praticidade com sabor. Feitos com ingredientes selecionados, são cremosos, intensos e prontos em minutos.",
+    "releaseDate": "2019-07-26T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "148": "Inverno 2019",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "162": "INVERNO",
+      "204": "Cupom Frete Inativos",
+      "207": "fb"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Xaropes e Bebidas/Bebidas/Cappuccinos/",
+      "/Xaropes e Bebidas/Bebidas/",
+      "/Xaropes e Bebidas/"
+    ],
+    "categoriesIds": [
+      "/4/6/11/",
+      "/4/6/",
+      "/4/"
+    ],
+    "link": "https://www.cafestore.com.br/cappuccino-cafe-do-centro-tradicional-200-g_2160/p",
+    "Ingredientes": [
+      "açúcar, composto lácteo com gordura vegetal sabor leite (soro de leite, gordura vegetal, proteína láctea, xarope de glucose, leite integral, regulador de acidez: bicarbonato de sódio, emulsificante: mono e diglicerídeos de ácidos graxos, aromatizante), maltodextrina, café solúvel, cacau em pó, canela em pó e sal.  Contém também regulador de acidez (bicarbonato de sódio) e antiumectante (dióxido de silício)"
+    ],
+    "Sabor": [
+      "cappuccino com canela"
+    ],
+    "Especificaçoes cafe e bebidas": [
+      "Ingredientes",
+      "Sabor"
+    ],
+    "Marca": [
+      "Café do Centro"
+    ],
+    "Peso líquido aproximado do produto (kg)": [
+      "200g"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca",
+      "Peso líquido aproximado do produto (kg)"
+    ],
+    "allSpecifications": [
+      "Ingredientes",
+      "Sabor",
+      "Marca",
+      "Peso líquido aproximado do produto (kg)"
+    ],
+    "allSpecificationsGroups": [
+      "Especificaçoes cafe e bebidas",
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "<span style=\"font-size:16px\">A linha de cappuccinos do Café do Centro oferece a solução ideal para quem busca praticidade sem abrir mão do sabor. Feita com ingredientes selecionados, garante uma bebida cremosa e de sabor intenso, pronta em poucos minutos.</span><br/><br/><strong style=\"font-size:16px\">Alérgicos: contém derivados de leite e de soja. Contém lactose. Não contém glúten.</strong><br/><br/><strong style=\"font-size:16px\">Sugestão de preparo (para referência):</strong><ul><li><span style=\"font-size:16px\">21g (1 ½ colheres de sopa) em 110ml de água ou leite quente</span></li><li><span style=\"font-size:16px\">Misture bem até dissolver completamente</span></li></ul>",
+    "items": [
+      {
+        "itemId": "411",
+        "name": "Cappuccino Café do Centro Tradicional 200 g",
+        "nameComplete": "Cappuccino Café do Centro Tradicional 200 g",
+        "complementName": "",
+        "ean": "7896078390111",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2160"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "166954",
+            "imageLabel": "",
+            "imageTag": "<img src=\"~/arquivos/ids/166954-#width#-#height#/33.jpg?v=638872357638270000\" width=\"#width#\" height=\"#height#\" alt=\"33\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/166954/33.jpg?v=638872357638270000",
+            "imageText": "33",
+            "imageLastModified": "2025-07-04T14:22:43.8270000Z"
+          },
+          {
+            "imageId": "166955",
+            "imageLabel": "",
+            "imageTag": "<img src=\"~/arquivos/ids/166955-#width#-#height#/32.jpg?v=638872357638570000\" width=\"#width#\" height=\"#height#\" alt=\"32\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/166955/32.jpg?v=638872357638570000",
+            "imageText": "32",
+            "imageLastModified": "2025-07-04T14:22:43.8570000Z"
+          },
+          {
+            "imageId": "166956",
+            "imageLabel": "",
+            "imageTag": "<img src=\"~/arquivos/ids/166956-#width#-#height#/31.jpg?v=638872357638730000\" width=\"#width#\" height=\"#height#\" alt=\"31\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/166956/31.jpg?v=638872357638730000",
+            "imageText": "31",
+            "imageLastModified": "2025-07-04T14:22:43.8730000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=411&qty=1&seller=1&sc=1&price=2000&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 20,
+              "ListPrice": 20,
+              "PriceWithoutDiscount": 20,
+              "FullSellingPrice": 20,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjlkZWE1NjBjLTM3NzktNDEzYS1hMDk4LWJhMmFmNGIzZWFkZSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoyMDAwLCJzZWxsZXIiOiIxIiwiaWQiOiI0MTEiLCJhY2NvdW50TmFtZSI6ImNhZmVzdG9yZSIsInNhbGVzQ2hhbm5lbCI6IjEifSwiZXhwIjoxNzY1MTQ5NDUyLCJpYXQiOjE3NjUxNDc2NTIsImp0aSI6ImRiYzk4MDZkLTkyZGEtNDhiNC1hMmUxLTI2M2M4MzAyOWJhMCIsImlzcyI6InNlc3Npb24vZGF0YS1zaWduZXIifQ.WH-TEyZcTf6HJ8eJEIcv0kPpqh2dDE83WClVBHSKadH9r0QJL1JOeLKMMxNYQtq4S4c0Gf4wmCtRjN5HsfkjEQ",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Cappuccino Café do Centro Tradicional 200 g não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

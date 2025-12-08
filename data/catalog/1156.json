@@ -1,0 +1,209 @@
+[
+  {
+    "productId": "1156",
+    "productName": "Café Illy  Coado em cápsulas 18 unidades",
+    "brand": "Illy",
+    "brandId": 2000007,
+    "brandImageUrl": null,
+    "linkText": "cafe-coado-illy-iperespresso-em-capsulas-18un-2725",
+    "productReference": "2725",
+    "productReferenceCode": "2725",
+    "categoryId": "78",
+    "productTitle": "",
+    "metaTagDescription": "<br>Faça um café tipo coado com a qualidade Illy ao toque de um botão. <br> <br>\r\n\r\n<BR>CÁPSULA EXCLUSIVA PARA A MÁQUINA ILLY Y3.2 <BR><BR>\r\n\r\n<BR>NÃO SERVE PARA OUTROS MODELOS DE MÁQUINAS ILLY.<BR>",
+    "releaseDate": "2020-03-02T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "161": "Dia Nacional do Cafe 2020",
+      "165": "Cafes especiais",
+      "170": "Maquinas Illy",
+      "181": "Assinatura",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "221": "Cafés",
+      "238": "CASHBACK 5%",
+      "240": "Feed Merchant 14.11",
+      "248": "CAFÉS"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Cafés/Por Método/Cápsula de Café/",
+      "/Cafés/Por Método/",
+      "/Cafés/"
+    ],
+    "categoriesIds": [
+      "/1/179/78/",
+      "/1/179/",
+      "/1/"
+    ],
+    "link": "https://www.cafestore.com.br/cafe-coado-illy-iperespresso-em-capsulas-18un-2725/p",
+    "Por método": [
+      "Cápsulas"
+    ],
+    "Por quantidade": [
+      "12-18 unidades"
+    ],
+    "Por Região": [
+      "Blends Importados"
+    ],
+    "Características": [
+      "Por método",
+      "Por quantidade",
+      "Por Região"
+    ],
+    "allSpecifications": [
+      "Por método",
+      "Por quantidade",
+      "Por Região"
+    ],
+    "allSpecificationsGroups": [
+      "Características"
+    ],
+    "description": "<br>Faça um café tipo coado com a qualidade Illy ao toque de um botão. <br> <br>\r\n\r\n<BR>CÁPSULA EXCLUSIVA PARA A MÁQUINA ILLY Y3.2 <BR><BR>\r\n\r\n<BR>NÃO SERVE PARA OUTROS MODELOS DE MÁQUINAS ILLY.<BR>",
+    "items": [
+      {
+        "itemId": "1157",
+        "name": "Café Coado Illy IperEspresso em cápsulas 18un",
+        "nameComplete": "Café Illy  Coado em cápsulas 18 unidades Café Coado Illy IperEspresso em cápsulas 18un",
+        "complementName": "",
+        "ean": "8003753114347",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2725"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "157481",
+            "imageLabel": "",
+            "imageTag": "<img src=\"~/arquivos/ids/157481-#width#-#height#/cafe-illy-coado-em-capsulas.jpg?v=637236825639200000\" width=\"#width#\" height=\"#height#\" alt=\"cafe-illy-coado-em-capsulas\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/157481/cafe-illy-coado-em-capsulas.jpg?v=637236825639200000",
+            "imageText": "cafe-illy-coado-em-capsulas",
+            "imageLastModified": "2020-04-28T14:56:03.9200000Z"
+          }
+        ],
+        "attachments": [
+          {
+            "id": 3,
+            "name": "vtex.subscription.assinatura",
+            "required": false,
+            "domainValues": "[{\"FieldName\":\"vtex.subscription.key.frequency\",\"MaxCaracters\":\"\",\"DomainValues\":\"1 month, 2 month, 3 month\"}]"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1157&qty=1&seller=1&sc=1&price=7400&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [
+                {
+                  "Name": "Café Coado Illy IperEspresso em cápsulas 18un",
+                  "NameComplete": "Café Illy  Coado em cápsulas 18 unidades Café Coado Illy IperEspresso em cápsulas 18un",
+                  "MainImage": "https://cafestore.vteximg.com.br/arquivos/ids/157481/cafe-illy-coado-em-capsulas.jpg",
+                  "BrandName": "Illy",
+                  "CategoryId": 78,
+                  "ProductId": 1156,
+                  "id": "1157",
+                  "seller": "1",
+                  "assemblyOptions": [
+                    {
+                      "id": "vtex.subscription.assinatura",
+                      "name": "vtex.subscription.assinatura",
+                      "required": false,
+                      "inputValues": {
+                        "vtex.subscription.key.frequency": {
+                          "maximumNumberOfCharacters": 8,
+                          "domain": [
+                            "1 month",
+                            " 2 month",
+                            " 3 month"
+                          ]
+                        }
+                      },
+                      "composition": null
+                    }
+                  ]
+                }
+              ],
+              "Price": 74,
+              "ListPrice": 74,
+              "PriceWithoutDiscount": 74,
+              "FullSellingPrice": 74,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjY1N2M0YTE5LTBhZGMtNGJiNC04YjUwLWJiYTNlNzNiODY1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo3NDAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxMTU3IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDAyNCwiaWF0IjoxNzY1MTQ4MjI0LCJqdGkiOiIxNzVlMzFmNy0zZTg4LTQxNTItODViNS02YTZjMTFiNWM5NDIiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.lr8d9jZK7qM9S8rklTM_6J3Efdft6m428xUvnzMN_9Hb-SXu5spi82PSEuTHh01Yfm9yK0R4UYtrK-ZpUO-PcA",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T03:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Café Illy  Coado em cápsulas 18 unidades Café Coado Illy IperEspresso em cápsulas 18un não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ],
+    "itemMetadata": {
+      "items": [
+        {
+          "Name": "Café Coado Illy IperEspresso em cápsulas 18un",
+          "NameComplete": "Café Illy  Coado em cápsulas 18 unidades Café Coado Illy IperEspresso em cápsulas 18un",
+          "MainImage": "https://cafestore.vteximg.com.br/arquivos/ids/157481/cafe-illy-coado-em-capsulas.jpg",
+          "BrandName": "Illy",
+          "CategoryId": 78,
+          "ProductId": 1156,
+          "id": "1157",
+          "seller": "1",
+          "assemblyOptions": [
+            {
+              "id": "vtex.subscription.assinatura",
+              "name": "vtex.subscription.assinatura",
+              "required": false,
+              "inputValues": {
+                "vtex.subscription.key.frequency": {
+                  "maximumNumberOfCharacters": 8,
+                  "domain": [
+                    "1 month",
+                    " 2 month",
+                    " 3 month"
+                  ]
+                }
+              },
+              "composition": null
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

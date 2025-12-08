@@ -1,0 +1,155 @@
+[
+  {
+    "productId": "1002",
+    "productName": "Calda Routin 1883 Caramelo 1,89 L (2,46 Kg)",
+    "brand": "1883 Routin",
+    "brandId": 2000028,
+    "brandImageUrl": null,
+    "linkText": "calda-1883-de-caramelo-189l-246kg-2509",
+    "productReference": "2509",
+    "productReferenceCode": "2509",
+    "categoryId": "14",
+    "productTitle": "",
+    "metaTagDescription": "A Calda 1883 é 100% produzida na França, possui um sabor autêntico e excelência aromática.</p> Consistência perfeita e bico exclusivo para desenhos e decorações.</p> Um toque especial em bebidas quentes e frias, sobremesas e sorvetes. Experimente!",
+    "releaseDate": "2019-08-23T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "162": "INVERNO",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Xaropes e Bebidas/Bebidas/Caldas/",
+      "/Xaropes e Bebidas/Bebidas/",
+      "/Xaropes e Bebidas/"
+    ],
+    "categoriesIds": [
+      "/4/6/14/",
+      "/4/6/",
+      "/4/"
+    ],
+    "link": "https://www.cafestore.com.br/calda-1883-de-caramelo-189l-246kg-2509/p",
+    "Por volume (em ml)": [
+      "1 LITRO"
+    ],
+    "Características": [
+      "Por volume (em ml)"
+    ],
+    "Sabor": [
+      "Caramelo"
+    ],
+    "Especificaçoes cafe e bebidas": [
+      "Sabor"
+    ],
+    "Marca": [
+      "Routin 1883"
+    ],
+    "Capacidade / Volume": [
+      "1,89 Litros"
+    ],
+    "Cor": [
+      "Marrom"
+    ],
+    "Peso líquido aproximado do produto (kg)": [
+      "2,46kg"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca",
+      "Capacidade / Volume",
+      "Cor",
+      "Peso líquido aproximado do produto (kg)"
+    ],
+    "allSpecifications": [
+      "Por volume (em ml)",
+      "Sabor",
+      "Marca",
+      "Capacidade / Volume",
+      "Cor",
+      "Peso líquido aproximado do produto (kg)"
+    ],
+    "allSpecificationsGroups": [
+      "Características",
+      "Especificaçoes cafe e bebidas",
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "<p>A Calda de Caramelo Routin 1883 é 100% produzida na França, possui um sabor autêntico e excelência aromática. É apresentada em uma garrafa de 1,89 litros, ideal para o uso profissional para finalizar sobremesas, doces e bolos, crepes e panquecas, sorvetes, café, chocolate quente, frappes e praticamente qualquer outra coisa que você possa imaginar. Experimente!</p>\r\n\r\nO sabor cremoso de caramelo de verdade, com seu cheiro evocando lembranças maçantes da infância. Suas notas leitosas produzem um sabor generosamente arredondado no paladar.</p>\r\n\r\n<b>Ingredientes:</b><br>\r\nXarope de glicose, açúcar, água, leite condensado sem gordura, caramelo a 9%, sal, sabor artificial, sabor natural, agente gelificante: pectina, acidificador: ácido tartárico, emulsificante: lecitina de soja, conservante: sorbato de potássio.</p>\r\n\r\n<b>Características:</b><br>\r\n- Garrafa grande de 1,89 litros<br>\r\n- Ideal para fazer cafés especiais, mochas, sobremesas e muito mais<br>\r\n- Ideal para uso doméstico e de catering<br>\r\n- A bomba reutilizável também está disponível separadamente<br>\r\n- Refrigerar após abertura<br><br>\r\n\r\n<b>Dicas de uso não alcoólico:</b><br>\r\n- Leite (quente ou frio)<br>\r\n- Café (quente ou frio)<br>\r\n- Milkshake<br>\r\n- Bolos, Muffins, Cupcakes<br>\r\n- Smoothies<br>\r\n- Chás<br>",
+    "items": [
+      {
+        "itemId": "1003",
+        "name": "Calda 1883 de Caramelo 1,89L/2,46kg",
+        "nameComplete": "Calda Routin 1883 Caramelo 1,89 L (2,46 Kg) Calda 1883 de Caramelo 1,89L/2,46kg",
+        "complementName": "",
+        "ean": "0612511046929",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2509"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "156993",
+            "imageLabel": "",
+            "imageTag": "<img src=\"~/arquivos/ids/156993-#width#-#height#/calda-caramelo.jpg?v=637036306071700000\" width=\"#width#\" height=\"#height#\" alt=\"calda-caramelo-routin\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/156993/calda-caramelo.jpg?v=637036306071700000",
+            "imageText": "calda-caramelo-routin",
+            "imageLastModified": "2019-09-09T12:56:47.1700000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1003&qty=1&seller=1&sc=1&price=17100&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 171,
+              "ListPrice": 171,
+              "PriceWithoutDiscount": 171,
+              "FullSellingPrice": 171,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjI4NzY3MWIwLWNjZDctNGQ1Ny1hNDIzLTEzMTJmNjI1MjMzNiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNzEwMCwic2VsbGVyIjoiMSIsImlkIjoiMTAwMyIsImFjY291bnROYW1lIjoiY2FmZXN0b3JlIiwic2FsZXNDaGFubmVsIjoiMSJ9LCJleHAiOjE3NjUxNDk5MDQsImlhdCI6MTc2NTE0ODEwNCwianRpIjoiODEwMGQ0MmEtZjdiMS00NjZmLTlmMWQtMzEwZjg3MDIzMGIwIiwiaXNzIjoic2Vzc2lvbi9kYXRhLXNpZ25lciJ9.MUJwtI2Syx-wFYwr0LV1cqyH0uZLB7q9wyongDqFZsWKlP5_-yZ4VEwCpre5SnZFLX_aj9vbRlUR5MCpBBp6BQ",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Calda Routin 1883 Caramelo 1,89 L (2,46 Kg) Calda 1883 de Caramelo 1,89L/2,46kg não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

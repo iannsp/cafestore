@@ -1,0 +1,180 @@
+[
+  {
+    "productId": "1272",
+    "productName": "Garrafa Térmica Bialetti Vermelha 460 ml",
+    "brand": "Bialetti",
+    "brandId": 2000001,
+    "brandImageUrl": null,
+    "linkText": "garrafa-termica-bialetti-vermelha-460ml-2818",
+    "productReference": "2818",
+    "productReferenceCode": "2818",
+    "categoryId": "18",
+    "productTitle": "",
+    "metaTagDescription": "A Linha To Go é uma versão da Bialetti para as necessidades do dia a dia. O design compacto e ergonômico, juntamente com as paredes duplas de aço inox, mantém as temperaturas da bebida quente por até 12 hrs e fria por até 24 hrs*.",
+    "releaseDate": "2020-07-01T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Acessórios/Garrafas Térmicas/",
+      "/Acessórios/"
+    ],
+    "categoriesIds": [
+      "/3/18/",
+      "/3/"
+    ],
+    "link": "https://www.cafestore.com.br/garrafa-termica-bialetti-vermelha-460ml-2818/p",
+    "Marca": [
+      "Bialetti"
+    ],
+    "Material / composição": [
+      "Aço Inox"
+    ],
+    "Capacidade / Volume": [
+      "460 ml"
+    ],
+    "Conteúdo da embalagem": [
+      "1 garrafa térmica"
+    ],
+    "Cor": [
+      "Vermelho metálico"
+    ],
+    "Dimensões aproximadas do produto (cm)- AxLxP": [
+      "23,5 x 9,7 x 7,3cm"
+    ],
+    "Peso líquido aproximado do produto (kg)": [
+      "330g"
+    ],
+    "Modelo": [
+      "Linha To Go"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca",
+      "Material / composição",
+      "Capacidade / Volume",
+      "Conteúdo da embalagem",
+      "Cor",
+      "Dimensões aproximadas do produto (cm)- AxLxP",
+      "Peso líquido aproximado do produto (kg)",
+      "Modelo"
+    ],
+    "allSpecifications": [
+      "Marca",
+      "Material / composição",
+      "Capacidade / Volume",
+      "Conteúdo da embalagem",
+      "Cor",
+      "Dimensões aproximadas do produto (cm)- AxLxP",
+      "Peso líquido aproximado do produto (kg)",
+      "Modelo"
+    ],
+    "allSpecificationsGroups": [
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "A Linha To Go da Bialetti nasceu para atender as suas necessidades do dia a dia.<br><br>\r\nFeita especialmente para quem está sempre em movimento, as paredes duplas de aço inox desta garrafa mantém a temperatura da bebida quente por até 12 horas ou fria por até 24 horas.*<br><br>\r\nCom design compacto e ergonômico, esta garrafa térmica mantém o seu café aquecido sem alterar o sabor e o aroma e, ainda, a tampa vira um copo super prático.<br><br>\r\n*um tempo de conservação menor será notado para o mug ou em casos de garrafas com apenas metade da bebida.<br>",
+    "items": [
+      {
+        "itemId": "1272",
+        "name": "Garrafa Térmica Bialetti Vermelha 460ML",
+        "nameComplete": "Garrafa Térmica Bialetti Vermelha 460 ml Garrafa Térmica Bialetti Vermelha 460ML",
+        "complementName": "",
+        "ean": "8002617020497",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2818"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "158242",
+            "imageLabel": "",
+            "imageTag": "<img src=\"~/arquivos/ids/158242-#width#-#height#/garrafa-Bialetti-vermelha.jpg?v=637292262319000000\" width=\"#width#\" height=\"#height#\" alt=\"garrafa-Bialetti-vermelha\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/158242/garrafa-Bialetti-vermelha.jpg?v=637292262319000000",
+            "imageText": "garrafa-Bialetti-vermelha",
+            "imageLastModified": "2020-07-01T18:50:31.9000000Z"
+          },
+          {
+            "imageId": "158243",
+            "imageLabel": "",
+            "imageTag": "<img src=\"~/arquivos/ids/158243-#width#-#height#/garrafa-Bialetti-vermelha-2-.jpg?v=637292262488700000\" width=\"#width#\" height=\"#height#\" alt=\"garrafa-Bialetti-vermelha-2-\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/158243/garrafa-Bialetti-vermelha-2-.jpg?v=637292262488700000",
+            "imageText": "garrafa-Bialetti-vermelha-2-",
+            "imageLastModified": "2020-07-01T18:50:48.8700000Z"
+          },
+          {
+            "imageId": "158244",
+            "imageLabel": "",
+            "imageTag": "<img src=\"~/arquivos/ids/158244-#width#-#height#/garrafa-Bialetti-vermelha-3-.jpg?v=637292262645300000\" width=\"#width#\" height=\"#height#\" alt=\"garrafa-Bialetti-vermelha-3-\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/158244/garrafa-Bialetti-vermelha-3-.jpg?v=637292262645300000",
+            "imageText": "garrafa-Bialetti-vermelha-3-",
+            "imageLastModified": "2020-07-01T18:51:04.5300000Z"
+          },
+          {
+            "imageId": "159299",
+            "imageLabel": "PNG",
+            "imageTag": "<img src=\"~/arquivos/ids/159299-#width#-#height#/2818_Garrafa-Termica-Bialetti-Vermelha-460ml--1-.png?v=637661921650000000\" width=\"#width#\" height=\"#height#\" alt=\"2818_Garrafa-Termica-Bialetti-Vermelha-460ml--1-\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159299/2818_Garrafa-Termica-Bialetti-Vermelha-460ml--1-.png?v=637661921650000000",
+            "imageText": "2818_Garrafa-Termica-Bialetti-Vermelha-460ml--1-",
+            "imageLastModified": "2021-09-02T15:09:25.0000000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1272&qty=1&seller=1&sc=1&price=12800&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 128,
+              "ListPrice": 128,
+              "PriceWithoutDiscount": 128,
+              "FullSellingPrice": 128,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImE3MThkNjkyLTk5N2UtNDNmMy1iOTNlLWY4NTkyZjYxNWExMyIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxMjgwMCwic2VsbGVyIjoiMSIsImlkIjoiMTI3MiIsImFjY291bnROYW1lIjoiY2FmZXN0b3JlIiwic2FsZXNDaGFubmVsIjoiMSJ9LCJleHAiOjE3NjUxNTAxMTUsImlhdCI6MTc2NTE0ODMxNSwianRpIjoiNTNiMmY3YmUtYmZhNy00ZWU0LWE2ZWYtYTRiMzY3N2E5MTU5IiwiaXNzIjoic2Vzc2lvbi9kYXRhLXNpZ25lciJ9.RI5VchxgPE3HOvwE6b2-kRaT6XUjMz-d40lKuCEPANUaIkQ8m1w6_6tyQKlz6K8e6mbWVJXhNDEwLoTmyb7LDg",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Garrafa Térmica Bialetti Vermelha 460 ml Garrafa Térmica Bialetti Vermelha 460ML não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

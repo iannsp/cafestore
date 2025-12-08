@@ -1,0 +1,130 @@
+[
+  {
+    "productId": "305",
+    "productName": "Xarope Monin Toranja Grapefruit 700 ml",
+    "brand": "Monin",
+    "brandId": 2000008,
+    "brandImageUrl": null,
+    "linkText": "xarope-monin-toranja-grapefruit-700-ml_1733",
+    "productReference": "1733",
+    "productReferenceCode": "1733",
+    "categoryId": "7",
+    "productTitle": null,
+    "metaTagDescription": null,
+    "releaseDate": "2019-01-30T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "162": "INVERNO",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Xaropes e Bebidas/Xaropes/",
+      "/Xaropes e Bebidas/"
+    ],
+    "categoriesIds": [
+      "/4/7/",
+      "/4/"
+    ],
+    "link": "https://www.cafestore.com.br/xarope-monin-toranja-grapefruit-700-ml_1733/p",
+    "Por volume (em ml)": [
+      "700ML"
+    ],
+    "Características": [
+      "Por volume (em ml)"
+    ],
+    "Marca": [
+      "Monin"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca"
+    ],
+    "allSpecifications": [
+      "Por volume (em ml)",
+      "Marca"
+    ],
+    "allSpecificationsGroups": [
+      "Características",
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "Embalagem: Garrafa de Vidro 700ml<BR><BR>Ingredientes:<BR><BR>Açúcar, água, suco concentrado de toranja, aroma sintético idêntico ao natural, corante artificial vermelho 40. Não contém glúten. <BR><BR>Características: <BR><BR>- Elaborado a base de extratos naturais<BR>- Altamente concentrado<BR>- Não é alcoólico<BR>- Sem conservantes<BR><BR>Dicas de uso e consumo:<BR><BR>Xarope de Toranja (Grapefruit) pode ser utilizado em uma mistura com vinho branco. <BR><BR>- Vinhos<BR>- Coquetéis<BR>- Sodas<BR>- Smoothies<BR>",
+    "items": [
+      {
+        "itemId": "305",
+        "name": "Xarope Monin de Toranja (Grapefruit) 700ml",
+        "nameComplete": "Xarope Monin Toranja Grapefruit 700 ml Xarope Monin de Toranja (Grapefruit) 700ml",
+        "complementName": "",
+        "ean": "3052910055301",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "1733"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "156021",
+            "imageLabel": "frente",
+            "imageTag": "<img src=\"~/arquivos/ids/156021-#width#-#height#/xarope-monin-toranja-grapefruit-700-ml.jpg?v=636844508130470000\" width=\"#width#\" height=\"#height#\" alt=\"xarope-monin-toranja-grapefruit-700-ml\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/156021/xarope-monin-toranja-grapefruit-700-ml.jpg?v=636844508130470000",
+            "imageText": "xarope-monin-toranja-grapefruit-700-ml",
+            "imageLastModified": "2019-01-30T13:13:33.0470000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=305&qty=1&seller=1&sc=1&price=5240&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 52.4,
+              "ListPrice": 57,
+              "PriceWithoutDiscount": 52.4,
+              "FullSellingPrice": 52.4,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImEzMzIyZTA1LTE3YWYtNDkwOS04YWFjLTZkNjA2NDFjMzNiOSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo1MjQwLCJzZWxsZXIiOiIxIiwiaWQiOiIzMDUiLCJhY2NvdW50TmFtZSI6ImNhZmVzdG9yZSIsInNhbGVzQ2hhbm5lbCI6IjEifSwiZXhwIjoxNzY1MTQ5MzY2LCJpYXQiOjE3NjUxNDc1NjYsImp0aSI6IjM5NWMxZDVmLTk0MzctNDgxYS05ODA1LTVkNDdlYWYzZDdlMCIsImlzcyI6InNlc3Npb24vZGF0YS1zaWduZXIifQ.h7JL60E8CIEAzaAGDeQ9WPj2TFbvs2_WexjrQuiMVsucGzfvBpNY6ervdXgyijAUXwbQiPeua_TKH6ldtijRpA",
+              "RewardValue": 0,
+              "PriceValidUntil": "2026-12-07T22:46:06Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Xarope Monin Toranja Grapefruit 700 ml Xarope Monin de Toranja (Grapefruit) 700ml não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

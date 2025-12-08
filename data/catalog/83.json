@@ -1,0 +1,136 @@
+[
+  {
+    "productId": "83",
+    "productName": "Jarra Le Creuset Cerâmica 200 ml",
+    "brand": "Le creuset",
+    "brandId": 2000023,
+    "brandImageUrl": null,
+    "linkText": "jarra-le-creuset-ceramica-200-ml_987",
+    "productReference": "987",
+    "productReferenceCode": "987",
+    "categoryId": "25",
+    "productTitle": "",
+    "metaTagDescription": "Jarra em cerâmica para leite Le Creuset é feita em cerâmica, que da um charme todo especial na sua cozinha.<BR><BR>Suporta grandes variações de temperatura, podendo ser utilizada para servir bebidas quentes ou frias.",
+    "releaseDate": "2019-01-22T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Acessórios/Bules e jarras/",
+      "/Acessórios/"
+    ],
+    "categoriesIds": [
+      "/3/25/",
+      "/3/"
+    ],
+    "link": "https://www.cafestore.com.br/jarra-le-creuset-ceramica-200-ml_987/p",
+    "Marca": [
+      "Le Creuset"
+    ],
+    "Material / composição": [
+      "Stoneware"
+    ],
+    "Capacidade / Volume": [
+      "Aproximadamente 200ml"
+    ],
+    "Cor": [
+      "Laranja"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca",
+      "Material / composição",
+      "Capacidade / Volume",
+      "Cor"
+    ],
+    "allSpecifications": [
+      "Marca",
+      "Material / composição",
+      "Capacidade / Volume",
+      "Cor"
+    ],
+    "allSpecificationsGroups": [
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "Jarra em cerâmica para leite Le Creuset é feita em cerâmica, que da um charme todo especial na sua cozinha.<BR><BR>Suporta grandes variações de temperatura, podendo ser utilizada para servir bebidas quentes ou frias.",
+    "items": [
+      {
+        "itemId": "83",
+        "name": "Jarra para Leite Le Creuset Laranja 200ml",
+        "nameComplete": "Jarra Le Creuset Cerâmica 200 ml Jarra para Leite Le Creuset Laranja 200ml",
+        "complementName": "",
+        "ean": "630870011464",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "987"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "155733",
+            "imageLabel": "Frente",
+            "imageTag": "<img src=\"~/arquivos/ids/155733-#width#-#height#/jarra-le-creuset-ceramica-200-ml.jpg?v=636837637593400000\" width=\"#width#\" height=\"#height#\" alt=\"jarra-le-creuset-ceramica-200-ml\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/155733/jarra-le-creuset-ceramica-200-ml.jpg?v=636837637593400000",
+            "imageText": "jarra-le-creuset-ceramica-200-ml",
+            "imageLastModified": "2019-01-22T14:22:39.3400000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=83&qty=1&seller=1&sc=1&price=9900&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 99,
+              "ListPrice": 99,
+              "PriceWithoutDiscount": 99,
+              "FullSellingPrice": 99,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjA2MzY0OWYzLWY0NjAtNDIzZi04NGJmLTkyNmY3MjhjNjM4MCIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo5OTAwLCJzZWxsZXIiOiIxIiwiaWQiOiI4MyIsImFjY291bnROYW1lIjoiY2FmZXN0b3JlIiwic2FsZXNDaGFubmVsIjoiMSJ9LCJleHAiOjE3NjUxNDkxODcsImlhdCI6MTc2NTE0NzM4NywianRpIjoiYjYyNjgwZWUtNDZmZi00NjUzLTk5ZTAtMGU4OTVhZDk1YjdlIiwiaXNzIjoic2Vzc2lvbi9kYXRhLXNpZ25lciJ9.MZVAiWntDtUAey4xI2KPNaMQ06rilq96YyuJIbQ7aZt6dUbjq352P3CpYB4L3hmUUe5nV2_oLLJ43M-eTDopRw",
+              "RewardValue": 0,
+              "PriceValidUntil": "2024-08-13T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Jarra Le Creuset Cerâmica 200 ml Jarra para Leite Le Creuset Laranja 200ml não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

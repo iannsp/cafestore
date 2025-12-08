@@ -1,0 +1,111 @@
+[
+  {
+    "productId": "1113",
+    "productName": "Suporte para tamper FPRO Inox Polido",
+    "brand": "FPRO",
+    "brandId": 2000016,
+    "brandImageUrl": null,
+    "linkText": "suporte-para-tamper-fpro-inox-polido-2637",
+    "productReference": "2637",
+    "productReferenceCode": "2637",
+    "categoryId": "38",
+    "productTitle": "",
+    "metaTagDescription": "Suporte para tamper em aço Inox.\r\n\r\nUsar o suporte como apoio ao tamper no momento da compactação do café.\r\nGarante uma boa compactação\r\nEvita ranhuras no balcão",
+    "releaseDate": "2019-12-09T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "159": "PROMOÇÕES VIGENTE",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "159": "PROMOÇÕES VIGENTE",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Acessórios/Tampers/",
+      "/Acessórios/"
+    ],
+    "categoriesIds": [
+      "/3/38/",
+      "/3/"
+    ],
+    "link": "https://www.cafestore.com.br/suporte-para-tamper-fpro-inox-polido-2637/p",
+    "description": "Suporte para tamper em aço Inox.\r\n\r\nUsar o suporte como apoio ao tamper no momento da compactação do café.\r\nGarante uma boa compactação\r\nEvita ranhuras no balcão",
+    "items": [
+      {
+        "itemId": "1114",
+        "name": "Suporte para tamper FPRO Inox Polido",
+        "nameComplete": "Suporte para tamper FPRO Inox Polido",
+        "complementName": "",
+        "ean": "7898938133852",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2637"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "157332",
+            "imageLabel": "",
+            "imageTag": "<img src=\"~/arquivos/ids/157332-#width#-#height#/suporte-para-tamper-fpro-inox.jpg?v=637121061806170000\" width=\"#width#\" height=\"#height#\" alt=\"suporte-para-tamper-fpro-inox\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/157332/suporte-para-tamper-fpro-inox.jpg?v=637121061806170000",
+            "imageText": "suporte-para-tamper-fpro-inox",
+            "imageLastModified": "2019-12-16T15:16:20.6170000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1114&qty=1&seller=1&sc=1&price=7900&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 79,
+              "ListPrice": 127,
+              "PriceWithoutDiscount": 79,
+              "FullSellingPrice": 79,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjM5OGY4NmJjLWM5ZjYtNGMxZC04OTcwLWFmOTExYTk4MWJhMCIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo3OTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxMTE0IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE0OTk5MSwiaWF0IjoxNzY1MTQ4MTkxLCJqdGkiOiI5OWEwZjBhOC1kMTU4LTQzZDAtOTBkOC1kYzVjYWY1MTgyZDEiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.Ri9Q7p4nMr-Z1ezCW8twuAvkIbTY9zWEi-ZwrHeuNMRs4rqE9BtWCQYE0t1ciwA719M58h5laWZJGmKBVapWHg",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Suporte para tamper FPRO Inox Polido não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

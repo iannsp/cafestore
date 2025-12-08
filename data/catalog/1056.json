@@ -1,0 +1,149 @@
+[
+  {
+    "productId": "1056",
+    "productName": "Conjunto para Coar Café Hario Preto 700ml",
+    "brand": "Hario",
+    "brandId": 2000025,
+    "brandImageUrl": null,
+    "linkText": "conjunto-para-coar-cafe-preto-700ml-mod--vdi-02b-2580",
+    "productReference": "2580",
+    "productReferenceCode": "2580",
+    "categoryId": "155",
+    "productTitle": "",
+    "metaTagDescription": "O Conjunto Hario V60-02 Drip In – 700ml é composto por um coador em Polipropileno compatível com filtros Hario V60-02 e um belo suporte de vidro com alça e tampa, tendo uma capacidade para de 700 ml.",
+    "releaseDate": "2019-10-04T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "159": "PROMOÇÕES VIGENTE",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "159": "PROMOÇÕES VIGENTE",
+      "204": "Cupom Frete Inativos",
+      "206": "Datas Especiais",
+      "207": "fb",
+      "238": "CASHBACK 5%",
+      "265": "Hario"
+    },
+    "searchableClusters": {
+      "206": "Datas Especiais"
+    },
+    "categories": [
+      "/Cafeteiras/Método Filtrado/Coador Hario V60/",
+      "/Cafeteiras/Método Filtrado/",
+      "/Cafeteiras/"
+    ],
+    "categoriesIds": [
+      "/2/149/155/",
+      "/2/149/",
+      "/2/"
+    ],
+    "link": "https://www.cafestore.com.br/conjunto-para-coar-cafe-preto-700ml-mod--vdi-02b-2580/p",
+    "Marca": [
+      "Hario"
+    ],
+    "Material / composição": [
+      "Vidro, Polipropileno e plástico"
+    ],
+    "Capacidade / Volume": [
+      "700ml 1 - 4 copos"
+    ],
+    "Cor": [
+      "preto e transparente"
+    ],
+    "Dimensões aproximadas do produto (cm)- AxLxP": [
+      "15 x 15 x 11,5"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca",
+      "Material / composição",
+      "Capacidade / Volume",
+      "Cor",
+      "Dimensões aproximadas do produto (cm)- AxLxP"
+    ],
+    "allSpecifications": [
+      "Marca",
+      "Material / composição",
+      "Capacidade / Volume",
+      "Cor",
+      "Dimensões aproximadas do produto (cm)- AxLxP"
+    ],
+    "allSpecificationsGroups": [
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "O Conjunto Hario V60-02 Drip In – 700ml é composto por um coador em Polipropileno compatível com filtros Hario V60-02 e um belo suporte de vidro com alça e tampa, tendo uma capacidade para de 700 ml.",
+    "items": [
+      {
+        "itemId": "1057",
+        "name": "Conjunto para Coar Café Preto 700ml Mod. VDI-02B",
+        "nameComplete": "Conjunto para Coar Café Hario Preto 700ml Conjunto para Coar Café Preto 700ml Mod. VDI-02B",
+        "complementName": "",
+        "ean": "4977642142404",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2580"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "157121",
+            "imageLabel": "",
+            "imageTag": "<img src=\"~/arquivos/ids/157121-#width#-#height#/conjunto-hario-coar-cafe-700ml-preto.jpg?v=637061392464530000\" width=\"#width#\" height=\"#height#\" alt=\"conjunto-hario-coar-cafe-700ml-preto\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/157121/conjunto-hario-coar-cafe-700ml-preto.jpg?v=637061392464530000",
+            "imageText": "conjunto-hario-coar-cafe-700ml-preto",
+            "imageLastModified": "2019-10-08T13:47:26.4530000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1057&qty=1&seller=1&sc=1&price=24690&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 246.9,
+              "ListPrice": 246.9,
+              "PriceWithoutDiscount": 246.9,
+              "FullSellingPrice": 246.9,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjA2MzY0OWYzLWY0NjAtNDIzZi04NGJmLTkyNmY3MjhjNjM4MCIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoyNDY5MCwic2VsbGVyIjoiMSIsImlkIjoiMTA1NyIsImFjY291bnROYW1lIjoiY2FmZXN0b3JlIiwic2FsZXNDaGFubmVsIjoiMSJ9LCJleHAiOjE3NjUxNDk5NDUsImlhdCI6MTc2NTE0ODE0NSwianRpIjoiMzkxYjFmNDktNjVhOS00NzU3LWEyYWUtNjI5MTAxZmE5MjdlIiwiaXNzIjoic2Vzc2lvbi9kYXRhLXNpZ25lciJ9.iSITON95FQZMoKfsAadW5L3Mm2lFN7_QnNED9tx4hRktHvfXU7afXVq7Q_LdYFXYlbO_pFbSrd7Dh1QBiOQTsw",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T03:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Conjunto para Coar Café Hario Preto 700ml Conjunto para Coar Café Preto 700ml Mod. VDI-02B não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

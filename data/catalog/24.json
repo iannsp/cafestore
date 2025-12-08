@@ -1,0 +1,141 @@
+[
+  {
+    "productId": "24",
+    "productName": "Xarope Monin Amêndoa 700 ml",
+    "brand": "Monin",
+    "brandId": 2000008,
+    "brandImageUrl": null,
+    "linkText": "xarope-monin-amendoa-700-ml_226",
+    "productReference": "226",
+    "productReferenceCode": "226",
+    "categoryId": "7",
+    "productTitle": "",
+    "metaTagDescription": "<BR><BR>Ingredientes:<BR><BR>Açúcar de beterraba , Água, aromatizante Natural de Amêndoa. Não Contém Glutén.<BR><BR>Características:<BR><BR>- Altamente concentrado.<BR>- Não é alcoólico. <BR>-Sem conservantes<BR>- Prazo de validade longo<BR><BR>Aroma puro e genuíno, e um agradável sabor adocicado. <BR><BR>Dicas de uso e consumo:<BR><BR>Experimente combinar Monin Macadâmia, Avelã ou Coco para uma experiência muito mais amendoada.<BR><BR>- Pode ser utilizada com leite e derivados (leite, cremes, iogurte, etc.).<BR>- Coquetelaria: De fácil utilização, acrescentando mais aroma e sabor ao seu coquetel alcoólico ou não alcoólico<BR>- Cafeteria: Descubra o prazer de saborear novas opções para o seu café<BR><BR><BR>",
+    "releaseDate": "2019-01-30T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "162": "INVERNO",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Xaropes e Bebidas/Xaropes/",
+      "/Xaropes e Bebidas/"
+    ],
+    "categoriesIds": [
+      "/4/7/",
+      "/4/"
+    ],
+    "link": "https://www.cafestore.com.br/xarope-monin-amendoa-700-ml_226/p",
+    "Por volume (em ml)": [
+      "700ML"
+    ],
+    "Características": [
+      "Por volume (em ml)"
+    ],
+    "Marca": [
+      "Monin"
+    ],
+    "Material / composição": [
+      "Garrafa de Vidro"
+    ],
+    "Capacidade / Volume": [
+      "700 ml"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca",
+      "Características",
+      "Material / composição",
+      "Capacidade / Volume"
+    ],
+    "allSpecifications": [
+      "Por volume (em ml)",
+      "Marca",
+      "Material / composição",
+      "Capacidade / Volume"
+    ],
+    "allSpecificationsGroups": [
+      "Características",
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "<BR><BR>Ingredientes:<BR><BR>Açúcar de beterraba , Água, aromatizante Natural de Amêndoa. Não Contém Glutén.<BR><BR>Características:<BR><BR>- Altamente concentrado.<BR>- Não é alcoólico. <BR>-Sem conservantes<BR>- Prazo de validade longo<BR><BR>Aroma puro e genuíno, e um agradável sabor adocicado. <BR><BR>Dicas de uso e consumo:<BR><BR>Experimente combinar Monin Macadâmia, Avelã ou Coco para uma experiência muito mais amendoada.<BR><BR>- Pode ser utilizada com leite e derivados (leite, cremes, iogurte, etc.).<BR>- Coquetelaria: De fácil utilização, acrescentando mais aroma e sabor ao seu coquetel alcoólico ou não alcoólico<BR>- Cafeteria: Descubra o prazer de saborear novas opções para o seu café<BR><BR><BR>",
+    "items": [
+      {
+        "itemId": "24",
+        "name": "Xarope Monin de Amêndoa 700ml",
+        "nameComplete": "Xarope Monin Amêndoa 700 ml Xarope Monin de Amêndoa 700ml",
+        "complementName": "",
+        "ean": "3052910056247",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "226"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "156053",
+            "imageLabel": "frente",
+            "imageTag": "<img src=\"~/arquivos/ids/156053-#width#-#height#/xarope-monin-amendoa-700-ml.jpg?v=636844508588000000\" width=\"#width#\" height=\"#height#\" alt=\"xarope-monin-amendoa-700-ml\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/156053/xarope-monin-amendoa-700-ml.jpg?v=636844508588000000",
+            "imageText": "xarope-monin-amendoa-700-ml",
+            "imageLastModified": "2019-01-30T13:14:18.8000000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=24&qty=1&seller=1&sc=1&price=7190&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 71.9,
+              "ListPrice": 71.9,
+              "PriceWithoutDiscount": 71.9,
+              "FullSellingPrice": 71.9,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjAyMmNiNzQxLTM0ZTktNGZlMi04NTMyLTUyMjk4N2ExMGU0ZiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo3MTkwLCJzZWxsZXIiOiIxIiwiaWQiOiIyNCIsImFjY291bnROYW1lIjoiY2FmZXN0b3JlIiwic2FsZXNDaGFubmVsIjoiMSJ9LCJleHAiOjE3NjUxNDkxNDAsImlhdCI6MTc2NTE0NzM0MCwianRpIjoiNTY5MDgxOWQtOTI3MC00MjJkLWFmMWItNGMwYWM4MDdhMDc1IiwiaXNzIjoic2Vzc2lvbi9kYXRhLXNpZ25lciJ9.vIonlSJmxL1VXryf6iH9wWciQaWyg2uH2ba24TJI4GphNOghmhdf5ptsfNMc8-VGZY7zEd1GSotQf45ZFOrfmA",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T03:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Xarope Monin Amêndoa 700 ml Xarope Monin de Amêndoa 700ml não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

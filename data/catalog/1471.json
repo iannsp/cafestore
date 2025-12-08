@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1471",
+    "productName": "Revista Espresso - Especial Chocolate - Edição 35",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---especial-chocolate---edicao-35-3008",
+    "productReference": "3008",
+    "productReferenceCode": "3008",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "Para acompanhar a proximidade da Páscoa, a matéria de capa da Espresso #35 traz um especial sobre chocolate. A reportagem apresenta informações sobre as variedades de chocolates gourmet nacionais e as fazendas de cacau que se preocupam em oferecer um produto de qualidade. Há também uma reportagem sobre café e pão na chapa, companheiros inseparáveis nos cafés da manhã em padarias. O entrevistado da edição é o cantor Ed Motta, que revela seu desejo por aprender mais sobre café. Em Outra Esquina, a Espresso apresenta cafés de Nova York, Rio de Janeiro, São Paulo, Recife e Ribeirão Preto. As colunas trazem um texto bem humorado de Xico Sá sobre o universo feminino e Paulo Pedroso fala sobre as conversas sobre o preparo do café em balcões das cafeterias.",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---especial-chocolate---edicao-35-3008/p",
+    "description": "Para acompanhar a proximidade da Páscoa, a matéria de capa da Espresso #35 traz um especial sobre chocolate. A reportagem apresenta informações sobre as variedades de chocolates gourmet nacionais e as fazendas de cacau que se preocupam em oferecer um produto de qualidade. Há também uma reportagem sobre café e pão na chapa, companheiros inseparáveis nos cafés da manhã em padarias. O entrevistado da edição é o cantor Ed Motta, que revela seu desejo por aprender mais sobre café. Em Outra Esquina, a Espresso apresenta cafés de Nova York, Rio de Janeiro, São Paulo, Recife e Ribeirão Preto. As colunas trazem um texto bem humorado de Xico Sá sobre o universo feminino e Paulo Pedroso fala sobre as conversas sobre o preparo do café em balcões das cafeterias.",
+    "items": [
+      {
+        "itemId": "1470",
+        "name": "Revista Espresso - Especial Chocolate - Edição 35",
+        "nameComplete": "Revista Espresso - Especial Chocolate - Edição 35",
+        "complementName": "",
+        "ean": "3008000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3008"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159096",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159096-#width#-#height#/3008_Revista-Espresso_Especial-Chocolate_Edicao-35.jpg?v=637583222654270000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_35\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159096/3008_Revista-Espresso_Especial-Chocolate_Edicao-35.jpg?v=637583222654270000",
+            "imageText": "rev_espresso_35",
+            "imageLastModified": "2021-06-03T13:04:25.4270000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1470&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImI4NmU4ZTYxLTUyOGYtNDk5OC04Mzg3LWQ3NjczNmEwN2IzOCIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDcwIiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI2OCwiaWF0IjoxNzY1MTQ4NDY4LCJqdGkiOiI3NzI0ZWEyNi01NzljLTRhZTgtYTI3OC1lNTc2OGQyZjM2OGQiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.m9SEBdtuvXOAN-fLY-qttTaRPi8REUKSK3gSKHYGbTqksSEOR73VyIP-pdmXzrqifY41TeUdDekz_X2WupWt3A",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Especial Chocolate - Edição 35 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

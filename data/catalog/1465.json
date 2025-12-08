@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1465",
+    "productName": "Revista Espresso - Aceita um Café -  Edição 29",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---aceita-um-cafe----edicao-29-3002",
+    "productReference": "3002",
+    "productReferenceCode": "3002",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "A Espresso #29 incentiva os apreciadores de café a preparar diferentes mesas de comida para receber bem em casa. São opções para o café da manhã, o lanche da tarde e o happy hour! Também traz, na seção Gastronomia, uma reportagem com truques e dicas de quem fabrica cerveja artesanal para os amigos. Já na seção B2Coffee, apresentamos o café gourmet como um produto que conquistou o mercado de padarias e que também traz lucro para o proprietário. Na seção de Cultura, uma reportagem sobre a nova estética do Grafite 3D. As demais páginas contam com dicas de preparo, indicações de cafeterias pelo Brasil e novidades do setor.",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---aceita-um-cafe----edicao-29-3002/p",
+    "description": "A Espresso #29 incentiva os apreciadores de café a preparar diferentes mesas de comida para receber bem em casa. São opções para o café da manhã, o lanche da tarde e o happy hour! Também traz, na seção Gastronomia, uma reportagem com truques e dicas de quem fabrica cerveja artesanal para os amigos. Já na seção B2Coffee, apresentamos o café gourmet como um produto que conquistou o mercado de padarias e que também traz lucro para o proprietário. Na seção de Cultura, uma reportagem sobre a nova estética do Grafite 3D. As demais páginas contam com dicas de preparo, indicações de cafeterias pelo Brasil e novidades do setor.",
+    "items": [
+      {
+        "itemId": "1464",
+        "name": "Revista Espresso - Aceita um Café -  Edição 29",
+        "nameComplete": "Revista Espresso - Aceita um Café -  Edição 29",
+        "complementName": "",
+        "ean": "3002000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3002"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159090",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159090-#width#-#height#/3002_Revista-Espresso_Aceita-um-Cafe_Edicao-29.jpg?v=637583219192700000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_29\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159090/3002_Revista-Espresso_Aceita-um-Cafe_Edicao-29.jpg?v=637583219192700000",
+            "imageText": "rev_espresso_29",
+            "imageLastModified": "2021-06-03T12:58:39.2700000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1464&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImFmNjRlNTE0LThiMmEtNGZjMi04MTI5LWI2MmU1NGY4MzljMyIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDY0IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI2MywiaWF0IjoxNzY1MTQ4NDYzLCJqdGkiOiI2MDlkNWM0Yi0yMGE0LTQzYjgtODAzYy05MGEyYjM3N2EwN2QiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.M-O3dVH5nV-ujybZX-LzEdK49SM6OP1ESfrW3mtiAEiujaKP1QiJeIlnw_Qr6dcIbfnF8oJumS84NUEnQ2HCCA",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Aceita um Café -  Edição 29 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

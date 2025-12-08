@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1440",
+    "productName": "Revista Espresso - Café e Leitura na Dose Certa - Edição 02",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---cafe-e-leitura-na-dose-certa---edicao-02---primavera-2003-2975",
+    "productReference": "2975",
+    "productReferenceCode": "2975",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "Nas páginas da Espresso #2 você encontra seções que abordam o Museu do Café; os modos de preparar o seu café; o que é classificação e classificador; a origem do termo espresso; a profissão barista; uma viagem ao Vietnã; a produção cafeeira em Ribeirão Preto (SP); os antioxidantes do café; e uma fazenda ambiental. A edição também conta com indicações de cafeterias, dicas de preparo, entrevistas exclusivas, receitas diversas e novidades do setor.",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---cafe-e-leitura-na-dose-certa---edicao-02---primavera-2003-2975/p",
+    "description": "Nas páginas da Espresso #2 você encontra seções que abordam o Museu do Café; os modos de preparar o seu café; o que é classificação e classificador; a origem do termo espresso; a profissão barista; uma viagem ao Vietnã; a produção cafeeira em Ribeirão Preto (SP); os antioxidantes do café; e uma fazenda ambiental. A edição também conta com indicações de cafeterias, dicas de preparo, entrevistas exclusivas, receitas diversas e novidades do setor.",
+    "items": [
+      {
+        "itemId": "1439",
+        "name": "Revista Espresso - Café e Leitura na Dose Certa - Edição 02 - Primavera 2003",
+        "nameComplete": "Revista Espresso - Café e Leitura na Dose Certa - Edição 02 - Primavera 2003",
+        "complementName": "",
+        "ean": "2975000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2975"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159070",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159070-#width#-#height#/2975_Revista-Espresso_Cafe-e-Leitura-na-Dose-Certa_Edicao-02_Primavera-2003.jpg?v=637578123482400000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_2\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159070/2975_Revista-Espresso_Cafe-e-Leitura-na-Dose-Certa_Edicao-02_Primavera-2003.jpg?v=637578123482400000",
+            "imageText": "rev_espresso_2",
+            "imageLastModified": "2021-05-28T15:25:48.2400000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1439&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImJlNGE1ODhmLThlMGItNGUwNy04ZjZiLTFhNjIzN2IzN2EwYSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDM5IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI0MywiaWF0IjoxNzY1MTQ4NDQzLCJqdGkiOiJkNGNhNzYyZC1kMTUwLTQ3ZDgtOTY4Mi04Y2NjZGEwYTFjOGUiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.XO8LAT-HrAVHKMe_7wepc48WKZwK5AweXOmG8daY3xUkMSCLocseA7E0cnNNpRVDBoYwtsqx-4spd76IS_qbfw",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Café e Leitura na Dose Certa - Edição 02 - Primavera 2003 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

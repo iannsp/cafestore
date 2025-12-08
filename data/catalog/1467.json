@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1467",
+    "productName": "Revista Espresso - O Poder do Café - Edição 31",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---o-poder-do-cafe---edicao-31-3004",
+    "productReference": "3004",
+    "productReferenceCode": "3004",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "Com o desafio de trazer informações e novidades do mundo cafeeiro, Espresso #31 traz uma reportagem de capa mostrando por que não vivemos sem este grão! Na seção Outra Esquina, locais perfeitos para se degustar um bom café. Para aqueles que estão em busca da xícara perfeita, uma seleção de microlotes com seis cafés especiais de diferentes regiões brasileiras, o sabor exótico do chá de menta marroquino e uma harmonização de cafés e queijos mineiros. Para a seção Viagem a Espresso percorreu Creta, um dos berços da civilização ocidental. Já na seção Turismo, uma aventura pela Rota do Café, no Norte Pioneiro, região que viveu sua fase áurea do café até a década de 70. E mais: uma matéria sobre o método de preparo e os truques do café coado.",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---o-poder-do-cafe---edicao-31-3004/p",
+    "description": "Com o desafio de trazer informações e novidades do mundo cafeeiro, Espresso #31 traz uma reportagem de capa mostrando por que não vivemos sem este grão! Na seção Outra Esquina, locais perfeitos para se degustar um bom café. Para aqueles que estão em busca da xícara perfeita, uma seleção de microlotes com seis cafés especiais de diferentes regiões brasileiras, o sabor exótico do chá de menta marroquino e uma harmonização de cafés e queijos mineiros. Para a seção Viagem a Espresso percorreu Creta, um dos berços da civilização ocidental. Já na seção Turismo, uma aventura pela Rota do Café, no Norte Pioneiro, região que viveu sua fase áurea do café até a década de 70. E mais: uma matéria sobre o método de preparo e os truques do café coado.",
+    "items": [
+      {
+        "itemId": "1466",
+        "name": "Revista Espresso - O Poder do Café - Edição 31",
+        "nameComplete": "Revista Espresso - O Poder do Café - Edição 31",
+        "complementName": "",
+        "ean": "3004000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3004"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159092",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159092-#width#-#height#/3004_Revista-Espresso_O-Poder-do-Cafe_Edicao-31.jpg?v=637583220263400000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_31\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159092/3004_Revista-Espresso_O-Poder-do-Cafe_Edicao-31.jpg?v=637583220263400000",
+            "imageText": "rev_espresso_31",
+            "imageLastModified": "2021-06-03T13:00:26.3400000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1466&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImYwNjBjYTBiLTcxYTMtNDM3My05OWZkLWEwNzY3MTY3OTE0MyIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDY2IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI2NCwiaWF0IjoxNzY1MTQ4NDY0LCJqdGkiOiI0MDQ2YTc3Mi1jMzg5LTQ2NjItODk2ZS01NjE0NTk5YTMzODAiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.tuf-ANEcutEV1TUmCXK1HDJwyW05DpkHldjdxY8DLIyBV0FWM-9MhjgbVMAESRFItRoL0vnDIhcbWXX79csrkQ",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - O Poder do Café - Edição 31 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1472",
+    "productName": "Revista Espresso - Sobremesas na Xícara - Edição 36",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---sobremesas-na-xicara---edicao-36-3009",
+    "productReference": "3009",
+    "productReferenceCode": "3009",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "A Espresso #36 é cheia de charme e traz seis deliciosas receitas de sobremesas que são preparadas ou servidas na xícara, com dicas da chef patissière Amanda Lopes. Para não dizer que não falamos de café, a revista avalia como se saem grãos moídos para cafeteira italiana, em homenagem à clássica Bialetti. Nosso tradicional cafezinho ganha uma combinação inusitada na matéria de harmonização, onde é combinado com um vinho californiano e um tradicional (e suculento) hambúrguer. Dicas de preparo, cafeterias pelo Brasil, novidades do setor e entrevistas exclusivas estão nas demais páginas da edição!",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---sobremesas-na-xicara---edicao-36-3009/p",
+    "description": "A Espresso #36 é cheia de charme e traz seis deliciosas receitas de sobremesas que são preparadas ou servidas na xícara, com dicas da chef patissière Amanda Lopes. Para não dizer que não falamos de café, a revista avalia como se saem grãos moídos para cafeteira italiana, em homenagem à clássica Bialetti. Nosso tradicional cafezinho ganha uma combinação inusitada na matéria de harmonização, onde é combinado com um vinho californiano e um tradicional (e suculento) hambúrguer. Dicas de preparo, cafeterias pelo Brasil, novidades do setor e entrevistas exclusivas estão nas demais páginas da edição!",
+    "items": [
+      {
+        "itemId": "1471",
+        "name": "Revista Espresso - Sobremesas na Xícara - Edição 36",
+        "nameComplete": "Revista Espresso - Sobremesas na Xícara - Edição 36",
+        "complementName": "",
+        "ean": "3009000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3009"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159097",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159097-#width#-#height#/3009_Revista-Espresso_Sobremesas-na-Xicara_Edicao-36.jpg?v=637583227846170000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_36\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159097/3009_Revista-Espresso_Sobremesas-na-Xicara_Edicao-36.jpg?v=637583227846170000",
+            "imageText": "rev_espresso_36",
+            "imageLastModified": "2021-06-03T13:13:04.6170000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1471&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjVjOWUxMzZhLTg2OTMtNGE5My04YzA4LWViYmU4MzU0N2RlYSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDcxIiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI2OSwiaWF0IjoxNzY1MTQ4NDY5LCJqdGkiOiIyOTIzYzBmOC1hYzYxLTRiYzAtOWMwOC03MDg1MGNkZDZiYjgiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.mcU6cSemzcFaJXJVfOdcwlMu8MoZ3gCTQj-WJtxca_NgXtwUOkunKiG7hVgWO9ONWUL4H21JEgAtUzzfcF8ydQ",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Sobremesas na Xícara - Edição 36 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

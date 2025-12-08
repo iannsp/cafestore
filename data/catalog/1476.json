@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1476",
+    "productName": "Revista Espresso - Edição Especial 10 Anos - Edição 40",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---edicao-especial-10-anos---edicao-40-3013",
+    "productReference": "3013",
+    "productReferenceCode": "3013",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "Comemorando 10 anos, a Espresso #40 traz o cineasta norte-americano David Lynch, que mostra a cara nas primeiras páginas, estreando na seção Perfil. Outra Esquina vem com pacote especial de cafeterias, padarias, docerias e sorveterias em uma seleção que vai da Nova Zelândia e El Salvador às mais variadas cidades do Brasil. Receitas ensina como preparar rosquinhas para comer com café. Já Pelo Mundo é comandado por Ensei Neto em uma viagem para o Japão. A matéria de capa, “Toda forma de fazer café vale a pena (se a alma não é pequena)”, com os mesmos desenhos personalizados da capa, reúne métodos de preparo de café desde os mais clássicos até os mais modernos e ainda pouco conhecidos no Brasil.",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---edicao-especial-10-anos---edicao-40-3013/p",
+    "description": "Comemorando 10 anos, a Espresso #40 traz o cineasta norte-americano David Lynch, que mostra a cara nas primeiras páginas, estreando na seção Perfil. Outra Esquina vem com pacote especial de cafeterias, padarias, docerias e sorveterias em uma seleção que vai da Nova Zelândia e El Salvador às mais variadas cidades do Brasil. Receitas ensina como preparar rosquinhas para comer com café. Já Pelo Mundo é comandado por Ensei Neto em uma viagem para o Japão. A matéria de capa, “Toda forma de fazer café vale a pena (se a alma não é pequena)”, com os mesmos desenhos personalizados da capa, reúne métodos de preparo de café desde os mais clássicos até os mais modernos e ainda pouco conhecidos no Brasil.",
+    "items": [
+      {
+        "itemId": "1475",
+        "name": "Revista Espresso - Edição Especial 10 Anos - Edição 40",
+        "nameComplete": "Revista Espresso - Edição Especial 10 Anos - Edição 40",
+        "complementName": "",
+        "ean": "3013000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3013"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159101",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159101-#width#-#height#/3013_Revista-Espresso_Edicao-Especial-10-Anos_Edicao-40.jpg?v=637583229887370000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_40\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159101/3013_Revista-Espresso_Edicao-Especial-10-Anos_Edicao-40.jpg?v=637583229887370000",
+            "imageText": "rev_espresso_40",
+            "imageLastModified": "2021-06-03T13:16:28.7370000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1475&qty=1&seller=1&sc=1&price=3000&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 30,
+              "ListPrice": 30,
+              "PriceWithoutDiscount": 30,
+              "FullSellingPrice": 30,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImUzMzFmNTk0LTRjZTktNDViYS04MGU2LWQ5MzE0NTRhOWMyNyIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjozMDAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDc1IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI3MiwiaWF0IjoxNzY1MTQ4NDcyLCJqdGkiOiI5ZWIxYjMyOC03YTYyLTQyMWYtYjFiNy1mMzc5NzRhZjhkMTMiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.3-Ve9am8fxnN2lWkoixoNlEYbMPY8WC5D6ktr03GvQRiB0hdlZMnSX8-CjQ-EuNSAZWm8LLgG_HODM7GhtZtog",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Edição Especial 10 Anos - Edição 40 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

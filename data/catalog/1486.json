@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1486",
+    "productName": "Revista Espresso - Brinde Com Café  - Edição 50",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---brinde-com-cafe----edicao-50-3023",
+    "productReference": "3023",
+    "productReferenceCode": "3023",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "A Espresso #50 traz receitas refrescantes de drinques com café para esse verão. Na seção Perfil, a cartunista Laerte afirma que gosta de tomar café ao acordar, “não consigo substituir por outra coisa”. Quer entender um pouco sobre as bebidas vegetais que ganharam destaque esse ano? A seção Você Barista explica sobre! Aproveitando o verão, que tal curtir uma praia e comer coisas deliciosas? Gastronomia traz diferentes receitas para essa época. Já Receitas conta com a receita da chef pâtissier da Casa Amma, Carolina Iwai, que adicionou a brasilidade a um doce que leva farinha de jatobá e cacau e a bebida do chef do bar Tigre Cego, Pablo Muniz. Fomos até o Monte Roraima, situado entre Brasil, Venezuela e Guiana, para trazer as belas imagens que o local possui, você confere em Viagem. Colunas específicas para o mercado de café e outras novidades completam essa linda edição.",
+    "releaseDate": "2021-05-19T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---brinde-com-cafe----edicao-50-3023/p",
+    "description": "A Espresso #50 traz receitas refrescantes de drinques com café para esse verão. Na seção Perfil, a cartunista Laerte afirma que gosta de tomar café ao acordar, “não consigo substituir por outra coisa”. Quer entender um pouco sobre as bebidas vegetais que ganharam destaque esse ano? A seção Você Barista explica sobre! Aproveitando o verão, que tal curtir uma praia e comer coisas deliciosas? Gastronomia traz diferentes receitas para essa época. Já Receitas conta com a receita da chef pâtissier da Casa Amma, Carolina Iwai, que adicionou a brasilidade a um doce que leva farinha de jatobá e cacau e a bebida do chef do bar Tigre Cego, Pablo Muniz. Fomos até o Monte Roraima, situado entre Brasil, Venezuela e Guiana, para trazer as belas imagens que o local possui, você confere em Viagem. Colunas específicas para o mercado de café e outras novidades completam essa linda edição.",
+    "items": [
+      {
+        "itemId": "1485",
+        "name": "Revista Espresso - Brinde Com Café  - Edição 50",
+        "nameComplete": "Revista Espresso - Brinde Com Café  - Edição 50",
+        "complementName": "",
+        "ean": "3023000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3023"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159111",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159111-#width#-#height#/3023_Revista-Espresso_Brinde-com-Cafe_Edicao-50.jpg?v=637583245495470000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_50\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159111/3023_Revista-Espresso_Brinde-com-Cafe_Edicao-50.jpg?v=637583245495470000",
+            "imageText": "rev_espresso_50",
+            "imageLastModified": "2021-06-03T13:42:29.5470000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1485&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjRkNzE0NGM0LWFiYjQtNDk0MS1iODkwLThkZGJhZWMzOTQ3OCIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDg1IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI3OSwiaWF0IjoxNzY1MTQ4NDc5LCJqdGkiOiIzOWNmN2UzNy02NGY4LTQ5ODMtYWNjNC01NDE5MjRhNTk3MzciLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.x_83GgNJFV0_8Smfo9QNkpKUb6R-MwUIXIIbDEfrMewBfmUIIRBV9hKOIHKjZWafV-Wz7LlyJopmRv4Ri4oKAA",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Brinde Com Café  - Edição 50 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

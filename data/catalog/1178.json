@@ -1,0 +1,908 @@
+[
+  {
+    "productId": "1178",
+    "productName": "Descalcificante Líquido Imelkron  250 ml",
+    "brand": "Imeltron",
+    "brandId": 2000093,
+    "brandImageUrl": null,
+    "linkText": "descalcificante-liquido-imelkron-250ml-2737",
+    "productReference": "2737",
+    "productReferenceCode": "2737",
+    "categoryId": "34",
+    "productTitle": "",
+    "metaTagDescription": "<br>O Descalcificante Imelkron é envazado no frasco de 250 ml, para cada limpeza (descalcificação) será utilizado um frasco. Nosso descalcificante tem aplicação em maquinas de café espresso automáticas e semi-automáticas que possuem caldeira interna.",
+    "releaseDate": "2020-04-09T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "238": "CASHBACK 5%",
+      "240": "Feed Merchant 14.11"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Acessórios/Itens para Limpeza/",
+      "/Acessórios/",
+      "/Café Store Pro/",
+      "/Cafeteiras/",
+      "/Cafeteiras/Cafeteira Expresso/"
+    ],
+    "categoriesIds": [
+      "/3/34/",
+      "/3/",
+      "/5/",
+      "/2/",
+      "/2/144/"
+    ],
+    "link": "https://www.cafestore.com.br/descalcificante-liquido-imelkron-250ml-2737/p",
+    "description": "<br>O Descalcificante Imelkron é envazado no frasco de 250 ml, para cada limpeza (descalcificação) será utilizado um frasco. Nosso descalcificante tem aplicação em maquinas de café espresso automáticas e semi-automáticas que possuem caldeira interna.",
+    "items": [
+      {
+        "itemId": "1179",
+        "name": "Descalcificante Líquido Imeltron 250ml",
+        "nameComplete": "Descalcificante Líquido Imelkron  250 ml Descalcificante Líquido Imeltron 250ml",
+        "complementName": "",
+        "ean": "2737000000003",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2737"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "157447",
+            "imageLabel": "",
+            "imageTag": "<img src=\"~/arquivos/ids/157447-#width#-#height#/descalcificante-liquido-imeltron.jpg?v=637224060570330000\" width=\"#width#\" height=\"#height#\" alt=\"descalcificante-liquido-imeltron\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/157447/descalcificante-liquido-imeltron.jpg?v=637224060570330000",
+            "imageText": "descalcificante-liquido-imeltron",
+            "imageLastModified": "2020-04-13T20:20:57.0330000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1179&qty=1&seller=1&sc=1&price=5800&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {
+                "0": {
+                  "DeliverySlaPerTypes": [],
+                  "Region": null
+                }
+              },
+              "Installments": [
+                {
+                  "Value": 58,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 58,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "American Express",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "American Express à vista"
+                },
+                {
+                  "Value": 58,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 58,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa à vista"
+                },
+                {
+                  "Value": 58,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 58,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Diners",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Diners à vista"
+                },
+                {
+                  "Value": 58,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 58,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard à vista"
+                },
+                {
+                  "Value": 58,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 58,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Boleto Bancário",
+                  "PaymentSystemGroupName": "bankInvoicePaymentGroup",
+                  "Name": "Boleto Bancário à vista"
+                },
+                {
+                  "Value": 58,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 58,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Hipercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Hipercard à vista"
+                },
+                {
+                  "Value": 58,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 58,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Elo",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Elo à vista"
+                },
+                {
+                  "Value": 58,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 58,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Vale",
+                  "PaymentSystemGroupName": "giftCardPaymentGroup",
+                  "Name": "Vale à vista"
+                },
+                {
+                  "Value": 56.26,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 56.26,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Pix",
+                  "PaymentSystemGroupName": "instantPaymentPaymentGroup",
+                  "Name": "Pix à vista"
+                },
+                {
+                  "Value": 58,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 58,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Depósito Bancário",
+                  "PaymentSystemGroupName": "custom201PaymentGroupPaymentGroup",
+                  "Name": "Depósito Bancário à vista"
+                },
+                {
+                  "Value": 58,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 58,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Depósito Bancário Itaú",
+                  "PaymentSystemGroupName": "custom202PaymentGroupPaymentGroup",
+                  "Name": "Depósito Bancário Itaú à vista"
+                },
+                {
+                  "Value": 58,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 58,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Cartão Crédito LOJA",
+                  "PaymentSystemGroupName": "custom204PaymentGroupPaymentGroup",
+                  "Name": "Cartão Crédito LOJA à vista"
+                },
+                {
+                  "Value": 58,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 58,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Dinheiro LOJA",
+                  "PaymentSystemGroupName": "custom205PaymentGroupPaymentGroup",
+                  "Name": "Dinheiro LOJA à vista"
+                },
+                {
+                  "Value": 58,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 58,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "PIX LOJA",
+                  "PaymentSystemGroupName": "custom206PaymentGroupPaymentGroup",
+                  "Name": "PIX LOJA à vista"
+                },
+                {
+                  "Value": 58,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 58,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "WH Google Pay",
+                  "PaymentSystemGroupName": "WH Google PayPaymentGroup",
+                  "Name": "WH Google Pay à vista"
+                }
+              ],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [
+                {
+                  "<Name>k__BackingField": "3nodeposito",
+                  "<GeneralValues>k__BackingField": {},
+                  "<Conditions>k__BackingField": {
+                    "<MinimumQuantity>k__BackingField": 0,
+                    "<Parameters>k__BackingField": [
+                      {
+                        "<Name>k__BackingField": "PaymentMethodId",
+                        "<Value>k__BackingField": "201"
+                      }
+                    ]
+                  },
+                  "<Effects>k__BackingField": {
+                    "<Parameters>k__BackingField": [
+                      {
+                        "<Name>k__BackingField": "PercentualDiscount",
+                        "<Value>k__BackingField": "3"
+                      }
+                    ]
+                  }
+                }
+              ],
+              "PromotionTeasers": [
+                {
+                  "Name": "3nodeposito",
+                  "GeneralValues": {},
+                  "Conditions": {
+                    "MinimumQuantity": 0,
+                    "Parameters": [
+                      {
+                        "Name": "PaymentMethodId",
+                        "Value": "201"
+                      }
+                    ]
+                  },
+                  "Effects": {
+                    "Parameters": [
+                      {
+                        "Name": "PercentualDiscount",
+                        "Value": "3"
+                      }
+                    ]
+                  }
+                }
+              ],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 58,
+              "ListPrice": 58,
+              "PriceWithoutDiscount": 58,
+              "FullSellingPrice": 58,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjI0ODNhYmMzLWZmZmMtNGQxNS05MWU4LTY2ZjFmOTMwMTZiYiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo1ODAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxMTc5IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDA0MSwiaWF0IjoxNzY1MTQ4MjQxLCJqdGkiOiJkYWU1MDIzZS1kOTdjLTQ0MDUtYjU5Mi0yNjJhNDdjMzViYzIiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.iqu7DDrFXjTbZu4KZQ3bZsgwmrPYnMoMJsc73Xl1kIQG7bJUbRntOLKMo6QhR4GUOm8e9xArGegSC4hacANZTg",
+              "RewardValue": 2.9,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 100,
+              "IsAvailable": true,
+              "Tax": 0,
+              "DeliverySlaSamples": [
+                {
+                  "DeliverySlaPerTypes": [],
+                  "Region": null
+                }
+              ],
+              "GetInfoErrorMessage": null,
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [
+                  {
+                    "paymentSystem": "1",
+                    "bin": null,
+                    "paymentName": "American Express",
+                    "paymentGroupName": "creditCardPaymentGroup",
+                    "value": 5800,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 5800,
+                        "total": 5800,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 5800,
+                            "total": 5800
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "2",
+                    "bin": null,
+                    "paymentName": "Visa",
+                    "paymentGroupName": "creditCardPaymentGroup",
+                    "value": 5800,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 5800,
+                        "total": 5800,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 5800,
+                            "total": 5800
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "3",
+                    "bin": null,
+                    "paymentName": "Diners",
+                    "paymentGroupName": "creditCardPaymentGroup",
+                    "value": 5800,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 5800,
+                        "total": 5800,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 5800,
+                            "total": 5800
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "4",
+                    "bin": null,
+                    "paymentName": "Mastercard",
+                    "paymentGroupName": "creditCardPaymentGroup",
+                    "value": 5800,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 5800,
+                        "total": 5800,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 5800,
+                            "total": 5800
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "6",
+                    "bin": null,
+                    "paymentName": "Boleto Bancário",
+                    "paymentGroupName": "bankInvoicePaymentGroup",
+                    "value": 5800,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 5800,
+                        "total": 5800,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 5800,
+                            "total": 5800
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "8",
+                    "bin": null,
+                    "paymentName": "Hipercard",
+                    "paymentGroupName": "creditCardPaymentGroup",
+                    "value": 5800,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 5800,
+                        "total": 5800,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 5800,
+                            "total": 5800
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "9",
+                    "bin": null,
+                    "paymentName": "Elo",
+                    "paymentGroupName": "creditCardPaymentGroup",
+                    "value": 5800,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 5800,
+                        "total": 5800,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 5800,
+                            "total": 5800
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "16",
+                    "bin": null,
+                    "paymentName": "Vale",
+                    "paymentGroupName": "giftCardPaymentGroup",
+                    "value": 5800,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 5800,
+                        "total": 5800,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 5800,
+                            "total": 5800
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "125",
+                    "bin": null,
+                    "paymentName": "Pix",
+                    "paymentGroupName": "instantPaymentPaymentGroup",
+                    "value": 5800,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 5626,
+                        "total": 5626,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 5626,
+                            "total": 5626
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "201",
+                    "bin": null,
+                    "paymentName": "Depósito Bancário",
+                    "paymentGroupName": "custom201PaymentGroupPaymentGroup",
+                    "value": 5800,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 5800,
+                        "total": 5800,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 5800,
+                            "total": 5800
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "202",
+                    "bin": null,
+                    "paymentName": "Depósito Bancário Itaú",
+                    "paymentGroupName": "custom202PaymentGroupPaymentGroup",
+                    "value": 5800,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 5800,
+                        "total": 5800,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 5800,
+                            "total": 5800
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "204",
+                    "bin": null,
+                    "paymentName": "Cartão Crédito LOJA",
+                    "paymentGroupName": "custom204PaymentGroupPaymentGroup",
+                    "value": 5800,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 5800,
+                        "total": 5800,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 5800,
+                            "total": 5800
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "205",
+                    "bin": null,
+                    "paymentName": "Dinheiro LOJA",
+                    "paymentGroupName": "custom205PaymentGroupPaymentGroup",
+                    "value": 5800,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 5800,
+                        "total": 5800,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 5800,
+                            "total": 5800
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "206",
+                    "bin": null,
+                    "paymentName": "PIX LOJA",
+                    "paymentGroupName": "custom206PaymentGroupPaymentGroup",
+                    "value": 5800,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 5800,
+                        "total": 5800,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 5800,
+                            "total": 5800
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "900",
+                    "bin": null,
+                    "paymentName": "WH Google Pay",
+                    "paymentGroupName": "WH Google PayPaymentGroup",
+                    "value": 5800,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 5800,
+                        "total": 5800,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 5800,
+                            "total": 5800
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "paymentSystems": [
+                  {
+                    "id": 201,
+                    "name": "Depósito Bancário",
+                    "groupName": "custom201PaymentGroupPaymentGroup",
+                    "validator": null,
+                    "stringId": "201",
+                    "template": "custom201PaymentGroupPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": true,
+                    "description": "Conta para Depósito: A mercadoria só será enviada após a compensação do pagamento.",
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-12-05T22:00:00Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 16,
+                    "name": "Vale",
+                    "groupName": "giftCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "16",
+                    "template": "giftCardPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-12-09T22:00:00Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 1,
+                    "name": "American Express",
+                    "groupName": "creditCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "1",
+                    "template": "creditCardPaymentGroup-template",
+                    "requiresDocument": true,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-12-09T22:00:00Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 2,
+                    "name": "Visa",
+                    "groupName": "creditCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "2",
+                    "template": "creditCardPaymentGroup-template",
+                    "requiresDocument": true,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-12-09T22:00:00Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 3,
+                    "name": "Diners",
+                    "groupName": "creditCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "3",
+                    "template": "creditCardPaymentGroup-template",
+                    "requiresDocument": true,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-12-09T22:00:00Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 4,
+                    "name": "Mastercard",
+                    "groupName": "creditCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "4",
+                    "template": "creditCardPaymentGroup-template",
+                    "requiresDocument": true,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-12-09T22:00:00Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 8,
+                    "name": "Hipercard",
+                    "groupName": "creditCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "8",
+                    "template": "creditCardPaymentGroup-template",
+                    "requiresDocument": true,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-12-09T22:00:00Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 9,
+                    "name": "Elo",
+                    "groupName": "creditCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "9",
+                    "template": "creditCardPaymentGroup-template",
+                    "requiresDocument": true,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-12-09T22:00:00Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 205,
+                    "name": "Dinheiro LOJA",
+                    "groupName": "custom205PaymentGroupPaymentGroup",
+                    "validator": null,
+                    "stringId": "205",
+                    "template": "custom205PaymentGroupPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": true,
+                    "description": "Instore Dinheiro",
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-12-12T00:00:00Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 204,
+                    "name": "Cartão Crédito LOJA",
+                    "groupName": "custom204PaymentGroupPaymentGroup",
+                    "validator": null,
+                    "stringId": "204",
+                    "template": "custom204PaymentGroupPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": true,
+                    "description": "Cartão Crédito LOJA",
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-12-12T00:00:00Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 202,
+                    "name": "Depósito Bancário Itaú",
+                    "groupName": "custom202PaymentGroupPaymentGroup",
+                    "validator": null,
+                    "stringId": "202",
+                    "template": "custom202PaymentGroupPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": true,
+                    "description": "Pagamento via depósito bancário",
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-12-05T22:00:00Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 206,
+                    "name": "PIX LOJA",
+                    "groupName": "custom206PaymentGroupPaymentGroup",
+                    "validator": null,
+                    "stringId": "206",
+                    "template": "custom206PaymentGroupPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": true,
+                    "description": "Instore PIX",
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-12-07T22:00:00Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 6,
+                    "name": "Boleto Bancário",
+                    "groupName": "bankInvoicePaymentGroup",
+                    "validator": null,
+                    "stringId": "6",
+                    "template": "bankInvoicePaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-12-09T22:00:00Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 125,
+                    "name": "Pix",
+                    "groupName": "instantPaymentPaymentGroup",
+                    "validator": null,
+                    "stringId": "125",
+                    "template": "instantPaymentPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-12-09T22:00:00Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 900,
+                    "name": "WH Google Pay",
+                    "groupName": "WH Google PayPaymentGroup",
+                    "validator": null,
+                    "stringId": "900",
+                    "template": "WH Google PayPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-12-09T22:00:00Z",
+                    "availablePayments": null
+                  }
+                ],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

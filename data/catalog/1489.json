@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1489",
+    "productName": "Revista Espresso - Cerveja Com Café  - Edição 53",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---cerveja-com-cafe----edicao-53-3026",
+    "productReference": "3026",
+    "productReferenceCode": "3026",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "A Espresso #53 traz a cerveja com café como tema de capa desta edição de primavera. Decidimos abordar este assunto ao perceber que vem aumentando o número de produtores, torrefadores e cervejarias que realizaram parcerias recentes na produção desse estilo de cerveja. São várias as formas de acrescentar o café, seja como cold brew, em grãos, em pó e até filtrado. Encontramos no Brasil mais de 25 rótulos sendo produzidos com cafés nacionais! Tal movimento começou há menos de 30 anos nos Estados Unidos quando a primeira cerveja com café foi produzida. Hoje as cervejarias norte-americanas realizam parcerias com reconhecidas torrefadoras de cafés especiais para encontrar o melhor grão para adicionar à receita. Com as diferentes características dos cafés é possível ganhar acidez, doçura, notas de frutas e achocolatados no produto final. E nesse ponto de diversidade de sabores temos muitas opções.",
+    "releaseDate": "2021-05-19T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---cerveja-com-cafe----edicao-53-3026/p",
+    "description": "A Espresso #53 traz a cerveja com café como tema de capa desta edição de primavera. Decidimos abordar este assunto ao perceber que vem aumentando o número de produtores, torrefadores e cervejarias que realizaram parcerias recentes na produção desse estilo de cerveja. São várias as formas de acrescentar o café, seja como cold brew, em grãos, em pó e até filtrado. Encontramos no Brasil mais de 25 rótulos sendo produzidos com cafés nacionais! Tal movimento começou há menos de 30 anos nos Estados Unidos quando a primeira cerveja com café foi produzida. Hoje as cervejarias norte-americanas realizam parcerias com reconhecidas torrefadoras de cafés especiais para encontrar o melhor grão para adicionar à receita. Com as diferentes características dos cafés é possível ganhar acidez, doçura, notas de frutas e achocolatados no produto final. E nesse ponto de diversidade de sabores temos muitas opções.",
+    "items": [
+      {
+        "itemId": "1488",
+        "name": "Revista Espresso - Cerveja Com Café  - Edição 53",
+        "nameComplete": "Revista Espresso - Cerveja Com Café  - Edição 53",
+        "complementName": "",
+        "ean": "3026000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3026"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159114",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159114-#width#-#height#/3026_Revista-Espresso_Cerveja-com-Cafe_Edicao-53.jpg?v=637583247665900000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_53\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159114/3026_Revista-Espresso_Cerveja-com-Cafe_Edicao-53.jpg?v=637583247665900000",
+            "imageText": "rev_espresso_53",
+            "imageLastModified": "2021-06-03T13:46:06.5900000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1488&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjM4OTc0ZjYyLTA1MGYtNGNiNy1hMzM0LWRmODY3MDdkYTk3MiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDg4IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI4MiwiaWF0IjoxNzY1MTQ4NDgyLCJqdGkiOiIzYzE0Mzg2YS00NWNkLTQ4ZDUtYTJhYy1iN2M1ZWRmOTNiMWMiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.3kSzvuEkC2QZaJB27vormaQUg7PgpQ5elVPgQHeQbHZeCrY7BFdr6q3G9BN1pBswXk-_LT7mw51CC7giVibPhw",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Cerveja Com Café  - Edição 53 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,169 @@
+[
+  {
+    "productId": "982",
+    "productName": "Xarope Routin 1883 Pepino 1 L",
+    "brand": "1883 Routin",
+    "brandId": 2000028,
+    "brandImageUrl": null,
+    "linkText": "xarope-routin-1883-pepino-1-l-2499",
+    "productReference": "2499",
+    "productReferenceCode": "2499",
+    "categoryId": "206",
+    "productTitle": "",
+    "metaTagDescription": "Embalagem: Vidro ou Pet.",
+    "releaseDate": "2019-07-22T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "162": "INVERNO",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Xaropes e Bebidas/Xaropes/1883 Routin/",
+      "/Xaropes e Bebidas/Xaropes/",
+      "/Xaropes e Bebidas/"
+    ],
+    "categoriesIds": [
+      "/4/7/206/",
+      "/4/7/",
+      "/4/"
+    ],
+    "link": "https://www.cafestore.com.br/xarope-routin-1883-pepino-1-l-2499/p",
+    "Por volume (em ml)": [
+      "1 LITRO"
+    ],
+    "Características": [
+      "Por volume (em ml)"
+    ],
+    "Sabor": [
+      "Pepino"
+    ],
+    "Especificaçoes cafe e bebidas": [
+      "Sabor"
+    ],
+    "Marca": [
+      "Routin 1883"
+    ],
+    "Material / composição": [
+      "Garrafa de plástico PET ou vidro"
+    ],
+    "Capacidade / Volume": [
+      "1l"
+    ],
+    "Cor": [
+      "Verde"
+    ],
+    "Dimensões aproximadas do produto (cm)- AxLxP": [
+      "30 x 7 x 7 cm (aprox)"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca",
+      "Características",
+      "Material / composição",
+      "Capacidade / Volume",
+      "Cor",
+      "Dimensões aproximadas do produto (cm)- AxLxP"
+    ],
+    "allSpecifications": [
+      "Por volume (em ml)",
+      "Sabor",
+      "Marca",
+      "Material / composição",
+      "Capacidade / Volume",
+      "Cor",
+      "Dimensões aproximadas do produto (cm)- AxLxP"
+    ],
+    "allSpecificationsGroups": [
+      "Características",
+      "Especificaçoes cafe e bebidas",
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "O sabor de Pepino em uma versão super concentrada ideal para os mais diversos tipos de bebidas e misturas.<br><br>\r\n\r\nProduzidos no sul da França, para criar, inventar e inspirar profissionais em todo o mundo, a 1883 é reconhecida como referência na produção de xaropes de alta qualidade, com mais de 130 anos de experiência no mercado e presente em mais de 80 países. Com mais de 40 sabores em seu portfolio, preserva toda a naturalidade das frutas, especiarias, ervas e flores.<br><br>\r\n\r\n<b>Ingredientes: </B><BR>Açúcar de cana, água, acidificante: ácido cítrico, aroma de pepino, sal, corantes: INS102, INS133.<BR><BR>\r\n\r\n<b>Características:</b><BR>\r\n- Embalagem: garrafa em plástico PET ou vidro (pode variar pelo lote do fornecedor)<br>\r\n- Não alcoólico e não contém gluten<br>\r\n- Não precisa de refrigeração<br>\r\n- Feito com as melhores matérias-primas<br>\r\n- Sabores marcantes<br>\r\n- Não contém conservantes<BR>\r\n- Feito com extratos naturais<Br>\r\n- Altamente concentrado<Br>\r\n- Produzido com água pura dos Alpes Franceses<BR><BR>\r\n\r\n<b>Dicas de uso e consumo:</b><BR>\r\n- Smoothies, Sodas, Coquetéis, Sucos, Chás, Limonadas, Refrigerantes, Frozens e muito mais",
+    "items": [
+      {
+        "itemId": "984",
+        "name": "Xarope Routin 1883 Pepino 1 L",
+        "nameComplete": "Xarope Routin 1883 Pepino 1 L",
+        "complementName": "",
+        "ean": "0612511046592",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2499"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "157656",
+            "imageLabel": "estilo",
+            "imageTag": "<img src=\"~/arquivos/ids/157656-#width#-#height#/1883_pepino2--1-.jpg?v=637261962759230000\" width=\"#width#\" height=\"#height#\" alt=\"pepino2\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/157656/1883_pepino2--1-.jpg?v=637261962759230000",
+            "imageText": "pepino2",
+            "imageLastModified": "2020-05-27T17:11:15.9230000Z"
+          },
+          {
+            "imageId": "156786",
+            "imageLabel": "",
+            "imageTag": "<img src=\"~/arquivos/ids/156786-#width#-#height#/pepino.jpg?v=638834523482300000\" width=\"#width#\" height=\"#height#\" alt=\"pepino\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/156786/pepino.jpg?v=638834523482300000",
+            "imageText": "pepino",
+            "imageLastModified": "2025-05-21T19:25:48.2300000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=984&qty=1&seller=1&sc=1&price=8300&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 83,
+              "ListPrice": 83,
+              "PriceWithoutDiscount": 83,
+              "FullSellingPrice": 83,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImE4OGVhOTIzLTJjNDItNGYxMS1iZWVlLTE1NjZjOTgzOTdjNSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo4MzAwLCJzZWxsZXIiOiIxIiwiaWQiOiI5ODQiLCJhY2NvdW50TmFtZSI6ImNhZmVzdG9yZSIsInNhbGVzQ2hhbm5lbCI6IjEifSwiZXhwIjoxNzY1MTQ5ODg4LCJpYXQiOjE3NjUxNDgwODgsImp0aSI6IjIxOGQ1MDc2LTUwMjYtNGRhMy1hZjM3LWFjYjFmMmUxM2ZhOSIsImlzcyI6InNlc3Npb24vZGF0YS1zaWduZXIifQ.5AyVjR6cR-1VCtXFpoK_ecFDIKDcziOa4rTNDQ4Hi4_pyfXZ-kaA0iQ0GVAtgprsSjGYzT22qnfSSMHjze8p0A",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Xarope Routin 1883 Pepino 1 L não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

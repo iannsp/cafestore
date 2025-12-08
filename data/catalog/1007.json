@@ -1,0 +1,157 @@
+[
+  {
+    "productId": "1007",
+    "productName": "Suporte para 6 Xaropes Routin 1883",
+    "brand": "1883 Routin",
+    "brandId": 2000028,
+    "brandImageUrl": null,
+    "linkText": "rack-metalico-para-06-garrafas-2508",
+    "productReference": "2508",
+    "productReferenceCode": "2508",
+    "categoryId": "7",
+    "productTitle": "",
+    "metaTagDescription": "Rack prático e ideal para a exposição das garrafas de Xarope Routin 1883. Em metal preto, vem com a logomarca Routin 1883.\r\n\r\n*Garrafas da foto meramente ilustrativas. Não acompanham o produto",
+    "releaseDate": "2019-08-23T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "162": "INVERNO",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Xaropes e Bebidas/Xaropes/",
+      "/Xaropes e Bebidas/",
+      "/Café Store Pro/"
+    ],
+    "categoriesIds": [
+      "/4/7/",
+      "/4/",
+      "/5/"
+    ],
+    "link": "https://www.cafestore.com.br/rack-metalico-para-06-garrafas-2508/p",
+    "Marca": [
+      "Routin 1883"
+    ],
+    "Material / composição": [
+      "Metal"
+    ],
+    "Capacidade / Volume": [
+      "06 garrafas"
+    ],
+    "Conteúdo da embalagem": [
+      "1 rack"
+    ],
+    "Cor": [
+      "Preto"
+    ],
+    "Dimensões aproximadas do produto (cm)- AxLxP": [
+      "56 x 16,5 x 15,2 cm (já com altura da garrafa colocada)"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca",
+      "Material / composição",
+      "Capacidade / Volume",
+      "Conteúdo da embalagem",
+      "Cor",
+      "Dimensões aproximadas do produto (cm)- AxLxP"
+    ],
+    "allSpecifications": [
+      "Marca",
+      "Material / composição",
+      "Capacidade / Volume",
+      "Conteúdo da embalagem",
+      "Cor",
+      "Dimensões aproximadas do produto (cm)- AxLxP"
+    ],
+    "allSpecificationsGroups": [
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "Rack prático e ideal para a exposição das garrafas de Xarope Routin 1883. Em metal preto, vem com a logomarca Routin 1883.<br><br>\r\n\r\n*Garrafas da foto meramente ilustrativas. Não acompanham o produto",
+    "items": [
+      {
+        "itemId": "1008",
+        "name": "Rack Metálico para 06 Garrafas",
+        "nameComplete": "Suporte para 6 Xaropes Routin 1883 Rack Metálico para 06 Garrafas",
+        "complementName": "",
+        "ean": "3217690031383",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2508"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "157681",
+            "imageLabel": "estilo",
+            "imageTag": "<img src=\"~/arquivos/ids/157681-#width#-#height#/1883_suporte2--1-.jpg?v=637262769670400000\" width=\"#width#\" height=\"#height#\" alt=\"2508-Suporte-para-Xarope-Routin-1883-f2\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/157681/1883_suporte2--1-.jpg?v=637262769670400000",
+            "imageText": "2508-Suporte-para-Xarope-Routin-1883-f2",
+            "imageLastModified": "2020-05-28T15:36:07.0400000Z"
+          },
+          {
+            "imageId": "156974",
+            "imageLabel": "",
+            "imageTag": "<img src=\"~/arquivos/ids/156974-#width#-#height#/2508-Suporte-para-Xarope-Routin-1883.jpg?v=637033035507230000\" width=\"#width#\" height=\"#height#\" alt=\"2508-Suporte-para-Xarope-Routin-1883\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/156974/2508-Suporte-para-Xarope-Routin-1883.jpg?v=637033035507230000",
+            "imageText": "2508-Suporte-para-Xarope-Routin-1883",
+            "imageLastModified": "2019-09-05T18:05:50.7230000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1008&qty=1&seller=1&sc=1&price=12700&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 127,
+              "ListPrice": 127,
+              "PriceWithoutDiscount": 127,
+              "FullSellingPrice": 127,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjMxNjBhYzgzLWQxOWEtNDgwMy1hMGUwLTE5ODk4ZmE2OGJmYSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxMjcwMCwic2VsbGVyIjoiMSIsImlkIjoiMTAwOCIsImFjY291bnROYW1lIjoiY2FmZXN0b3JlIiwic2FsZXNDaGFubmVsIjoiMSJ9LCJleHAiOjE3NjUxNDk5MDgsImlhdCI6MTc2NTE0ODEwOCwianRpIjoiZGU1MDIwMmQtOGU5Zi00NzdjLTg5OGQtOGE3ODQxMjgyMDQwIiwiaXNzIjoic2Vzc2lvbi9kYXRhLXNpZ25lciJ9.b7aA1DoP5HCGD-L84EIhd46aj72_u2hP74eQHUUICL2dxmxAIjFv5MwaGBeTvP32ExQziMzPk7C4ADkQNp6opw",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Suporte para 6 Xaropes Routin 1883 Rack Metálico para 06 Garrafas não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

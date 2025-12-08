@@ -1,0 +1,176 @@
+[
+  {
+    "productId": "208",
+    "productName": "Garrafa Térmica Bunn 3,8 L",
+    "brand": "Bunn",
+    "brandId": 2000031,
+    "brandImageUrl": null,
+    "linkText": "garrafa-termica-bunn-38-l_1297",
+    "productReference": "1297",
+    "productReferenceCode": "1297",
+    "categoryId": "5",
+    "productTitle": "",
+    "metaTagDescription": "<b> Airpot - Garrafa Térmica 3,8lts </b><BR>\r\n\r\n<BR>• Isolamento à vácuo que mantém o café quente por horas\r\n<BR>• Acionamento por alavanca\r\n<BR>• Alavanca retrátil que facilita o transporte e evita acionamento indesejado",
+    "releaseDate": "2019-01-22T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "239": "CASHBACK 2%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "164": "BUNN",
+      "207": "fb",
+      "232": "Bunn",
+      "239": "CASHBACK 2%",
+      "240": "Feed Merchant 14.11"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Café Store Pro/",
+      "/Acessórios/",
+      "/Acessórios/Garrafas Térmicas/"
+    ],
+    "categoriesIds": [
+      "/5/",
+      "/3/",
+      "/3/18/"
+    ],
+    "link": "https://www.cafestore.com.br/garrafa-termica-bunn-38-l_1297/p",
+    "Acessórios Profissionais": [
+      "Garrafas Térmicas"
+    ],
+    "Características": [
+      "Acessórios Profissionais"
+    ],
+    "Marca": [
+      "BUNN"
+    ],
+    "Material / composição": [
+      "Aço Inox"
+    ],
+    "Capacidade / Volume": [
+      "3,8 L"
+    ],
+    "Conteúdo da embalagem": [
+      "1 garrafa térmica 1 manual de instruções"
+    ],
+    "Dimensões aproximadas do produto (cm)- AxLxP": [
+      "44 x 16 x 20"
+    ],
+    "Peso líquido aproximado do produto (kg)": [
+      "2,5kg"
+    ],
+    "Dimensões aproximadas da embalagem (cm) – AxLxP": [
+      "45 x 25 x 22"
+    ],
+    "Peso aproximado da embalagem do produto (kg)": [
+      "2,7kg"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca",
+      "Material / composição",
+      "Capacidade / Volume",
+      "Conteúdo da embalagem",
+      "Dimensões aproximadas do produto (cm)- AxLxP",
+      "Peso líquido aproximado do produto (kg)",
+      "Dimensões aproximadas da embalagem (cm) – AxLxP",
+      "Peso aproximado da embalagem do produto (kg)"
+    ],
+    "allSpecifications": [
+      "Acessórios Profissionais",
+      "Marca",
+      "Material / composição",
+      "Capacidade / Volume",
+      "Conteúdo da embalagem",
+      "Dimensões aproximadas do produto (cm)- AxLxP",
+      "Peso líquido aproximado do produto (kg)",
+      "Dimensões aproximadas da embalagem (cm) – AxLxP",
+      "Peso aproximado da embalagem do produto (kg)"
+    ],
+    "allSpecificationsGroups": [
+      "Características",
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "<b> Airpot - Garrafa Térmica 3,8lts </b><BR>\r\n\r\n<BR>• Isolamento à vácuo que mantém o café quente por horas\r\n<BR>• Acionamento por alavanca\r\n<BR>• Alavanca retrátil que facilita o transporte e evita acionamento indesejado\r\n<BR>• Imagem meramente ilustrativa",
+    "items": [
+      {
+        "itemId": "208",
+        "name": "Garrafa Térmica Bunn com Alavanca - Aço Inox 3,8L",
+        "nameComplete": "Garrafa Térmica Bunn 3,8 L Garrafa Térmica Bunn com Alavanca - Aço Inox 3,8L",
+        "complementName": "",
+        "ean": "0072504094151",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "1297"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "155728",
+            "imageLabel": "Frente",
+            "imageTag": "<img src=\"~/arquivos/ids/155728-#width#-#height#/garrafa-termica-bunn-38-l.jpg?v=636837637511430000\" width=\"#width#\" height=\"#height#\" alt=\"garrafa-termica-bunn-38-l\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/155728/garrafa-termica-bunn-38-l.jpg?v=636837637511430000",
+            "imageText": "garrafa-termica-bunn-38-l",
+            "imageLastModified": "2019-01-22T14:22:31.1430000Z"
+          },
+          {
+            "imageId": "155729",
+            "imageLabel": "Outros",
+            "imageTag": "<img src=\"~/arquivos/ids/155729-#width#-#height#/garrafa-termica-bunn-38-l-1.jpg?v=636837637527700000\" width=\"#width#\" height=\"#height#\" alt=\"garrafa-termica-bunn-38-l-1\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/155729/garrafa-termica-bunn-38-l-1.jpg?v=636837637527700000",
+            "imageText": "garrafa-termica-bunn-38-l-1",
+            "imageLastModified": "2019-01-22T14:22:32.7700000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=208&qty=1&seller=1&sc=1&price=142100&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 1421,
+              "ListPrice": 1421,
+              "PriceWithoutDiscount": 1421,
+              "FullSellingPrice": 1421,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImM5YjE2MDE5LTg5OGQtNGEyOC1iZWZmLTA0MzI0NGIwMjcyNCIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNDIxMDAsInNlbGxlciI6IjEiLCJpZCI6IjIwOCIsImFjY291bnROYW1lIjoiY2FmZXN0b3JlIiwic2FsZXNDaGFubmVsIjoiMSJ9LCJleHAiOjE3NjUxNDkyODcsImlhdCI6MTc2NTE0NzQ4NywianRpIjoiZDIzNzY1NDAtY2QyZi00ZGI4LWJmMmUtNWE3MjRhOTI4ZmIyIiwiaXNzIjoic2Vzc2lvbi9kYXRhLXNpZ25lciJ9.-uku12ug4cipQe0rbVferQvUVOHw_w6raT-xIUrllPCzCBd4-DRTpPfaX5oZVc28eoqpkonvNxeXBVlilSiiEw",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Garrafa Térmica Bunn 3,8 L Garrafa Térmica Bunn com Alavanca - Aço Inox 3,8L não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

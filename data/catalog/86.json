@@ -1,0 +1,109 @@
+[
+  {
+    "productId": "86",
+    "productName": "Caneca Le Creuset Cerâmica Vermelho 100 ml",
+    "brand": "Le creuset",
+    "brandId": 2000023,
+    "brandImageUrl": null,
+    "linkText": "caneca-le-creuset-ceramica-vermelho-100-ml_996",
+    "productReference": "996",
+    "productReferenceCode": "996",
+    "categoryId": "24",
+    "productTitle": "",
+    "metaTagDescription": "Linda caneca para espresso produzida em stoneware, cerâmica de alta resistência, para dar muito estilo a sua mesa.<BR><BR>Os itens da linha Stoneware são produzidos em altíssimas temperaturas, conferindo-lhes extrema durabilidade e tornando-os resistentes às rachaduras, lascas e manchas.<BR><BR>Sua superfície esmaltada é de fácil limpeza e não absorve aromas, sabores ou umidade, conservando-se como novos durante muitos anos. Produtos únicos, sofisticados e de excelente manuseio, como somente a Le Creuset poderia criar. <BR><BR><b>Conteúdo da embalagem:</b> 1 unidade<BR><b>Capacidade:</b> 100ml<BR><b>Cor:</b> Vermelha",
+    "releaseDate": "2019-01-22T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Acessórios/Xícaras e Canecas/",
+      "/Acessórios/"
+    ],
+    "categoriesIds": [
+      "/3/24/",
+      "/3/"
+    ],
+    "link": "https://www.cafestore.com.br/caneca-le-creuset-ceramica-vermelho-100-ml_996/p",
+    "description": "Linda caneca para espresso produzida em stoneware, cerâmica de alta resistência, para dar muito estilo a sua mesa.<BR><BR>Os itens da linha Stoneware são produzidos em altíssimas temperaturas, conferindo-lhes extrema durabilidade e tornando-os resistentes às rachaduras, lascas e manchas.<BR><BR>Sua superfície esmaltada é de fácil limpeza e não absorve aromas, sabores ou umidade, conservando-se como novos durante muitos anos. Produtos únicos, sofisticados e de excelente manuseio, como somente a Le Creuset poderia criar. <BR><BR><b>Conteúdo da embalagem:</b> 1 unidade<BR><b>Capacidade:</b> 100ml<BR><b>Cor:</b> Vermelha",
+    "items": [
+      {
+        "itemId": "86",
+        "name": "Caneca de Espresso Le Creuset Vermelha 100ml",
+        "nameComplete": "Caneca Le Creuset Cerâmica Vermelho 100 ml Caneca de Espresso Le Creuset Vermelha 100ml",
+        "complementName": "",
+        "ean": "630870073066",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "996"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "155652",
+            "imageLabel": "Frente",
+            "imageTag": "<img src=\"~/arquivos/ids/155652-#width#-#height#/caneca-le-creuset-ceramica-vermelho-100-ml.jpg?v=636837636176200000\" width=\"#width#\" height=\"#height#\" alt=\"caneca-le-creuset-ceramica-vermelho-100-ml\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/155652/caneca-le-creuset-ceramica-vermelho-100-ml.jpg?v=636837636176200000",
+            "imageText": "caneca-le-creuset-ceramica-vermelho-100-ml",
+            "imageLastModified": "2019-01-22T14:20:17.6200000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=86&qty=1&seller=1&sc=1&price=4900&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 49,
+              "ListPrice": 49,
+              "PriceWithoutDiscount": 49,
+              "FullSellingPrice": 49,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjVjN2RlNTI1LWE5MjUtNDAzZS05ZjYxLWI0NjVlODAzNGVmYSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo0OTAwLCJzZWxsZXIiOiIxIiwiaWQiOiI4NiIsImFjY291bnROYW1lIjoiY2FmZXN0b3JlIiwic2FsZXNDaGFubmVsIjoiMSJ9LCJleHAiOjE3NjUxNDkxODksImlhdCI6MTc2NTE0NzM4OSwianRpIjoiN2U5NjQ4NzMtYzRlNC00YjczLWJmN2QtNjUyNTA0NjE1YjI5IiwiaXNzIjoic2Vzc2lvbi9kYXRhLXNpZ25lciJ9.6adG_cXeJ5STfuKSNZ86EC7ZSL3G0BcFrZUCj0ikjUukKPWC1jLCQNmecbAv-hNZ_k3mn4HOKndgJnnEtW1Ulw",
+              "RewardValue": 0,
+              "PriceValidUntil": "2026-12-07T22:43:08Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Caneca Le Creuset Cerâmica Vermelho 100 ml Caneca de Espresso Le Creuset Vermelha 100ml não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1504",
+    "productName": "Revista Espresso - O Recomeço do Café  - Edição 68",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---o-recomeco-do-cafe----edicao-68-3041",
+    "productReference": "3041",
+    "productReferenceCode": "3041",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "A edição 68 comemora 17 anos da nossa queridinha cafeinada! Como ficará o consumo de café? Essa é a pergunta da matéria de capa. Uma edição desafiadora, elaborada em meio a pandemia que fechou comércios em quase todas as partes do mundo, incluindo as cafeterias. Por conta disso, o hábito de tomar café sofreu grandes alterações. Aqui, o mercado cafeeiro foi representado pela arte japonesa Kintsukuroi. O simbolismo dessa arte remete à beleza do amadurecimento e das superações da vida. Momento em que estamos vivendo, juntando nossos pedacinhos e juntos buscando soluções para superar esta etapa e manter o café especial na vida das pessoas. A edição também conta com receitas diversas, incluindo como fazer um pão artesanal. As páginas trazem degustações feitas em diferentes métodos de preparo, entrevistas exclusivas, novidades do setor, dicas de cafeterias e muito mais!",
+    "releaseDate": "2021-05-19T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---o-recomeco-do-cafe----edicao-68-3041/p",
+    "description": "A edição 68 comemora 17 anos da nossa queridinha cafeinada! Como ficará o consumo de café? Essa é a pergunta da matéria de capa. Uma edição desafiadora, elaborada em meio a pandemia que fechou comércios em quase todas as partes do mundo, incluindo as cafeterias. Por conta disso, o hábito de tomar café sofreu grandes alterações. Aqui, o mercado cafeeiro foi representado pela arte japonesa Kintsukuroi. O simbolismo dessa arte remete à beleza do amadurecimento e das superações da vida. Momento em que estamos vivendo, juntando nossos pedacinhos e juntos buscando soluções para superar esta etapa e manter o café especial na vida das pessoas. A edição também conta com receitas diversas, incluindo como fazer um pão artesanal. As páginas trazem degustações feitas em diferentes métodos de preparo, entrevistas exclusivas, novidades do setor, dicas de cafeterias e muito mais!",
+    "items": [
+      {
+        "itemId": "1503",
+        "name": "Revista Espresso - O Recomeço do Café  - Edição 68",
+        "nameComplete": "Revista Espresso - O Recomeço do Café  - Edição 68",
+        "complementName": "",
+        "ean": "3041000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3041"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159129",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159129-#width#-#height#/3041_Revista-Espresso_O-Recomeco-do-Cafe_Edicao-68.jpg?v=637584089135500000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_68\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159129/3041_Revista-Espresso_O-Recomeco-do-Cafe_Edicao-68.jpg?v=637584089135500000",
+            "imageText": "rev_espresso_68",
+            "imageLastModified": "2021-06-04T13:08:33.5500000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1503&qty=1&seller=1&sc=1&price=2000&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 20,
+              "ListPrice": 20,
+              "PriceWithoutDiscount": 20,
+              "FullSellingPrice": 20,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjU1NGNjODhhLTFjYWQtNGY4Yi05NTYzLTBmM2Y2ZDdjYWVhNyIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoyMDAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNTAzIiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI5MywiaWF0IjoxNzY1MTQ4NDkzLCJqdGkiOiJkYmY4OGMzZS1iYzQwLTQzY2UtOTJjYi1iYWIxMTA4ZGI2MWQiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.DUt2mxJL_QEOOUki7WcQ8PLfLZg5uL-XQFfPZKZDZAR5p9vo9P9tEqyI7_gDRc-s0x9wbpH5pVEZwcNvCEqR4A",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - O Recomeço do Café  - Edição 68 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

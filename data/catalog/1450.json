@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1450",
+    "productName": "Revista Espresso - Café com Leite -  Edição 14",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---cafe-com-leite----edicao-14-2987",
+    "productReference": "2987",
+    "productReferenceCode": "2987",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "Café com leite. Os sabores dessa simples mistura são discutidos na matéria de capa da Espresso #14. Nas outras páginas você encontra uma entrevista exclusiva sobre a chegada da Nespresso no Brasil, a produção de café na Bahia, uma seção sobre azeites, indicações de cafeterias, receitas diversas, novidades do setor e dicas de preparo.",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---cafe-com-leite----edicao-14-2987/p",
+    "description": "Café com leite. Os sabores dessa simples mistura são discutidos na matéria de capa da Espresso #14. Nas outras páginas você encontra uma entrevista exclusiva sobre a chegada da Nespresso no Brasil, a produção de café na Bahia, uma seção sobre azeites, indicações de cafeterias, receitas diversas, novidades do setor e dicas de preparo.",
+    "items": [
+      {
+        "itemId": "1449",
+        "name": "Revista Espresso - Café com Leite -  Edição 14",
+        "nameComplete": "Revista Espresso - Café com Leite -  Edição 14",
+        "complementName": "",
+        "ean": "2987000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2987"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159054",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159054-#width#-#height#/2987_Revista-Espresso_Cafe-com-Leite_Edicao-14.jpg?v=637578101642700000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_14\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159054/2987_Revista-Espresso_Cafe-com-Leite_Edicao-14.jpg?v=637578101642700000",
+            "imageText": "rev_espresso_14",
+            "imageLastModified": "2021-05-28T14:49:24.2700000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1449&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjI1NTEzMzI4LTY2MjgtNGFlYS05ZGE5LTk5NWU3MmQ2ZDZlOCIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDQ5IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI1MSwiaWF0IjoxNzY1MTQ4NDUxLCJqdGkiOiI2MGQ1MGMzNS1hYjYwLTQ5YmUtYTFjNi01NTQ3MzZkZmU5NTIiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.1P8kXt0Vm4TxBn_gJ-BL4kc3Lj-LIripLll4-UT2OoIuU6DB-bw09CUyWMGPeV6EkhLD_HAO57-oNSib9lYUOg",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Café com Leite -  Edição 14 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

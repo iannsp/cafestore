@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1446",
+    "productName": "Revista Espresso - Cafeterias - Fotografia - Rally - Raul Cortez - Moçambique -  Edição 09",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---cafeterias---fotografia---rally---raul-cortez---mocambique----edicao-09-2982",
+    "productReference": "2982",
+    "productReferenceCode": "2982",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "Nas seções da Espresso #9 é possível encontrar informações sobre o investimento no design das cafeterias, coluna escrita por Nathan Herszkowicz sobre o mercado de cafés, o relato de uma viagem à Moçambique, matéria sobre vegetarianismo, a produção cafeeira em Alfenas (MG), o aumento do consumo de café por jovens, indicações de cafeterias, receitas diversas, novidades do setor, entrevistas exclusivas e mais!",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---cafeterias---fotografia---rally---raul-cortez---mocambique----edicao-09-2982/p",
+    "description": "Nas seções da Espresso #9 é possível encontrar informações sobre o investimento no design das cafeterias, coluna escrita por Nathan Herszkowicz sobre o mercado de cafés, o relato de uma viagem à Moçambique, matéria sobre vegetarianismo, a produção cafeeira em Alfenas (MG), o aumento do consumo de café por jovens, indicações de cafeterias, receitas diversas, novidades do setor, entrevistas exclusivas e mais!",
+    "items": [
+      {
+        "itemId": "1445",
+        "name": "Revista Espresso - Cafeterias - Fotografia - Rally - Raul Cortez - Moçambique -  Edição 09",
+        "nameComplete": "Revista Espresso - Cafeterias - Fotografia - Rally - Raul Cortez - Moçambique -  Edição 09",
+        "complementName": "",
+        "ean": "2982000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2982"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159060",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159060-#width#-#height#/2982_Revista-Espresso_Cafeterias-Fotografia-Rally-Raul-Cortez-Mocambique_Edicao-09.jpg?v=637578103585070000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_9\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159060/2982_Revista-Espresso_Cafeterias-Fotografia-Rally-Raul-Cortez-Mocambique_Edicao-09.jpg?v=637578103585070000",
+            "imageText": "rev_espresso_9",
+            "imageLastModified": "2021-05-28T14:52:38.5070000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1445&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImRiNDI1NjdiLTNhZjctNDE4OS04YTY3LTI3NDg0N2E4NDYzYiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDQ1IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI0OCwiaWF0IjoxNzY1MTQ4NDQ4LCJqdGkiOiI3YWEzZWQ2NS1jNWEzLTQ1MzktYmQxMy0zYTgxYTNmOWUwOWUiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.ZiEU-888EsU_aIMbMymzzDkq09PA93b_h8jfO8-fyPqX26EKVmFmY3OHwpAf2x0ITQXqAl5PuKiF0qK7N7bv5A",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Cafeterias - Fotografia - Rally - Raul Cortez - Moçambique -  Edição 09 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

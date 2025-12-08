@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1458",
+    "productName": "Revista Espresso - Sobremesas de Café -  Edição 22",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---sobremesas-de-cafe----edicao-22-2995",
+    "productReference": "2995",
+    "productReferenceCode": "2995",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "Sobremesas de café: Chefs patissiers criam receitas inéditas na Espresso #22! Conheça mais sobre a beleza, o vinho e a culinária de Mendoza, na Argentina. Saiba quais cafés investir no escritório. Pratos e ingredientes da gastronomia italiana que vão além do spaghetti. Cafeterias para você conhecer pelo Brasil, dicas de preparo, receitas exclusivas, entrevistas, novidades do setor e muito mais!",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---sobremesas-de-cafe----edicao-22-2995/p",
+    "description": "Sobremesas de café: Chefs patissiers criam receitas inéditas na Espresso #22! Conheça mais sobre a beleza, o vinho e a culinária de Mendoza, na Argentina. Saiba quais cafés investir no escritório. Pratos e ingredientes da gastronomia italiana que vão além do spaghetti. Cafeterias para você conhecer pelo Brasil, dicas de preparo, receitas exclusivas, entrevistas, novidades do setor e muito mais!",
+    "items": [
+      {
+        "itemId": "1457",
+        "name": "Revista Espresso - Sobremesas de Café -  Edição 22",
+        "nameComplete": "Revista Espresso - Sobremesas de Café -  Edição 22",
+        "complementName": "",
+        "ean": "2995000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2995"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159083",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159083-#width#-#height#/2995_Revista-Espresso_Sobremesas-de-Cafe_Edicao-22.jpg?v=637583214773400000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_22\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159083/2995_Revista-Espresso_Sobremesas-de-Cafe_Edicao-22.jpg?v=637583214773400000",
+            "imageText": "rev_espresso_22",
+            "imageLastModified": "2021-06-03T12:51:17.3400000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1457&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjRkNzE0NGM0LWFiYjQtNDk0MS1iODkwLThkZGJhZWMzOTQ3OCIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDU3IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI1NywiaWF0IjoxNzY1MTQ4NDU3LCJqdGkiOiIxM2VkOGQ3NC1jOTBkLTQ2NDYtOGY2Zi0xOTlkMzQzYjQ5MTkiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.iIIkeyYmELfpKTgt5xDH9aMk8h_GufkIaeSMr930G9tXipt2tXIDR40OVtAkPHYUcossDrgI8ksni23Xoxf_yw",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Sobremesas de Café -  Edição 22 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

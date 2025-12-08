@@ -1,0 +1,168 @@
+[
+  {
+    "productId": "1069",
+    "productName": "Cordão de Couro e Fecho para Chemex",
+    "brand": "Chemex",
+    "brandId": 2000027,
+    "brandImageUrl": null,
+    "linkText": "cordao-de-couro-para-chemex-alca-de-madeira-todos-os-tamanhos-2539",
+    "productReference": "2539",
+    "productReferenceCode": "2539",
+    "categoryId": "35",
+    "productTitle": "",
+    "metaTagDescription": "Peça de reposição para os coadores Chemex que possuem  colar de madeira, o cordão de couro com fecho é essencial para que o colar fique  preso ao copo de vidro.<br><br>\r\n\r\n<b>Dica:</b> Sempre retire o cordão ao lavar a sua Chemex.",
+    "releaseDate": "2019-10-08T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Acessórios/Peças de Reposição/",
+      "/Acessórios/",
+      "/Cafeteiras/",
+      "/Cafeteiras/Método Filtrado/",
+      "/Cafeteiras/Método Filtrado/Chemex/"
+    ],
+    "categoriesIds": [
+      "/3/35/",
+      "/3/",
+      "/2/",
+      "/2/149/",
+      "/2/149/154/"
+    ],
+    "link": "https://www.cafestore.com.br/cordao-de-couro-para-chemex-alca-de-madeira-todos-os-tamanhos-2539/p",
+    "Marca": [
+      "Chemex"
+    ],
+    "Características": [
+      "Reposição de cordão com fecho para as Chemex com colar de madeira"
+    ],
+    "Material / composição": [
+      "Cordão de couro e fecho de madeira"
+    ],
+    "Conteúdo da embalagem": [
+      "1 cordão com fecho"
+    ],
+    "Cor": [
+      "Marrom"
+    ],
+    "Modelo": [
+      "Chemex"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca",
+      "Características",
+      "Material / composição",
+      "Conteúdo da embalagem",
+      "Cor",
+      "Modelo"
+    ],
+    "allSpecifications": [
+      "Marca",
+      "Características",
+      "Material / composição",
+      "Conteúdo da embalagem",
+      "Cor",
+      "Modelo"
+    ],
+    "allSpecificationsGroups": [
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "Peça de reposição para os coadores Chemex que possuem  colar de madeira. O cordão de couro com fecho é essencial para que o colar fique  preso ao copo de vidro.<br><br>\r\n\r\n<b>Dica:</b> Sempre retire o cordão ao lavar a sua Chemex.",
+    "items": [
+      {
+        "itemId": "1070",
+        "name": "Cordão de Couro para Chemex Alça de Madeira Todos os Tamanhos",
+        "nameComplete": "Cordão de Couro e Fecho para Chemex Cordão de Couro para Chemex Alça de Madeira Todos os Tamanhos",
+        "complementName": "",
+        "ean": "0028068001197",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2539"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "157964",
+            "imageLabel": "detalhe",
+            "imageTag": "<img src=\"~/arquivos/ids/157964-#width#-#height#/chemex-cordao-colar-de-madeira1.jpg?v=637274948561530000\" width=\"#width#\" height=\"#height#\" alt=\"chemex-cordao-colar-de-madeira1\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/157964/chemex-cordao-colar-de-madeira1.jpg?v=637274948561530000",
+            "imageText": "chemex-cordao-colar-de-madeira1",
+            "imageLastModified": "2020-06-11T17:54:16.1530000Z"
+          },
+          {
+            "imageId": "157164",
+            "imageLabel": "Frente",
+            "imageTag": "<img src=\"~/arquivos/ids/157164-#width#-#height#/cordao-couro-reposicao-chemex.jpg?v=637062294913530000\" width=\"#width#\" height=\"#height#\" alt=\"cordao-couro-reposicao-chemex\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/157164/cordao-couro-reposicao-chemex.jpg?v=637062294913530000",
+            "imageText": "cordao-couro-reposicao-chemex",
+            "imageLastModified": "2019-10-09T14:51:31.3530000Z"
+          },
+          {
+            "imageId": "157966",
+            "imageLabel": "close",
+            "imageTag": "<img src=\"~/arquivos/ids/157966-#width#-#height#/chemex-cordao-colar-de-madeira4.jpg?v=637274950290900000\" width=\"#width#\" height=\"#height#\" alt=\"chemex-cordao-colar-de-madeira1\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/157966/chemex-cordao-colar-de-madeira4.jpg?v=637274950290900000",
+            "imageText": "chemex-cordao-colar-de-madeira1",
+            "imageLastModified": "2020-06-11T17:57:09.0900000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1070&qty=1&seller=1&sc=1&price=4700&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 47,
+              "ListPrice": 47,
+              "PriceWithoutDiscount": 47,
+              "FullSellingPrice": 47,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjBmZGU5N2Q1LTI5OTYtNGJiYi1iY2U0LWY4NTIxNzU4ZjM0ZCIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo0NzAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxMDcwIiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE0OTk1NSwiaWF0IjoxNzY1MTQ4MTU1LCJqdGkiOiI2ZDk3NGE5ZS04N2RmLTQxYmYtYTVkZS1jNTJkN2IyOWYyYTMiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.nteNAM_6ekC585AL0V5PVtuqrS2kLor-UXfHEhaMJ9wJsyrwV_ZQFxzxtfy3vytDpfhqhFJYv7wSx9DOY63Hbw",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Cordão de Couro e Fecho para Chemex Cordão de Couro para Chemex Alça de Madeira Todos os Tamanhos não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

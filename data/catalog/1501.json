@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1501",
+    "productName": "Revista Espresso - Origens do Café  - Edição 65",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---origens-do-cafe----edicao-65-3038",
+    "productReference": "3038",
+    "productReferenceCode": "3038",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "Desta vez nosso assunto principal é o campo! Na matéria principal, você encontra um guia completo com as 31 regiões produtoras de café no Brasil. Ainda no tema, a seção “Fazendas” conta a história não só de uma, mas de várias propriedades de pequenos cafeicultores nas premiadas Montanhas do Espírito Santo e Caparaó! Falando em plantação, você sabe as diferenças entre as espécies arábica e canéfora? Nós te explicamos! Já na área das cafeterias, quer algumas dicas sobre como começar no ramo de barista? Fomos atrás de alguns profissionais que já estão no mercado para coletar informações preciosas para quem quer entrar nesse universo! Além disso, há aquelas coisinhas que a gente gosta de escrever e que vocês adoram: dicas de cafeterias, receitas mega gostosas para fazer em casa, uma entrevista linda com a cantora Ná Ozzetti e muitas novidades do setor!",
+    "releaseDate": "2021-05-19T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---origens-do-cafe----edicao-65-3038/p",
+    "description": "Desta vez nosso assunto principal é o campo! Na matéria principal, você encontra um guia completo com as 31 regiões produtoras de café no Brasil. Ainda no tema, a seção “Fazendas” conta a história não só de uma, mas de várias propriedades de pequenos cafeicultores nas premiadas Montanhas do Espírito Santo e Caparaó! Falando em plantação, você sabe as diferenças entre as espécies arábica e canéfora? Nós te explicamos! Já na área das cafeterias, quer algumas dicas sobre como começar no ramo de barista? Fomos atrás de alguns profissionais que já estão no mercado para coletar informações preciosas para quem quer entrar nesse universo! Além disso, há aquelas coisinhas que a gente gosta de escrever e que vocês adoram: dicas de cafeterias, receitas mega gostosas para fazer em casa, uma entrevista linda com a cantora Ná Ozzetti e muitas novidades do setor!",
+    "items": [
+      {
+        "itemId": "1500",
+        "name": "Revista Espresso - Origens do Café  - Edição 65",
+        "nameComplete": "Revista Espresso - Origens do Café  - Edição 65",
+        "complementName": "",
+        "ean": "3038000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3038"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159126",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159126-#width#-#height#/3038_Revista-Espresso_Origens-do-Cafe_Edicao-65.jpg?v=637584083990770000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_65\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159126/3038_Revista-Espresso_Origens-do-Cafe_Edicao-65.jpg?v=637584083990770000",
+            "imageText": "rev_espresso_65",
+            "imageLastModified": "2021-06-04T12:59:59.0770000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1500&qty=1&seller=1&sc=1&price=2000&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 20,
+              "ListPrice": 20,
+              "PriceWithoutDiscount": 20,
+              "FullSellingPrice": 20,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjBmYjk0ZGRjLTNlMTEtNGY3Ni1hODgxLWZlMzJmOGNjNmU0YyIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoyMDAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNTAwIiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI5MSwiaWF0IjoxNzY1MTQ4NDkxLCJqdGkiOiJmMDY4Y2QwZi1iYzRlLTRhMTktOGUyYi0zZjdkM2Q0Mjk5NTMiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.OHRA06olxPFnMYWSLfK5_T2Qm-Pq5vdYV8oynWk47rEBukJM0y8dNJda-ucRQ0Af9D2QDvBdKmUhG3pm2oiXYw",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Origens do Café  - Edição 65 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

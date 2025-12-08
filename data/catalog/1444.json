@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1444",
+    "productName": "Revista Espresso - Café - Latte Art - Ernesto Illy - Cordel - Bicicletas -  Edição 08",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---cafe---latte-art---ernesto-illy---cordel---bicicletas----edicao-08-2981",
+    "productReference": "2981",
+    "productReferenceCode": "2981",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "Nas páginas da Espresso #8 é possível encontrar seções que abordam as histórias de imigrantes; o café orgânico, descafeinado e aromatizado; uma viagem à São João Del Rey; uma entrevista com Ernesto Illy; a produção de café na Fazenda Ambiental Fortaleza, em Mococa (SP); a diversidade da cozinha brasileira. Além disso, há indicações de cafeterias, dicas de preparo, entrevistas exclusivas e novidades do setor.",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---cafe---latte-art---ernesto-illy---cordel---bicicletas----edicao-08-2981/p",
+    "description": "Nas páginas da Espresso #8 é possível encontrar seções que abordam as histórias de imigrantes; o café orgânico, descafeinado e aromatizado; uma viagem à São João Del Rey; uma entrevista com Ernesto Illy; a produção de café na Fazenda Ambiental Fortaleza, em Mococa (SP); a diversidade da cozinha brasileira. Além disso, há indicações de cafeterias, dicas de preparo, entrevistas exclusivas e novidades do setor.",
+    "items": [
+      {
+        "itemId": "1443",
+        "name": "Revista Espresso - Café - Latte Art - Ernesto Illy - Cordel - Bicicletas -  Edição 08",
+        "nameComplete": "Revista Espresso - Café - Latte Art - Ernesto Illy - Cordel - Bicicletas -  Edição 08",
+        "complementName": "",
+        "ean": "9771806297062",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2981"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159061",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159061-#width#-#height#/2981_Revista-Espresso_Cafe-Latte-Art-Ernesto-Illy-Cordel-Bicicletas_Edicao-08.jpg?v=637578103969700000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_8\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159061/2981_Revista-Espresso_Cafe-Latte-Art-Ernesto-Illy-Cordel-Bicicletas_Edicao-08.jpg?v=637578103969700000",
+            "imageText": "rev_espresso_8",
+            "imageLastModified": "2021-05-28T14:53:16.9700000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1443&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImJiYWJmNmIwLWQ2NjctNGI2Zi05YWQ4LTU4YTNlMDhhODQzYyIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDQzIiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI0NiwiaWF0IjoxNzY1MTQ4NDQ2LCJqdGkiOiJmNzdmZjRhZC0zMDI4LTQxNjgtOGJjZC02YmJmOWYxZjNmNGIiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.jDYRJjUt3vx4nHTF6bzCVE_6I0Klm7bKy8tUqa62OJa7MQb7QN-_k2fcOPQtVGXZ5EW2I6J2QYWo_p4vLgncUg",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Café - Latte Art - Ernesto Illy - Cordel - Bicicletas -  Edição 08 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

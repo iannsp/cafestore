@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1466",
+    "productName": "Revista Espresso - Minha Cafeteira em Casa - Edição 30",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---minha-cafeteira-em-casa---edicao-30-3003",
+    "productReference": "3003",
+    "productReferenceCode": "3003",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "A Espresso #30 apresenta, na matéria de capa, o crescimento do público apaixonado por café e as inúmeras opções montar uma verdadeira cafeteria em casa. Na seção Viagem, uma reportagem sobre a aventura de onze baristas internacionais, campeões em seus países de origem, durante uma viagem ao Peru. Eles colocaram a mão na terra e experimentaram a cultura do café bem de perto. Na seção Chás, artesãs chinesas que fazem flor de chá para beber e admirar. E, ainda falando sobre gastronomia, uma matéria sobre sorvetes coloridos com sabores exóticos, receitas de bolo de pé de moleque e de uma bebida que leva vodca, tangerina, vermute e chá Earl Grey.",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---minha-cafeteira-em-casa---edicao-30-3003/p",
+    "description": "A Espresso #30 apresenta, na matéria de capa, o crescimento do público apaixonado por café e as inúmeras opções montar uma verdadeira cafeteria em casa. Na seção Viagem, uma reportagem sobre a aventura de onze baristas internacionais, campeões em seus países de origem, durante uma viagem ao Peru. Eles colocaram a mão na terra e experimentaram a cultura do café bem de perto. Na seção Chás, artesãs chinesas que fazem flor de chá para beber e admirar. E, ainda falando sobre gastronomia, uma matéria sobre sorvetes coloridos com sabores exóticos, receitas de bolo de pé de moleque e de uma bebida que leva vodca, tangerina, vermute e chá Earl Grey.",
+    "items": [
+      {
+        "itemId": "1465",
+        "name": "Revista Espresso - Minha Cafeteira em Casa - Edição 30",
+        "nameComplete": "Revista Espresso - Minha Cafeteira em Casa - Edição 30",
+        "complementName": "",
+        "ean": "3003000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3003"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159091",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159091-#width#-#height#/3003_Revista-Espresso_Minha-Cafeteria-em-Casa_Edicao-30.jpg?v=637583219733030000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_30\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159091/3003_Revista-Espresso_Minha-Cafeteria-em-Casa_Edicao-30.jpg?v=637583219733030000",
+            "imageText": "rev_espresso_30",
+            "imageLastModified": "2021-06-03T12:59:33.3030000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1465&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImM1YzJjYWI1LTM5Y2UtNDgyYy05NDkyLTU5MTNhMjc2NGU0MyIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDY1IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI2NCwiaWF0IjoxNzY1MTQ4NDY0LCJqdGkiOiIzM2JhZWU4Yi1iYjUyLTRmZTAtYTliMC1kODZiNTQ4NzA4MWUiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.5GNm8mJdZCzL-RL3u8QDhtU9oY2YZ93jAWJmDNh3_h7nad7jjXRdL1rXFOqmvSz-rqjSX4QO0ClkagBuy6qv0g",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T03:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Revista Espresso - Minha Cafeteira em Casa - Edição 30 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "productId": "1035",
+    "productName": "Recipiente Superior Globinho TCA-5",
+    "brand": "Hario",
+    "brandId": 2000025,
+    "brandImageUrl": null,
+    "linkText": "recipiente-superior-para-syphon-tca-5-2558",
+    "productReference": "2558",
+    "productReferenceCode": "2558",
+    "categoryId": "35",
+    "productTitle": "",
+    "metaTagDescription": "Recipiente superior em vidro para reposição de sifão de café Hario modelo TCA-5 (600 ml). Peça original Hario. Feito em vidro de borosilicato.",
+    "releaseDate": "2019-10-04T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Acessórios/Peças de Reposição/",
+      "/Acessórios/",
+      "/Cafeteiras/",
+      "/Cafeteiras/Método Percolação/",
+      "/Cafeteiras/Método Percolação/Cafeteira Globinho/"
+    ],
+    "categoriesIds": [
+      "/3/35/",
+      "/3/",
+      "/2/",
+      "/2/175/",
+      "/2/175/177/"
+    ],
+    "link": "https://www.cafestore.com.br/recipiente-superior-para-syphon-tca-5-2558/p",
+    "Marca": [
+      "Hario"
+    ],
+    "Características": [
+      "Compatível com modelo Syphon TCA-5."
+    ],
+    "Material / composição": [
+      "Vidro"
+    ],
+    "Capacidade / Volume": [
+      "600 ml"
+    ],
+    "Cor": [
+      "Transparente"
+    ],
+    "Dimensões aproximadas do produto (cm)- AxLxP": [
+      "26,5 x 10 x 10"
+    ],
+    "Peso líquido aproximado do produto (kg)": [
+      "222"
+    ],
+    "Dimensões aproximadas da embalagem (cm) – AxLxP": [
+      "27,3 x 10,9 x 10,7"
+    ],
+    "Peso aproximado da embalagem do produto (kg)": [
+      "356"
+    ],
+    "Modelo": [
+      "TCA-5"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca",
+      "Características",
+      "Material / composição",
+      "Capacidade / Volume",
+      "Cor",
+      "Dimensões aproximadas do produto (cm)- AxLxP",
+      "Peso líquido aproximado do produto (kg)",
+      "Dimensões aproximadas da embalagem (cm) – AxLxP",
+      "Peso aproximado da embalagem do produto (kg)",
+      "Modelo"
+    ],
+    "allSpecifications": [
+      "Marca",
+      "Características",
+      "Material / composição",
+      "Capacidade / Volume",
+      "Cor",
+      "Dimensões aproximadas do produto (cm)- AxLxP",
+      "Peso líquido aproximado do produto (kg)",
+      "Dimensões aproximadas da embalagem (cm) – AxLxP",
+      "Peso aproximado da embalagem do produto (kg)",
+      "Modelo"
+    ],
+    "allSpecificationsGroups": [
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "Recipiente superior em vidro para reposição de sifão de café Hario modelo TCA-5 (600 ml). Peça original Hario. Feito em vidro de borosilicato.",
+    "items": [
+      {
+        "itemId": "1036",
+        "name": "Recipiente Superior para Syphon TCA-5",
+        "nameComplete": "Recipiente Superior Globinho TCA-5 Recipiente Superior para Syphon TCA-5",
+        "complementName": "",
+        "ean": "4977642507050",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2558"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "157152",
+            "imageLabel": "",
+            "imageTag": "<img src=\"~/arquivos/ids/157152-#width#-#height#/Recipiente-superior-sifao-globinho-tca5.jpg?v=637061558399170000\" width=\"#width#\" height=\"#height#\" alt=\"Recipiente-superior-sifao-globinho-tca5\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/157152/Recipiente-superior-sifao-globinho-tca5.jpg?v=637061558399170000",
+            "imageText": "Recipiente-superior-sifao-globinho-tca5",
+            "imageLastModified": "2019-10-08T18:23:59.9170000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1036&qty=1&seller=1&sc=1&price=43100&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 431,
+              "ListPrice": 431,
+              "PriceWithoutDiscount": 431,
+              "FullSellingPrice": 431,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjA2MzY0OWYzLWY0NjAtNDIzZi04NGJmLTkyNmY3MjhjNjM4MCIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo0MzEwMCwic2VsbGVyIjoiMSIsImlkIjoiMTAzNiIsImFjY291bnROYW1lIjoiY2FmZXN0b3JlIiwic2FsZXNDaGFubmVsIjoiMSJ9LCJleHAiOjE3NjUxNDk5MjgsImlhdCI6MTc2NTE0ODEyOCwianRpIjoiYTU0NTdiM2ItNmQ3MS00OTM3LWFkOWYtNjcwYjA5Y2Y2YzQ0IiwiaXNzIjoic2Vzc2lvbi9kYXRhLXNpZ25lciJ9.4EEAJWz28gqcsv6fwwT6773ZYojeIdOdS9YrpHxZrP7Vx_yXghqzNsgYX8B-TiOdxMjn9jogPbHOwSWFhn_42Q",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Recipiente Superior Globinho TCA-5 Recipiente Superior para Syphon TCA-5 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

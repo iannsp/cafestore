@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1505",
+    "productName": "Revista Espresso - Café Perfeito  - Edição 70",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---cafe-perfeito----edicao-70-3043",
+    "productReference": "3043",
+    "productReferenceCode": "3043",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "Chegamos na Espresso #70! A matéria de capa desta edição apresenta diversas receitas de tortas para combinar com a nossa bebida favorita: o café. Tem torta de frutas, de chocolate, salgada com cebola e bacon, de liquidificador... De todos os jeitos! A entrevista exclusiva desta vez é com os grafiteiros Gustavo e Otávio Pandolfo, mais conhecidos como OSGEMEOS. A fazenda visitada na edição foi a Cafezal em Flor, localizada no Circuíto das Águas Paulista! Nas outras páginas você encontra novidades do mercado, dicas de preparo, informações sobre métodos de trama de aço, cafeterias para conhecer, degustações e muito mais!",
+    "releaseDate": "2021-05-19T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---cafe-perfeito----edicao-70-3043/p",
+    "description": "Chegamos na Espresso #70! A matéria de capa desta edição apresenta diversas receitas de tortas para combinar com a nossa bebida favorita: o café. Tem torta de frutas, de chocolate, salgada com cebola e bacon, de liquidificador... De todos os jeitos! A entrevista exclusiva desta vez é com os grafiteiros Gustavo e Otávio Pandolfo, mais conhecidos como OSGEMEOS. A fazenda visitada na edição foi a Cafezal em Flor, localizada no Circuíto das Águas Paulista! Nas outras páginas você encontra novidades do mercado, dicas de preparo, informações sobre métodos de trama de aço, cafeterias para conhecer, degustações e muito mais!",
+    "items": [
+      {
+        "itemId": "1504",
+        "name": "Revista Espresso - Café Perfeito  - Edição 70",
+        "nameComplete": "Revista Espresso - Café Perfeito  - Edição 70",
+        "complementName": "",
+        "ean": "3043000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3043"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159131",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159131-#width#-#height#/3043_Revista-Espresso_Cafe-Perfeito_Edicao-70.jpg?v=637584091020600000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_70\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159131/3043_Revista-Espresso_Cafe-Perfeito_Edicao-70.jpg?v=637584091020600000",
+            "imageText": "rev_espresso_70",
+            "imageLastModified": "2021-06-04T13:11:42.0600000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1504&qty=1&seller=1&sc=1&price=2000&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 20,
+              "ListPrice": 20,
+              "PriceWithoutDiscount": 20,
+              "FullSellingPrice": 20,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImQyNTUyY2RiLWJkNjMtNDVkYi05NjFiLWI1ODUyNDkxYTk1NSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoyMDAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNTA0IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI5NCwiaWF0IjoxNzY1MTQ4NDk0LCJqdGkiOiI4NjZiYjg5Mi1hMzNjLTQ5Y2UtYmMwOS1hZjdhYjQ0ZTQyYTIiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.8aVEZTUlRpo_lMei6y26O0dJeD5AqMDr-djwh58YIpOrPJqJWn6yFBVxq8AeqQ7abTtEVee5doH1noDCIlwffA",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Café Perfeito  - Edição 70 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "productId": "155",
+    "productName": "Caneca Le Creuset Cerâmica Azul Cobalto 200 ml",
+    "brand": "Le creuset",
+    "brandId": 2000023,
+    "brandImageUrl": null,
+    "linkText": "caneca-le-creuset-ceramica-azul-cobalto-200-ml_1171",
+    "productReference": "1171",
+    "productReferenceCode": "1171",
+    "categoryId": "24",
+    "productTitle": "",
+    "metaTagDescription": "Linda xícara para capuccino produzida em stoneware, cerâmica de alta resistência, para dar muito estilo a sua mesa.<BR><BR>Os itens da linha Stoneware são produzidos em altíssimas temperaturas, conferindo-lhes extrema durabilidade e tornando-os resistentes às rachaduras, lascas e manchas.<BR><BR>Sua superfície esmaltada é de fácil limpeza e não absorve aromas, sabores ou umidade, conservando-se como novos durante muitos anos. Produtos únicos, sofisticados e de excelente manuseio, como somente a Le Creuset poderia criar. <BR><BR><b>Conteúdo da embalagem:</b> 1 unidade<BR><b>Capacidade:</b> 200ml<BR><b>Cor:</b> Azul Cobalto",
+    "releaseDate": "2019-01-22T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Acessórios/Xícaras e Canecas/",
+      "/Acessórios/"
+    ],
+    "categoriesIds": [
+      "/3/24/",
+      "/3/"
+    ],
+    "link": "https://www.cafestore.com.br/caneca-le-creuset-ceramica-azul-cobalto-200-ml_1171/p",
+    "description": "Linda xícara para capuccino produzida em stoneware, cerâmica de alta resistência, para dar muito estilo a sua mesa.<BR><BR>Os itens da linha Stoneware são produzidos em altíssimas temperaturas, conferindo-lhes extrema durabilidade e tornando-os resistentes às rachaduras, lascas e manchas.<BR><BR>Sua superfície esmaltada é de fácil limpeza e não absorve aromas, sabores ou umidade, conservando-se como novos durante muitos anos. Produtos únicos, sofisticados e de excelente manuseio, como somente a Le Creuset poderia criar. <BR><BR><b>Conteúdo da embalagem:</b> 1 unidade<BR><b>Capacidade:</b> 200ml<BR><b>Cor:</b> Azul Cobalto",
+    "items": [
+      {
+        "itemId": "155",
+        "name": "Caneca de Cappuccino Le Creuset Azul Cobalto 200ml",
+        "nameComplete": "Caneca Le Creuset Cerâmica Azul Cobalto 200 ml Caneca de Cappuccino Le Creuset Azul Cobalto 200ml",
+        "complementName": "",
+        "ean": "",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "1171"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "155645",
+            "imageLabel": "Frente",
+            "imageTag": "<img src=\"~/arquivos/ids/155645-#width#-#height#/caneca-le-creuset-ceramica-azul-cobalto-200-ml.jpg?v=636837636058030000\" width=\"#width#\" height=\"#height#\" alt=\"caneca-le-creuset-ceramica-azul-cobalto-200-ml\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/155645/caneca-le-creuset-ceramica-azul-cobalto-200-ml.jpg?v=636837636058030000",
+            "imageText": "caneca-le-creuset-ceramica-azul-cobalto-200-ml",
+            "imageLastModified": "2019-01-22T14:20:05.8030000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=155&qty=1&seller=1&sc=1&price=5900&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 59,
+              "ListPrice": 59,
+              "PriceWithoutDiscount": 59,
+              "FullSellingPrice": 59,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImUzMzFmNTk0LTRjZTktNDViYS04MGU2LWQ5MzE0NTRhOWMyNyIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo1OTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNTUiLCJhY2NvdW50TmFtZSI6ImNhZmVzdG9yZSIsInNhbGVzQ2hhbm5lbCI6IjEifSwiZXhwIjoxNzY1MTQ5MjQ0LCJpYXQiOjE3NjUxNDc0NDQsImp0aSI6IjQyNWM0NGU3LTE0ZGItNDk3My1iZTgwLTg0NjU0Y2IxOWRjZCIsImlzcyI6InNlc3Npb24vZGF0YS1zaWduZXIifQ.WsTAT_XWq-_PhTpu9WCBruW2G3A6JfJOruDzbVksu30T__NPboT8EieMhn4p-n1k2XgkJPFVfxDQMaz7gW52JA",
+              "RewardValue": 0,
+              "PriceValidUntil": "2024-08-13T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Caneca Le Creuset Cerâmica Azul Cobalto 200 ml Caneca de Cappuccino Le Creuset Azul Cobalto 200ml não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

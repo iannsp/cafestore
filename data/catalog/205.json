@@ -1,0 +1,2002 @@
+[
+  {
+    "productId": "205",
+    "productName": "Kit Bomba Flojet Sistema de Distribuição de Água para Galão",
+    "brand": "Bunn",
+    "brandId": 2000031,
+    "brandImageUrl": null,
+    "linkText": "kit-bomba-flojet-sistema-de-distribuicao-de-agua-para-galao_1294",
+    "productReference": "1294",
+    "productReferenceCode": "1294",
+    "categoryId": "5",
+    "productTitle": "",
+    "metaTagDescription": "Kit Bomba Flojet<BR><BR>Bomba projetada para ser utilizada em galão de 20 litros",
+    "releaseDate": "2019-03-20T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "164": "BUNN",
+      "207": "fb",
+      "232": "Bunn"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Café Store Pro/"
+    ],
+    "categoriesIds": [
+      "/5/"
+    ],
+    "link": "https://www.cafestore.com.br/kit-bomba-flojet-sistema-de-distribuicao-de-agua-para-galao_1294/p",
+    "Equipamentos": [
+      "Filtros de Água"
+    ],
+    "Características": [
+      "Equipamentos"
+    ],
+    "allSpecifications": [
+      "Equipamentos"
+    ],
+    "allSpecificationsGroups": [
+      "Características"
+    ],
+    "description": "<BR><BR> Bomba especialmente projetada para ser utilizada em galão de 20 litros. <br><br>\r\n\r\nLeva a água sob pressão para as máquinas de café, chá e água quente.\r\n<br><br>",
+    "items": [
+      {
+        "itemId": "205",
+        "name": "Kit Bomba Flojet - Sistema de Distribuição de Água para Galão",
+        "nameComplete": "Kit Bomba Flojet Sistema de Distribuição de Água para Galão Kit Bomba Flojet - Sistema de Distribuição de Água para Galão",
+        "complementName": "",
+        "ean": "1294000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "1294"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "156366",
+            "imageLabel": "Frente",
+            "imageTag": "<img src=\"~/arquivos/ids/156366-#width#-#height#/Kit-Bomba-Flojet-Sistema-de-Distribuicao-de-Agua-para-Galao_1294.jpg?v=636887050800070000\" width=\"#width#\" height=\"#height#\" alt=\"Kit-Bomba-Flojet-Sistema-de-Distribuicao-de-Agua-para-Galao_1294\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/156366/Kit-Bomba-Flojet-Sistema-de-Distribuicao-de-Agua-para-Galao_1294.jpg?v=636887050800070000",
+            "imageText": "Kit-Bomba-Flojet-Sistema-de-Distribuicao-de-Agua-para-Galao_1294",
+            "imageLastModified": "2019-03-20T18:58:00.0070000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=205&qty=1&seller=1&sc=1&price=376000&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {
+                "0": {
+                  "DeliverySlaPerTypes": [],
+                  "Region": null
+                }
+              },
+              "Installments": [
+                {
+                  "Value": 3760,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3760,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "American Express",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "American Express à vista"
+                },
+                {
+                  "Value": 1880,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3760,
+                  "NumberOfInstallments": 2,
+                  "PaymentSystemName": "American Express",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "American Express 2 vezes sem juros"
+                },
+                {
+                  "Value": 1253.33,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3760,
+                  "NumberOfInstallments": 3,
+                  "PaymentSystemName": "American Express",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "American Express 3 vezes sem juros"
+                },
+                {
+                  "Value": 940,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3760,
+                  "NumberOfInstallments": 4,
+                  "PaymentSystemName": "American Express",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "American Express 4 vezes sem juros"
+                },
+                {
+                  "Value": 752,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3760,
+                  "NumberOfInstallments": 5,
+                  "PaymentSystemName": "American Express",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "American Express 5 vezes sem juros"
+                },
+                {
+                  "Value": 654.94,
+                  "InterestRate": 1.8,
+                  "TotalValuePlusInterestRate": 3929.64,
+                  "NumberOfInstallments": 6,
+                  "PaymentSystemName": "American Express",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "American Express 6 vezes com juros"
+                },
+                {
+                  "Value": 566.31,
+                  "InterestRate": 1.8,
+                  "TotalValuePlusInterestRate": 3964.17,
+                  "NumberOfInstallments": 7,
+                  "PaymentSystemName": "American Express",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "American Express 7 vezes com juros"
+                },
+                {
+                  "Value": 499.86,
+                  "InterestRate": 1.8,
+                  "TotalValuePlusInterestRate": 3998.88,
+                  "NumberOfInstallments": 8,
+                  "PaymentSystemName": "American Express",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "American Express 8 vezes com juros"
+                },
+                {
+                  "Value": 3760,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3760,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa à vista"
+                },
+                {
+                  "Value": 1880,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3760,
+                  "NumberOfInstallments": 2,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa 2 vezes sem juros"
+                },
+                {
+                  "Value": 1253.33,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3760,
+                  "NumberOfInstallments": 3,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa 3 vezes sem juros"
+                },
+                {
+                  "Value": 940,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3760,
+                  "NumberOfInstallments": 4,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa 4 vezes sem juros"
+                },
+                {
+                  "Value": 752,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3760,
+                  "NumberOfInstallments": 5,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa 5 vezes sem juros"
+                },
+                {
+                  "Value": 654.94,
+                  "InterestRate": 1.8,
+                  "TotalValuePlusInterestRate": 3929.64,
+                  "NumberOfInstallments": 6,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa 6 vezes com juros"
+                },
+                {
+                  "Value": 566.31,
+                  "InterestRate": 1.8,
+                  "TotalValuePlusInterestRate": 3964.17,
+                  "NumberOfInstallments": 7,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa 7 vezes com juros"
+                },
+                {
+                  "Value": 499.86,
+                  "InterestRate": 1.8,
+                  "TotalValuePlusInterestRate": 3998.88,
+                  "NumberOfInstallments": 8,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa 8 vezes com juros"
+                },
+                {
+                  "Value": 3760,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3760,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Diners",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Diners à vista"
+                },
+                {
+                  "Value": 1880,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3760,
+                  "NumberOfInstallments": 2,
+                  "PaymentSystemName": "Diners",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Diners 2 vezes sem juros"
+                },
+                {
+                  "Value": 1253.33,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3760,
+                  "NumberOfInstallments": 3,
+                  "PaymentSystemName": "Diners",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Diners 3 vezes sem juros"
+                },
+                {
+                  "Value": 940,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3760,
+                  "NumberOfInstallments": 4,
+                  "PaymentSystemName": "Diners",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Diners 4 vezes sem juros"
+                },
+                {
+                  "Value": 752,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3760,
+                  "NumberOfInstallments": 5,
+                  "PaymentSystemName": "Diners",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Diners 5 vezes sem juros"
+                },
+                {
+                  "Value": 654.94,
+                  "InterestRate": 1.8,
+                  "TotalValuePlusInterestRate": 3929.64,
+                  "NumberOfInstallments": 6,
+                  "PaymentSystemName": "Diners",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Diners 6 vezes com juros"
+                },
+                {
+                  "Value": 566.31,
+                  "InterestRate": 1.8,
+                  "TotalValuePlusInterestRate": 3964.17,
+                  "NumberOfInstallments": 7,
+                  "PaymentSystemName": "Diners",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Diners 7 vezes com juros"
+                },
+                {
+                  "Value": 499.86,
+                  "InterestRate": 1.8,
+                  "TotalValuePlusInterestRate": 3998.88,
+                  "NumberOfInstallments": 8,
+                  "PaymentSystemName": "Diners",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Diners 8 vezes com juros"
+                },
+                {
+                  "Value": 3760,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3760,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard à vista"
+                },
+                {
+                  "Value": 1880,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3760,
+                  "NumberOfInstallments": 2,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard 2 vezes sem juros"
+                },
+                {
+                  "Value": 1253.33,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3760,
+                  "NumberOfInstallments": 3,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard 3 vezes sem juros"
+                },
+                {
+                  "Value": 940,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3760,
+                  "NumberOfInstallments": 4,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard 4 vezes sem juros"
+                },
+                {
+                  "Value": 752,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3760,
+                  "NumberOfInstallments": 5,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard 5 vezes sem juros"
+                },
+                {
+                  "Value": 654.94,
+                  "InterestRate": 1.8,
+                  "TotalValuePlusInterestRate": 3929.64,
+                  "NumberOfInstallments": 6,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard 6 vezes com juros"
+                },
+                {
+                  "Value": 566.31,
+                  "InterestRate": 1.8,
+                  "TotalValuePlusInterestRate": 3964.17,
+                  "NumberOfInstallments": 7,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard 7 vezes com juros"
+                },
+                {
+                  "Value": 499.86,
+                  "InterestRate": 1.8,
+                  "TotalValuePlusInterestRate": 3998.88,
+                  "NumberOfInstallments": 8,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard 8 vezes com juros"
+                },
+                {
+                  "Value": 3760,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3760,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Boleto Bancário",
+                  "PaymentSystemGroupName": "bankInvoicePaymentGroup",
+                  "Name": "Boleto Bancário à vista"
+                },
+                {
+                  "Value": 3760,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3760,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Hipercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Hipercard à vista"
+                },
+                {
+                  "Value": 1880,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3760,
+                  "NumberOfInstallments": 2,
+                  "PaymentSystemName": "Hipercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Hipercard 2 vezes sem juros"
+                },
+                {
+                  "Value": 1253.33,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3760,
+                  "NumberOfInstallments": 3,
+                  "PaymentSystemName": "Hipercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Hipercard 3 vezes sem juros"
+                },
+                {
+                  "Value": 940,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3760,
+                  "NumberOfInstallments": 4,
+                  "PaymentSystemName": "Hipercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Hipercard 4 vezes sem juros"
+                },
+                {
+                  "Value": 752,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3760,
+                  "NumberOfInstallments": 5,
+                  "PaymentSystemName": "Hipercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Hipercard 5 vezes sem juros"
+                },
+                {
+                  "Value": 654.94,
+                  "InterestRate": 1.8,
+                  "TotalValuePlusInterestRate": 3929.64,
+                  "NumberOfInstallments": 6,
+                  "PaymentSystemName": "Hipercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Hipercard 6 vezes com juros"
+                },
+                {
+                  "Value": 566.31,
+                  "InterestRate": 1.8,
+                  "TotalValuePlusInterestRate": 3964.17,
+                  "NumberOfInstallments": 7,
+                  "PaymentSystemName": "Hipercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Hipercard 7 vezes com juros"
+                },
+                {
+                  "Value": 499.86,
+                  "InterestRate": 1.8,
+                  "TotalValuePlusInterestRate": 3998.88,
+                  "NumberOfInstallments": 8,
+                  "PaymentSystemName": "Hipercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Hipercard 8 vezes com juros"
+                },
+                {
+                  "Value": 3760,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3760,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Elo",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Elo à vista"
+                },
+                {
+                  "Value": 1880,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3760,
+                  "NumberOfInstallments": 2,
+                  "PaymentSystemName": "Elo",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Elo 2 vezes sem juros"
+                },
+                {
+                  "Value": 1253.33,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3760,
+                  "NumberOfInstallments": 3,
+                  "PaymentSystemName": "Elo",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Elo 3 vezes sem juros"
+                },
+                {
+                  "Value": 940,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3760,
+                  "NumberOfInstallments": 4,
+                  "PaymentSystemName": "Elo",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Elo 4 vezes sem juros"
+                },
+                {
+                  "Value": 752,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3760,
+                  "NumberOfInstallments": 5,
+                  "PaymentSystemName": "Elo",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Elo 5 vezes sem juros"
+                },
+                {
+                  "Value": 654.94,
+                  "InterestRate": 1.8,
+                  "TotalValuePlusInterestRate": 3929.64,
+                  "NumberOfInstallments": 6,
+                  "PaymentSystemName": "Elo",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Elo 6 vezes com juros"
+                },
+                {
+                  "Value": 566.31,
+                  "InterestRate": 1.8,
+                  "TotalValuePlusInterestRate": 3964.17,
+                  "NumberOfInstallments": 7,
+                  "PaymentSystemName": "Elo",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Elo 7 vezes com juros"
+                },
+                {
+                  "Value": 499.86,
+                  "InterestRate": 1.8,
+                  "TotalValuePlusInterestRate": 3998.88,
+                  "NumberOfInstallments": 8,
+                  "PaymentSystemName": "Elo",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Elo 8 vezes com juros"
+                },
+                {
+                  "Value": 3760,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3760,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Vale",
+                  "PaymentSystemGroupName": "giftCardPaymentGroup",
+                  "Name": "Vale à vista"
+                },
+                {
+                  "Value": 3647.2,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3647.2,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Pix",
+                  "PaymentSystemGroupName": "instantPaymentPaymentGroup",
+                  "Name": "Pix à vista"
+                },
+                {
+                  "Value": 3760,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3760,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Depósito Bancário",
+                  "PaymentSystemGroupName": "custom201PaymentGroupPaymentGroup",
+                  "Name": "Depósito Bancário à vista"
+                },
+                {
+                  "Value": 3760,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3760,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Depósito Bancário Itaú",
+                  "PaymentSystemGroupName": "custom202PaymentGroupPaymentGroup",
+                  "Name": "Depósito Bancário Itaú à vista"
+                },
+                {
+                  "Value": 3760,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3760,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Cartão Crédito LOJA",
+                  "PaymentSystemGroupName": "custom204PaymentGroupPaymentGroup",
+                  "Name": "Cartão Crédito LOJA à vista"
+                },
+                {
+                  "Value": 3760,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3760,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Dinheiro LOJA",
+                  "PaymentSystemGroupName": "custom205PaymentGroupPaymentGroup",
+                  "Name": "Dinheiro LOJA à vista"
+                },
+                {
+                  "Value": 3760,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3760,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "PIX LOJA",
+                  "PaymentSystemGroupName": "custom206PaymentGroupPaymentGroup",
+                  "Name": "PIX LOJA à vista"
+                },
+                {
+                  "Value": 3760,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 3760,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "WH Google Pay",
+                  "PaymentSystemGroupName": "WH Google PayPaymentGroup",
+                  "Name": "WH Google Pay à vista"
+                }
+              ],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [
+                {
+                  "<Name>k__BackingField": "3nodeposito",
+                  "<GeneralValues>k__BackingField": {},
+                  "<Conditions>k__BackingField": {
+                    "<MinimumQuantity>k__BackingField": 0,
+                    "<Parameters>k__BackingField": [
+                      {
+                        "<Name>k__BackingField": "PaymentMethodId",
+                        "<Value>k__BackingField": "201"
+                      }
+                    ]
+                  },
+                  "<Effects>k__BackingField": {
+                    "<Parameters>k__BackingField": [
+                      {
+                        "<Name>k__BackingField": "PercentualDiscount",
+                        "<Value>k__BackingField": "3"
+                      }
+                    ]
+                  }
+                }
+              ],
+              "PromotionTeasers": [
+                {
+                  "Name": "3nodeposito",
+                  "GeneralValues": {},
+                  "Conditions": {
+                    "MinimumQuantity": 0,
+                    "Parameters": [
+                      {
+                        "Name": "PaymentMethodId",
+                        "Value": "201"
+                      }
+                    ]
+                  },
+                  "Effects": {
+                    "Parameters": [
+                      {
+                        "Name": "PercentualDiscount",
+                        "Value": "3"
+                      }
+                    ]
+                  }
+                }
+              ],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 3760,
+              "ListPrice": 3760,
+              "PriceWithoutDiscount": 3760,
+              "FullSellingPrice": 3760,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjMzYzBlMmE3LTRjNjItNGEzZi1iZDM2LWQzMzY1Y2MyOTU1YiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjozNzYwMDAsInNlbGxlciI6IjEiLCJpZCI6IjIwNSIsImFjY291bnROYW1lIjoiY2FmZXN0b3JlIiwic2FsZXNDaGFubmVsIjoiMSJ9LCJleHAiOjE3NjUxNDkyODQsImlhdCI6MTc2NTE0NzQ4NCwianRpIjoiMmYwNTBlNzAtYzVjOC00NjFiLThmNDUtYjdjOGNlOGExMWY1IiwiaXNzIjoic2Vzc2lvbi9kYXRhLXNpZ25lciJ9.nBRNxTvh9kXE0cnWfg0ZbuoI5Nh_iMiJ4wuqlO5UOtz8AOWrZVAjQStNPC0NRnLSgurhHyeFSoXcLQNQCHgbGw",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 10,
+              "IsAvailable": true,
+              "Tax": 0,
+              "DeliverySlaSamples": [
+                {
+                  "DeliverySlaPerTypes": [],
+                  "Region": null
+                }
+              ],
+              "GetInfoErrorMessage": null,
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [
+                  {
+                    "paymentSystem": "1",
+                    "bin": null,
+                    "paymentName": "American Express",
+                    "paymentGroupName": "creditCardPaymentGroup",
+                    "value": 376000,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 376000,
+                        "total": 376000,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 376000,
+                            "total": 376000
+                          }
+                        ]
+                      },
+                      {
+                        "count": 2,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 188000,
+                        "total": 376000,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 2,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 188000,
+                            "total": 376000
+                          }
+                        ]
+                      },
+                      {
+                        "count": 3,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 125333,
+                        "total": 376000,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 3,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 125333,
+                            "total": 376000
+                          }
+                        ]
+                      },
+                      {
+                        "count": 4,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 94000,
+                        "total": 376000,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 4,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 94000,
+                            "total": 376000
+                          }
+                        ]
+                      },
+                      {
+                        "count": 5,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 75200,
+                        "total": 376000,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 5,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 75200,
+                            "total": 376000
+                          }
+                        ]
+                      },
+                      {
+                        "count": 6,
+                        "hasInterestRate": true,
+                        "interestRate": 180,
+                        "value": 65494,
+                        "total": 392964,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 6,
+                            "hasInterestRate": true,
+                            "interestRate": 180,
+                            "value": 65494,
+                            "total": 392964
+                          }
+                        ]
+                      },
+                      {
+                        "count": 7,
+                        "hasInterestRate": true,
+                        "interestRate": 180,
+                        "value": 56631,
+                        "total": 396417,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 7,
+                            "hasInterestRate": true,
+                            "interestRate": 180,
+                            "value": 56631,
+                            "total": 396417
+                          }
+                        ]
+                      },
+                      {
+                        "count": 8,
+                        "hasInterestRate": true,
+                        "interestRate": 180,
+                        "value": 49986,
+                        "total": 399888,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 8,
+                            "hasInterestRate": true,
+                            "interestRate": 180,
+                            "value": 49986,
+                            "total": 399888
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "2",
+                    "bin": null,
+                    "paymentName": "Visa",
+                    "paymentGroupName": "creditCardPaymentGroup",
+                    "value": 376000,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 376000,
+                        "total": 376000,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 376000,
+                            "total": 376000
+                          }
+                        ]
+                      },
+                      {
+                        "count": 2,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 188000,
+                        "total": 376000,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 2,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 188000,
+                            "total": 376000
+                          }
+                        ]
+                      },
+                      {
+                        "count": 3,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 125333,
+                        "total": 376000,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 3,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 125333,
+                            "total": 376000
+                          }
+                        ]
+                      },
+                      {
+                        "count": 4,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 94000,
+                        "total": 376000,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 4,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 94000,
+                            "total": 376000
+                          }
+                        ]
+                      },
+                      {
+                        "count": 5,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 75200,
+                        "total": 376000,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 5,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 75200,
+                            "total": 376000
+                          }
+                        ]
+                      },
+                      {
+                        "count": 6,
+                        "hasInterestRate": true,
+                        "interestRate": 180,
+                        "value": 65494,
+                        "total": 392964,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 6,
+                            "hasInterestRate": true,
+                            "interestRate": 180,
+                            "value": 65494,
+                            "total": 392964
+                          }
+                        ]
+                      },
+                      {
+                        "count": 7,
+                        "hasInterestRate": true,
+                        "interestRate": 180,
+                        "value": 56631,
+                        "total": 396417,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 7,
+                            "hasInterestRate": true,
+                            "interestRate": 180,
+                            "value": 56631,
+                            "total": 396417
+                          }
+                        ]
+                      },
+                      {
+                        "count": 8,
+                        "hasInterestRate": true,
+                        "interestRate": 180,
+                        "value": 49986,
+                        "total": 399888,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 8,
+                            "hasInterestRate": true,
+                            "interestRate": 180,
+                            "value": 49986,
+                            "total": 399888
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "3",
+                    "bin": null,
+                    "paymentName": "Diners",
+                    "paymentGroupName": "creditCardPaymentGroup",
+                    "value": 376000,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 376000,
+                        "total": 376000,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 376000,
+                            "total": 376000
+                          }
+                        ]
+                      },
+                      {
+                        "count": 2,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 188000,
+                        "total": 376000,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 2,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 188000,
+                            "total": 376000
+                          }
+                        ]
+                      },
+                      {
+                        "count": 3,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 125333,
+                        "total": 376000,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 3,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 125333,
+                            "total": 376000
+                          }
+                        ]
+                      },
+                      {
+                        "count": 4,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 94000,
+                        "total": 376000,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 4,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 94000,
+                            "total": 376000
+                          }
+                        ]
+                      },
+                      {
+                        "count": 5,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 75200,
+                        "total": 376000,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 5,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 75200,
+                            "total": 376000
+                          }
+                        ]
+                      },
+                      {
+                        "count": 6,
+                        "hasInterestRate": true,
+                        "interestRate": 180,
+                        "value": 65494,
+                        "total": 392964,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 6,
+                            "hasInterestRate": true,
+                            "interestRate": 180,
+                            "value": 65494,
+                            "total": 392964
+                          }
+                        ]
+                      },
+                      {
+                        "count": 7,
+                        "hasInterestRate": true,
+                        "interestRate": 180,
+                        "value": 56631,
+                        "total": 396417,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 7,
+                            "hasInterestRate": true,
+                            "interestRate": 180,
+                            "value": 56631,
+                            "total": 396417
+                          }
+                        ]
+                      },
+                      {
+                        "count": 8,
+                        "hasInterestRate": true,
+                        "interestRate": 180,
+                        "value": 49986,
+                        "total": 399888,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 8,
+                            "hasInterestRate": true,
+                            "interestRate": 180,
+                            "value": 49986,
+                            "total": 399888
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "4",
+                    "bin": null,
+                    "paymentName": "Mastercard",
+                    "paymentGroupName": "creditCardPaymentGroup",
+                    "value": 376000,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 376000,
+                        "total": 376000,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 376000,
+                            "total": 376000
+                          }
+                        ]
+                      },
+                      {
+                        "count": 2,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 188000,
+                        "total": 376000,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 2,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 188000,
+                            "total": 376000
+                          }
+                        ]
+                      },
+                      {
+                        "count": 3,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 125333,
+                        "total": 376000,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 3,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 125333,
+                            "total": 376000
+                          }
+                        ]
+                      },
+                      {
+                        "count": 4,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 94000,
+                        "total": 376000,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 4,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 94000,
+                            "total": 376000
+                          }
+                        ]
+                      },
+                      {
+                        "count": 5,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 75200,
+                        "total": 376000,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 5,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 75200,
+                            "total": 376000
+                          }
+                        ]
+                      },
+                      {
+                        "count": 6,
+                        "hasInterestRate": true,
+                        "interestRate": 180,
+                        "value": 65494,
+                        "total": 392964,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 6,
+                            "hasInterestRate": true,
+                            "interestRate": 180,
+                            "value": 65494,
+                            "total": 392964
+                          }
+                        ]
+                      },
+                      {
+                        "count": 7,
+                        "hasInterestRate": true,
+                        "interestRate": 180,
+                        "value": 56631,
+                        "total": 396417,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 7,
+                            "hasInterestRate": true,
+                            "interestRate": 180,
+                            "value": 56631,
+                            "total": 396417
+                          }
+                        ]
+                      },
+                      {
+                        "count": 8,
+                        "hasInterestRate": true,
+                        "interestRate": 180,
+                        "value": 49986,
+                        "total": 399888,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 8,
+                            "hasInterestRate": true,
+                            "interestRate": 180,
+                            "value": 49986,
+                            "total": 399888
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "6",
+                    "bin": null,
+                    "paymentName": "Boleto Bancário",
+                    "paymentGroupName": "bankInvoicePaymentGroup",
+                    "value": 376000,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 376000,
+                        "total": 376000,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 376000,
+                            "total": 376000
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "8",
+                    "bin": null,
+                    "paymentName": "Hipercard",
+                    "paymentGroupName": "creditCardPaymentGroup",
+                    "value": 376000,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 376000,
+                        "total": 376000,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 376000,
+                            "total": 376000
+                          }
+                        ]
+                      },
+                      {
+                        "count": 2,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 188000,
+                        "total": 376000,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 2,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 188000,
+                            "total": 376000
+                          }
+                        ]
+                      },
+                      {
+                        "count": 3,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 125333,
+                        "total": 376000,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 3,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 125333,
+                            "total": 376000
+                          }
+                        ]
+                      },
+                      {
+                        "count": 4,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 94000,
+                        "total": 376000,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 4,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 94000,
+                            "total": 376000
+                          }
+                        ]
+                      },
+                      {
+                        "count": 5,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 75200,
+                        "total": 376000,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 5,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 75200,
+                            "total": 376000
+                          }
+                        ]
+                      },
+                      {
+                        "count": 6,
+                        "hasInterestRate": true,
+                        "interestRate": 180,
+                        "value": 65494,
+                        "total": 392964,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 6,
+                            "hasInterestRate": true,
+                            "interestRate": 180,
+                            "value": 65494,
+                            "total": 392964
+                          }
+                        ]
+                      },
+                      {
+                        "count": 7,
+                        "hasInterestRate": true,
+                        "interestRate": 180,
+                        "value": 56631,
+                        "total": 396417,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 7,
+                            "hasInterestRate": true,
+                            "interestRate": 180,
+                            "value": 56631,
+                            "total": 396417
+                          }
+                        ]
+                      },
+                      {
+                        "count": 8,
+                        "hasInterestRate": true,
+                        "interestRate": 180,
+                        "value": 49986,
+                        "total": 399888,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 8,
+                            "hasInterestRate": true,
+                            "interestRate": 180,
+                            "value": 49986,
+                            "total": 399888
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "9",
+                    "bin": null,
+                    "paymentName": "Elo",
+                    "paymentGroupName": "creditCardPaymentGroup",
+                    "value": 376000,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 376000,
+                        "total": 376000,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 376000,
+                            "total": 376000
+                          }
+                        ]
+                      },
+                      {
+                        "count": 2,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 188000,
+                        "total": 376000,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 2,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 188000,
+                            "total": 376000
+                          }
+                        ]
+                      },
+                      {
+                        "count": 3,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 125333,
+                        "total": 376000,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 3,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 125333,
+                            "total": 376000
+                          }
+                        ]
+                      },
+                      {
+                        "count": 4,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 94000,
+                        "total": 376000,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 4,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 94000,
+                            "total": 376000
+                          }
+                        ]
+                      },
+                      {
+                        "count": 5,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 75200,
+                        "total": 376000,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 5,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 75200,
+                            "total": 376000
+                          }
+                        ]
+                      },
+                      {
+                        "count": 6,
+                        "hasInterestRate": true,
+                        "interestRate": 180,
+                        "value": 65494,
+                        "total": 392964,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 6,
+                            "hasInterestRate": true,
+                            "interestRate": 180,
+                            "value": 65494,
+                            "total": 392964
+                          }
+                        ]
+                      },
+                      {
+                        "count": 7,
+                        "hasInterestRate": true,
+                        "interestRate": 180,
+                        "value": 56631,
+                        "total": 396417,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 7,
+                            "hasInterestRate": true,
+                            "interestRate": 180,
+                            "value": 56631,
+                            "total": 396417
+                          }
+                        ]
+                      },
+                      {
+                        "count": 8,
+                        "hasInterestRate": true,
+                        "interestRate": 180,
+                        "value": 49986,
+                        "total": 399888,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 8,
+                            "hasInterestRate": true,
+                            "interestRate": 180,
+                            "value": 49986,
+                            "total": 399888
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "16",
+                    "bin": null,
+                    "paymentName": "Vale",
+                    "paymentGroupName": "giftCardPaymentGroup",
+                    "value": 376000,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 376000,
+                        "total": 376000,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 376000,
+                            "total": 376000
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "125",
+                    "bin": null,
+                    "paymentName": "Pix",
+                    "paymentGroupName": "instantPaymentPaymentGroup",
+                    "value": 376000,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 364720,
+                        "total": 364720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 364720,
+                            "total": 364720
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "201",
+                    "bin": null,
+                    "paymentName": "Depósito Bancário",
+                    "paymentGroupName": "custom201PaymentGroupPaymentGroup",
+                    "value": 376000,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 376000,
+                        "total": 376000,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 376000,
+                            "total": 376000
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "202",
+                    "bin": null,
+                    "paymentName": "Depósito Bancário Itaú",
+                    "paymentGroupName": "custom202PaymentGroupPaymentGroup",
+                    "value": 376000,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 376000,
+                        "total": 376000,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 376000,
+                            "total": 376000
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "204",
+                    "bin": null,
+                    "paymentName": "Cartão Crédito LOJA",
+                    "paymentGroupName": "custom204PaymentGroupPaymentGroup",
+                    "value": 376000,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 376000,
+                        "total": 376000,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 376000,
+                            "total": 376000
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "205",
+                    "bin": null,
+                    "paymentName": "Dinheiro LOJA",
+                    "paymentGroupName": "custom205PaymentGroupPaymentGroup",
+                    "value": 376000,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 376000,
+                        "total": 376000,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 376000,
+                            "total": 376000
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "206",
+                    "bin": null,
+                    "paymentName": "PIX LOJA",
+                    "paymentGroupName": "custom206PaymentGroupPaymentGroup",
+                    "value": 376000,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 376000,
+                        "total": 376000,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 376000,
+                            "total": 376000
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "900",
+                    "bin": null,
+                    "paymentName": "WH Google Pay",
+                    "paymentGroupName": "WH Google PayPaymentGroup",
+                    "value": 376000,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 376000,
+                        "total": 376000,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 376000,
+                            "total": 376000
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "paymentSystems": [
+                  {
+                    "id": 201,
+                    "name": "Depósito Bancário",
+                    "groupName": "custom201PaymentGroupPaymentGroup",
+                    "validator": null,
+                    "stringId": "201",
+                    "template": "custom201PaymentGroupPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": true,
+                    "description": "Conta para Depósito: A mercadoria só será enviada após a compensação do pagamento.",
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-11-16T22:00:00Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 16,
+                    "name": "Vale",
+                    "groupName": "giftCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "16",
+                    "template": "giftCardPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-11-20T22:00:00Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 1,
+                    "name": "American Express",
+                    "groupName": "creditCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "1",
+                    "template": "creditCardPaymentGroup-template",
+                    "requiresDocument": true,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-11-20T22:00:00Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 2,
+                    "name": "Visa",
+                    "groupName": "creditCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "2",
+                    "template": "creditCardPaymentGroup-template",
+                    "requiresDocument": true,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-11-20T22:00:00Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 3,
+                    "name": "Diners",
+                    "groupName": "creditCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "3",
+                    "template": "creditCardPaymentGroup-template",
+                    "requiresDocument": true,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-11-20T22:00:00Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 4,
+                    "name": "Mastercard",
+                    "groupName": "creditCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "4",
+                    "template": "creditCardPaymentGroup-template",
+                    "requiresDocument": true,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-11-20T22:00:00Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 8,
+                    "name": "Hipercard",
+                    "groupName": "creditCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "8",
+                    "template": "creditCardPaymentGroup-template",
+                    "requiresDocument": true,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-11-20T22:00:00Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 9,
+                    "name": "Elo",
+                    "groupName": "creditCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "9",
+                    "template": "creditCardPaymentGroup-template",
+                    "requiresDocument": true,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-11-20T22:00:00Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 205,
+                    "name": "Dinheiro LOJA",
+                    "groupName": "custom205PaymentGroupPaymentGroup",
+                    "validator": null,
+                    "stringId": "205",
+                    "template": "custom205PaymentGroupPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": true,
+                    "description": "Instore Dinheiro",
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-11-23T00:00:00Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 204,
+                    "name": "Cartão Crédito LOJA",
+                    "groupName": "custom204PaymentGroupPaymentGroup",
+                    "validator": null,
+                    "stringId": "204",
+                    "template": "custom204PaymentGroupPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": true,
+                    "description": "Cartão Crédito LOJA",
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-11-23T00:00:00Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 202,
+                    "name": "Depósito Bancário Itaú",
+                    "groupName": "custom202PaymentGroupPaymentGroup",
+                    "validator": null,
+                    "stringId": "202",
+                    "template": "custom202PaymentGroupPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": true,
+                    "description": "Pagamento via depósito bancário",
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-11-16T22:00:00Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 206,
+                    "name": "PIX LOJA",
+                    "groupName": "custom206PaymentGroupPaymentGroup",
+                    "validator": null,
+                    "stringId": "206",
+                    "template": "custom206PaymentGroupPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": true,
+                    "description": "Instore PIX",
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-11-18T22:00:00Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 6,
+                    "name": "Boleto Bancário",
+                    "groupName": "bankInvoicePaymentGroup",
+                    "validator": null,
+                    "stringId": "6",
+                    "template": "bankInvoicePaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-11-20T22:00:00Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 125,
+                    "name": "Pix",
+                    "groupName": "instantPaymentPaymentGroup",
+                    "validator": null,
+                    "stringId": "125",
+                    "template": "instantPaymentPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-11-20T22:00:00Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 900,
+                    "name": "WH Google Pay",
+                    "groupName": "WH Google PayPaymentGroup",
+                    "validator": null,
+                    "stringId": "900",
+                    "template": "WH Google PayPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-11-20T22:00:00Z",
+                    "availablePayments": null
+                  }
+                ],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

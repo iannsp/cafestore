@@ -1,0 +1,168 @@
+[
+  {
+    "productId": "1058",
+    "productName": "Suporte de Filtro de Café Kalita Wave 185 Preto",
+    "brand": "Kalita",
+    "brandId": 2000066,
+    "brandImageUrl": null,
+    "linkText": "suporte-de-filtro-de-cafe-kalita-wave-inox-vidro-pr-2583",
+    "productReference": "2583",
+    "productReferenceCode": "2583",
+    "categoryId": "171",
+    "productTitle": "",
+    "metaTagDescription": "O coador Kalita Wave de vidro diferencia-se por sua base achatada com três furos, permitindo uma extração mais uniforme do café. É simples e fácil de fazer. O filtro sanfonado (wave) proporciona pouco contato da água com a parede do coador, dispersando menos o calor e água, mantendo a temperatura. O formato do coador de café Kalita Wave torna simples e fácil extrair um bom café de forma uniforme. Não é necessário nenhuma técnica elaborada para jogar a água sobre o pó de café.\r\n\r\nCapacidade: prepara até 4 xícaras.",
+    "releaseDate": "2019-10-04T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Cafeteiras/Método Filtrado/Coador Kalita/",
+      "/Cafeteiras/Método Filtrado/",
+      "/Cafeteiras/",
+      "/Acessórios/"
+    ],
+    "categoriesIds": [
+      "/2/149/171/",
+      "/2/149/",
+      "/2/",
+      "/3/"
+    ],
+    "link": "https://www.cafestore.com.br/suporte-de-filtro-de-cafe-kalita-wave-inox-vidro-pr-2583/p",
+    "Escolha seu jeito de fazer café": [
+      "Métodos super práticos para o dia a dia"
+    ],
+    "Busca Avancada": [
+      "Escolha seu jeito de fazer café"
+    ],
+    "Marca": [
+      "Kalita"
+    ],
+    "Material / composição": [
+      "Vidro e resina"
+    ],
+    "Cor": [
+      "Preto"
+    ],
+    "Dimensões aproximadas do produto (cm)- AxLxP": [
+      "8,5 x 11 x 11"
+    ],
+    "Peso líquido aproximado do produto (kg)": [
+      "118"
+    ],
+    "Dimensões aproximadas da embalagem (cm) – AxLxP": [
+      "9 x 11,5 x 11,5"
+    ],
+    "Peso aproximado da embalagem do produto (kg)": [
+      "182"
+    ],
+    "Modelo": [
+      "Wave 185"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca",
+      "Material / composição",
+      "Cor",
+      "Dimensões aproximadas do produto (cm)- AxLxP",
+      "Peso líquido aproximado do produto (kg)",
+      "Dimensões aproximadas da embalagem (cm) – AxLxP",
+      "Peso aproximado da embalagem do produto (kg)",
+      "Modelo"
+    ],
+    "allSpecifications": [
+      "Escolha seu jeito de fazer café",
+      "Marca",
+      "Material / composição",
+      "Cor",
+      "Dimensões aproximadas do produto (cm)- AxLxP",
+      "Peso líquido aproximado do produto (kg)",
+      "Dimensões aproximadas da embalagem (cm) – AxLxP",
+      "Peso aproximado da embalagem do produto (kg)",
+      "Modelo"
+    ],
+    "allSpecificationsGroups": [
+      "Busca Avancada",
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "O coador Kalita Wave de vidro diferencia-se por sua base achatada com três furos, permitindo uma extração mais uniforme do café. É simples e fácil de fazer. O filtro sanfonado (wave) proporciona pouco contato da água com a parede do coador, dispersando menos o calor e água, mantendo a temperatura. O formato do coador de café Kalita Wave torna simples e fácil extrair um bom café de forma uniforme. Não é necessário nenhuma técnica elaborada para jogar a água sobre o pó de café.\r\n\r\nCapacidade: prepara até 4 xícaras.",
+    "items": [
+      {
+        "itemId": "1059",
+        "name": "Suporte de Filtro de Café Kalita Wave Inox Vidro PR",
+        "nameComplete": "Suporte de Filtro de Café Kalita Wave 185 Preto Suporte de Filtro de Café Kalita Wave Inox Vidro PR",
+        "complementName": "",
+        "ean": "4901369050391",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2583"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "158920",
+            "imageLabel": "frente",
+            "imageTag": "<img src=\"~/arquivos/ids/158920-#width#-#height#/2583_kalita-wave-n185.jpg?v=637541260762730000\" width=\"#width#\" height=\"#height#\" alt=\"2583_kalita-wave-n185\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/158920/2583_kalita-wave-n185.jpg?v=637541260762730000",
+            "imageText": "2583_kalita-wave-n185",
+            "imageLastModified": "2021-04-15T23:27:56.2730000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1059&qty=1&seller=1&sc=1&price=34600&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 346,
+              "ListPrice": 346,
+              "PriceWithoutDiscount": 346,
+              "FullSellingPrice": 346,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImRhNTIyOGNmLTg5ZmItNDliYS1iOTBiLWVkZmNiOGJkZDVhMiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjozNDYwMCwic2VsbGVyIjoiMSIsImlkIjoiMTA1OSIsImFjY291bnROYW1lIjoiY2FmZXN0b3JlIiwic2FsZXNDaGFubmVsIjoiMSJ9LCJleHAiOjE3NjUxNDk5NDcsImlhdCI6MTc2NTE0ODE0NywianRpIjoiMmIwZDkxYjktN2FlOS00ZmRmLThlMWEtNzM0MGVlNzU4Y2JkIiwiaXNzIjoic2Vzc2lvbi9kYXRhLXNpZ25lciJ9.oFWua2nCIQSM8msPnKkxZrp_BfwFdab_L_3IpJdR80Rie_Dg_XVLN14LaWXZHKc3NC0KQbICMcdYbqbnbhA29w",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T03:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Suporte de Filtro de Café Kalita Wave 185 Preto Suporte de Filtro de Café Kalita Wave Inox Vidro PR não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

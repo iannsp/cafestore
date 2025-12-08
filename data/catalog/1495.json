@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1495",
+    "productName": "Revista Espresso - Pão - Edição 59",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---pao---edicao-59-3032",
+    "productReference": "3032",
+    "productReferenceCode": "3032",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "Nesta edição, abordamos um assunto que está em alta: pães de fermentação natural, o principal companheiro do café. Detalhamos todo o processo de preparação e demos dicas de receitas e lugares onde você pode encontrar bons produtos artesanais. Compondo a massa, trouxemos uma entrevista exclusiva com o barista e mestre de torra Thiago Sabino; Apresentamos a importância do uso da balança medidora no preparo do café; Fizemos uma tour pela fazenda do café mais caro do mundo e trouxemos Cássio Scapin, ator que marcou a infância de muitos com o personagem Nino, para nosso Doppio. Receitas de chocolate, cafeterias para conhecer em diferentes regiões, produtos que darão um charme à sua mesa e novidades no mundo do café, para você ficar sempre ligado.",
+    "releaseDate": "2021-05-19T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---pao---edicao-59-3032/p",
+    "description": "Nesta edição, abordamos um assunto que está em alta: pães de fermentação natural, o principal companheiro do café. Detalhamos todo o processo de preparação e demos dicas de receitas e lugares onde você pode encontrar bons produtos artesanais. Compondo a massa, trouxemos uma entrevista exclusiva com o barista e mestre de torra Thiago Sabino; Apresentamos a importância do uso da balança medidora no preparo do café; Fizemos uma tour pela fazenda do café mais caro do mundo e trouxemos Cássio Scapin, ator que marcou a infância de muitos com o personagem Nino, para nosso Doppio. Receitas de chocolate, cafeterias para conhecer em diferentes regiões, produtos que darão um charme à sua mesa e novidades no mundo do café, para você ficar sempre ligado.",
+    "items": [
+      {
+        "itemId": "1494",
+        "name": "Revista Espresso - Pão - Edição 59",
+        "nameComplete": "Revista Espresso - Pão - Edição 59",
+        "complementName": "",
+        "ean": "3032000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3032"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159120",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159120-#width#-#height#/3032_Revista-Espresso_Pao-o-Principal-Companheiro-do-Cafe_Edicao-59.jpg?v=637584074987370000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_59\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159120/3032_Revista-Espresso_Pao-o-Principal-Companheiro-do-Cafe_Edicao-59.jpg?v=637584074987370000",
+            "imageText": "rev_espresso_59",
+            "imageLastModified": "2021-06-04T12:44:58.7370000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1494&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjMxNjBhYzgzLWQxOWEtNDgwMy1hMGUwLTE5ODk4ZmE2OGJmYSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDk0IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI4NywiaWF0IjoxNzY1MTQ4NDg3LCJqdGkiOiI1MjBhNWNmMS0wZGI3LTQwOTItYmQwNC02ZGNmZjU3ZmIxODIiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.BPkEqApf06n2eFNgWbRtW9VEHd4haayG-tyXSQhkp971yPEfYfyiV6P-jvn5m0Ke0Cff4j1_Mxy6A-eewOps4Q",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Pão - Edição 59 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

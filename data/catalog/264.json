@@ -1,0 +1,142 @@
+[
+  {
+    "productId": "264",
+    "productName": "Jogo de 2 Xícaras Luigi Bormioli Etiópia 85ml",
+    "brand": "Luigi Bormioli",
+    "brandId": 2000040,
+    "brandImageUrl": null,
+    "linkText": "xicara-luigi-bormioli-etiopia-vidro-2-unidades_1634",
+    "productReference": "1634",
+    "productReferenceCode": "1634",
+    "categoryId": "24",
+    "productTitle": "",
+    "metaTagDescription": "Feitos em borosilicato, vidro altamente resistente a choques térmicos. <BR><BR>O vácuo entre as paredes dos produtos permite que a temperatura da bebida, fria ou quente, seja mantida por mais tempo que uma parede de vidro simples, porcelana ou cerâmica.",
+    "releaseDate": "2019-04-08T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "217": "Cafés - Cápsulas (Quem viu este, viu tb)",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Acessórios/Xícaras e Canecas/",
+      "/Acessórios/"
+    ],
+    "categoriesIds": [
+      "/3/24/",
+      "/3/"
+    ],
+    "link": "https://www.cafestore.com.br/xicara-luigi-bormioli-etiopia-vidro-2-unidades_1634/p",
+    "Marca": [
+      "Luigi Bormioli"
+    ],
+    "Características": [
+      "Possui paredes duplas - Feitas a mão"
+    ],
+    "Material / composição": [
+      "Vidro borosilicato"
+    ],
+    "Capacidade / Volume": [
+      "85 ml"
+    ],
+    "Modelo": [
+      "Etiópia"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca",
+      "Características",
+      "Material / composição",
+      "Capacidade / Volume",
+      "Modelo"
+    ],
+    "allSpecifications": [
+      "Marca",
+      "Características",
+      "Material / composição",
+      "Capacidade / Volume",
+      "Modelo"
+    ],
+    "allSpecificationsGroups": [
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "Feitos em borosilicato, vidro altamente resistente a choques térmicos. <BR><BR>O vácuo entre as paredes dos produtos permite que a temperatura da bebida, fria ou quente, seja mantida por mais tempo que uma parede de vidro simples, porcelana ou cerâmica.",
+    "items": [
+      {
+        "itemId": "264",
+        "name": "Xícaras Térmicas -Dupla Parede- Etiópia | 2 unidades - 85 ml",
+        "nameComplete": "Jogo de 2 Xícaras Luigi Bormioli Etiópia 85ml Xícaras Térmicas -Dupla Parede- Etiópia | 2 unidades - 85 ml",
+        "complementName": "",
+        "ean": "032622019474",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "1634"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "156473",
+            "imageLabel": "Frente",
+            "imageTag": "<img src=\"~/arquivos/ids/156473-#width#-#height#/Xicara-Luigi-Bormioli-Etiopia-Vidro-2-unidades_1634.jpg?v=636903403041200000\" width=\"#width#\" height=\"#height#\" alt=\"Xicara-Luigi-Bormioli-Etiopia-Vidro-2-unidades_1634\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/156473/Xicara-Luigi-Bormioli-Etiopia-Vidro-2-unidades_1634.jpg?v=636903403041200000",
+            "imageText": "Xicara-Luigi-Bormioli-Etiopia-Vidro-2-unidades_1634",
+            "imageLastModified": "2019-04-08T17:11:44.1200000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=264&qty=1&seller=1&sc=1&price=16390&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 163.9,
+              "ListPrice": 163.9,
+              "PriceWithoutDiscount": 163.9,
+              "FullSellingPrice": 163.9,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImU3ZTg0MDM3LTdlOGEtNGU4Yi1hODNkLWZjNmJiNWE1NGEyMiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNjM5MCwic2VsbGVyIjoiMSIsImlkIjoiMjY0IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE0OTMzMywiaWF0IjoxNzY1MTQ3NTMzLCJqdGkiOiI2NjIwZDdkNy1kMDE0LTQ2OTQtYTlhNS02NjA0NWVhZjY4OGMiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.n0snEhtRgd7_VlpiGsS6d7a-AxO4xanC3SvASHoiAam4lYTnQY3ogdOufIFRqh_r0PxP8bp4F1IoykynczaSJA",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T03:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Jogo de 2 Xícaras Luigi Bormioli Etiópia 85ml Xícaras Térmicas -Dupla Parede- Etiópia | 2 unidades - 85 ml não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

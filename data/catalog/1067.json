@@ -1,0 +1,171 @@
+[
+  {
+    "productId": "1067",
+    "productName": "Tampa para Coador Chemex",
+    "brand": "Chemex",
+    "brandId": 2000027,
+    "brandImageUrl": null,
+    "linkText": "tampa-para-coador-chemex-2537",
+    "productReference": "2537",
+    "productReferenceCode": "2537",
+    "categoryId": "35",
+    "productTitle": "",
+    "metaTagDescription": "Tampa para chemex. Toda em vidro. Pode ser utilizada para todos os tamanhos de chemex.",
+    "releaseDate": "2019-10-08T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Acessórios/Peças de Reposição/",
+      "/Acessórios/",
+      "/Cafeteiras/",
+      "/Cafeteiras/Método Filtrado/",
+      "/Cafeteiras/Método Filtrado/Chemex/"
+    ],
+    "categoriesIds": [
+      "/3/35/",
+      "/3/",
+      "/2/",
+      "/2/149/",
+      "/2/149/154/"
+    ],
+    "link": "https://www.cafestore.com.br/tampa-para-coador-chemex-2537/p",
+    "Marca": [
+      "Chemex"
+    ],
+    "Características": [
+      "tampa para todas as versões"
+    ],
+    "Material / composição": [
+      "vidro"
+    ],
+    "Conteúdo da embalagem": [
+      "1 tampa em vidro"
+    ],
+    "Cor": [
+      "transparente"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca",
+      "Características",
+      "Material / composição",
+      "Conteúdo da embalagem",
+      "Cor"
+    ],
+    "allSpecifications": [
+      "Marca",
+      "Características",
+      "Material / composição",
+      "Conteúdo da embalagem",
+      "Cor"
+    ],
+    "allSpecificationsGroups": [
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "Mantenha seu preparo de cafés especiais no ponto mais alto, impedindo a evaporação com a tampa da cafeteira Chemex Glass. Esta tampa é a combinação perfeita de funcionalidade e design. A tampa da cafeteira de vidro Chemex não só evita a evaporação, como também ajuda a restringir a perda de calor.<br><br>\r\n\r\nCompatível com todas as versões de coadores Chemex: 3, 6 e 8 xícaras.<br><br> \r\n\r\n<b>Características:</b><br>\r\n- Toda em vidro<br>\r\n- Compatível com todas as versões<br>\r\n- Fácil de lavar (pode ir à lava-louças)<br>",
+    "items": [
+      {
+        "itemId": "1068",
+        "name": "Tampa para Coador Chemex",
+        "nameComplete": "Tampa para Coador Chemex",
+        "complementName": "",
+        "ean": "0028068001258",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2537"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "157960",
+            "imageLabel": "caixa",
+            "imageTag": "<img src=\"~/arquivos/ids/157960-#width#-#height#/chemex-tampa-vidro4.jpg?v=637274871972700000\" width=\"#width#\" height=\"#height#\" alt=\"Tampa-para-coador-chemex\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/157960/chemex-tampa-vidro4.jpg?v=637274871972700000",
+            "imageText": "Tampa-para-coador-chemex",
+            "imageLastModified": "2020-06-11T15:46:37.2700000Z"
+          },
+          {
+            "imageId": "157901",
+            "imageLabel": "frente",
+            "imageTag": "<img src=\"~/arquivos/ids/157901-#width#-#height#/chemex-tampa-vidro1--1-.jpg?v=637273554855030000\" width=\"#width#\" height=\"#height#\" alt=\"Tampa-para-coador-chemex\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/157901/chemex-tampa-vidro1--1-.jpg?v=637273554855030000",
+            "imageText": "Tampa-para-coador-chemex",
+            "imageLastModified": "2020-06-10T03:11:25.5030000Z"
+          },
+          {
+            "imageId": "157902",
+            "imageLabel": "montagem",
+            "imageTag": "<img src=\"~/arquivos/ids/157902-#width#-#height#/chemex-tampa-vidro2--1-.jpg?v=637273557467730000\" width=\"#width#\" height=\"#height#\" alt=\"Tampa-para-coador-chemex\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/157902/chemex-tampa-vidro2--1-.jpg?v=637273557467730000",
+            "imageText": "Tampa-para-coador-chemex",
+            "imageLastModified": "2020-06-10T03:15:46.7730000Z"
+          },
+          {
+            "imageId": "157903",
+            "imageLabel": "caixa",
+            "imageTag": "<img src=\"~/arquivos/ids/157903-#width#-#height#/chemex-tampa-vidro3--1-.jpg?v=637273567011900000\" width=\"#width#\" height=\"#height#\" alt=\"Tampa-para-coador-chemex\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/157903/chemex-tampa-vidro3--1-.jpg?v=637273567011900000",
+            "imageText": "Tampa-para-coador-chemex",
+            "imageLastModified": "2020-06-10T03:31:41.1900000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1068&qty=1&seller=1&sc=1&price=13300&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 133,
+              "ListPrice": 133,
+              "PriceWithoutDiscount": 133,
+              "FullSellingPrice": 133,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjVjN2RlNTI1LWE5MjUtNDAzZS05ZjYxLWI0NjVlODAzNGVmYSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxMzMwMCwic2VsbGVyIjoiMSIsImlkIjoiMTA2OCIsImFjY291bnROYW1lIjoiY2FmZXN0b3JlIiwic2FsZXNDaGFubmVsIjoiMSJ9LCJleHAiOjE3NjUxNDk5NTMsImlhdCI6MTc2NTE0ODE1MywianRpIjoiZDhmZTNhMTktMTNkZi00YTBkLWFmZDAtODkzMTJlODJkZDc5IiwiaXNzIjoic2Vzc2lvbi9kYXRhLXNpZ25lciJ9.1l6KlYLk_KMH80yUJabaEAYGo47JmvGr5XInNffEDeGsn5mTaIfc0hmyLUyaElYDE7EoYBOcRkzIkZb5rfT7_w",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Tampa para Coador Chemex não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

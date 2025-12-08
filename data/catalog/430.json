@@ -1,0 +1,1250 @@
+[
+  {
+    "productId": "430",
+    "productName": "Café do Centro Barista Gourmet em grãos 1 kg",
+    "brand": "Barista",
+    "brandId": 2000072,
+    "brandImageUrl": null,
+    "linkText": "cafe-barista-gourmet-em-graos-1kg_2179",
+    "productReference": "2179",
+    "productReferenceCode": "2179",
+    "categoryId": "40",
+    "productTitle": "Café do Centro Barista Gourmet em grãos 1 kg",
+    "metaTagDescription": "Café do Centro Barista Gourmet é um café encorpado, de sabor suave e notas de chocolate amargo.",
+    "releaseDate": "2019-01-29T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "165": "Cafes especiais",
+      "181": "Assinatura",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "221": "Cafés",
+      "238": "CASHBACK 5%",
+      "248": "CAFÉS"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Cafés/Por Método/Café em Grãos/",
+      "/Cafés/Por Método/",
+      "/Cafés/",
+      "/Cafés/Intensidade/",
+      "/Cafés/Intensidade/Café Médio/",
+      "/Cafés/Tipo/",
+      "/Cafés/Tipo/Café Certificado/"
+    ],
+    "categoriesIds": [
+      "/1/179/40/",
+      "/1/179/",
+      "/1/",
+      "/1/180/",
+      "/1/180/136/",
+      "/1/181/",
+      "/1/181/139/"
+    ],
+    "link": "https://www.cafestore.com.br/cafe-barista-gourmet-em-graos-1kg_2179/p",
+    "Por método": [
+      "Grãos"
+    ],
+    "Intensidade": [
+      "Média"
+    ],
+    "Tipo": [
+      "Certificado"
+    ],
+    "Por quantidade": [
+      "A partir de 1 Kg"
+    ],
+    "Por Região": [
+      "Cerrado Mineiro",
+      "Mogiana Paulista"
+    ],
+    "Características": [
+      "Por método",
+      "Intensidade",
+      "Tipo",
+      "Por quantidade",
+      "Por Região"
+    ],
+    "Encontre seu café preferido": [
+      "Cafés em Grãos para moer a toda hora"
+    ],
+    "Busca Avancada": [
+      "Encontre seu café preferido"
+    ],
+    "Sabor": [
+      "notas de chocolate amargo"
+    ],
+    "Aroma": [
+      "doce"
+    ],
+    "Torra": [
+      "média"
+    ],
+    "Acidez": [
+      "média"
+    ],
+    "Corpo": [
+      "médio"
+    ],
+    "Origem": [
+      "Cerrado Mineiro e Mogiana"
+    ],
+    "Certificação e premiação": [
+      "Certificado ABIC de Pureza e Qualidade Gourmet"
+    ],
+    "Especificaçoes cafe e bebidas": [
+      "Intensidade",
+      "Sabor",
+      "Aroma",
+      "Torra",
+      "Acidez",
+      "Corpo",
+      "Tipo",
+      "Origem",
+      "Certificação e premiação"
+    ],
+    "Marca": [
+      "Café do Centro"
+    ],
+    "Peso líquido aproximado do produto (kg)": [
+      "1kg"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca",
+      "Peso líquido aproximado do produto (kg)"
+    ],
+    "allSpecifications": [
+      "Por método",
+      "Intensidade",
+      "Tipo",
+      "Por quantidade",
+      "Por Região",
+      "Encontre seu café preferido",
+      "Sabor",
+      "Aroma",
+      "Torra",
+      "Acidez",
+      "Corpo",
+      "Origem",
+      "Certificação e premiação",
+      "Marca",
+      "Peso líquido aproximado do produto (kg)"
+    ],
+    "allSpecificationsGroups": [
+      "Características",
+      "Busca Avancada",
+      "Especificaçoes cafe e bebidas",
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "<span style=\"font-size:16px\">Café do Centro Barista Gourmet é um café encorpado, de sabor suave e notas de chocolate amargo. Este blend especial é fruto da nossa incansável busca por selecionar os melhores grãos de arábica, provenientes das regiões produtoras mais premiadas de café do Brasil, seguidos de um rigoroso processo de torra.</span>",
+    "items": [
+      {
+        "itemId": "430",
+        "name": "Café do Centro Barista Gourmet em grãos 1 kg",
+        "nameComplete": "Café do Centro Barista Gourmet em grãos 1 kg",
+        "complementName": "",
+        "ean": "7898251100043",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2179"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "166230",
+            "imageLabel": "Frente",
+            "imageTag": "<img src=\"~/arquivos/ids/166230-#width#-#height#/2179_Cafe-Barista-Gourmet-em-graos-1kg-2--1-.jpg?v=638763514293930000\" width=\"#width#\" height=\"#height#\" alt=\"cafe-barista-gourmet-em-graos-1kg\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/166230/2179_Cafe-Barista-Gourmet-em-graos-1kg-2--1-.jpg?v=638763514293930000",
+            "imageText": "cafe-barista-gourmet-em-graos-1kg",
+            "imageLastModified": "2025-02-28T14:57:09.3930000Z"
+          },
+          {
+            "imageId": "166231",
+            "imageLabel": "Frente",
+            "imageTag": "<img src=\"~/arquivos/ids/166231-#width#-#height#/2179_Cafe-Barista-Gourmet-em-graos-1kg-4--1-.jpg?v=638763514294100000\" width=\"#width#\" height=\"#height#\" alt=\"cafe-barista-gourmet-em-graos-1kg\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/166231/2179_Cafe-Barista-Gourmet-em-graos-1kg-4--1-.jpg?v=638763514294100000",
+            "imageText": "cafe-barista-gourmet-em-graos-1kg",
+            "imageLastModified": "2025-02-28T14:57:09.4100000Z"
+          },
+          {
+            "imageId": "166232",
+            "imageLabel": "Frente",
+            "imageTag": "<img src=\"~/arquivos/ids/166232-#width#-#height#/2179_Cafe-Barista-Gourmet-em-graos-1kg-3--1-.jpg?v=638763514294100000\" width=\"#width#\" height=\"#height#\" alt=\"cafe-barista-gourmet-em-graos-1kg\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/166232/2179_Cafe-Barista-Gourmet-em-graos-1kg-3--1-.jpg?v=638763514294100000",
+            "imageText": "cafe-barista-gourmet-em-graos-1kg",
+            "imageLastModified": "2025-02-28T14:57:09.4100000Z"
+          }
+        ],
+        "attachments": [
+          {
+            "id": 3,
+            "name": "vtex.subscription.assinatura",
+            "required": false,
+            "domainValues": "[{\"FieldName\":\"vtex.subscription.key.frequency\",\"MaxCaracters\":\"\",\"DomainValues\":\"1 month, 2 month, 3 month\"}]"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=430&qty=1&seller=1&sc=1&price=12600&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {
+                "0": {
+                  "DeliverySlaPerTypes": [],
+                  "Region": null
+                }
+              },
+              "Installments": [
+                {
+                  "Value": 126,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 126,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "American Express",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "American Express à vista"
+                },
+                {
+                  "Value": 63,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 126,
+                  "NumberOfInstallments": 2,
+                  "PaymentSystemName": "American Express",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "American Express 2 vezes sem juros"
+                },
+                {
+                  "Value": 126,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 126,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa à vista"
+                },
+                {
+                  "Value": 63,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 126,
+                  "NumberOfInstallments": 2,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa 2 vezes sem juros"
+                },
+                {
+                  "Value": 126,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 126,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Diners",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Diners à vista"
+                },
+                {
+                  "Value": 63,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 126,
+                  "NumberOfInstallments": 2,
+                  "PaymentSystemName": "Diners",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Diners 2 vezes sem juros"
+                },
+                {
+                  "Value": 126,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 126,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard à vista"
+                },
+                {
+                  "Value": 63,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 126,
+                  "NumberOfInstallments": 2,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard 2 vezes sem juros"
+                },
+                {
+                  "Value": 126,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 126,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Boleto Bancário",
+                  "PaymentSystemGroupName": "bankInvoicePaymentGroup",
+                  "Name": "Boleto Bancário à vista"
+                },
+                {
+                  "Value": 126,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 126,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Hipercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Hipercard à vista"
+                },
+                {
+                  "Value": 63,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 126,
+                  "NumberOfInstallments": 2,
+                  "PaymentSystemName": "Hipercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Hipercard 2 vezes sem juros"
+                },
+                {
+                  "Value": 126,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 126,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Elo",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Elo à vista"
+                },
+                {
+                  "Value": 63,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 126,
+                  "NumberOfInstallments": 2,
+                  "PaymentSystemName": "Elo",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Elo 2 vezes sem juros"
+                },
+                {
+                  "Value": 126,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 126,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Vale",
+                  "PaymentSystemGroupName": "giftCardPaymentGroup",
+                  "Name": "Vale à vista"
+                },
+                {
+                  "Value": 122.22,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 122.22,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Pix",
+                  "PaymentSystemGroupName": "instantPaymentPaymentGroup",
+                  "Name": "Pix à vista"
+                },
+                {
+                  "Value": 126,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 126,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Depósito Bancário",
+                  "PaymentSystemGroupName": "custom201PaymentGroupPaymentGroup",
+                  "Name": "Depósito Bancário à vista"
+                },
+                {
+                  "Value": 126,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 126,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Depósito Bancário Itaú",
+                  "PaymentSystemGroupName": "custom202PaymentGroupPaymentGroup",
+                  "Name": "Depósito Bancário Itaú à vista"
+                },
+                {
+                  "Value": 126,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 126,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Cartão Crédito LOJA",
+                  "PaymentSystemGroupName": "custom204PaymentGroupPaymentGroup",
+                  "Name": "Cartão Crédito LOJA à vista"
+                },
+                {
+                  "Value": 126,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 126,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Dinheiro LOJA",
+                  "PaymentSystemGroupName": "custom205PaymentGroupPaymentGroup",
+                  "Name": "Dinheiro LOJA à vista"
+                },
+                {
+                  "Value": 126,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 126,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "PIX LOJA",
+                  "PaymentSystemGroupName": "custom206PaymentGroupPaymentGroup",
+                  "Name": "PIX LOJA à vista"
+                },
+                {
+                  "Value": 126,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 126,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "WH Google Pay",
+                  "PaymentSystemGroupName": "WH Google PayPaymentGroup",
+                  "Name": "WH Google Pay à vista"
+                }
+              ],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [
+                {
+                  "<Name>k__BackingField": "3nodeposito",
+                  "<GeneralValues>k__BackingField": {},
+                  "<Conditions>k__BackingField": {
+                    "<MinimumQuantity>k__BackingField": 0,
+                    "<Parameters>k__BackingField": [
+                      {
+                        "<Name>k__BackingField": "PaymentMethodId",
+                        "<Value>k__BackingField": "201"
+                      }
+                    ]
+                  },
+                  "<Effects>k__BackingField": {
+                    "<Parameters>k__BackingField": [
+                      {
+                        "<Name>k__BackingField": "PercentualDiscount",
+                        "<Value>k__BackingField": "3"
+                      }
+                    ]
+                  }
+                }
+              ],
+              "PromotionTeasers": [
+                {
+                  "Name": "3nodeposito",
+                  "GeneralValues": {},
+                  "Conditions": {
+                    "MinimumQuantity": 0,
+                    "Parameters": [
+                      {
+                        "Name": "PaymentMethodId",
+                        "Value": "201"
+                      }
+                    ]
+                  },
+                  "Effects": {
+                    "Parameters": [
+                      {
+                        "Name": "PercentualDiscount",
+                        "Value": "3"
+                      }
+                    ]
+                  }
+                }
+              ],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [
+                {
+                  "Name": "Café do Centro Barista Gourmet em grãos 1 kg",
+                  "NameComplete": "Café do Centro Barista Gourmet em grãos 1 kg",
+                  "MainImage": "https://cafestore.vteximg.com.br/arquivos/ids/166230/2179_Cafe-Barista-Gourmet-em-graos-1kg-2--1-.jpg",
+                  "BrandName": "Barista",
+                  "CategoryId": 40,
+                  "ProductId": 430,
+                  "id": "430",
+                  "seller": "1",
+                  "assemblyOptions": [
+                    {
+                      "id": "vtex.subscription.assinatura",
+                      "name": "vtex.subscription.assinatura",
+                      "required": false,
+                      "inputValues": {
+                        "vtex.subscription.key.frequency": {
+                          "maximumNumberOfCharacters": 8,
+                          "domain": [
+                            "1 month",
+                            " 2 month",
+                            " 3 month"
+                          ]
+                        }
+                      },
+                      "composition": null
+                    }
+                  ]
+                }
+              ],
+              "Price": 126,
+              "ListPrice": 132,
+              "PriceWithoutDiscount": 126,
+              "FullSellingPrice": 126,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjNlNDQzMDQ1LTYyMzAtNDIzNy1iZDA5LTg2YTFkM2E1YmMxNyIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxMjYwMCwic2VsbGVyIjoiMSIsImlkIjoiNDMwIiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE0OTQ2NywiaWF0IjoxNzY1MTQ3NjY3LCJqdGkiOiI2MWU4ZGFjYy1iNWRmLTRjMmUtYTYxYS0yYTA3ZTg4M2Y2YWQiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.Pz7MpoRKz4sK5wUJ5gpOQdKQd_7c9cw9VWueIpjTGfKvyPpRlF_l7C2co_CnMCpoPRW7q3DD4Lov5jLhMCfq0Q",
+              "RewardValue": 6.3,
+              "PriceValidUntil": "4000-01-01T03:00:00Z",
+              "AvailableQuantity": 100,
+              "IsAvailable": true,
+              "Tax": 0,
+              "DeliverySlaSamples": [
+                {
+                  "DeliverySlaPerTypes": [],
+                  "Region": null
+                }
+              ],
+              "GetInfoErrorMessage": null,
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [
+                  {
+                    "paymentSystem": "1",
+                    "bin": null,
+                    "paymentName": "American Express",
+                    "paymentGroupName": "creditCardPaymentGroup",
+                    "value": 12600,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 12600,
+                        "total": 12600,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 12600,
+                            "total": 12600
+                          }
+                        ]
+                      },
+                      {
+                        "count": 2,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 6300,
+                        "total": 12600,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 2,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 6300,
+                            "total": 12600
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "2",
+                    "bin": null,
+                    "paymentName": "Visa",
+                    "paymentGroupName": "creditCardPaymentGroup",
+                    "value": 12600,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 12600,
+                        "total": 12600,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 12600,
+                            "total": 12600
+                          }
+                        ]
+                      },
+                      {
+                        "count": 2,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 6300,
+                        "total": 12600,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 2,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 6300,
+                            "total": 12600
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "3",
+                    "bin": null,
+                    "paymentName": "Diners",
+                    "paymentGroupName": "creditCardPaymentGroup",
+                    "value": 12600,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 12600,
+                        "total": 12600,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 12600,
+                            "total": 12600
+                          }
+                        ]
+                      },
+                      {
+                        "count": 2,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 6300,
+                        "total": 12600,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 2,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 6300,
+                            "total": 12600
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "4",
+                    "bin": null,
+                    "paymentName": "Mastercard",
+                    "paymentGroupName": "creditCardPaymentGroup",
+                    "value": 12600,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 12600,
+                        "total": 12600,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 12600,
+                            "total": 12600
+                          }
+                        ]
+                      },
+                      {
+                        "count": 2,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 6300,
+                        "total": 12600,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 2,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 6300,
+                            "total": 12600
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "6",
+                    "bin": null,
+                    "paymentName": "Boleto Bancário",
+                    "paymentGroupName": "bankInvoicePaymentGroup",
+                    "value": 12600,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 12600,
+                        "total": 12600,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 12600,
+                            "total": 12600
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "8",
+                    "bin": null,
+                    "paymentName": "Hipercard",
+                    "paymentGroupName": "creditCardPaymentGroup",
+                    "value": 12600,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 12600,
+                        "total": 12600,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 12600,
+                            "total": 12600
+                          }
+                        ]
+                      },
+                      {
+                        "count": 2,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 6300,
+                        "total": 12600,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 2,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 6300,
+                            "total": 12600
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "9",
+                    "bin": null,
+                    "paymentName": "Elo",
+                    "paymentGroupName": "creditCardPaymentGroup",
+                    "value": 12600,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 12600,
+                        "total": 12600,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 12600,
+                            "total": 12600
+                          }
+                        ]
+                      },
+                      {
+                        "count": 2,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 6300,
+                        "total": 12600,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 2,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 6300,
+                            "total": 12600
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "16",
+                    "bin": null,
+                    "paymentName": "Vale",
+                    "paymentGroupName": "giftCardPaymentGroup",
+                    "value": 12600,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 12600,
+                        "total": 12600,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 12600,
+                            "total": 12600
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "125",
+                    "bin": null,
+                    "paymentName": "Pix",
+                    "paymentGroupName": "instantPaymentPaymentGroup",
+                    "value": 12600,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 12222,
+                        "total": 12222,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 12222,
+                            "total": 12222
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "201",
+                    "bin": null,
+                    "paymentName": "Depósito Bancário",
+                    "paymentGroupName": "custom201PaymentGroupPaymentGroup",
+                    "value": 12600,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 12600,
+                        "total": 12600,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 12600,
+                            "total": 12600
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "202",
+                    "bin": null,
+                    "paymentName": "Depósito Bancário Itaú",
+                    "paymentGroupName": "custom202PaymentGroupPaymentGroup",
+                    "value": 12600,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 12600,
+                        "total": 12600,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 12600,
+                            "total": 12600
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "204",
+                    "bin": null,
+                    "paymentName": "Cartão Crédito LOJA",
+                    "paymentGroupName": "custom204PaymentGroupPaymentGroup",
+                    "value": 12600,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 12600,
+                        "total": 12600,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 12600,
+                            "total": 12600
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "205",
+                    "bin": null,
+                    "paymentName": "Dinheiro LOJA",
+                    "paymentGroupName": "custom205PaymentGroupPaymentGroup",
+                    "value": 12600,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 12600,
+                        "total": 12600,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 12600,
+                            "total": 12600
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "206",
+                    "bin": null,
+                    "paymentName": "PIX LOJA",
+                    "paymentGroupName": "custom206PaymentGroupPaymentGroup",
+                    "value": 12600,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 12600,
+                        "total": 12600,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 12600,
+                            "total": 12600
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "900",
+                    "bin": null,
+                    "paymentName": "WH Google Pay",
+                    "paymentGroupName": "WH Google PayPaymentGroup",
+                    "value": 12600,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 12600,
+                        "total": 12600,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "CAFESTORE",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 12600,
+                            "total": 12600
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "paymentSystems": [
+                  {
+                    "id": 201,
+                    "name": "Depósito Bancário",
+                    "groupName": "custom201PaymentGroupPaymentGroup",
+                    "validator": null,
+                    "stringId": "201",
+                    "template": "custom201PaymentGroupPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": true,
+                    "description": "Conta para Depósito: A mercadoria só será enviada após a compensação do pagamento.",
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-12-10T22:41:25.8169506Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 16,
+                    "name": "Vale",
+                    "groupName": "giftCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "16",
+                    "template": "giftCardPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-12-14T22:40:25.8169508Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 1,
+                    "name": "American Express",
+                    "groupName": "creditCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "1",
+                    "template": "creditCardPaymentGroup-template",
+                    "requiresDocument": true,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-12-14T22:40:25.8169511Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 2,
+                    "name": "Visa",
+                    "groupName": "creditCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "2",
+                    "template": "creditCardPaymentGroup-template",
+                    "requiresDocument": true,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-12-14T22:40:25.8169513Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 3,
+                    "name": "Diners",
+                    "groupName": "creditCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "3",
+                    "template": "creditCardPaymentGroup-template",
+                    "requiresDocument": true,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-12-14T22:40:25.8169515Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 4,
+                    "name": "Mastercard",
+                    "groupName": "creditCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "4",
+                    "template": "creditCardPaymentGroup-template",
+                    "requiresDocument": true,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-12-14T22:40:25.8169518Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 8,
+                    "name": "Hipercard",
+                    "groupName": "creditCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "8",
+                    "template": "creditCardPaymentGroup-template",
+                    "requiresDocument": true,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-12-14T22:40:25.8169521Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 9,
+                    "name": "Elo",
+                    "groupName": "creditCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "9",
+                    "template": "creditCardPaymentGroup-template",
+                    "requiresDocument": true,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-12-14T22:40:25.8169524Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 205,
+                    "name": "Dinheiro LOJA",
+                    "groupName": "custom205PaymentGroupPaymentGroup",
+                    "validator": null,
+                    "stringId": "205",
+                    "template": "custom205PaymentGroupPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": true,
+                    "description": "Instore Dinheiro",
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-12-17T22:40:25.8169528Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 204,
+                    "name": "Cartão Crédito LOJA",
+                    "groupName": "custom204PaymentGroupPaymentGroup",
+                    "validator": null,
+                    "stringId": "204",
+                    "template": "custom204PaymentGroupPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": true,
+                    "description": "Cartão Crédito LOJA",
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-12-17T22:40:25.8169533Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 202,
+                    "name": "Depósito Bancário Itaú",
+                    "groupName": "custom202PaymentGroupPaymentGroup",
+                    "validator": null,
+                    "stringId": "202",
+                    "template": "custom202PaymentGroupPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": true,
+                    "description": "Pagamento via depósito bancário",
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-12-10T22:41:25.8169534Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 206,
+                    "name": "PIX LOJA",
+                    "groupName": "custom206PaymentGroupPaymentGroup",
+                    "validator": null,
+                    "stringId": "206",
+                    "template": "custom206PaymentGroupPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": true,
+                    "description": "Instore PIX",
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-12-12T22:40:25.8169537Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 6,
+                    "name": "Boleto Bancário",
+                    "groupName": "bankInvoicePaymentGroup",
+                    "validator": null,
+                    "stringId": "6",
+                    "template": "bankInvoicePaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-12-14T22:40:25.8169539Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 125,
+                    "name": "Pix",
+                    "groupName": "instantPaymentPaymentGroup",
+                    "validator": null,
+                    "stringId": "125",
+                    "template": "instantPaymentPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-12-14T22:40:25.816954Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 900,
+                    "name": "WH Google Pay",
+                    "groupName": "WH Google PayPaymentGroup",
+                    "validator": null,
+                    "stringId": "900",
+                    "template": "WH Google PayPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2025-12-14T22:40:25.8169541Z",
+                    "availablePayments": null
+                  }
+                ],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ],
+    "itemMetadata": {
+      "items": [
+        {
+          "Name": "Café do Centro Barista Gourmet em grãos 1 kg",
+          "NameComplete": "Café do Centro Barista Gourmet em grãos 1 kg",
+          "MainImage": "https://cafestore.vteximg.com.br/arquivos/ids/166230/2179_Cafe-Barista-Gourmet-em-graos-1kg-2--1-.jpg",
+          "BrandName": "Barista",
+          "CategoryId": 40,
+          "ProductId": 430,
+          "id": "430",
+          "seller": "1",
+          "assemblyOptions": [
+            {
+              "id": "vtex.subscription.assinatura",
+              "name": "vtex.subscription.assinatura",
+              "required": false,
+              "inputValues": {
+                "vtex.subscription.key.frequency": {
+                  "maximumNumberOfCharacters": 8,
+                  "domain": [
+                    "1 month",
+                    " 2 month",
+                    " 3 month"
+                  ]
+                }
+              },
+              "composition": null
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

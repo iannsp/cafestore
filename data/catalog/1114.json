@@ -1,0 +1,123 @@
+[
+  {
+    "productId": "1114",
+    "productName": "Batedor de Borra de Sobrepor FPRO Inox Polido",
+    "brand": "FPRO",
+    "brandId": 2000016,
+    "brandImageUrl": null,
+    "linkText": "batedor-de-borra-de-sobrepor-fpro-inox-polido-2645",
+    "productReference": "2645",
+    "productReferenceCode": "2645",
+    "categoryId": "38",
+    "productTitle": "",
+    "metaTagDescription": "O modelo do batedor de borra FPRO Inox Polido é ideal para deixar a bancada de trabalho muito mais organizada e limpa! \r\nDe material resistente e fácil limpeza.",
+    "releaseDate": "2019-12-09T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Acessórios/Tampers/",
+      "/Acessórios/",
+      "/Café Store Pro/"
+    ],
+    "categoriesIds": [
+      "/3/38/",
+      "/3/",
+      "/5/"
+    ],
+    "link": "https://www.cafestore.com.br/batedor-de-borra-de-sobrepor-fpro-inox-polido-2645/p",
+    "Marca": [
+      "FPRO"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca"
+    ],
+    "allSpecifications": [
+      "Marca"
+    ],
+    "allSpecificationsGroups": [
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "O modelo do batedor de borra FPRO Inox Polido é ideal para deixar a bancada de trabalho muito mais organizada e limpa! \r\nDe material resistente e fácil limpeza.",
+    "items": [
+      {
+        "itemId": "1115",
+        "name": "Batedor de Borra de Sobrepor FPRO Inox Polido",
+        "nameComplete": "Batedor de Borra de Sobrepor FPRO Inox Polido",
+        "complementName": "",
+        "ean": "7898938133913",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2645"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "157333",
+            "imageLabel": "",
+            "imageTag": "<img src=\"~/arquivos/ids/157333-#width#-#height#/batedor-de-borra-fpro.jpg?v=637121064076370000\" width=\"#width#\" height=\"#height#\" alt=\"batedor-de-borra-fpro\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/157333/batedor-de-borra-fpro.jpg?v=637121064076370000",
+            "imageText": "batedor-de-borra-fpro",
+            "imageLastModified": "2019-12-16T15:20:07.6370000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1115&qty=1&seller=1&sc=1&price=25800&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 258,
+              "ListPrice": 258,
+              "PriceWithoutDiscount": 258,
+              "FullSellingPrice": 258,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjUwYWNhOGZjLTY2MzQtNGRiYi04ZTlkLTZhZTQyZDA3ZTdmOSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoyNTgwMCwic2VsbGVyIjoiMSIsImlkIjoiMTExNSIsImFjY291bnROYW1lIjoiY2FmZXN0b3JlIiwic2FsZXNDaGFubmVsIjoiMSJ9LCJleHAiOjE3NjUxNDk5OTEsImlhdCI6MTc2NTE0ODE5MSwianRpIjoiMGY2ZTYyODgtMjM5My00OTc2LWIxMGYtODdjYTlhOGMyNmRlIiwiaXNzIjoic2Vzc2lvbi9kYXRhLXNpZ25lciJ9._wiHxJrA1GBIBXxB0aq3HnC-Ppm81LmFyDc-y6QdaFGdUasJJVtn0pLK8y_dSuxmYj4igpHYMLF_f6S93Nvr2A",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Batedor de Borra de Sobrepor FPRO Inox Polido não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

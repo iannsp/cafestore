@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1445",
+    "productName": "Revista Espresso - O Café Toma Conta do Brasil -  Edição 10",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---o-cafe-toma-conta-do-brasil----edicao-10-2983",
+    "productReference": "2983",
+    "productReferenceCode": "2983",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "A matéria de capa da Espresso #10 traz drinques para curtir o verão! Nas demais seções você encontra uma coluna escrita por Edgard Bressani sobre o Campeonato Brasileiro de Barista, uma viagem ao Marrocos, uma entrevista com o fotógrafo German Lorca, uma produção de café em Botelhos (MG), a herança da culinária francesa no Brasil, dicas de preparo, indicações de cafeterias, novidades do setor e receitas diversas.",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---o-cafe-toma-conta-do-brasil----edicao-10-2983/p",
+    "description": "A matéria de capa da Espresso #10 traz drinques para curtir o verão! Nas demais seções você encontra uma coluna escrita por Edgard Bressani sobre o Campeonato Brasileiro de Barista, uma viagem ao Marrocos, uma entrevista com o fotógrafo German Lorca, uma produção de café em Botelhos (MG), a herança da culinária francesa no Brasil, dicas de preparo, indicações de cafeterias, novidades do setor e receitas diversas.",
+    "items": [
+      {
+        "itemId": "1444",
+        "name": "Revista Espresso - O Café Toma Conta do Brasil -  Edição 10",
+        "nameComplete": "Revista Espresso - O Café Toma Conta do Brasil -  Edição 10",
+        "complementName": "",
+        "ean": "2983000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2983"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159059",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159059-#width#-#height#/2983_Revista-Espresso_O-Cafe-Toma-Conta-do-Brasil_Edicao-10.jpg?v=637578103292030000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_10\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159059/2983_Revista-Espresso_O-Cafe-Toma-Conta-do-Brasil_Edicao-10.jpg?v=637578103292030000",
+            "imageText": "rev_espresso_10",
+            "imageLastModified": "2021-05-28T14:52:09.2030000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1444&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImFiNjA2NDQyLTE5ZWItNDI2Zi1iYjA3LTEyNDNjMTBiODhmZiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDQ0IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI0NywiaWF0IjoxNzY1MTQ4NDQ3LCJqdGkiOiIxNGIxNDJkZC1iOGJjLTQ1YTEtYWE3YS1mMDI2MjQyYzViMzkiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.knbtNMFhUl0-lTKer_ZN-A3XLe3BAM-SZzNIFZhmuirb6X5tVZeOce0RiTPNi0k-kY3bBVMtFdhxapunXOxqKg",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - O Café Toma Conta do Brasil -  Edição 10 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

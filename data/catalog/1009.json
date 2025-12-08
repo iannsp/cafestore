@@ -1,0 +1,157 @@
+[
+  {
+    "productId": "1009",
+    "productName": "Mini Chaleira FPRO 350ml",
+    "brand": "FPRO",
+    "brandId": 2000016,
+    "brandImageUrl": null,
+    "linkText": "mini-chaleira-fpro-inox-polido-350ml-2524",
+    "productReference": "2524",
+    "productReferenceCode": "2524",
+    "categoryId": "20",
+    "productTitle": "",
+    "metaTagDescription": "A chaleira de Aço Inoxidável, é ideal para o preparo de chá ou café, com o bico fino e longo que possibilita o fluxo contínuo da água. Possui acabamento em aço inoxidável com revestimento de aço polido, antiaderente, resistente à corrosão, resistente à abrasão e pode ser levada ao fogão a gás ou elétrico com uma alça única, elegante e confortável de tocar.",
+    "releaseDate": "2019-09-06T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "177": "Acessorios",
+      "202": "Dia das mães",
+      "204": "Cupom Frete Inativos",
+      "206": "Datas Especiais",
+      "207": "fb",
+      "214": "Métodos e Acessórios com descontos",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {
+      "206": "Datas Especiais"
+    },
+    "categories": [
+      "/Acessórios/Chaleiras/",
+      "/Acessórios/"
+    ],
+    "categoriesIds": [
+      "/3/20/",
+      "/3/"
+    ],
+    "link": "https://www.cafestore.com.br/mini-chaleira-fpro-inox-polido-350ml-2524/p",
+    "Marca": [
+      "Linha Básica Urbe"
+    ],
+    "Modelo": [
+      "Manuais"
+    ],
+    "Material / composição": [
+      "Aço Inoxidável e revestimento de  aço polido"
+    ],
+    "Capacidade / Volume": [
+      "350ml"
+    ],
+    "Cor": [
+      "Inox polido"
+    ],
+    "Dimensões aproximadas do produto (cm)- AxLxP": [
+      "10x 20 x 8 cm"
+    ],
+    "Peso líquido aproximado do produto (kg)": [
+      "200g"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca",
+      "Modelo",
+      "Material / composição",
+      "Capacidade / Volume",
+      "Cor",
+      "Dimensões aproximadas do produto (cm)- AxLxP",
+      "Peso líquido aproximado do produto (kg)"
+    ],
+    "allSpecifications": [
+      "Marca",
+      "Modelo",
+      "Material / composição",
+      "Capacidade / Volume",
+      "Cor",
+      "Dimensões aproximadas do produto (cm)- AxLxP",
+      "Peso líquido aproximado do produto (kg)"
+    ],
+    "allSpecificationsGroups": [
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "</B. A chaleira de Aço Inoxidável, é ideal para o preparo de chá ou café, com o bico fino e longo que possibilita o fluxo contínuo da água. Possui acabamento em aço inoxidável com revestimento de aço polido, antiaderente, resistente à corrosão, resistente à abrasão e pode ser levada ao fogão a gás ou elétrico com uma alça única, elegante e confortável de tocar.</b></b></b>",
+    "items": [
+      {
+        "itemId": "1010",
+        "name": "Chaleira FPRO Inox polido 350ml",
+        "nameComplete": "Mini Chaleira FPRO 350ml Chaleira FPRO Inox polido 350ml",
+        "complementName": "",
+        "ean": "7898938133456",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2524"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "156990",
+            "imageLabel": "",
+            "imageTag": "<img src=\"~/arquivos/ids/156990-#width#-#height#/8--1-.jpg?v=637036294963300000\" width=\"#width#\" height=\"#height#\" alt=\"mini-chaleira-flavors-inox\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/156990/8--1-.jpg?v=637036294963300000",
+            "imageText": "mini-chaleira-flavors-inox",
+            "imageLastModified": "2019-09-09T12:38:16.3300000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1010&qty=1&seller=1&sc=1&price=12400&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 124,
+              "ListPrice": 124,
+              "PriceWithoutDiscount": 124,
+              "FullSellingPrice": 124,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjlhNTIyMjAzLTMyOWMtNDQ5YS04MDYwLTE1MTY0OGI1MTFjNSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxMjQwMCwic2VsbGVyIjoiMSIsImlkIjoiMTAxMCIsImFjY291bnROYW1lIjoiY2FmZXN0b3JlIiwic2FsZXNDaGFubmVsIjoiMSJ9LCJleHAiOjE3NjUxNDk5MTAsImlhdCI6MTc2NTE0ODExMCwianRpIjoiNzE0YmNmYmQtNzE3NS00ZTBiLWIxZjgtYTM4ZTRiZjFmNGZkIiwiaXNzIjoic2Vzc2lvbi9kYXRhLXNpZ25lciJ9.TfUiXuFcv2toz8Qt4N2R78Da5_KElNDjVNA64QUp3AUMAfRQq_gppoQHXSHDB8JTGmrrW__YS4A2xUUoSceeRg",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Mini Chaleira FPRO 350ml Chaleira FPRO Inox polido 350ml não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1456",
+    "productName": "Revista Espresso - O Novo Sabor do Café Coado -  Edição 20",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---o-novo-sabor-do-cafe-coado----edicao-20-2993",
+    "productReference": "2993",
+    "productReferenceCode": "2993",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "O novo sabor do café coado: Como renovar e apreciar este ritual bem brasileiro? Food design, conceito que desponta na Itália. Latte Art, dicas e tipos de desenhos para criar com o leite. Guto Lacaz, perfil irreverente nas artes plásticas e gráficas. Além disso, cafeterias para você conhecer pelo Brasil, dicas de preparo, receitas exclusivas, entrevistas, novidades do setor e muito mais!",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---o-novo-sabor-do-cafe-coado----edicao-20-2993/p",
+    "description": "O novo sabor do café coado: Como renovar e apreciar este ritual bem brasileiro? Food design, conceito que desponta na Itália. Latte Art, dicas e tipos de desenhos para criar com o leite. Guto Lacaz, perfil irreverente nas artes plásticas e gráficas. Além disso, cafeterias para você conhecer pelo Brasil, dicas de preparo, receitas exclusivas, entrevistas, novidades do setor e muito mais!",
+    "items": [
+      {
+        "itemId": "1455",
+        "name": "Revista Espresso - O Novo Sabor do Café Coado -  Edição 20",
+        "nameComplete": "Revista Espresso - O Novo Sabor do Café Coado -  Edição 20",
+        "complementName": "",
+        "ean": "2993000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2993"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159078",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159078-#width#-#height#/2993_Revista-Espresso_O-Novo-Sabor-do-Cafe-Coado_Edicao-20.jpg?v=637582590789900000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_20\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159078/2993_Revista-Espresso_O-Novo-Sabor-do-Cafe-Coado_Edicao-20.jpg?v=637582590789900000",
+            "imageText": "rev_espresso_20",
+            "imageLastModified": "2021-06-02T19:31:18.9900000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1455&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImMyMjE2YjBmLTJlMWEtNDllZC05YzU4LTlmOWVlNTU3YTc1MyIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDU1IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI1NSwiaWF0IjoxNzY1MTQ4NDU1LCJqdGkiOiI0MTZmNmU4Yi05YjI3LTQ3ZjctODJiYS0yNTFhMjQ1Mzk2ZGQiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.VPAZK1GdWA1XNZ7TwIRxxSpeO0T0uoSqIshth6Qz05IGraEu9QYucJ48uO8eJmcljMOv_qCdiENhRsNzVsA3mw",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - O Novo Sabor do Café Coado -  Edição 20 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

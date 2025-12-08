@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1455",
+    "productName": "Revista Espresso - Novas Máquinas de Espresso -  Edição 19",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---novas-maquinas-de-espresso----edicao-19-2992",
+    "productReference": "2992",
+    "productReferenceCode": "2992",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "A capa da Espresso #19 traz informações sobre máquinas de espresso, design e tecnologia que transformam podem transformar o seu café. Nas demais páginas você encontra seções que exploram a gastronomia peruana, diferentes variedades de chá, a carreira do barista campeão James Hoffman, indicações de cafeterias, entrevistas exclusivas, novidades do setor e dicas de preparo.",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---novas-maquinas-de-espresso----edicao-19-2992/p",
+    "description": "A capa da Espresso #19 traz informações sobre máquinas de espresso, design e tecnologia que transformam podem transformar o seu café. Nas demais páginas você encontra seções que exploram a gastronomia peruana, diferentes variedades de chá, a carreira do barista campeão James Hoffman, indicações de cafeterias, entrevistas exclusivas, novidades do setor e dicas de preparo.",
+    "items": [
+      {
+        "itemId": "1454",
+        "name": "Revista Espresso - Novas Máquinas de Espresso -  Edição 19",
+        "nameComplete": "Revista Espresso - Novas Máquinas de Espresso -  Edição 19",
+        "complementName": "",
+        "ean": "2992000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2992"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159077",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159077-#width#-#height#/2992_Revista-Espresso_Novas-Maquinas-de-Espresso_Edicao-19.jpg?v=637582590070870000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_19\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159077/2992_Revista-Espresso_Novas-Maquinas-de-Espresso_Edicao-19.jpg?v=637582590070870000",
+            "imageText": "rev_espresso_19",
+            "imageLastModified": "2021-06-02T19:30:07.0870000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1454&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjYzMjY5ODIxLTI2NDAtNGFmZi05MTZjLTI1MmNhYzA3MDkzNyIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDU0IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI1NSwiaWF0IjoxNzY1MTQ4NDU1LCJqdGkiOiIxM2EwMmE2MC02NzI3LTRiNDUtYTFmOC0zMDdiNjdiZTE4MzYiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.OGaZp5dozDWLFJiEZInY3i-Ze-PB5ylnLw0hsEvsLc415tzvtJqBpqKrEhmufyPPaMZM5s-Utxveed0zusZp3g",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Novas Máquinas de Espresso -  Edição 19 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

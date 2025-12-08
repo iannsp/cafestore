@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1494",
+    "productName": "Revista Espresso - Eleve o seu Café  - Edição 58",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---eleve-o-seu-cafe----edicao-58-3031",
+    "productReference": "3031",
+    "productReferenceCode": "3031",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "Na edição 58 você encontrará um guia de métodos para começar o ano de forma leve e especial, com informações sobre diversos métodos filtrados (e algumas novidades sem filtro) que vão fazer você entrar na onda de 2018; uma matéria completa sobre a SIC 2017, maior feira cafeeira do Brasil; detalhes sobre a passagem dos gringos nas cinco regiões mais produtoras de Minas Gerais; um doppio especial com o cantor Chico César; e uma degustação com alguns dos cafés vencedores da Exposição Espresso Design. Além disso, cafeterias de todo o País para você conhecer, dicas para preparar um bom café em casa, receitas de sobremesa e drink para você inovar no próximo ano e muito mais.",
+    "releaseDate": "2021-05-19T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---eleve-o-seu-cafe----edicao-58-3031/p",
+    "description": "Na edição 58 você encontrará um guia de métodos para começar o ano de forma leve e especial, com informações sobre diversos métodos filtrados (e algumas novidades sem filtro) que vão fazer você entrar na onda de 2018; uma matéria completa sobre a SIC 2017, maior feira cafeeira do Brasil; detalhes sobre a passagem dos gringos nas cinco regiões mais produtoras de Minas Gerais; um doppio especial com o cantor Chico César; e uma degustação com alguns dos cafés vencedores da Exposição Espresso Design. Além disso, cafeterias de todo o País para você conhecer, dicas para preparar um bom café em casa, receitas de sobremesa e drink para você inovar no próximo ano e muito mais.",
+    "items": [
+      {
+        "itemId": "1493",
+        "name": "Revista Espresso - Eleve o seu Café  - Edição 58",
+        "nameComplete": "Revista Espresso - Eleve o seu Café  - Edição 58",
+        "complementName": "",
+        "ean": "3031000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3031"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159119",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159119-#width#-#height#/3031_Revista-Espresso_Eleve-o-seu-Cafe_Edicao-58.jpg?v=637584073940070000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_58\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159119/3031_Revista-Espresso_Eleve-o-seu-Cafe_Edicao-58.jpg?v=637584073940070000",
+            "imageText": "rev_espresso_58",
+            "imageLastModified": "2021-06-04T12:43:14.0070000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1493&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImIwZjNjOWZiLTgzMzktNDliOS05OGNhLWUxNjUyZjAxNGU0MSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDkzIiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI4NiwiaWF0IjoxNzY1MTQ4NDg2LCJqdGkiOiI2OTQ1NDEwNC0xYzkzLTQyMDYtYWIzYS00NDRlNzQ5NTMwNzYiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.IvX3OaoL3skROWVOtLPqrdY3A0QjC412dk2dTsJNWI8jzqglJ0p1AaCzJN05m7LccmKk-siBKOKgOa-l5vyj_w",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Eleve o seu Café  - Edição 58 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

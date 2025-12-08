@@ -1,0 +1,109 @@
+[
+  {
+    "productId": "156",
+    "productName": "Caneca Le Creuset Cerâmica Amarelo 200 ml",
+    "brand": "Le creuset",
+    "brandId": 2000023,
+    "brandImageUrl": null,
+    "linkText": "caneca-le-creuset-ceramica-amarelo-200-ml_1173",
+    "productReference": "1173",
+    "productReferenceCode": "1173",
+    "categoryId": "24",
+    "productTitle": "",
+    "metaTagDescription": "Linda xícara para capuccino produzida em stoneware, cerâmica de alta resistência, para dar muito estilo a sua mesa.<BR><BR>Os itens da linha Stoneware são produzidos em altíssimas temperaturas, conferindo-lhes extrema durabilidade e tornando-os resistentes às rachaduras, lascas e manchas.<BR><BR>Sua superfície esmaltada é de fácil limpeza e não absorve aromas, sabores ou umidade, conservando-se como novos durante muitos anos. Produtos únicos, sofisticados e de excelente manuseio, como somente a Le Creuset poderia criar. <BR><BR><b>Conteúdo da embalagem:</b> 1 unidade<BR><b>Capacidade:</b> 200ml<BR><b>Cor:</b> Amarelo Dijon",
+    "releaseDate": "2019-01-22T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Acessórios/Xícaras e Canecas/",
+      "/Acessórios/"
+    ],
+    "categoriesIds": [
+      "/3/24/",
+      "/3/"
+    ],
+    "link": "https://www.cafestore.com.br/caneca-le-creuset-ceramica-amarelo-200-ml_1173/p",
+    "description": "Linda xícara para capuccino produzida em stoneware, cerâmica de alta resistência, para dar muito estilo a sua mesa.<BR><BR>Os itens da linha Stoneware são produzidos em altíssimas temperaturas, conferindo-lhes extrema durabilidade e tornando-os resistentes às rachaduras, lascas e manchas.<BR><BR>Sua superfície esmaltada é de fácil limpeza e não absorve aromas, sabores ou umidade, conservando-se como novos durante muitos anos. Produtos únicos, sofisticados e de excelente manuseio, como somente a Le Creuset poderia criar. <BR><BR><b>Conteúdo da embalagem:</b> 1 unidade<BR><b>Capacidade:</b> 200ml<BR><b>Cor:</b> Amarelo Dijon",
+    "items": [
+      {
+        "itemId": "156",
+        "name": "Caneca de Cappuccino Le Creuset Amarelo Dijon 200ml",
+        "nameComplete": "Caneca Le Creuset Cerâmica Amarelo 200 ml Caneca de Cappuccino Le Creuset Amarelo Dijon 200ml",
+        "complementName": "",
+        "ean": "",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "1173"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "155642",
+            "imageLabel": "Frente",
+            "imageTag": "<img src=\"~/arquivos/ids/155642-#width#-#height#/caneca-le-creuset-ceramica-amarelo-200-ml.jpg?v=636837636000400000\" width=\"#width#\" height=\"#height#\" alt=\"caneca-le-creuset-ceramica-amarelo-200-ml\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/155642/caneca-le-creuset-ceramica-amarelo-200-ml.jpg?v=636837636000400000",
+            "imageText": "caneca-le-creuset-ceramica-amarelo-200-ml",
+            "imageLastModified": "2019-01-22T14:20:00.0400000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=156&qty=1&seller=1&sc=1&price=5900&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 59,
+              "ListPrice": 59,
+              "PriceWithoutDiscount": 59,
+              "FullSellingPrice": 59,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjMwMmMyN2FhLTA3ZTgtNGQwOC04MjE5LTQ0NmJlY2YwMmNjYyIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo1OTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNTYiLCJhY2NvdW50TmFtZSI6ImNhZmVzdG9yZSIsInNhbGVzQ2hhbm5lbCI6IjEifSwiZXhwIjoxNzY1MTQ5MjQ1LCJpYXQiOjE3NjUxNDc0NDUsImp0aSI6ImNkNWY5MjI5LTBkN2ItNDBiNi1hMjdhLWRmOGIzYWU1ZjFhZSIsImlzcyI6InNlc3Npb24vZGF0YS1zaWduZXIifQ.oiAbvhHdSifE5jCNf0yx9lBy16FROe4Y8JObw_PXWGz-haFSU-s7a6gDOW3UkyHSQ4WYUIg7GjMq5HCmexyYpg",
+              "RewardValue": 0,
+              "PriceValidUntil": "2024-08-13T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Caneca Le Creuset Cerâmica Amarelo 200 ml Caneca de Cappuccino Le Creuset Amarelo Dijon 200ml não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

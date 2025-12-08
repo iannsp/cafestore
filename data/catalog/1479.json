@@ -1,0 +1,108 @@
+[
+  {
+    "productId": "1479",
+    "productName": "Revista Espresso - Café Sem Pressa - Edição 43",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---cafe-sem-pressa---edicao-43-3016",
+    "productReference": "3016",
+    "productReferenceCode": "3016",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "Slow coffee é o tema de capa da Espresso #43, que apresenta o café sem pressa e com excelência, uma aposta de cafeterias de todo o mundo, que prezam pelo conforto, diversidades de preparo e baristas qualificados, é o que você pode conferir na matéria principal desta edição. O grupo Demônios da Garoa é destaque na seção Perfil e conta como o café os acompanha nas turnês. Testamos máquinas de cápsula e avaliamos o desempenho de cada uma na seção Você Barista. O passo a passo de deliciosas receitas, práticas para serem feitas em casa e sem fogão é apresentado na seção de Gastronomia. Para não fugir dos doces, Receitas, apresenta um delicioso rocambole. Mundo Café, traz diferentes formatos e designers para as xícaras, companheiras de longa data do nosso café.",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---cafe-sem-pressa---edicao-43-3016/p",
+    "description": "Slow coffee é o tema de capa da Espresso #43, que apresenta o café sem pressa e com excelência, uma aposta de cafeterias de todo o mundo, que prezam pelo conforto, diversidades de preparo e baristas qualificados, é o que você pode conferir na matéria principal desta edição. O grupo Demônios da Garoa é destaque na seção Perfil e conta como o café os acompanha nas turnês. Testamos máquinas de cápsula e avaliamos o desempenho de cada uma na seção Você Barista. O passo a passo de deliciosas receitas, práticas para serem feitas em casa e sem fogão é apresentado na seção de Gastronomia. Para não fugir dos doces, Receitas, apresenta um delicioso rocambole. Mundo Café, traz diferentes formatos e designers para as xícaras, companheiras de longa data do nosso café.",
+    "items": [
+      {
+        "itemId": "1478",
+        "name": "Revista Espresso - Café Sem Pressa - Edição 43",
+        "nameComplete": "Revista Espresso - Café Sem Pressa - Edição 43",
+        "complementName": "",
+        "ean": "3016000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3016"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159104",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159104-#width#-#height#/3016_Revista-Espresso_Cafe-Sem-Pressa_Edicao-43.jpg?v=637583240141300000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_43\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159104/3016_Revista-Espresso_Cafe-Sem-Pressa_Edicao-43.jpg?v=637583240141300000",
+            "imageText": "rev_espresso_43",
+            "imageLastModified": "2021-06-03T13:33:34.1300000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1478&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImI3OWExZGM3LTZkNmYtNDI3Zi1iYjgwLWU0MjRmNmI2YjQ4OSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDc4IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI3NCwiaWF0IjoxNzY1MTQ4NDc0LCJqdGkiOiJmNjVlNWMxZC0zOGFiLTQwYzQtOTRmYS1iZjMyNGFiZWU2YzIiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.HMeH4hf6tAbBQJAhFqmJBSGmwpMdT4kuuT9jjsXZtMEyGNgKHT5aCceJP8rELEZj23N5yb9Fvler-uFyk0QRyw",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Café Sem Pressa - Edição 43 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

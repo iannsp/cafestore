@@ -1,0 +1,159 @@
+[
+  {
+    "productId": "482",
+    "productName": "Filtro Hario V60 Natural 100 unidades Tamanho 02",
+    "brand": "Hario",
+    "brandId": 2000025,
+    "brandImageUrl": null,
+    "linkText": "filtro-hario-v60-natural-100-unidades-tamanho-02_2405",
+    "productReference": "2405",
+    "productReferenceCode": "2405",
+    "categoryId": "16",
+    "productTitle": "",
+    "metaTagDescription": "O filtro de papel em formato de cone, permite a filtragem por igual e não deixa que o fluxo de água encontre qualquer tipo de obstáculo, resultando em uma bebida limpa e saborosa (sem resíduos), além de ressaltar algumas características do grão de café, como acidez e doçura.<BR><BR><b>Especificações técnicas</b><BR>Filtro Branco para coador 02<BR>Quantidade: 100 unidades por embalagem<BR>Material: Papel <BR>Formato: Cone<BR>Compatibilidade: Coador V60 tamanho 02 (2-4 xícaras)<BR>\n.",
+    "releaseDate": "2019-01-22T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "187": "Promoções",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "174": "dia dos pais",
+      "187": "Promoções",
+      "202": "Dia das mães",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "238": "CASHBACK 5%",
+      "240": "Feed Merchant 14.11"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Acessórios/Filtro de Papel/",
+      "/Acessórios/"
+    ],
+    "categoriesIds": [
+      "/3/16/",
+      "/3/"
+    ],
+    "link": "https://www.cafestore.com.br/filtro-hario-v60-natural-100-unidades-tamanho-02_2405/p",
+    "Marca": [
+      "Hario"
+    ],
+    "Características": [
+      "Filtro Natural para coador 02 (2-4 xícaras)"
+    ],
+    "Material / composição": [
+      "Papel"
+    ],
+    "Capacidade / Volume": [
+      "Pacote com 100 unidades"
+    ],
+    "Conteúdo da embalagem": [
+      "100 filtros de papel"
+    ],
+    "Cor": [
+      "Bege"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca",
+      "Características",
+      "Material / composição",
+      "Capacidade / Volume",
+      "Conteúdo da embalagem",
+      "Cor"
+    ],
+    "allSpecifications": [
+      "Marca",
+      "Características",
+      "Material / composição",
+      "Capacidade / Volume",
+      "Conteúdo da embalagem",
+      "Cor"
+    ],
+    "allSpecificationsGroups": [
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "Exclusivo para os coadores Hario V60 tamanho 02, o filtro de papel em formato de cone, permite a filtragem por igual e não deixa que o fluxo de água encontre qualquer tipo de obstáculo, resultando em uma bebida limpa e saborosa (sem resíduos), além de ressaltar algumas características do grão de café, como acidez e doçura.<BR><BR>\r\n\r\nFeito de papel celulósico de alta qualidade, na gramatura ideal, pode ser encontrado nas cores natural e branco. A diferença entre eles é que os filtros brancos passam por processo de branqueamento com oxigênio, sem o uso de alvejantes. <BR><BR>\r\n\r\n<b>Compatibilidade: </b> Coador V60 tamanho 02 (1-4 xícaras)",
+    "items": [
+      {
+        "itemId": "482",
+        "name": "Filtro Natural p/ Coador Hario V60 Tam.02 - 100 un",
+        "nameComplete": "Filtro Hario V60 Natural 100 unidades Tamanho 02 Filtro Natural p/ Coador Hario V60 Tam.02 - 100 un",
+        "complementName": "",
+        "ean": "4977642723818",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2405"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "155719",
+            "imageLabel": "Frente",
+            "imageTag": "<img src=\"~/arquivos/ids/155719-#width#-#height#/filtro-hario-v60-natural-100-unidades-tamanho-02.jpg?v=636837637359570000\" width=\"#width#\" height=\"#height#\" alt=\"filtro-hario-v60-natural-100-unidades-tamanho-02\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/155719/filtro-hario-v60-natural-100-unidades-tamanho-02.jpg?v=636837637359570000",
+            "imageText": "filtro-hario-v60-natural-100-unidades-tamanho-02",
+            "imageLastModified": "2019-01-22T14:22:15.9570000Z"
+          },
+          {
+            "imageId": "158149",
+            "imageLabel": "detalhe",
+            "imageTag": "<img src=\"~/arquivos/ids/158149-#width#-#height#/hario-v60-filtro-natural.jpg?v=638960547279370000\" width=\"#width#\" height=\"#height#\" alt=\"filtro-hario-v60-natural-100-unidades-tamanho-02\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/158149/hario-v60-filtro-natural.jpg?v=638960547279370000",
+            "imageText": "filtro-hario-v60-natural-100-unidades-tamanho-02",
+            "imageLastModified": "2025-10-14T16:05:27.9370000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=482&qty=1&seller=1&sc=1&price=8450&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 84.5,
+              "ListPrice": 84.5,
+              "PriceWithoutDiscount": 84.5,
+              "FullSellingPrice": 84.5,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjllYjBlMGVhLWZhMjAtNDdjZS04YTk5LWI2NWJlZWQxYWY5ZCIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo4NDUwLCJzZWxsZXIiOiIxIiwiaWQiOiI0ODIiLCJhY2NvdW50TmFtZSI6ImNhZmVzdG9yZSIsInNhbGVzQ2hhbm5lbCI6IjEifSwiZXhwIjoxNzY1MTQ5NTA1LCJpYXQiOjE3NjUxNDc3MDUsImp0aSI6IjUzMzEwNGE2LTJkNWUtNGQ1ZC1hMDJkLWNhMTJjZTg0NGQxMCIsImlzcyI6InNlc3Npb24vZGF0YS1zaWduZXIifQ.eizI3iTe2bJwKDg2i5hqTjTCIFkqpk-FQI-CvXwwIkvY9MPu7I9_Q10wV3ujVjaTHIjxewrH3HML8yFeOqTrzw",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Filtro Hario V60 Natural 100 unidades Tamanho 02 Filtro Natural p/ Coador Hario V60 Tam.02 - 100 un não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

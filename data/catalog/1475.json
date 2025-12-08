@@ -1,0 +1,109 @@
+[
+  {
+    "productId": "1475",
+    "productName": "Revista Espresso - Os Melhores Cafés do Mundo - Edição 39",
+    "brand": "Café Editora",
+    "brandId": 2000022,
+    "brandImageUrl": null,
+    "linkText": "revista-espresso---os-melhores-cafes-do-mundo---edicao-39-3012",
+    "productReference": "3012",
+    "productReferenceCode": "3012",
+    "categoryId": "197",
+    "productTitle": "",
+    "metaTagDescription": "A Espresso #39 traz uma capa clean que remete a uma matéria de capa densa sobre os melhores cafés do mundo esquematizados em mapas ilustrados e divertidos. A seção Receitas desta edição é de comidinhas de lanchonete. A viagem em Pelo Mundo traz um relato sobre a Irlanda gastronômica. Chás de vários tipos podem ser encontrados na seção de Chás e, para formar um verdadeiro lanche da tarde, os cookies na seção Gastronomia, divididos em receitas. A Harmonização da vez une café, vinho e bacalhau em uma saborosa combinação de sabores por Ilda Vinagre, Ensei Neto e Diego Arrebola. Falando em especialista em comida, a chef Renata Vanzetto ilustra com sorrisos as páginas de Perfil.",
+    "releaseDate": "2021-05-18T00:00:00Z",
+    "clusterHighlights": {
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "207": "fb",
+      "238": "CASHBACK 5%",
+      "240": "Feed Merchant 14.11"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Viver Bem/Café e Leitura/Revista Espresso/",
+      "/Viver Bem/Café e Leitura/",
+      "/Viver Bem/"
+    ],
+    "categoriesIds": [
+      "/27/31/197/",
+      "/27/31/",
+      "/27/"
+    ],
+    "link": "https://www.cafestore.com.br/revista-espresso---os-melhores-cafes-do-mundo---edicao-39-3012/p",
+    "description": "A Espresso #39 traz uma capa clean que remete a uma matéria de capa densa sobre os melhores cafés do mundo esquematizados em mapas ilustrados e divertidos. A seção Receitas desta edição é de comidinhas de lanchonete. A viagem em Pelo Mundo traz um relato sobre a Irlanda gastronômica. Chás de vários tipos podem ser encontrados na seção de Chás e, para formar um verdadeiro lanche da tarde, os cookies na seção Gastronomia, divididos em receitas. A Harmonização da vez une café, vinho e bacalhau em uma saborosa combinação de sabores por Ilda Vinagre, Ensei Neto e Diego Arrebola. Falando em especialista em comida, a chef Renata Vanzetto ilustra com sorrisos as páginas de Perfil.",
+    "items": [
+      {
+        "itemId": "1474",
+        "name": "Revista Espresso - Os Melhores Cafés do Mundo - Edição 39",
+        "nameComplete": "Revista Espresso - Os Melhores Cafés do Mundo - Edição 39",
+        "complementName": "",
+        "ean": "3012000000000",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "3012"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159100",
+            "imageLabel": "capa",
+            "imageTag": "<img src=\"~/arquivos/ids/159100-#width#-#height#/3012_Revista-Espresso_Os-Melhores-Cafes-do-Mundo_Edicao-39.jpg?v=637583229333200000\" width=\"#width#\" height=\"#height#\" alt=\"rev_espresso_39\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159100/3012_Revista-Espresso_Os-Melhores-Cafes-do-Mundo_Edicao-39.jpg?v=637583229333200000",
+            "imageText": "rev_espresso_39",
+            "imageLastModified": "2021-06-03T13:15:33.3200000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1474&qty=1&seller=1&sc=1&price=1500&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 15,
+              "ListPrice": 15,
+              "PriceWithoutDiscount": 15,
+              "FullSellingPrice": 15,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjRkNzE0NGM0LWFiYjQtNDk0MS1iODkwLThkZGJhZWMzOTQ3OCIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxNTAwLCJzZWxsZXIiOiIxIiwiaWQiOiIxNDc0IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDI3MSwiaWF0IjoxNzY1MTQ4NDcxLCJqdGkiOiJiMWMwOGZhOS00Y2I3LTRjMWMtYTRiNC04MDZlY2Q1MTg1OWQiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.390PZwkhqd3XlMLo9ltD0p_oyb8XWT5Crg7ZXEDyAwWL9qXH2c9wWS38vS5UlMuKYaQkdCKy_GzUYNft3mt5Wg",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Revista Espresso - Os Melhores Cafés do Mundo - Edição 39 não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "productId": "69",
+    "productName": "Xarope Monin Tangerina 700 ml",
+    "brand": "Monin",
+    "brandId": 2000008,
+    "brandImageUrl": null,
+    "linkText": "xarope-monin-tangerina-700-ml_279",
+    "productReference": "279",
+    "productReferenceCode": "279",
+    "categoryId": "7",
+    "productTitle": "",
+    "metaTagDescription": "<BR><BR>Ingredientes: <BR><BR>Açúcar de beterraba, água, aromatizante natural de tangerina, acidulante ácido cítrico, suco concentrado de limão, não contém glúten.<BR><BR>Características: <BR><BR>Monin é uma bebida resultante da combinação perfeita de açúcar puro de cana com extratos naturais de frutas, nozes e flores. <BR><BR>- Elaborado a base de extratos naturais<BR>- Altamente concentrado<BR>- Não é alcoólico<BR>- Sem conservantes<BR><BR>Dicas de uso e consumo:<BR><BR>Misture o xarope MONIN Tangerina com chá gelado de limão ou em espécie, para aumentar os sabores de frutas cítricas.<BR><BR>- Smoothies<BR>- Sodas<BR>- Coquetéis<BR>- Sucos<BR>- Chás<BR>- Limonadas<BR>- Refrigerantes<BR>- Frozens",
+    "releaseDate": "2019-01-22T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "162": "INVERNO",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Xaropes e Bebidas/Xaropes/",
+      "/Xaropes e Bebidas/"
+    ],
+    "categoriesIds": [
+      "/4/7/",
+      "/4/"
+    ],
+    "link": "https://www.cafestore.com.br/xarope-monin-tangerina-700-ml_279/p",
+    "Por volume (em ml)": [
+      "700ML"
+    ],
+    "Características": [
+      "Por volume (em ml)"
+    ],
+    "Marca": [
+      "Monin"
+    ],
+    "Material / composição": [
+      "Garrafa de Vidro"
+    ],
+    "Capacidade / Volume": [
+      "700 ml"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca",
+      "Características",
+      "Material / composição",
+      "Capacidade / Volume"
+    ],
+    "allSpecifications": [
+      "Por volume (em ml)",
+      "Marca",
+      "Material / composição",
+      "Capacidade / Volume"
+    ],
+    "allSpecificationsGroups": [
+      "Características",
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "<BR><BR>Ingredientes: <BR><BR>Açúcar de beterraba, água, aromatizante natural de tangerina, acidulante ácido cítrico, suco concentrado de limão, não contém glúten.<BR><BR>Características: <BR><BR>Monin é uma bebida resultante da combinação perfeita de açúcar puro de cana com extratos naturais de frutas, nozes e flores. <BR><BR>- Elaborado a base de extratos naturais<BR>- Altamente concentrado<BR>- Não é alcoólico<BR>- Sem conservantes<BR><BR>Dicas de uso e consumo:<BR><BR>Misture o xarope MONIN Tangerina com chá gelado de limão ou em espécie, para aumentar os sabores de frutas cítricas.<BR><BR>- Smoothies<BR>- Sodas<BR>- Coquetéis<BR>- Sucos<BR>- Chás<BR>- Limonadas<BR>- Refrigerantes<BR>- Frozens",
+    "items": [
+      {
+        "itemId": "69",
+        "name": "Xarope Monin de Tangerina 700ml",
+        "nameComplete": "Xarope Monin Tangerina 700 ml Xarope Monin de Tangerina 700ml",
+        "complementName": "",
+        "ean": "3052910010225",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "279"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "155788",
+            "imageLabel": "Frente",
+            "imageTag": "<img src=\"~/arquivos/ids/155788-#width#-#height#/xarope-monin-tangerina-700-ml.jpg?v=636837638538030000\" width=\"#width#\" height=\"#height#\" alt=\"xarope-monin-tangerina-700-ml\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/155788/xarope-monin-tangerina-700-ml.jpg?v=636837638538030000",
+            "imageText": "xarope-monin-tangerina-700-ml",
+            "imageLastModified": "2019-01-22T14:24:13.8030000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=69&qty=1&seller=1&sc=1&price=7190&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 71.9,
+              "ListPrice": 71.9,
+              "PriceWithoutDiscount": 71.9,
+              "FullSellingPrice": 71.9,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6Ijk1ZDM2YWEyLTZmZjEtNGM1Yi1iYzc5LTIzMjc5YmI3OWU4NCIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo3MTkwLCJzZWxsZXIiOiIxIiwiaWQiOiI2OSIsImFjY291bnROYW1lIjoiY2FmZXN0b3JlIiwic2FsZXNDaGFubmVsIjoiMSJ9LCJleHAiOjE3NjUxNDkxNzUsImlhdCI6MTc2NTE0NzM3NSwianRpIjoiZGNkOWNiNWYtMmY3Zi00ZTBjLWEwNjQtZWE2YTFhNDBiNTljIiwiaXNzIjoic2Vzc2lvbi9kYXRhLXNpZ25lciJ9.-HzcabVq1B3Bj99ddX0R6I6xyH86X0O9Ydde8pg_ZLlQmtj6Ja4ymPgzOcUMu8m6oy7MI3hPUMVGyFnxeOALqQ",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Xarope Monin Tangerina 700 ml Xarope Monin de Tangerina 700ml não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]

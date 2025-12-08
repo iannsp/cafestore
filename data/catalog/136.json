@@ -1,0 +1,119 @@
+[
+  {
+    "productId": "136",
+    "productName": "Conjunto para extração de café Toddy 240 ml",
+    "brand": "Toddy",
+    "brandId": 2000026,
+    "brandImageUrl": null,
+    "linkText": "conjunto-para-extracao-de-cafe-toddy-240-ml_1102",
+    "productReference": "1102",
+    "productReferenceCode": "1102",
+    "categoryId": "155",
+    "productTitle": "",
+    "metaTagDescription": "\"Toddy é um utensílio exclusivo para realizar o processo de filtragem de café com água fria, extraindo o verdadeiro sabor natural do grão de café e chás, eliminando resíduos indesejáveis, substâncias amargas e gordura. O resultado é um extrato de café encorpado, com notas açucaradas e baixíssimo nível de acidez (redução de 67%), perfeito para todos os paladares. Pode ser utilizado quente ou frio e dura até 15 dias na geladeira.<br /><br />Conjunto para extração de café a frio<br /><b>Especificações técnicas</b><br />Conteúdo:<br />- 1 jarra de vidro<br />- 1 coador de plástico com alça<br />- 2 filtros reutilizáveis<br />- 1 rolha de borracha<br />- instruções de uso<br /><br />Dimensões: 18,3 x 18,3 x 31,75 cm<br /><br /><a title=\"\"http://www.flavors.com.br/portugues/newsletter_popup.php?idNewsletter=160\"\" http:=\"\"\"\" www=\"\"\"\" flavors=\"\"\"\" com=\"\"\"\" br=\"\"\"\" portugues=\"\"\"\" newsletter_popup=\"\"\"\" php=\"\"\"\" idnewsletter=\"\"160\"\"target=\"\"_new\"\"\"\"> Link para o manual do produto</a>\"",
+    "releaseDate": "2019-01-30T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "238": "CASHBACK 5%"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Cafeteiras/Método Filtrado/Coador Hario V60/",
+      "/Cafeteiras/Método Filtrado/",
+      "/Cafeteiras/"
+    ],
+    "categoriesIds": [
+      "/2/149/155/",
+      "/2/149/",
+      "/2/"
+    ],
+    "link": "https://www.cafestore.com.br/conjunto-para-extracao-de-cafe-toddy-240-ml_1102/p",
+    "description": "\"Toddy é um utensílio exclusivo para realizar o processo de filtragem de café com água fria, extraindo o verdadeiro sabor natural do grão de café e chás, eliminando resíduos indesejáveis, substâncias amargas e gordura. O resultado é um extrato de café encorpado, com notas açucaradas e baixíssimo nível de acidez (redução de 67%), perfeito para todos os paladares. Pode ser utilizado quente ou frio e dura até 15 dias na geladeira.<br /><br />Conjunto para extração de café a frio<br /><b>Especificações técnicas</b><br />Conteúdo:<br />- 1 jarra de vidro<br />- 1 coador de plástico com alça<br />- 2 filtros reutilizáveis<br />- 1 rolha de borracha<br />- instruções de uso<br /><br />Dimensões: 18,3 x 18,3 x 31,75 cm<br /><br /><a title=\"\"http://www.flavors.com.br/portugues/newsletter_popup.php?idNewsletter=160\"\" http:=\"\"\"\" www=\"\"\"\" flavors=\"\"\"\" com=\"\"\"\" br=\"\"\"\" portugues=\"\"\"\" newsletter_popup=\"\"\"\" php=\"\"\"\" idnewsletter=\"\"160\"\"target=\"\"_new\"\"\"\"> Link para o manual do produto</a>\"",
+    "items": [
+      {
+        "itemId": "136",
+        "name": "Conjunto para Extração de Café a Frio Toddy",
+        "nameComplete": "Conjunto para extração de café Toddy 240 ml Conjunto para Extração de Café a Frio Toddy",
+        "complementName": "",
+        "ean": "0758591011027",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "1102"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "155983",
+            "imageLabel": "frente",
+            "imageTag": "<img src=\"~/arquivos/ids/155983-#width#-#height#/conjunto-para-extracao-de-cafe-toddy-240-ml.jpg?v=636844507559970000\" width=\"#width#\" height=\"#height#\" alt=\"conjunto-para-extracao-de-cafe-toddy-240-ml\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/155983/conjunto-para-extracao-de-cafe-toddy-240-ml.jpg?v=636844507559970000",
+            "imageText": "conjunto-para-extracao-de-cafe-toddy-240-ml",
+            "imageLastModified": "2019-01-30T13:12:35.9970000Z"
+          },
+          {
+            "imageId": "156125",
+            "imageLabel": "frente",
+            "imageTag": "<img src=\"~/arquivos/ids/156125-#width#-#height#/conjunto-para-extracao-de-cafe-toddy-240-ml.jpg?v=636844509590800000\" width=\"#width#\" height=\"#height#\" alt=\"conjunto-para-extracao-de-cafe-toddy-240-ml\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/156125/conjunto-para-extracao-de-cafe-toddy-240-ml.jpg?v=636844509590800000",
+            "imageText": "conjunto-para-extracao-de-cafe-toddy-240-ml",
+            "imageLastModified": "2019-01-30T13:15:59.0800000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=136&qty=1&seller=1&sc=1&price=56220&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 562.2,
+              "ListPrice": 562.2,
+              "PriceWithoutDiscount": 562.2,
+              "FullSellingPrice": 562.2,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjZlOWQyZTQ4LWZlMTktNGEzMS04ZTI4LWJlMDYxNzc5Yzg3ZSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo1NjIyMCwic2VsbGVyIjoiMSIsImlkIjoiMTM2IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE0OTIyOCwiaWF0IjoxNzY1MTQ3NDI4LCJqdGkiOiJjMDNjY2FiYS0yMTE1LTRiNWEtOTQ4YS04ZGY3NDA0MTNhOGMiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.Y6o-Mddxo3wmYgS_XsJIskvW0skYrU8vKIeW4B4gnGyoIHHyjAN6c2I-kg2x6Xv-24jP2b_F8tMp0bFzvPhs0w",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T00:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock | Status:error | Message: O item Conjunto para extração de café Toddy 240 ml Conjunto para Extração de Café a Frio Toddy não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]
