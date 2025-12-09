@@ -1,0 +1,254 @@
+[
+  {
+    "productId": "917",
+    "productName": "Café do Centro Mogiana moído 250 g",
+    "brand": "Café do Centro",
+    "brandId": 2000006,
+    "brandImageUrl": null,
+    "linkText": "cafe-do-centro-torrado-e-moido-250g---mogiana---moagem-para-coador_2133",
+    "productReference": "2133",
+    "productReferenceCode": "2133",
+    "categoryId": "59",
+    "productTitle": "",
+    "metaTagDescription": "A região da Mogiana, tradicional no cultivo de cafés da categoria Gourmet há mais de 200 anos, é reconhecida por produzir cafés especiais bastante aromáticos.<BR>\r\nO processo de torra controlado e homogêneo resulta em um café com notas de amêndoas tostadas e acidez moderada.<BR>",
+    "releaseDate": "2019-03-27T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "159": "PROMOÇÕES VIGENTE",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "159": "PROMOÇÕES VIGENTE",
+      "165": "Cafes especiais",
+      "169": "Cafes Brindes",
+      "181": "Assinatura",
+      "190": "black natal 10",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "221": "Cafés",
+      "238": "CASHBACK 5%",
+      "248": "CAFÉS",
+      "255": "Cafés em promo"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Cafés/Por Método/Café Moído/",
+      "/Cafés/Por Método/",
+      "/Cafés/"
+    ],
+    "categoriesIds": [
+      "/1/179/59/",
+      "/1/179/",
+      "/1/"
+    ],
+    "link": "https://www.cafestore.com.br/cafe-do-centro-torrado-e-moido-250g---mogiana---moagem-para-coador_2133/p",
+    "Por método": [
+      "Moído"
+    ],
+    "Por quantidade": [
+      "Até 250 gr"
+    ],
+    "Por Região": [
+      "Cerrado Mineiro"
+    ],
+    "Características": [
+      "Por método",
+      "Por quantidade",
+      "Por Região"
+    ],
+    "Intensidade": [
+      "média"
+    ],
+    "Sabor": [
+      "notas de amêndoas tostadas"
+    ],
+    "Aroma": [
+      "intenso"
+    ],
+    "Torra": [
+      "média"
+    ],
+    "Acidez": [
+      "moderada"
+    ],
+    "Corpo": [
+      "médio"
+    ],
+    "Origem": [
+      "Mogiana"
+    ],
+    "Certificação e premiação": [
+      "Certificado Gourmet Pureza e Qualidade ABIC"
+    ],
+    "Especificaçoes cafe e bebidas": [
+      "Intensidade",
+      "Sabor",
+      "Aroma",
+      "Torra",
+      "Acidez",
+      "Corpo",
+      "Origem",
+      "Certificação e premiação"
+    ],
+    "allSpecifications": [
+      "Por método",
+      "Por quantidade",
+      "Por Região",
+      "Intensidade",
+      "Sabor",
+      "Aroma",
+      "Torra",
+      "Acidez",
+      "Corpo",
+      "Origem",
+      "Certificação e premiação"
+    ],
+    "allSpecificationsGroups": [
+      "Características",
+      "Especificaçoes cafe e bebidas"
+    ],
+    "description": "A região da Mogiana, tradicional no cultivo de cafés da categoria Gourmet há mais de 200 anos, é reconhecida por produzir cafés especiais bastante aromáticos.<BR>\r\nO processo de torra controlado e homogêneo resulta em um café com notas de amêndoas tostadas e acidez moderada.<BR>",
+    "items": [
+      {
+        "itemId": "915",
+        "name": "Café do Centro Torrado e Moído 250g - Mogiana - Moagem para Coador",
+        "nameComplete": "Café do Centro Mogiana moído 250 g Café do Centro Torrado e Moído 250g - Mogiana - Moagem para Coador",
+        "complementName": "",
+        "ean": "7896078301896",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "2133"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "162277",
+            "imageLabel": "",
+            "imageTag": "<img src=\"~/arquivos/ids/162277-#width#-#height#/2133-Cafe_do-Centro_Mogiana-moido_250g.jpg?v=638175116592500000\" width=\"#width#\" height=\"#height#\" alt=\"Vitrini\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/162277/2133-Cafe_do-Centro_Mogiana-moido_250g.jpg?v=638175116592500000",
+            "imageText": "Vitrini",
+            "imageLastModified": "2023-04-19T14:34:19.2500000Z"
+          }
+        ],
+        "attachments": [
+          {
+            "id": 3,
+            "name": "vtex.subscription.assinatura",
+            "required": false,
+            "domainValues": "[{\"FieldName\":\"vtex.subscription.key.frequency\",\"MaxCaracters\":\"\",\"DomainValues\":\"1 month, 2 month, 3 month\"}]"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=915&qty=1&seller=1&sc=1&price=2990&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [
+                {
+                  "Name": "Café do Centro Torrado e Moído 250g - Mogiana - Moagem para Coador",
+                  "NameComplete": "Café do Centro Mogiana moído 250 g Café do Centro Torrado e Moído 250g - Mogiana - Moagem para Coador",
+                  "MainImage": "https://cafestore.vteximg.com.br/arquivos/ids/162277/2133-Cafe_do-Centro_Mogiana-moido_250g.jpg",
+                  "BrandName": "Café do Centro",
+                  "CategoryId": 59,
+                  "ProductId": 917,
+                  "id": "915",
+                  "seller": "1",
+                  "assemblyOptions": [
+                    {
+                      "id": "vtex.subscription.assinatura",
+                      "name": "vtex.subscription.assinatura",
+                      "required": false,
+                      "inputValues": {
+                        "vtex.subscription.key.frequency": {
+                          "maximumNumberOfCharacters": 8,
+                          "domain": [
+                            "1 month",
+                            " 2 month",
+                            " 3 month"
+                          ]
+                        }
+                      },
+                      "composition": null
+                    }
+                  ]
+                }
+              ],
+              "Price": 29.9,
+              "ListPrice": 31.9,
+              "PriceWithoutDiscount": 29.9,
+              "FullSellingPrice": 29.9,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjcwOTBiZDcxLTI5NWMtNDlmZC05NGQzLTJkYjllYTAyMzYxMiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoyOTkwLCJzZWxsZXIiOiIxIiwiaWQiOiI5MTUiLCJhY2NvdW50TmFtZSI6ImNhZmVzdG9yZSIsInNhbGVzQ2hhbm5lbCI6IjEifSwiZXhwIjoxNzY1MTQ5ODM0LCJpYXQiOjE3NjUxNDgwMzQsImp0aSI6IjhjMWRjMGI2LTA2OWEtNDQxOC04NzQ1LWJkNDhkM2VkZGY2MCIsImlzcyI6InNlc3Npb24vZGF0YS1zaWduZXIifQ.FtMozB0S3CQUMKbk_fYYr-4bYZUrWUwUNd7Mnk9o0GF2VWBSSTt-PSHrNDTI5j_a9kqYOnmyBqqIGM08NhkHGw",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T03:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Café do Centro Mogiana moído 250 g Café do Centro Torrado e Moído 250g - Mogiana - Moagem para Coador não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ],
+    "itemMetadata": {
+      "items": [
+        {
+          "Name": "Café do Centro Torrado e Moído 250g - Mogiana - Moagem para Coador",
+          "NameComplete": "Café do Centro Mogiana moído 250 g Café do Centro Torrado e Moído 250g - Mogiana - Moagem para Coador",
+          "MainImage": "https://cafestore.vteximg.com.br/arquivos/ids/162277/2133-Cafe_do-Centro_Mogiana-moido_250g.jpg",
+          "BrandName": "Café do Centro",
+          "CategoryId": 59,
+          "ProductId": 917,
+          "id": "915",
+          "seller": "1",
+          "assemblyOptions": [
+            {
+              "id": "vtex.subscription.assinatura",
+              "name": "vtex.subscription.assinatura",
+              "required": false,
+              "inputValues": {
+                "vtex.subscription.key.frequency": {
+                  "maximumNumberOfCharacters": 8,
+                  "domain": [
+                    "1 month",
+                    " 2 month",
+                    " 3 month"
+                  ]
+                }
+              },
+              "composition": null
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

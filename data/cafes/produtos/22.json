@@ -1,0 +1,242 @@
+[
+  {
+    "productId": "22",
+    "productName": "Café Illy Descafeinado em sachê 18 unidades",
+    "brand": "Illy",
+    "brandId": 2000007,
+    "brandImageUrl": null,
+    "linkText": "cafe-illy-descafeinado-em-sache-18-unidades_220",
+    "productReference": "220",
+    "productReferenceCode": "220",
+    "categoryId": "116",
+    "productTitle": "",
+    "metaTagDescription": "ISO 9001 / Qualitè France / ISO 14001 / EMAS / Recycle for London.",
+    "releaseDate": "2019-01-30T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "165": "Cafes especiais",
+      "170": "Maquinas Illy",
+      "181": "Assinatura",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "221": "Cafés",
+      "238": "CASHBACK 5%",
+      "240": "Feed Merchant 14.11",
+      "248": "CAFÉS"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Cafés/Por Método/Sachê de Café/",
+      "/Cafés/Por Método/",
+      "/Cafés/",
+      "/Cafés/Intensidade/",
+      "/Cafés/Intensidade/Café Médio/",
+      "/Cafés/Tipo/",
+      "/Cafés/Tipo/Café Certificado/",
+      "/Cafés/Tipo/Café Descafeinado/"
+    ],
+    "categoriesIds": [
+      "/1/179/116/",
+      "/1/179/",
+      "/1/",
+      "/1/180/",
+      "/1/180/136/",
+      "/1/181/",
+      "/1/181/139/",
+      "/1/181/140/"
+    ],
+    "link": "https://www.cafestore.com.br/cafe-illy-descafeinado-em-sache-18-unidades_220/p",
+    "Por método": [
+      "Sachês"
+    ],
+    "Por quantidade": [
+      "12-18 unidades"
+    ],
+    "Por Região": [
+      "Blends Importados"
+    ],
+    "Características": [
+      "Por método",
+      "Por quantidade",
+      "Por Região"
+    ],
+    "Encontre seu café preferido": [
+      "Cafés Orgânicos, Descafeinados e Aromatizados"
+    ],
+    "Busca Avancada": [
+      "Encontre seu café preferido"
+    ],
+    "allSpecifications": [
+      "Por método",
+      "Por quantidade",
+      "Por Região",
+      "Encontre seu café preferido"
+    ],
+    "allSpecificationsGroups": [
+      "Características",
+      "Busca Avancada"
+    ],
+    "description": "ISO 9001 / Qualitè France / ISO 14001 / EMAS / Recycle for London.",
+    "items": [
+      {
+        "itemId": "22",
+        "name": "Illy Caffè em Saches Descafeínado 18 Unidades",
+        "nameComplete": "Café Illy Descafeinado em sachê 18 unidades Illy Caffè em Saches Descafeínado 18 Unidades",
+        "complementName": "",
+        "ean": "8003753130453",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "220"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "158453",
+            "imageLabel": "",
+            "imageTag": "<img src=\"~/arquivos/ids/158453-#width#-#height#/illy-descafeinado-sache-220.jpg?v=637363167303270000\" width=\"#width#\" height=\"#height#\" alt=\"illy-descafeinado-sache-220\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/158453/illy-descafeinado-sache-220.jpg?v=637363167303270000",
+            "imageText": "illy-descafeinado-sache-220",
+            "imageLastModified": "2020-09-21T20:25:30.3270000Z"
+          },
+          {
+            "imageId": "158454",
+            "imageLabel": "",
+            "imageTag": "<img src=\"~/arquivos/ids/158454-#width#-#height#/illy-descafeinado-sache1-220.jpg?v=637363167658430000\" width=\"#width#\" height=\"#height#\" alt=\"illy-descafeinado-sache1-220\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/158454/illy-descafeinado-sache1-220.jpg?v=637363167658430000",
+            "imageText": "illy-descafeinado-sache1-220",
+            "imageLastModified": "2020-09-21T20:26:05.8430000Z"
+          },
+          {
+            "imageId": "158455",
+            "imageLabel": "",
+            "imageTag": "<img src=\"~/arquivos/ids/158455-#width#-#height#/illy-descafeinado-sache2-220.jpg?v=637363167845570000\" width=\"#width#\" height=\"#height#\" alt=\"illy-descafeinado-sache2-220\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/158455/illy-descafeinado-sache2-220.jpg?v=637363167845570000",
+            "imageText": "illy-descafeinado-sache2-220",
+            "imageLastModified": "2020-09-21T20:26:24.5570000Z"
+          }
+        ],
+        "attachments": [
+          {
+            "id": 3,
+            "name": "vtex.subscription.assinatura",
+            "required": false,
+            "domainValues": "[{\"FieldName\":\"vtex.subscription.key.frequency\",\"MaxCaracters\":\"\",\"DomainValues\":\"1 month, 2 month, 3 month\"}]"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=22&qty=1&seller=1&sc=1&price=7200&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [
+                {
+                  "Name": "Illy Caffè em Saches Descafeínado 18 Unidades",
+                  "NameComplete": "Café Illy Descafeinado em sachê 18 unidades Illy Caffè em Saches Descafeínado 18 Unidades",
+                  "MainImage": "https://cafestore.vteximg.com.br/arquivos/ids/158453/illy-descafeinado-sache-220.jpg",
+                  "BrandName": "Illy",
+                  "CategoryId": 116,
+                  "ProductId": 22,
+                  "id": "22",
+                  "seller": "1",
+                  "assemblyOptions": [
+                    {
+                      "id": "vtex.subscription.assinatura",
+                      "name": "vtex.subscription.assinatura",
+                      "required": false,
+                      "inputValues": {
+                        "vtex.subscription.key.frequency": {
+                          "maximumNumberOfCharacters": 8,
+                          "domain": [
+                            "1 month",
+                            " 2 month",
+                            " 3 month"
+                          ]
+                        }
+                      },
+                      "composition": null
+                    }
+                  ]
+                }
+              ],
+              "Price": 72,
+              "ListPrice": 72,
+              "PriceWithoutDiscount": 72,
+              "FullSellingPrice": 72,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImYxY2U5MmZiLThkMzktNGVkNi04NDY5LTdhYTFmMzdhMzgwMSIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo3MjAwLCJzZWxsZXIiOiIxIiwiaWQiOiIyMiIsImFjY291bnROYW1lIjoiY2FmZXN0b3JlIiwic2FsZXNDaGFubmVsIjoiMSJ9LCJleHAiOjE3NjUxNDkxMzksImlhdCI6MTc2NTE0NzMzOSwianRpIjoiMzVmY2M3NWEtZjBkYi00NDAzLWI0ZmItMTcyMjcwNTNjZDQyIiwiaXNzIjoic2Vzc2lvbi9kYXRhLXNpZ25lciJ9.YlQ4-dFPu9Xpqp3qMC00IfxCPWL2FFCO3kGmPeSTmyAMY1uh8eJb5nbR1YTU4C2FehA778ymqOBjVoAZ-qIfCg",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T03:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Café Illy Descafeinado em sachê 18 unidades Illy Caffè em Saches Descafeínado 18 Unidades não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ],
+    "itemMetadata": {
+      "items": [
+        {
+          "Name": "Illy Caffè em Saches Descafeínado 18 Unidades",
+          "NameComplete": "Café Illy Descafeinado em sachê 18 unidades Illy Caffè em Saches Descafeínado 18 Unidades",
+          "MainImage": "https://cafestore.vteximg.com.br/arquivos/ids/158453/illy-descafeinado-sache-220.jpg",
+          "BrandName": "Illy",
+          "CategoryId": 116,
+          "ProductId": 22,
+          "id": "22",
+          "seller": "1",
+          "assemblyOptions": [
+            {
+              "id": "vtex.subscription.assinatura",
+              "name": "vtex.subscription.assinatura",
+              "required": false,
+              "inputValues": {
+                "vtex.subscription.key.frequency": {
+                  "maximumNumberOfCharacters": 8,
+                  "domain": [
+                    "1 month",
+                    " 2 month",
+                    " 3 month"
+                  ]
+                }
+              },
+              "composition": null
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

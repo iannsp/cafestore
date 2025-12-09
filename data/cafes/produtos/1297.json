@@ -1,0 +1,246 @@
+[
+  {
+    "productId": "1297",
+    "productName": "Café Três Corações Cappuccino Classic em cápsula 10 unidades",
+    "brand": "Três Corações",
+    "brandId": 2000099,
+    "brandImageUrl": null,
+    "linkText": "cafe-tres-coracoes-cappuccino-classic-em-capsula-10-unidades-1354",
+    "productReference": "1354",
+    "productReferenceCode": "1354",
+    "categoryId": "78",
+    "productTitle": "",
+    "metaTagDescription": "O Cappuccino queridinho dos brasileiros para vários momentos do dia agora em cápsula! O Cappuccino Classic 3 Corações é uma deliciosa bebida cremosa composta por café, leite, cacau e canela. Se surpreenda!",
+    "releaseDate": "2020-09-16T00:00:00Z",
+    "clusterHighlights": {
+      "147": "Carrossel Vitrine",
+      "238": "CASHBACK 5%"
+    },
+    "productClusters": {
+      "147": "Carrossel Vitrine",
+      "150": "TODOS OS PRODUTOS DO SITE",
+      "165": "Cafes especiais",
+      "181": "Assinatura",
+      "204": "Cupom Frete Inativos",
+      "207": "fb",
+      "221": "Cafés",
+      "238": "CASHBACK 5%",
+      "248": "CAFÉS"
+    },
+    "searchableClusters": {},
+    "categories": [
+      "/Cafés/Por Método/Cápsula de Café/",
+      "/Cafés/Por Método/",
+      "/Cafés/"
+    ],
+    "categoriesIds": [
+      "/1/179/78/",
+      "/1/179/",
+      "/1/"
+    ],
+    "link": "https://www.cafestore.com.br/cafe-tres-coracoes-cappuccino-classic-em-capsula-10-unidades-1354/p",
+    "Por método": [
+      "Cápsulas"
+    ],
+    "Por quantidade": [
+      "10 unidades"
+    ],
+    "Características": [
+      "Por método",
+      "Por quantidade"
+    ],
+    "Encontre seu café preferido": [
+      "Cápsulas Surpreendentes"
+    ],
+    "Busca Avancada": [
+      "Encontre seu café preferido"
+    ],
+    "Sabor": [
+      "Café, leite, cacau e canela"
+    ],
+    "Corpo": [
+      "Cremoso"
+    ],
+    "Especificaçoes cafe e bebidas": [
+      "Sabor",
+      "Corpo"
+    ],
+    "Marca": [
+      "3 Corações"
+    ],
+    "Especificaçoes Cafeteiras e Acessorios": [
+      "Marca"
+    ],
+    "allSpecifications": [
+      "Por método",
+      "Por quantidade",
+      "Encontre seu café preferido",
+      "Sabor",
+      "Corpo",
+      "Marca"
+    ],
+    "allSpecificationsGroups": [
+      "Características",
+      "Busca Avancada",
+      "Especificaçoes cafe e bebidas",
+      "Especificaçoes Cafeteiras e Acessorios"
+    ],
+    "description": "O Cappuccino queridinho dos brasileiros para vários momentos do dia agora em cápsula! O Cappuccino Classic 3 Corações é uma deliciosa bebida cremosa composta por café, leite, cacau e canela. <b>Se surpreenda!</b>",
+    "items": [
+      {
+        "itemId": "1296",
+        "name": "Café Três Corações Cappuccino Classic em cápsula 10 unidades",
+        "nameComplete": "Café Três Corações Cappuccino Classic em cápsula 10 unidades",
+        "complementName": "",
+        "ean": "7896005805077",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "1354"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "159028",
+            "imageLabel": "Frente",
+            "imageTag": "<img src=\"~/arquivos/ids/159028-#width#-#height#/1354_Cafe-Tres-Coracoes_Cappuccino-Classic-em-capsula_10-unidades_1.jpg?v=637571102522570000\" width=\"#width#\" height=\"#height#\" alt=\"cappuccino-classic-3-capsulas\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159028/1354_Cafe-Tres-Coracoes_Cappuccino-Classic-em-capsula_10-unidades_1.jpg?v=637571102522570000",
+            "imageText": "cappuccino-classic-3-capsulas",
+            "imageLastModified": "2021-05-20T12:24:12.2570000Z"
+          },
+          {
+            "imageId": "159029",
+            "imageLabel": "Frente",
+            "imageTag": "<img src=\"~/arquivos/ids/159029-#width#-#height#/1354_Cafe-Tres-Coracoes_Cappuccino-Classic-em-capsula_10-unidades_2.jpg?v=638935451922000000\" width=\"#width#\" height=\"#height#\" alt=\"cappuccino-classic-3-capsulas\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159029/1354_Cafe-Tres-Coracoes_Cappuccino-Classic-em-capsula_10-unidades_2.jpg?v=638935451922000000",
+            "imageText": "cappuccino-classic-3-capsulas",
+            "imageLastModified": "2025-09-15T14:59:52.2000000Z"
+          },
+          {
+            "imageId": "159030",
+            "imageLabel": "",
+            "imageTag": "<img src=\"~/arquivos/ids/159030-#width#-#height#/1354_Cafe-Tres-Coracoes_Cappuccino-Classic-em-capsula_10-unidades_3.jpg?v=638935451922470000\" width=\"#width#\" height=\"#height#\" alt=\"cappuccino-classic-3-capsulas\" id=\"\" />",
+            "imageUrl": "https://cafestore.vteximg.com.br/arquivos/ids/159030/1354_Cafe-Tres-Coracoes_Cappuccino-Classic-em-capsula_10-unidades_3.jpg?v=638935451922470000",
+            "imageText": "cappuccino-classic-3-capsulas",
+            "imageLastModified": "2025-09-15T14:59:52.2470000Z"
+          }
+        ],
+        "attachments": [
+          {
+            "id": 3,
+            "name": "vtex.subscription.assinatura",
+            "required": false,
+            "domainValues": "[{\"FieldName\":\"vtex.subscription.key.frequency\",\"MaxCaracters\":\"\",\"DomainValues\":\"1 month, 2 month, 3 month\"}]"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "cafestore.com.br",
+            "addToCartLink": "https://www.cafestore.com.br/checkout/cart/add?sku=1296&qty=1&seller=1&sc=1&price=1898&cv=_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "PromotionTeasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [
+                {
+                  "Name": "Café Três Corações Cappuccino Classic em cápsula 10 unidades",
+                  "NameComplete": "Café Três Corações Cappuccino Classic em cápsula 10 unidades",
+                  "MainImage": "https://cafestore.vteximg.com.br/arquivos/ids/159028/1354_Cafe-Tres-Coracoes_Cappuccino-Classic-em-capsula_10-unidades_1.jpg",
+                  "BrandName": "Três Corações",
+                  "CategoryId": 78,
+                  "ProductId": 1297,
+                  "id": "1296",
+                  "seller": "1",
+                  "assemblyOptions": [
+                    {
+                      "id": "vtex.subscription.assinatura",
+                      "name": "vtex.subscription.assinatura",
+                      "required": false,
+                      "inputValues": {
+                        "vtex.subscription.key.frequency": {
+                          "maximumNumberOfCharacters": 8,
+                          "domain": [
+                            "1 month",
+                            " 2 month",
+                            " 3 month"
+                          ]
+                        }
+                      },
+                      "composition": null
+                    }
+                  ]
+                }
+              ],
+              "Price": 18.98,
+              "ListPrice": 18.98,
+              "PriceWithoutDiscount": 18.98,
+              "FullSellingPrice": 18.98,
+              "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6ImJmZmI2MTVjLTI3YWEtNDY2Yi1iYzhkLWY3MjQ5ZDgxZjM0OCIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjoxODk4LCJzZWxsZXIiOiIxIiwiaWQiOiIxMjk2IiwiYWNjb3VudE5hbWUiOiJjYWZlc3RvcmUiLCJzYWxlc0NoYW5uZWwiOiIxIn0sImV4cCI6MTc2NTE1MDEzMywiaWF0IjoxNzY1MTQ4MzMzLCJqdGkiOiJmNTU0ZTNmMy03MGJjLTQ1ZDEtYTc2YS1kZjVmMDU0NmJlNTAiLCJpc3MiOiJzZXNzaW9uL2RhdGEtc2lnbmVyIn0.zbmbrNKv6NwEwqcyx4aX0bfKpjNccR9QrmqBQF29n4lv4fquyJl_Y3kGV34-j9mMJbG4AJ_Ob6hG0UPO4mecEg",
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T03:00:00Z",
+              "AvailableQuantity": 0,
+              "IsAvailable": false,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Café Três Corações Cappuccino Classic em cápsula 10 unidades não tem estoque",
+              "CacheVersionUsedToCallCheckout": "_",
+              "PaymentOptions": {
+                "installmentOptions": [],
+                "paymentSystems": [],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ],
+    "itemMetadata": {
+      "items": [
+        {
+          "Name": "Café Três Corações Cappuccino Classic em cápsula 10 unidades",
+          "NameComplete": "Café Três Corações Cappuccino Classic em cápsula 10 unidades",
+          "MainImage": "https://cafestore.vteximg.com.br/arquivos/ids/159028/1354_Cafe-Tres-Coracoes_Cappuccino-Classic-em-capsula_10-unidades_1.jpg",
+          "BrandName": "Três Corações",
+          "CategoryId": 78,
+          "ProductId": 1297,
+          "id": "1296",
+          "seller": "1",
+          "assemblyOptions": [
+            {
+              "id": "vtex.subscription.assinatura",
+              "name": "vtex.subscription.assinatura",
+              "required": false,
+              "inputValues": {
+                "vtex.subscription.key.frequency": {
+                  "maximumNumberOfCharacters": 8,
+                  "domain": [
+                    "1 month",
+                    " 2 month",
+                    " 3 month"
+                  ]
+                }
+              },
+              "composition": null
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
