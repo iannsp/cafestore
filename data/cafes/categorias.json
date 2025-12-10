@@ -1,0 +1,84 @@
+{
+  "categories_tree": [
+    {
+      "name": "Cafés",
+      "children": [
+        {
+          "name": "Intensidade",
+          "children": [
+            {
+              "name": "Café Intenso"
+            },
+            {
+              "name": "Café Médio"
+            },
+            {
+              "name": "Café Suave"
+            }
+          ]
+        },
+        {
+          "name": "Por Método",
+          "children": [
+            {
+              "name": "Café em Grãos",
+              "children": [
+                {
+                  "name": "Café em grãos médio"
+                }
+              ]
+            },
+            {
+              "name": "Café Moído",
+              "children": [
+                {
+                  "name": "Café moído médio"
+                }
+              ]
+            },
+            {
+              "name": "Cápsula de Café"
+            },
+            {
+              "name": "Drip Coffee",
+              "children": [
+                {
+                  "name": "Drip coffee médio"
+                }
+              ]
+            },
+            {
+              "name": "Sachê de Café"
+            },
+            {
+              "name": "Solúveis"
+            }
+          ]
+        },
+        {
+          "name": "Tipo",
+          "children": [
+            {
+              "name": "Café Aromatizado"
+            },
+            {
+              "name": "Café Certificado"
+            },
+            {
+              "name": "Café Descafeinado"
+            },
+            {
+              "name": "Café Orgânico"
+            },
+            {
+              "name": "Café Premiado"
+            },
+            {
+              "name": "Microlote"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
