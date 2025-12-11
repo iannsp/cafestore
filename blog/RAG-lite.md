@@ -2,7 +2,9 @@
 
 * Esta versão de prompt irá trabalhar somente com cafés e ignorar outros produtos do catálogo.
 
-[![Raglite Demo](/resources/screen_raglitedemo.png)](https://github.com/iannsp/cafestore/blob/main/resources/raglite-demo.mp4)
+
+https://github.com/user-attachments/assets/afd9b64f-f417-4047-b647-f702ce4b4d2a
+
 
 ## Como executar
 
