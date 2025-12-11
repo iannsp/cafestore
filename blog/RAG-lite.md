@@ -3,19 +3,23 @@
 * Esta versão de prompt irá trabalhar somente com cafés e ignorar outros produtos do catálogo.
 
 
-
-
 ## Como executar
 
 ```bash
     # para gerar o cli execute o script de build:
-    ./scripts/build.sh rag1-web
+    ./scripts/build.sh raglite
 
+    # export sua chave de API de GEMINI.
+    export GEMINI_API_KEY=""
 
-    # para executar:
-    # ./bin/tag1-web .
-    # rag1 = 2461
-    # para acessar utilize o browser http://127.0.0.1:3461
+    # export o path para seu diretorio service/ui
+    export UI_PATH='/projetos/cafestore/service/ui/'
+
+    # export o path para o diretório de dados sobre cafés.
+    export DATA_PATH="/projetos/cafestore/data/cafes/"
+
+    # execute o app e acesse através de http://127.0.0.1:8080:
+    ./bin/raglite
     
 ```
 Essa implementação se beneficia da implementação de NaiveCatalog. Com mais experiencia no modelo de dados disponivel foi possivel:
@@ -157,4 +161,62 @@ Ajudar clientes a navegar pelo catálogo, tirar dúvidas e fechar compras.
 # CONTEXTO ATUAL (PRODUTOS/CATEGORIAS)
 **INSTRUÇÃO:** Baseie-se apenas nos dados abaixo.
 ```
+
+# Codígo
+
+O Código da aplicação RAG Lite foi escrito em GO.
+
+A intenção dessa implementação não é suportar vários usuários; Essa feature será implementada em RAG1.
+
+O que você vai ver no Código.
+
+1. Em [/service/internal/raglite/httserver.go](/service/internal/raglite/httserver.go)
+
+A separação do [chat](/service/internal/raglite/chat.go) e dos handlers de [Https](/service/internal/raglite/httserver.go).
+
+Ao invés de utilizar http server direto eu gosto de organizar o server de maneira que eu seja obrigado a explicitamente "pendurar" as rotas e os handlers nele através de AttachRoutes(route string, handler HttpServerHandlerFunc):
+
+```go
+type HttpServerHandlerFunc func(http.ResponseWriter, *http.Request)
+
+func (hs *HttpServer) AttachRoutes(route string, handler HttpServerHandlerFunc){
+    hs.handler.HandleFunc(route, handler)
+}
+
+// em cmd/raglite/main.go
+
+hs := raglite.NewHttpServer("8080")
+hs.AttachRoutes("/", index)
+hs.AttachRoutes("/api/chat", handleMessage)
+
+```
+2. Em [/service/internal/raglite/chat.go](/service/internal/raglite/chat.go)
+
+Utilizei genai.ChatSession para manter o contexto da conversa.
+  
+
+```go
+type Chat struct{
+    geminiApiKey string
+    prompt string
+    session *genai.ChatSession
+}
+
+```
+
+E em [/service/cmd/raglite/main.go](/service/cmd/raglite/main.go), voce pode ver o setup da aplicação.
+
+```go
+hs := raglite.NewHttpServer("8080")
+
+chat = raglite.NewChat(geminiApiKey)
+chat.Prompt(loadPrompt(datapath))
+chat.AttachRoutes(&hs)
+
+hs.AttachRoutes("/", index)
+hs.AttachRoutes("/api/chat", handleMessage)
+
+err := hs.ListenAndServe()
+
+``` 
 
