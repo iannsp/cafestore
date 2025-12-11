@@ -12,10 +12,10 @@
     # export sua chave de API de GEMINI.
     export GEMINI_API_KEY=""
 
-    # export o path para seu diretorio service/ui
+    # export o path para seu diretorio service/ui (service/ui)
     export UI_PATH='/projetos/cafestore/service/ui/'
 
-    # export o path para o diretório de dados sobre cafés.
+    # export o path para o diretório de dados sobre cafés.(data/cafes)
     export DATA_PATH="/projetos/cafestore/data/cafes/"
 
     # execute o app e acesse através de http://127.0.0.1:8080:
@@ -54,8 +54,8 @@ Ação: Ter plano de tratamento definidos no prompt.
 Utilizando o playground do gemini criei duas versões reduzidas do catalogo de café. A primeira focada em maximizar a economia de tokens(1) e a segunda em maximizar quantidade de dados X custo de tokens(2).
 
 
-1. Menor Custo de tokens [json](/data/cafes/catalog_cafe_small.json) | [toon](/data/cafes/catalog_cafe_small.toon)
-2. Balancear custo de token com disponibilidade de Informação [json](data/cafes/catalogo_cafe_details.json) | [toon](data/cafes/catalogo_cafe_details.toon)
+1. Menor Custo de tokens [json](../data/cafes/catalog_cafe_small.json) | [toon](../data/cafes/catalog_cafe_small.toon)
+2. Balancear custo de token com disponibilidade de Informação [json](../data/cafes/catalogo_cafe_details.json) | [toon](../data/cafes/catalogo_cafe_details.toon)
 
 #### Análise do catalogo de menor custo de tokens(1)
 
@@ -170,9 +170,9 @@ A intenção dessa implementação não é suportar vários usuários; Essa feat
 
 O que você vai ver no Código.
 
-1. Em [/service/internal/raglite/httserver.go](/service/internal/raglite/httserver.go)
+1. Em [/service/internal/raglite/httserver.go](../service/internal/raglite/httserver.go)
 
-A separação do [chat](/service/internal/raglite/chat.go) e dos handlers de [Https](/service/internal/raglite/httserver.go).
+A separação do [chat](../service/internal/raglite/chat.go) e dos handlers de [Https](../service/internal/raglite/httserver.go).
 
 Ao invés de utilizar http server direto eu gosto de organizar o server de maneira que eu seja obrigado a explicitamente "pendurar" as rotas e os handlers nele através de AttachRoutes(route string, handler HttpServerHandlerFunc):
 
@@ -190,7 +190,7 @@ hs.AttachRoutes("/", index)
 hs.AttachRoutes("/api/chat", handleMessage)
 
 ```
-2. Em [/service/internal/raglite/chat.go](/service/internal/raglite/chat.go)
+2. Em [/service/internal/raglite/chat.go](../service/internal/raglite/chat.go)
 
 Utilizei genai.ChatSession para manter o contexto da conversa.
   
@@ -204,7 +204,7 @@ type Chat struct{
 
 ```
 
-E em [/service/cmd/raglite/main.go](/service/cmd/raglite/main.go), voce pode ver o setup da aplicação.
+E em [/service/cmd/raglite/main.go](../service/cmd/raglite/main.go), voce pode ver o setup da aplicação.
 
 ```go
 hs := raglite.NewHttpServer("8080")
