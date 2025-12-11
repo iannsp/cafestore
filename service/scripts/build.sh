@@ -7,6 +7,7 @@ fi
 declare -A apps
 
 apps["naivecatalog"]="go build -o ./bin/naivecatalog-cli cmd/naivecatalog/main.go"
+apps["raglite"]="go build -o ./bin/raglite cmd/raglite/main.go"
 
 build() {
     target=$1
